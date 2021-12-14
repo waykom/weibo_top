@@ -19,10 +19,10 @@ href = re.findall(r'<a href="(/weibo\?q=.*&Refer=top)".*>(.*?)</a>', response)
 date = datetime.now().strftime("%Y-%m-%d")
 time = datetime.now().strftime("%X")
 
-with open('/demo/weibo_top/'+date+'.md', 'a', encoding='utf-8')as f:
+with open('/demo/weibo_top/result/'+date+'.md', 'a', encoding='utf-8')as f:
     f.write("\r\n")
 
-with open('/demo/weibo_top/'+date+'.md', 'a', encoding='utf-8')as f:
+with open('/demo/weibo_top/result/'+date+'.md', 'a', encoding='utf-8')as f:
     f.write(time)
     f.write("\n"+"---"+"\n")
 
@@ -33,7 +33,7 @@ for item in href:
     url = 'https://s.weibo.com/' + a
     title = b
     # print('['+title+']'+'('+url+')')
-    with open('/demo/weibo_top/'+date+'.md', 'a', encoding='utf-8')as f:
+    with open('/demo/weibo_top/result/'+date+'.md', 'a', encoding='utf-8')as f:
         f.write(str(i)+'. '+'['+title+']'+'('+url+')'+'\r\n')
 
 print("Completed!")
