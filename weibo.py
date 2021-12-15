@@ -69,6 +69,8 @@ for i in range(len(t)):
 items = list(counts.items())
 items.sort(key=lambda x: int(x[1].split(' ')[-1]), reverse=True)
 # 由于是遍历写入数据，so 只能这样..
+if not os.path.exists('/demo/weibo_top/result/'+date+'.md'):
+    os.system(r"touch {}".format('/demo/weibo_top/result/'+date+'.md'))
 os.remove('/demo/weibo_top/result/'+date+'.md')
 for i in range(len(items)):
     tt, uu = items[i]
