@@ -5,15 +5,15 @@ import requests
 from datetime import datetime
 
 '''
-1. ÅÀÈ¡Êı¾İ
-2. È¥ÖØÊı¾İ
-    °ÑÃ¿´ÎÅÀÈ¡µÄÊı¾İ´¢´æÔÚ±¾µØ£¨.txt£©
-        Ğè¶¨ÆÚÉ¾³ı¸ÃÎÄ¼ş
-    Ã¿´ÎÔËĞĞ³ÌĞò¶¼´Ó±¾µØ¶ÁÈ¡Êı¾İ
-    Ê¹ÓÃ×Öµä£¨dict£©µÄ·½Ê½ÔÙ´ÎÕûÀíÊı¾İ ¿ÉÒÔ´ïµ½È¥ÖØÄ¿µÄ
-    Ê¹ÓÃsort+lambdaÅÅĞò
-    ½«ÕûÀíµÄÊı¾İ´¢´æÔÚ±¾µØ£¨.md£©
-3. ÉÏ´«Êı¾İ£¨git£©
+1. çˆ¬å–æ•°æ®
+2. å»é‡æ•°æ®
+    æŠŠæ¯æ¬¡çˆ¬å–çš„æ•°æ®å‚¨å­˜åœ¨æœ¬åœ°ï¼ˆ.txtï¼‰
+        éœ€å®šæœŸåˆ é™¤è¯¥æ–‡ä»¶
+    æ¯æ¬¡è¿è¡Œç¨‹åºéƒ½ä»æœ¬åœ°è¯»å–æ•°æ®
+    ä½¿ç”¨å­—å…¸ï¼ˆdictï¼‰çš„æ–¹å¼å†æ¬¡æ•´ç†æ•°æ® å¯ä»¥è¾¾åˆ°å»é‡ç›®çš„
+    ä½¿ç”¨sort+lambdaæ’åº
+    å°†æ•´ç†çš„æ•°æ®å‚¨å­˜åœ¨æœ¬åœ°ï¼ˆ.mdï¼‰
+3. ä¸Šä¼ æ•°æ®ï¼ˆgitï¼‰
 '''
 
 url = 'https://s.weibo.com/top/summary'
@@ -25,7 +25,7 @@ response = requests.get(url, headers=headers, timeout=3).content.decode()
 href = re.findall(r'<a href="(/weibo\?q=.*&Refer=top)".*>(.*?)</a>', response)
 index = re.findall(r'<span> (.*?)</span>', response)
 
-# È¥µôindexÁĞ±íÖĞµÄ¿ÕÔªËØ
+# å»æ‰indexåˆ—è¡¨ä¸­çš„ç©ºå…ƒç´ 
 if '' in index:
     while '' in index:
         index.remove('')
@@ -33,7 +33,7 @@ if '' in index:
 date = datetime.now().strftime("%Y-%m-%d")
 time = datetime.now().strftime("%X")
 
-# ½«Êı¾İ´¢´æµ½±¾µØ...ÓĞµãÂÒ
+# å°†æ•°æ®å‚¨å­˜åˆ°æœ¬åœ°...æœ‰ç‚¹ä¹±
 for item in index:
     with open('/demo/weibo_data/'+'index_{}.txt'.format(date), 'a', encoding='utf-8')as f:
         f.write(item+',')
@@ -45,7 +45,7 @@ for item in href:
     with open('/demo/weibo_data/'+'url_{}.txt'.format(date), 'a', encoding='utf-8') as f:
         f.write(url+',')
 
-# ¶ÁÈ¡±¾µØÊı¾İÎÄ¼ş
+# è¯»å–æœ¬åœ°æ•°æ®æ–‡ä»¶
 with open('/demo/weibo_data/'+'index_{}.txt'.format(date), 'r', encoding='utf-8') as f:
     indexlist = f.read()
 dex = indexlist.split(',')
@@ -62,16 +62,15 @@ u = urllist.split(',')
 u.pop(-1)
 print(len(u))
 
-# È¥ÖØ²¢ÅÅĞò
+# å»é‡å¹¶æ’åº
 counts = {}
 for i in range(len(t)):
     counts[t[i]] = '('+u[i]+')'+' '+dex[i]
 items = list(counts.items())
 items.sort(key=lambda x: int(x[1].split(' ')[-1]), reverse=True)
-# ÓÉÓÚÊÇ±éÀúĞ´ÈëÊı¾İ£¬so Ö»ÄÜÕâÑù..
-if not os.path.exists('/demo/weibo_top/result/'+date+'.md'):
-    os.system(r"touch {}".format('/demo/weibo_top/result/'+date+'.md'))
-os.remove('/demo/weibo_top/result/'+date+'.md')
+# ç”±äºæ˜¯éå†å†™å…¥æ•°æ®ï¼Œso åªèƒ½è¿™æ ·..
+if os.path.exists('/demo/weibo_top/result/'+date+'.md'):
+    os.remove('/demo/weibo_top/result/'+date+'.md')
 for i in range(len(items)):
     tt, uu = items[i]
     with open('/demo/weibo_top/result/'+date+'.md', 'a', encoding='utf-8')as f:
