@@ -18,4 +18,4 @@ weibo_top
 本项目的所有数据来源均来自 [新浪微博热搜榜](https://s.weibo.com/top/summary)  
 
 # LICENSE
-Apache License 2.0
+该源码使用 Apache License 2.0 发布，具体内容请查看 [LICENSE](./LICENSE)
