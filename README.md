@@ -8,8 +8,7 @@ weibo_top
   
 还有我吃不到的瓜?  
   
-***归档***  
-***[archives](./result/)***
+*归档[./result](./result/)*
 
 # 更新日志  
 2021/12/16  简化代码
