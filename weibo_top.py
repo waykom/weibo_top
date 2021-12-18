@@ -6,7 +6,7 @@ from datetime import datetime
 url = 'https://s.weibo.com/top/summary'
 headers = {
     'Cookie': '',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36'
+    'User-Agent': ''
 }
 response = requests.get(url, headers=headers, timeout=3).text
 href = re.findall(r'<a href="(/weibo\?q=.*&Refer=top)" target="_blank">(.*?)</a>[\s]*<span> (.*?)</span>', response)
