@@ -5,7 +5,7 @@ from datetime import datetime
 
 url = 'https://s.weibo.com/top/summary'
 headers = {
-    'Cookie': 'SINAGLOBAL=9984350838163.459.1639458131480; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWO7Xc2TqZUpUycnXX6JX6G5JpX5KMhUgL.Foqfe0271hBRe0B2dJLoI05LxK.L1KnLB.qLxKnLBK-LB.qLxK-L1K5LBKMLxKqL12zL1h.LxKqL12zL1hLaUJYt; UOR=github.com,s.weibo.com,github.com; ALF=1671257805; SSOLoginState=1639721806; SCF=AhYJZS5_n-2dh-fzeiiEVulWxpdZqWntw9i3SlVXNoxUbpZB9Xv03I4RiUGsd9mNhFrYamOGJu8JGpmGskg8z2w.; SUB=_2A25MuFseDeRhGeBL6FMR-CrEyDiIHXVvzMvWrDV8PUNbmtANLXHZkW9NRzPQ6F6GEII4swYrGA5hW2XCtk45vQ5C; _s_tentry=login.sina.com.cn; Apache=3225585321946.2983.1639721806817; ULV=1639721806827:10:10:10:3225585321946.2983.1639721806817:1639664576917',
+    'Cookie': '',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36'
 }
 response = requests.get(url, headers=headers, timeout=3).text
