@@ -53,6 +53,7 @@ weibo_top
 42. [王者荣耀](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top) 105317
 43. [RNG战胜BLG](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9CBLG%23&Refer=top) 102039
 44. [91岁奶奶给40岁孙女发10元压岁钱](https://s.weibo.com//weibo?q=%2391%E5%B2%81%E5%A5%B6%E5%A5%B6%E7%BB%9940%E5%B2%81%E5%AD%99%E5%A5%B3%E5%8F%9110%E5%85%83%E5%8E%8B%E5%B2%81%E9%92%B1%23&Refer=top) 101805
+45. [乌合之众的网暴行为真的管不了吗](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97%E7%9A%84%E7%BD%91%E6%9A%B4%E8%A1%8C%E4%B8%BA%E7%9C%9F%E7%9A%84%E7%AE%A1%E4%B8%8D%E4%BA%86%E5%90%97%23&Refer=top) 46513
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
