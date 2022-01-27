@@ -47,9 +47,10 @@ weibo_top
 36. [虎年红包算是被玩明白了](https://s.weibo.com//weibo?q=%23%E8%99%8E%E5%B9%B4%E7%BA%A2%E5%8C%85%E7%AE%97%E6%98%AF%E8%A2%AB%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 116336
 37. [如何找到穿搭风格](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E7%A9%BF%E6%90%AD%E9%A3%8E%E6%A0%BC%23&Refer=top) 112729
 38. [鱼皮花生真的有鱼](https://s.weibo.com//weibo?q=%23%E9%B1%BC%E7%9A%AE%E8%8A%B1%E7%94%9F%E7%9C%9F%E7%9A%84%E6%9C%89%E9%B1%BC%23&Refer=top) 107550
-39. [王者荣耀](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top) 105317
-40. [RNG战胜BLG](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9CBLG%23&Refer=top) 102039
-41. [91岁奶奶给40岁孙女发10元压岁钱](https://s.weibo.com//weibo?q=%2391%E5%B2%81%E5%A5%B6%E5%A5%B6%E7%BB%9940%E5%B2%81%E5%AD%99%E5%A5%B3%E5%8F%9110%E5%85%83%E5%8E%8B%E5%B2%81%E9%92%B1%23&Refer=top) 101805
+39. [安徽鼓励降低购房首付](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E9%BC%93%E5%8A%B1%E9%99%8D%E4%BD%8E%E8%B4%AD%E6%88%BF%E9%A6%96%E4%BB%98%23&Refer=top) 106416
+40. [王者荣耀](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top) 105317
+41. [RNG战胜BLG](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9CBLG%23&Refer=top) 102039
+42. [91岁奶奶给40岁孙女发10元压岁钱](https://s.weibo.com//weibo?q=%2391%E5%B2%81%E5%A5%B6%E5%A5%B6%E7%BB%9940%E5%B2%81%E5%AD%99%E5%A5%B3%E5%8F%9110%E5%85%83%E5%8E%8B%E5%B2%81%E9%92%B1%23&Refer=top) 101805
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
