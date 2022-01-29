@@ -50,6 +50,7 @@ weibo_top
 39. [第五人格](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23&Refer=top) 104278
 40. [觉醒之战](https://s.weibo.com//weibo?q=%23%E8%A7%89%E9%86%92%E4%B9%8B%E6%88%98%23&Refer=top) 103939
 41. [女孩开颅手术前求医生留下长发捐白血病患儿](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%E5%89%8D%E6%B1%82%E5%8C%BB%E7%94%9F%E7%95%99%E4%B8%8B%E9%95%BF%E5%8F%91%E6%8D%90%E7%99%BD%E8%A1%80%E7%97%85%E6%82%A3%E5%84%BF%23&Refer=top) 98681
+42. [廖三宁颧骨骨折](https://s.weibo.com//weibo?q=%23%E5%BB%96%E4%B8%89%E5%AE%81%E9%A2%A7%E9%AA%A8%E9%AA%A8%E6%8A%98%23&Refer=top) 34135
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
