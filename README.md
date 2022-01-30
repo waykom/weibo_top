@@ -47,7 +47,7 @@ weibo_top
 36. [女足亚洲杯](https://s.weibo.com//weibo?q=%E5%A5%B3%E8%B6%B3%E4%BA%9A%E6%B4%B2%E6%9D%AF&Refer=top) 148316
 37. [万物皆可变成虎](https://s.weibo.com//weibo?q=%23%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E5%8F%98%E6%88%90%E8%99%8E%23&Refer=top) 133977
 38. [春运防疫攻略](https://s.weibo.com//weibo?q=%E6%98%A5%E8%BF%90%E9%98%B2%E7%96%AB%E6%94%BB%E7%95%A5&Refer=top) 100548
-39. [在学校过年是种怎样的体验](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%AD%A6%E6%A0%A1%E8%BF%87%E5%B9%B4%E6%98%AF%E7%A7%8D%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C%23&Refer=top) 22660
+39. [在学校过年是种怎样的体验](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%AD%A6%E6%A0%A1%E8%BF%87%E5%B9%B4%E6%98%AF%E7%A7%8D%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C%23&Refer=top) 24239
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
