@@ -38,11 +38,11 @@ weibo_top
 27. [布雷迪退役](https://s.weibo.com//weibo?q=%23%E5%B8%83%E9%9B%B7%E8%BF%AA%E9%80%80%E5%BD%B9%23&Refer=top) 312212
 28. [拜年](https://s.weibo.com//weibo?q=%E6%8B%9C%E5%B9%B4&Refer=top) 266177
 29. [互相嫌弃的歪果仁](https://s.weibo.com//weibo?q=%E4%BA%92%E7%9B%B8%E5%AB%8C%E5%BC%83%E7%9A%84%E6%AD%AA%E6%9E%9C%E4%BB%81&Refer=top) 264432
-30. [大连52岁手艺人用面粉神还原中国运动员](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E52%E5%B2%81%E6%89%8B%E8%89%BA%E4%BA%BA%E7%94%A8%E9%9D%A2%E7%B2%89%E7%A5%9E%E8%BF%98%E5%8E%9F%E4%B8%AD%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%23&Refer=top) 223514
-31. [邓超说想脱离陈赫鹿晗单飞](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E6%83%B3%E8%84%B1%E7%A6%BB%E9%99%88%E8%B5%AB%E9%B9%BF%E6%99%97%E5%8D%95%E9%A3%9E%23&Refer=top) 222049
-32. [黄健翔](https://s.weibo.com//weibo?q=%E9%BB%84%E5%81%A5%E7%BF%94&Refer=top) 220524
-33. [虎年大吉](https://s.weibo.com//weibo?q=%23%E8%99%8E%E5%B9%B4%E5%A4%A7%E5%90%89%23&Refer=top) 210050
-34. [广东今日报告新增3例本土病例](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E4%BB%8A%E6%97%A5%E6%8A%A5%E5%91%8A%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B&Refer=top) 195985
+30. [广东今日报告新增3例本土病例](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E4%BB%8A%E6%97%A5%E6%8A%A5%E5%91%8A%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B&Refer=top) 233018
+31. [大连52岁手艺人用面粉神还原中国运动员](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%BF%9E52%E5%B2%81%E6%89%8B%E8%89%BA%E4%BA%BA%E7%94%A8%E9%9D%A2%E7%B2%89%E7%A5%9E%E8%BF%98%E5%8E%9F%E4%B8%AD%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%23&Refer=top) 223514
+32. [邓超说想脱离陈赫鹿晗单飞](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E6%83%B3%E8%84%B1%E7%A6%BB%E9%99%88%E8%B5%AB%E9%B9%BF%E6%99%97%E5%8D%95%E9%A3%9E%23&Refer=top) 222049
+33. [黄健翔](https://s.weibo.com//weibo?q=%E9%BB%84%E5%81%A5%E7%BF%94&Refer=top) 220524
+34. [虎年大吉](https://s.weibo.com//weibo?q=%23%E8%99%8E%E5%B9%B4%E5%A4%A7%E5%90%89%23&Refer=top) 210050
 35. [被小狗狗和老爷爷可爱到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%B0%8F%E7%8B%97%E7%8B%97%E5%92%8C%E8%80%81%E7%88%B7%E7%88%B7%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&Refer=top) 186124
 36. [李霄鹏又挨三闷棍](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%9C%84%E9%B9%8F%E5%8F%88%E6%8C%A8%E4%B8%89%E9%97%B7%E6%A3%8D%23&Refer=top) 180000
 37. [到底谁才能拯救中国男足](https://s.weibo.com//weibo?q=%23%E5%88%B0%E5%BA%95%E8%B0%81%E6%89%8D%E8%83%BD%E6%8B%AF%E6%95%91%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%23&Refer=top) 173187
@@ -52,6 +52,7 @@ weibo_top
 41. [老虎理了发还有花纹吗](https://s.weibo.com//weibo?q=%23%E8%80%81%E8%99%8E%E7%90%86%E4%BA%86%E5%8F%91%E8%BF%98%E6%9C%89%E8%8A%B1%E7%BA%B9%E5%90%97%23&Refer=top) 171775
 42. [广寒宫里过大年](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%AF%92%E5%AE%AB%E9%87%8C%E8%BF%87%E5%A4%A7%E5%B9%B4&Refer=top) 147468
 43. [平安喜乐](https://s.weibo.com//weibo?q=%E5%B9%B3%E5%AE%89%E5%96%9C%E4%B9%90&Refer=top) 133395
+44. [李铁 国足](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%93%81%20%E5%9B%BD%E8%B6%B3&Refer=top) 75160
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
