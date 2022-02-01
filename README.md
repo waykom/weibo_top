@@ -14,7 +14,7 @@ weibo_top
 3. [大年初一](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80&Refer=top) 611813
 4. [老公发压岁钱的正确方式](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%85%AC%E5%8F%91%E5%8E%8B%E5%B2%81%E9%92%B1%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%BC%8F%23&Refer=top) 540107
 5. [厦门烟花](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E7%83%9F%E8%8A%B1%23&Refer=top) 535221
-6. [新年快乐](https://s.weibo.com//weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&Refer=top) 466670
+6. [新年快乐](https://s.weibo.com//weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&Refer=top) 513716
 7. [虎年第一条微博](https://s.weibo.com//weibo?q=%23%E8%99%8E%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&Refer=top) 423070
 8. [国足退钱](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E9%80%80%E9%92%B1%23&Refer=top) 422457
 9. [为什么国足总输](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E8%B6%B3%E6%80%BB%E8%BE%93%23&Refer=top) 421298
@@ -33,8 +33,8 @@ weibo_top
 22. [女足 越南](https://s.weibo.com//weibo?q=%E5%A5%B3%E8%B6%B3%20%E8%B6%8A%E5%8D%97&Refer=top) 348076
 23. [动画绘出灯火里的中国](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E7%94%BB%E7%BB%98%E5%87%BA%E7%81%AF%E7%81%AB%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&Refer=top) 344851
 24. [外交部回应日本国会众议院通过涉华决议](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E6%B6%89%E5%8D%8E%E5%86%B3%E8%AE%AE%23&Refer=top) 343570
-25. [范志毅预言](https://s.weibo.com//weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E9%A2%84%E8%A8%80&Refer=top) 336594
-26. [国足62年首负越南](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B362%E5%B9%B4%E9%A6%96%E8%B4%9F%E8%B6%8A%E5%8D%97%23&Refer=top) 329744
+25. [国足62年首负越南](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B362%E5%B9%B4%E9%A6%96%E8%B4%9F%E8%B6%8A%E5%8D%97%23&Refer=top) 340103
+26. [范志毅预言](https://s.weibo.com//weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E9%A2%84%E8%A8%80&Refer=top) 336594
 27. [布雷迪退役](https://s.weibo.com//weibo?q=%23%E5%B8%83%E9%9B%B7%E8%BF%AA%E9%80%80%E5%BD%B9%23&Refer=top) 283685
 28. [拜年](https://s.weibo.com//weibo?q=%E6%8B%9C%E5%B9%B4&Refer=top) 266177
 29. [互相嫌弃的歪果仁](https://s.weibo.com//weibo?q=%E4%BA%92%E7%9B%B8%E5%AB%8C%E5%BC%83%E7%9A%84%E6%AD%AA%E6%9E%9C%E4%BB%81&Refer=top) 264432
@@ -48,7 +48,8 @@ weibo_top
 37. [2月1日云浮罗定报告1例确诊病例](https://s.weibo.com//weibo?q=%232%E6%9C%881%E6%97%A5%E4%BA%91%E6%B5%AE%E7%BD%97%E5%AE%9A%E6%8A%A5%E5%91%8A1%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top) 171905
 38. [国足进球](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%BF%9B%E7%90%83%23&Refer=top) 171842
 39. [老虎理了发还有花纹吗](https://s.weibo.com//weibo?q=%23%E8%80%81%E8%99%8E%E7%90%86%E4%BA%86%E5%8F%91%E8%BF%98%E6%9C%89%E8%8A%B1%E7%BA%B9%E5%90%97%23&Refer=top) 171775
-40. [平安喜乐](https://s.weibo.com//weibo?q=%E5%B9%B3%E5%AE%89%E5%96%9C%E4%B9%90&Refer=top) 127259
+40. [广寒宫里过大年](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%AF%92%E5%AE%AB%E9%87%8C%E8%BF%87%E5%A4%A7%E5%B9%B4&Refer=top) 147468
+41. [平安喜乐](https://s.weibo.com//weibo?q=%E5%B9%B3%E5%AE%89%E5%96%9C%E4%B9%90&Refer=top) 133395
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
