@@ -9,8 +9,8 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [请支持暂时遇到困难的中国足球](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E6%94%AF%E6%8C%81%E6%9A%82%E6%97%B6%E9%81%87%E5%88%B0%E5%9B%B0%E9%9A%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%23&Refer=top) 3608059
-2. [大年初二](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C&Refer=top) 2492979
+1. [请支持暂时遇到困难的中国足球](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E6%94%AF%E6%8C%81%E6%9A%82%E6%97%B6%E9%81%87%E5%88%B0%E5%9B%B0%E9%9A%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%23&Refer=top) 3652564
+2. [大年初二](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C&Refer=top) 2646031
 3. [虎虎生风看中国](https://s.weibo.com//weibo?q=%23%E8%99%8E%E8%99%8E%E7%94%9F%E9%A3%8E%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&Refer=top) 2277229
 4. [范志毅刷屏朋友圈](https://s.weibo.com//weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E5%88%B7%E5%B1%8F%E6%9C%8B%E5%8F%8B%E5%9C%88%23&Refer=top) 1354995
 5. [国足1比3越南](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B31%E6%AF%943%E8%B6%8A%E5%8D%97%23&Refer=top) 1118001
@@ -44,8 +44,8 @@ weibo_top
 33. [动画绘出灯火里的中国](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E7%94%BB%E7%BB%98%E5%87%BA%E7%81%AF%E7%81%AB%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&Refer=top) 344851
 34. [外交部回应日本国会众议院通过涉华决议](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E6%B6%89%E5%8D%8E%E5%86%B3%E8%AE%AE%23&Refer=top) 343570
 35. [范志毅预言](https://s.weibo.com//weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E9%A2%84%E8%A8%80&Refer=top) 336594
-36. [布雷迪退役](https://s.weibo.com//weibo?q=%23%E5%B8%83%E9%9B%B7%E8%BF%AA%E9%80%80%E5%BD%B9%23&Refer=top) 312212
-37. [韩国晋级世界杯](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top) 267035
+36. [韩国晋级世界杯](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top) 314920
+37. [布雷迪退役](https://s.weibo.com//weibo?q=%23%E5%B8%83%E9%9B%B7%E8%BF%AA%E9%80%80%E5%BD%B9%23&Refer=top) 312212
 38. [拜年](https://s.weibo.com//weibo?q=%E6%8B%9C%E5%B9%B4&Refer=top) 266177
 39. [从小到大妈妈最爱说的那些话](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%B0%8F%E5%88%B0%E5%A4%A7%E5%A6%88%E5%A6%88%E6%9C%80%E7%88%B1%E8%AF%B4%E7%9A%84%E9%82%A3%E4%BA%9B%E8%AF%9D%23&Refer=top) 266121
 40. [互相嫌弃的歪果仁](https://s.weibo.com//weibo?q=%E4%BA%92%E7%9B%B8%E5%AB%8C%E5%BC%83%E7%9A%84%E6%AD%AA%E6%9E%9C%E4%BB%81&Refer=top) 264432
@@ -65,7 +65,7 @@ weibo_top
 54. [老虎理了发还有花纹吗](https://s.weibo.com//weibo?q=%23%E8%80%81%E8%99%8E%E7%90%86%E4%BA%86%E5%8F%91%E8%BF%98%E6%9C%89%E8%8A%B1%E7%BA%B9%E5%90%97%23&Refer=top) 171775
 55. [只此青绿](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%23&Refer=top) 167316
 56. [虎爪比心表情包](https://s.weibo.com//weibo?q=%23%E8%99%8E%E7%88%AA%E6%AF%94%E5%BF%83%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top) 167270
-57. [爱是在双向奔赴中团圆](https://s.weibo.com//weibo?q=%23%E7%88%B1%E6%98%AF%E5%9C%A8%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E4%B8%AD%E5%9B%A2%E5%9C%86%23&Refer=top) 152578
+57. [爱是在双向奔赴中团圆](https://s.weibo.com//weibo?q=%23%E7%88%B1%E6%98%AF%E5%9C%A8%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E4%B8%AD%E5%9B%A2%E5%9C%86%23&Refer=top) 157883
 58. [广寒宫里过大年](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%AF%92%E5%AE%AB%E9%87%8C%E8%BF%87%E5%A4%A7%E5%B9%B4&Refer=top) 147468
 59. [萌娃拜年把自己磕哭了](https://s.weibo.com//weibo?q=%23%E8%90%8C%E5%A8%83%E6%8B%9C%E5%B9%B4%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%A3%95%E5%93%AD%E4%BA%86%23&Refer=top) 145548
 60. [10个居家就能做的减脂运动](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E5%B1%85%E5%AE%B6%E5%B0%B1%E8%83%BD%E5%81%9A%E7%9A%84%E5%87%8F%E8%84%82%E8%BF%90%E5%8A%A8%23&Refer=top) 140187
