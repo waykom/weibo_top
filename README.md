@@ -20,36 +20,36 @@ weibo_top
 9. [为什么国足总输](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E8%B6%B3%E6%80%BB%E8%BE%93%23&Refer=top) 953665
 10. [春晚](https://s.weibo.com//weibo?q=%E6%98%A5%E6%99%9A&Refer=top) 874077
 11. [虎年第一条微博](https://s.weibo.com//weibo?q=%23%E8%99%8E%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&Refer=top) 854957
-12. [春节档五部电影豆瓣开分](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E4%BA%94%E9%83%A8%E7%94%B5%E5%BD%B1%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%86%23&Refer=top) 682117
-13. [大年初一](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80&Refer=top) 611813
-14. [晋江文学城崩了](https://s.weibo.com//weibo?q=%E6%99%8B%E6%B1%9F%E6%96%87%E5%AD%A6%E5%9F%8E%E5%B4%A9%E4%BA%86&Refer=top) 602414
-15. [范志毅发文](https://s.weibo.com//weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E5%8F%91%E6%96%87%23&Refer=top) 600090
-16. [文牧野说易烊千玺做到了](https://s.weibo.com//weibo?q=%23%E6%96%87%E7%89%A7%E9%87%8E%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%81%9A%E5%88%B0%E4%BA%86%23&Refer=top) 593943
-17. [新年快乐](https://s.weibo.com//weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&Refer=top) 590775
-18. [老公发压岁钱的正确方式](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%85%AC%E5%8F%91%E5%8E%8B%E5%B2%81%E9%92%B1%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%BC%8F%23&Refer=top) 540107
-19. [厦门烟花](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E7%83%9F%E8%8A%B1%23&Refer=top) 535221
-20. [现场国足球迷懵了](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%9C%BA%E5%9B%BD%E8%B6%B3%E7%90%83%E8%BF%B7%E6%87%B5%E4%BA%86%23&Refer=top) 499700
-21. [李霄鹏道歉](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%9C%84%E9%B9%8F%E9%81%93%E6%AD%89%23&Refer=top) 498275
-22. [国足vs越南](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E8%B6%8A%E5%8D%97%23&Refer=top) 497808
-23. [越南队现场发红包](https://s.weibo.com//weibo?q=%23%E8%B6%8A%E5%8D%97%E9%98%9F%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%BA%A2%E5%8C%85%23&Refer=top) 495288
-24. [浙江增本土确诊15例](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A15%E4%BE%8B%23&Refer=top) 486008
-25. [国足落后越南](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%90%BD%E5%90%8E%E8%B6%8A%E5%8D%97%23&Refer=top) 481699
-26. [龚俊李易峰毫无默契的对视](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%9D%8E%E6%98%93%E5%B3%B0%E6%AF%AB%E6%97%A0%E9%BB%98%E5%A5%91%E7%9A%84%E5%AF%B9%E8%A7%86%23&Refer=top) 470987
-27. [北京2月1日新增2例本土确诊](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC2%E6%9C%881%E6%97%A5%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top) 467032
-28. [广东新增6例本土确诊](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E6%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top) 465455
-29. [天津新增本土确诊12例](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A12%E4%BE%8B%23&Refer=top) 461346
-30. [韩国晋级世界杯](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top) 450786
-31. [足协 国足](https://s.weibo.com//weibo?q=%E8%B6%B3%E5%8D%8F%20%E5%9B%BD%E8%B6%B3&Refer=top) 445855
-32. [国足62年首负越南](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B362%E5%B9%B4%E9%A6%96%E8%B4%9F%E8%B6%8A%E5%8D%97%23&Refer=top) 442522
-33. [快递小哥是拜年专业户吧](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E6%98%AF%E6%8B%9C%E5%B9%B4%E4%B8%93%E4%B8%9A%E6%88%B7%E5%90%A7%23&Refer=top) 436330
-34. [球迷致歉李铁](https://s.weibo.com//weibo?q=%23%E7%90%83%E8%BF%B7%E8%87%B4%E6%AD%89%E6%9D%8E%E9%93%81%23&Refer=top) 407700
-35. [国足无缘2022世界杯](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E6%97%A0%E7%BC%982022%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top) 356346
-36. [女足 越南](https://s.weibo.com//weibo?q=%E5%A5%B3%E8%B6%B3%20%E8%B6%8A%E5%8D%97&Refer=top) 348076
-37. [动画绘出灯火里的中国](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E7%94%BB%E7%BB%98%E5%87%BA%E7%81%AF%E7%81%AB%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&Refer=top) 344851
-38. [外交部回应日本国会众议院通过涉华决议](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E6%B6%89%E5%8D%8E%E5%86%B3%E8%AE%AE%23&Refer=top) 343570
-39. [范志毅预言](https://s.weibo.com//weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E9%A2%84%E8%A8%80&Refer=top) 336594
-40. [布雷迪退役](https://s.weibo.com//weibo?q=%23%E5%B8%83%E9%9B%B7%E8%BF%AA%E9%80%80%E5%BD%B9%23&Refer=top) 312212
-41. [北京冬奥会火炬接力启动](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E7%81%AB%E7%82%AC%E6%8E%A5%E5%8A%9B%E5%90%AF%E5%8A%A8%23&Refer=top) 300423
+12. [北京冬奥会火炬接力启动](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E7%81%AB%E7%82%AC%E6%8E%A5%E5%8A%9B%E5%90%AF%E5%8A%A8%23&Refer=top) 818668
+13. [春节档五部电影豆瓣开分](https://s.weibo.com//weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E4%BA%94%E9%83%A8%E7%94%B5%E5%BD%B1%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%86%23&Refer=top) 682117
+14. [大年初一](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80&Refer=top) 611813
+15. [晋江文学城崩了](https://s.weibo.com//weibo?q=%E6%99%8B%E6%B1%9F%E6%96%87%E5%AD%A6%E5%9F%8E%E5%B4%A9%E4%BA%86&Refer=top) 602414
+16. [范志毅发文](https://s.weibo.com//weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E5%8F%91%E6%96%87%23&Refer=top) 600090
+17. [文牧野说易烊千玺做到了](https://s.weibo.com//weibo?q=%23%E6%96%87%E7%89%A7%E9%87%8E%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%81%9A%E5%88%B0%E4%BA%86%23&Refer=top) 593943
+18. [新年快乐](https://s.weibo.com//weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&Refer=top) 590775
+19. [老公发压岁钱的正确方式](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%85%AC%E5%8F%91%E5%8E%8B%E5%B2%81%E9%92%B1%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E5%BC%8F%23&Refer=top) 540107
+20. [厦门烟花](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E7%83%9F%E8%8A%B1%23&Refer=top) 535221
+21. [现场国足球迷懵了](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%9C%BA%E5%9B%BD%E8%B6%B3%E7%90%83%E8%BF%B7%E6%87%B5%E4%BA%86%23&Refer=top) 499700
+22. [李霄鹏道歉](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%9C%84%E9%B9%8F%E9%81%93%E6%AD%89%23&Refer=top) 498275
+23. [国足vs越南](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E8%B6%8A%E5%8D%97%23&Refer=top) 497808
+24. [越南队现场发红包](https://s.weibo.com//weibo?q=%23%E8%B6%8A%E5%8D%97%E9%98%9F%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%BA%A2%E5%8C%85%23&Refer=top) 495288
+25. [浙江增本土确诊15例](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A15%E4%BE%8B%23&Refer=top) 486008
+26. [国足落后越南](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%90%BD%E5%90%8E%E8%B6%8A%E5%8D%97%23&Refer=top) 481699
+27. [龚俊李易峰毫无默契的对视](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%9D%8E%E6%98%93%E5%B3%B0%E6%AF%AB%E6%97%A0%E9%BB%98%E5%A5%91%E7%9A%84%E5%AF%B9%E8%A7%86%23&Refer=top) 470987
+28. [北京2月1日新增2例本土确诊](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC2%E6%9C%881%E6%97%A5%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top) 467032
+29. [广东新增6例本土确诊](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%96%B0%E5%A2%9E6%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top) 465455
+30. [天津新增本土确诊12例](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A12%E4%BE%8B%23&Refer=top) 461346
+31. [韩国晋级世界杯](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top) 450786
+32. [足协 国足](https://s.weibo.com//weibo?q=%E8%B6%B3%E5%8D%8F%20%E5%9B%BD%E8%B6%B3&Refer=top) 445855
+33. [国足62年首负越南](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B362%E5%B9%B4%E9%A6%96%E8%B4%9F%E8%B6%8A%E5%8D%97%23&Refer=top) 442522
+34. [快递小哥是拜年专业户吧](https://s.weibo.com//weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E6%98%AF%E6%8B%9C%E5%B9%B4%E4%B8%93%E4%B8%9A%E6%88%B7%E5%90%A7%23&Refer=top) 436330
+35. [球迷致歉李铁](https://s.weibo.com//weibo?q=%23%E7%90%83%E8%BF%B7%E8%87%B4%E6%AD%89%E6%9D%8E%E9%93%81%23&Refer=top) 407700
+36. [国足无缘2022世界杯](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B3%E6%97%A0%E7%BC%982022%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top) 356346
+37. [女足 越南](https://s.weibo.com//weibo?q=%E5%A5%B3%E8%B6%B3%20%E8%B6%8A%E5%8D%97&Refer=top) 348076
+38. [动画绘出灯火里的中国](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E7%94%BB%E7%BB%98%E5%87%BA%E7%81%AF%E7%81%AB%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&Refer=top) 344851
+39. [外交部回应日本国会众议院通过涉华决议](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E6%B6%89%E5%8D%8E%E5%86%B3%E8%AE%AE%23&Refer=top) 343570
+40. [范志毅预言](https://s.weibo.com//weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E9%A2%84%E8%A8%80&Refer=top) 336594
+41. [布雷迪退役](https://s.weibo.com//weibo?q=%23%E5%B8%83%E9%9B%B7%E8%BF%AA%E9%80%80%E5%BD%B9%23&Refer=top) 312212
 42. [拜年](https://s.weibo.com//weibo?q=%E6%8B%9C%E5%B9%B4&Refer=top) 266177
 43. [从小到大妈妈最爱说的那些话](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%B0%8F%E5%88%B0%E5%A4%A7%E5%A6%88%E5%A6%88%E6%9C%80%E7%88%B1%E8%AF%B4%E7%9A%84%E9%82%A3%E4%BA%9B%E8%AF%9D%23&Refer=top) 266121
 44. [互相嫌弃的歪果仁](https://s.weibo.com//weibo?q=%E4%BA%92%E7%9B%B8%E5%AB%8C%E5%BC%83%E7%9A%84%E6%AD%AA%E6%9E%9C%E4%BB%81&Refer=top) 264432
@@ -60,8 +60,8 @@ weibo_top
 49. [邓超说想脱离陈赫鹿晗单飞](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E6%83%B3%E8%84%B1%E7%A6%BB%E9%99%88%E8%B5%AB%E9%B9%BF%E6%99%97%E5%8D%95%E9%A3%9E%23&Refer=top) 222049
 50. [黄健翔](https://s.weibo.com//weibo?q=%E9%BB%84%E5%81%A5%E7%BF%94&Refer=top) 220524
 51. [虎年大吉](https://s.weibo.com//weibo?q=%23%E8%99%8E%E5%B9%B4%E5%A4%A7%E5%90%89%23&Refer=top) 210050
-52. [被小狗狗和老爷爷可爱到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%B0%8F%E7%8B%97%E7%8B%97%E5%92%8C%E8%80%81%E7%88%B7%E7%88%B7%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&Refer=top) 186124
-53. [专题片冰雪之约](https://s.weibo.com//weibo?q=%23%E4%B8%93%E9%A2%98%E7%89%87%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6%23&Refer=top) 182533
+52. [专题片冰雪之约](https://s.weibo.com//weibo?q=%23%E4%B8%93%E9%A2%98%E7%89%87%E5%86%B0%E9%9B%AA%E4%B9%8B%E7%BA%A6%23&Refer=top) 190155
+53. [被小狗狗和老爷爷可爱到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%B0%8F%E7%8B%97%E7%8B%97%E5%92%8C%E8%80%81%E7%88%B7%E7%88%B7%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&Refer=top) 186124
 54. [李霄鹏又挨三闷棍](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E9%9C%84%E9%B9%8F%E5%8F%88%E6%8C%A8%E4%B8%89%E9%97%B7%E6%A3%8D%23&Refer=top) 180000
 55. [到底谁才能拯救中国男足](https://s.weibo.com//weibo?q=%23%E5%88%B0%E5%BA%95%E8%B0%81%E6%89%8D%E8%83%BD%E6%8B%AF%E6%95%91%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%23&Refer=top) 173187
 56. [广东惠州报告1例新冠肺炎确诊病例](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E6%8A%A5%E5%91%8A1%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top) 171935
@@ -71,15 +71,16 @@ weibo_top
 60. [只此青绿](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%23&Refer=top) 167316
 61. [虎爪比心表情包](https://s.weibo.com//weibo?q=%23%E8%99%8E%E7%88%AA%E6%AF%94%E5%BF%83%E8%A1%A8%E6%83%85%E5%8C%85%23&Refer=top) 167270
 62. [爱是在双向奔赴中团圆](https://s.weibo.com//weibo?q=%23%E7%88%B1%E6%98%AF%E5%9C%A8%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E4%B8%AD%E5%9B%A2%E5%9C%86%23&Refer=top) 157883
-63. [10个居家就能做的减脂运动](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E5%B1%85%E5%AE%B6%E5%B0%B1%E8%83%BD%E5%81%9A%E7%9A%84%E5%87%8F%E8%84%82%E8%BF%90%E5%8A%A8%23&Refer=top) 152788
+63. [10个居家就能做的减脂运动](https://s.weibo.com//weibo?q=%2310%E4%B8%AA%E5%B1%85%E5%AE%B6%E5%B0%B1%E8%83%BD%E5%81%9A%E7%9A%84%E5%87%8F%E8%84%82%E8%BF%90%E5%8A%A8%23&Refer=top) 155489
 64. [广寒宫里过大年](https://s.weibo.com//weibo?q=%E5%B9%BF%E5%AF%92%E5%AE%AB%E9%87%8C%E8%BF%87%E5%A4%A7%E5%B9%B4&Refer=top) 147468
 65. [萌娃拜年把自己磕哭了](https://s.weibo.com//weibo?q=%23%E8%90%8C%E5%A8%83%E6%8B%9C%E5%B9%B4%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%A3%95%E5%93%AD%E4%BA%86%23&Refer=top) 145548
 66. [平安喜乐](https://s.weibo.com//weibo?q=%E5%B9%B3%E5%AE%89%E5%96%9C%E4%B9%90&Refer=top) 133395
 67. [吃出春节仪式感](https://s.weibo.com//weibo?q=%E5%90%83%E5%87%BA%E6%98%A5%E8%8A%82%E4%BB%AA%E5%BC%8F%E6%84%9F&Refer=top) 127184
-68. [花朵在琥珀中开放1亿年](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%9C%B5%E5%9C%A8%E7%90%A5%E7%8F%80%E4%B8%AD%E5%BC%80%E6%94%BE1%E4%BA%BF%E5%B9%B4%23&Refer=top) 118638
-69. [李璇](https://s.weibo.com//weibo?q=%E6%9D%8E%E7%92%87&Refer=top) 105087
-70. [李铁 国足](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%93%81%20%E5%9B%BD%E8%B6%B3&Refer=top) 75160
-71. [新的一年写给自己的话](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E5%86%99%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AF%9D%23&Refer=top) 64258
+68. [北京冬奥会](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top) 125123
+69. [花朵在琥珀中开放1亿年](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%9C%B5%E5%9C%A8%E7%90%A5%E7%8F%80%E4%B8%AD%E5%BC%80%E6%94%BE1%E4%BA%BF%E5%B9%B4%23&Refer=top) 118638
+70. [李璇](https://s.weibo.com//weibo?q=%E6%9D%8E%E7%92%87&Refer=top) 105087
+71. [李铁 国足](https://s.weibo.com//weibo?q=%E6%9D%8E%E9%93%81%20%E5%9B%BD%E8%B6%B3&Refer=top) 75160
+72. [新的一年写给自己的话](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E5%86%99%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AF%9D%23&Refer=top) 64258
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
