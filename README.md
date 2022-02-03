@@ -9,21 +9,21 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [不生隔夜气的爱情有多甜](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E7%94%9F%E9%9A%94%E5%A4%9C%E6%B0%94%E7%9A%84%E7%88%B1%E6%83%85%E6%9C%89%E5%A4%9A%E7%94%9C%23&Refer=top) 1986016
-2. [中国女足vs日本](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23&Refer=top) 1926264
+1. [中国女足vs日本](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23&Refer=top) 2512351
+2. [不生隔夜气的爱情有多甜](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E7%94%9F%E9%9A%94%E5%A4%9C%E6%B0%94%E7%9A%84%E7%88%B1%E6%83%85%E6%9C%89%E5%A4%9A%E7%94%9C%23&Refer=top) 1986016
 3. [中国是奥林匹克理想的坚定追求者](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E7%90%86%E6%83%B3%E7%9A%84%E5%9D%9A%E5%AE%9A%E8%BF%BD%E6%B1%82%E8%80%85%23&Refer=top) 1460181
-4. [市民排队一小时给孩子买冰墩墩](https://s.weibo.com//weibo?q=%23%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E4%B8%80%E5%B0%8F%E6%97%B6%E7%BB%99%E5%AD%A9%E5%AD%90%E4%B9%B0%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 994604
-5. [北京冬奥开幕式有多不一样](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E5%BC%80%E5%B9%95%E5%BC%8F%E6%9C%89%E5%A4%9A%E4%B8%8D%E4%B8%80%E6%A0%B7%23&Refer=top) 947064
+4. [北京冬奥开幕式有多不一样](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E5%BC%80%E5%B9%95%E5%BC%8F%E6%9C%89%E5%A4%9A%E4%B8%8D%E4%B8%80%E6%A0%B7%23&Refer=top) 1015339
+5. [市民排队一小时给孩子买冰墩墩](https://s.weibo.com//weibo?q=%23%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E4%B8%80%E5%B0%8F%E6%97%B6%E7%BB%99%E5%AD%A9%E5%AD%90%E4%B9%B0%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 994604
 6. [初三送穷鬼](https://s.weibo.com//weibo?q=%E5%88%9D%E4%B8%89%E9%80%81%E7%A9%B7%E9%AC%BC&Refer=top) 878530
 7. [春晚魔术师邓男子搭救落水儿童](https://s.weibo.com//weibo?q=%23%E6%98%A5%E6%99%9A%E9%AD%94%E6%9C%AF%E5%B8%88%E9%82%93%E7%94%B7%E5%AD%90%E6%90%AD%E6%95%91%E8%90%BD%E6%B0%B4%E5%84%BF%E7%AB%A5%23&Refer=top) 873555
 8. [前卫女士赵丽蓉](https://s.weibo.com//weibo?q=%23%E5%89%8D%E5%8D%AB%E5%A5%B3%E5%A3%AB%E8%B5%B5%E4%B8%BD%E8%93%89%23&Refer=top) 873534
 9. [如何看待易烊千玺成为百亿票房演员](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%88%90%E4%B8%BA%E7%99%BE%E4%BA%BF%E7%A5%A8%E6%88%BF%E6%BC%94%E5%91%98%23&Refer=top) 873532
-10. [迪丽热巴泰国wetv最佳女演员](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B3%B0%E5%9B%BDwetv%E6%9C%80%E4%BD%B3%E5%A5%B3%E6%BC%94%E5%91%98%23&Refer=top) 675689
-11. [北京冬奥会](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top) 668929
-12. [2008到2022](https://s.weibo.com//weibo?q=%232008%E5%88%B02022%23&Refer=top) 649649
-13. [花滑选手版只此青绿](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%BB%91%E9%80%89%E6%89%8B%E7%89%88%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%23&Refer=top) 583011
+10. [2008到2022](https://s.weibo.com//weibo?q=%232008%E5%88%B02022%23&Refer=top) 679944
+11. [迪丽热巴泰国wetv最佳女演员](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B3%B0%E5%9B%BDwetv%E6%9C%80%E4%BD%B3%E5%A5%B3%E6%BC%94%E5%91%98%23&Refer=top) 675689
+12. [北京冬奥会](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top) 668929
+13. [花滑选手版只此青绿](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%BB%91%E9%80%89%E6%89%8B%E7%89%88%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%23&Refer=top) 590337
 14. [安大魂](https://s.weibo.com//weibo?q=%E5%AE%89%E5%A4%A7%E9%AD%82&Refer=top) 517138
-15. [中国冰舞选手身着青山绿水](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E8%88%9E%E9%80%89%E6%89%8B%E8%BA%AB%E7%9D%80%E9%9D%92%E5%B1%B1%E7%BB%BF%E6%B0%B4%23&Refer=top) 477323
+15. [中国冰舞选手身着青山绿水](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E8%88%9E%E9%80%89%E6%89%8B%E8%BA%AB%E7%9D%80%E9%9D%92%E5%B1%B1%E7%BB%BF%E6%B0%B4%23&Refer=top) 490908
 16. [冬奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top) 373013
 17. [踢球踢球踢个球](https://s.weibo.com//weibo?q=%23%E8%B8%A2%E7%90%83%E8%B8%A2%E7%90%83%E8%B8%A2%E4%B8%AA%E7%90%83%23&Refer=top) 368648
 18. [冰墩墩算是把可爱玩明白了](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%AE%97%E6%98%AF%E6%8A%8A%E5%8F%AF%E7%88%B1%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 341641
@@ -51,6 +51,7 @@ weibo_top
 40. [许静韬 凌智](https://s.weibo.com//weibo?q=%E8%AE%B8%E9%9D%99%E9%9F%AC%20%E5%87%8C%E6%99%BA&Refer=top) 96427
 41. [冰壶](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A3%B6&Refer=top) 93876
 42. [刘强东捐赠23.4亿美元股票](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E6%8D%90%E8%B5%A023.4%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8%23&Refer=top) 93769
+43. [敦煌光热电站硬核祝福北京冬奥](https://s.weibo.com//weibo?q=%23%E6%95%A6%E7%85%8C%E5%85%89%E7%83%AD%E7%94%B5%E7%AB%99%E7%A1%AC%E6%A0%B8%E7%A5%9D%E7%A6%8F%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%23&Refer=top) 63545
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
