@@ -14,8 +14,8 @@ weibo_top
 3. [听妈妈的话](https://s.weibo.com//weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=top) 4793540
 4. [张艺谋太懂中国人的浪漫了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%AA%E6%87%82%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B5%AA%E6%BC%AB%E4%BA%86%23&Refer=top) 4726342
 5. [最后一棒火炬就是主火炬](https://s.weibo.com//weibo?q=%23%E6%9C%80%E5%90%8E%E4%B8%80%E6%A3%92%E7%81%AB%E7%82%AC%E5%B0%B1%E6%98%AF%E4%B8%BB%E7%81%AB%E7%82%AC%23&Refer=top) 3710060
-6. [中国人懂中国人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%87%82%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&Refer=top) 3393132
-7. [初五迎财神](https://s.weibo.com//weibo?q=%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E&Refer=top) 3322826
+6. [初五迎财神](https://s.weibo.com//weibo?q=%23%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E%23&Refer=top) 3663008
+7. [中国人懂中国人](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%87%82%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&Refer=top) 3393132
 8. [财神](https://s.weibo.com//weibo?q=%E8%B4%A2%E7%A5%9E&Refer=top) 2625023
 9. [假笑小哥](https://s.weibo.com//weibo?q=%E5%81%87%E7%AC%91%E5%B0%8F%E5%93%A5&Refer=top) 2252277
 10. [黄明昊是冬奥火炬手](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E6%98%AF%E5%86%AC%E5%A5%A5%E7%81%AB%E7%82%AC%E6%89%8B%23&Refer=top) 2233228
@@ -31,13 +31,13 @@ weibo_top
 20. [冬奥会帅哥](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%B8%85%E5%93%A5%23&Refer=top) 1396436
 21. [芬兰羽绒服](https://s.weibo.com//weibo?q=%E8%8A%AC%E5%85%B0%E7%BE%BD%E7%BB%92%E6%9C%8D&Refer=top) 1322188
 22. [巴赫不冷吗](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%B5%AB%E4%B8%8D%E5%86%B7%E5%90%97%23&Refer=top) 1317236
-23. [立春](https://s.weibo.com//weibo?q=%23%E7%AB%8B%E6%98%A5%23&Refer=top) 1294838
-24. [白宫和克宫打起了口水仗](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%AE%AB%E5%92%8C%E5%85%8B%E5%AE%AB%E6%89%93%E8%B5%B7%E4%BA%86%E5%8F%A3%E6%B0%B4%E4%BB%97%23&Refer=top) 1290346
-25. [韩国旗手 粉头发](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E6%97%97%E6%89%8B%20%E7%B2%89%E5%A4%B4%E5%8F%91&Refer=top) 1290162
-26. [如何评价北京冬奥会开幕式](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=top) 1286090
-27. [东道主中国队入场](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%81%93%E4%B8%BB%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%23&Refer=top) 1279942
-28. [黑山举旗手好帅](https://s.weibo.com//weibo?q=%23%E9%BB%91%E5%B1%B1%E4%B8%BE%E6%97%97%E6%89%8B%E5%A5%BD%E5%B8%85%23&Refer=top) 1264849
-29. [冬奥开幕式短片有丁程鑫](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E5%BC%80%E5%B9%95%E5%BC%8F%E7%9F%AD%E7%89%87%E6%9C%89%E4%B8%81%E7%A8%8B%E9%91%AB%23&Refer=top) 1232494
+23. [冬奥开幕式短片有丁程鑫](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E5%BC%80%E5%B9%95%E5%BC%8F%E7%9F%AD%E7%89%87%E6%9C%89%E4%B8%81%E7%A8%8B%E9%91%AB%23&Refer=top) 1313810
+24. [立春](https://s.weibo.com//weibo?q=%23%E7%AB%8B%E6%98%A5%23&Refer=top) 1294838
+25. [白宫和克宫打起了口水仗](https://s.weibo.com//weibo?q=%23%E7%99%BD%E5%AE%AB%E5%92%8C%E5%85%8B%E5%AE%AB%E6%89%93%E8%B5%B7%E4%BA%86%E5%8F%A3%E6%B0%B4%E4%BB%97%23&Refer=top) 1290346
+26. [韩国旗手 粉头发](https://s.weibo.com//weibo?q=%E9%9F%A9%E5%9B%BD%E6%97%97%E6%89%8B%20%E7%B2%89%E5%A4%B4%E5%8F%91&Refer=top) 1290162
+27. [如何评价北京冬奥会开幕式](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=top) 1286090
+28. [东道主中国队入场](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%81%93%E4%B8%BB%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%23&Refer=top) 1279942
+29. [黑山举旗手好帅](https://s.weibo.com//weibo?q=%23%E9%BB%91%E5%B1%B1%E4%B8%BE%E6%97%97%E6%89%8B%E5%A5%BD%E5%B8%85%23&Refer=top) 1264849
 30. [冬奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top) 1213741
 31. [你抬头看 我邀请全世界共赏今晚的月亮](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%8A%AC%E5%A4%B4%E7%9C%8B%20%E6%88%91%E9%82%80%E8%AF%B7%E5%85%A8%E4%B8%96%E7%95%8C%E5%85%B1%E8%B5%8F%E4%BB%8A%E6%99%9A%E7%9A%84%E6%9C%88%E4%BA%AE&Refer=top) 1185685
 32. [你的爸爸怎么会是一只半人马](https://s.weibo.com//weibo?q=%E4%BD%A0%E7%9A%84%E7%88%B8%E7%88%B8%E6%80%8E%E4%B9%88%E4%BC%9A%E6%98%AF%E4%B8%80%E5%8F%AA%E5%8D%8A%E4%BA%BA%E9%A9%AC&Refer=top) 1184212
@@ -62,14 +62,14 @@ weibo_top
 51. [安道尔和冰岛 老乡来了](https://s.weibo.com//weibo?q=%E5%AE%89%E9%81%93%E5%B0%94%E5%92%8C%E5%86%B0%E5%B2%9B%20%E8%80%81%E4%B9%A1%E6%9D%A5%E4%BA%86&Refer=top) 718620
 52. [大年初四](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%9B%9B%23&Refer=top) 700478
 53. [张艺谋剧透冬奥会开幕式不搞人海战术](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%89%A7%E9%80%8F%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8D%E6%90%9E%E4%BA%BA%E6%B5%B7%E6%88%98%E6%9C%AF%23&Refer=top) 639749
-54. [普京今年首次出国访问](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E4%BB%8A%E5%B9%B4%E9%A6%96%E6%AC%A1%E5%87%BA%E5%9B%BD%E8%AE%BF%E9%97%AE%23&Refer=top) 539939
-55. [老谋深算](https://s.weibo.com//weibo?q=%E8%80%81%E8%B0%8B%E6%B7%B1%E7%AE%97&Refer=top) 503431
-56. [河南大范围雨雪将上线](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E5%B0%86%E4%B8%8A%E7%BA%BF%23&Refer=top) 422626
-57. [24节气用英文怎么说](https://s.weibo.com//weibo?q=%2324%E8%8A%82%E6%B0%94%E7%94%A8%E8%8B%B1%E6%96%87%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=top) 421030
-58. [14年后鸟巢再次升起五环](https://s.weibo.com//weibo?q=%2314%E5%B9%B4%E5%90%8E%E9%B8%9F%E5%B7%A2%E5%86%8D%E6%AC%A1%E5%8D%87%E8%B5%B7%E4%BA%94%E7%8E%AF%23&Refer=top) 402704
-59. [巴铁上场的欢呼声](https://s.weibo.com//weibo?q=%E5%B7%B4%E9%93%81%E4%B8%8A%E5%9C%BA%E7%9A%84%E6%AC%A2%E5%91%BC%E5%A3%B0&Refer=top) 379852
-60. [3分钟回看审美天花板](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E7%9C%8B%E5%AE%A1%E7%BE%8E%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top) 323170
-61. [克宫回应白宫把俄罗斯比作狐狸](https://s.weibo.com//weibo?q=%23%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%99%BD%E5%AE%AB%E6%8A%8A%E4%BF%84%E7%BD%97%E6%96%AF%E6%AF%94%E4%BD%9C%E7%8B%90%E7%8B%B8%23&Refer=top) 308930
+54. [老谋深算](https://s.weibo.com//weibo?q=%E8%80%81%E8%B0%8B%E6%B7%B1%E7%AE%97&Refer=top) 543290
+55. [普京今年首次出国访问](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E4%BB%8A%E5%B9%B4%E9%A6%96%E6%AC%A1%E5%87%BA%E5%9B%BD%E8%AE%BF%E9%97%AE%23&Refer=top) 539939
+56. [24节气用英文怎么说](https://s.weibo.com//weibo?q=%2324%E8%8A%82%E6%B0%94%E7%94%A8%E8%8B%B1%E6%96%87%E6%80%8E%E4%B9%88%E8%AF%B4%23&Refer=top) 447228
+57. [河南大范围雨雪将上线](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E5%B0%86%E4%B8%8A%E7%BA%BF%23&Refer=top) 422626
+58. [巴铁上场的欢呼声](https://s.weibo.com//weibo?q=%E5%B7%B4%E9%93%81%E4%B8%8A%E5%9C%BA%E7%9A%84%E6%AC%A2%E5%91%BC%E5%A3%B0&Refer=top) 409525
+59. [14年后鸟巢再次升起五环](https://s.weibo.com//weibo?q=%2314%E5%B9%B4%E5%90%8E%E9%B8%9F%E5%B7%A2%E5%86%8D%E6%AC%A1%E5%8D%87%E8%B5%B7%E4%BA%94%E7%8E%AF%23&Refer=top) 402704
+60. [克宫回应白宫把俄罗斯比作狐狸](https://s.weibo.com//weibo?q=%23%E5%85%8B%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%99%BD%E5%AE%AB%E6%8A%8A%E4%BF%84%E7%BD%97%E6%96%AF%E6%AF%94%E4%BD%9C%E7%8B%90%E7%8B%B8%23&Refer=top) 366735
+61. [3分钟回看审美天花板](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E7%9C%8B%E5%AE%A1%E7%BE%8E%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top) 340952
 62. [冰墩墩热销折射全民冬奥热情](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%83%AD%E9%94%80%E6%8A%98%E5%B0%84%E5%85%A8%E6%B0%91%E5%86%AC%E5%A5%A5%E7%83%AD%E6%83%85%23&Refer=top) 194805
 63. [在爱尔兰被流浪汉祝春节快乐](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E7%88%B1%E5%B0%94%E5%85%B0%E8%A2%AB%E6%B5%81%E6%B5%AA%E6%B1%89%E7%A5%9D%E6%98%A5%E8%8A%82%E5%BF%AB%E4%B9%90%23&Refer=top) 163329
 64. [冰雪五环如何雕刻](https://s.weibo.com//weibo?q=%23%E5%86%B0%E9%9B%AA%E4%BA%94%E7%8E%AF%E5%A6%82%E4%BD%95%E9%9B%95%E5%88%BB%23&Refer=top) 95445
