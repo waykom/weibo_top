@@ -26,10 +26,10 @@ weibo_top
 15. [北京冬奥会](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top) 1931070
 16. [吴京老师该上班了](https://s.weibo.com//weibo?q=%23%E5%90%B4%E4%BA%AC%E8%80%81%E5%B8%88%E8%AF%A5%E4%B8%8A%E7%8F%AD%E4%BA%86%23&Refer=top) 1900201
 17. [中国人真是在哪都能许愿](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%9F%E6%98%AF%E5%9C%A8%E5%93%AA%E9%83%BD%E8%83%BD%E8%AE%B8%E6%84%BF%23&Refer=top) 1765740
-18. [迷路的孩子早点回家](https://s.weibo.com//weibo?q=%23%E8%BF%B7%E8%B7%AF%E7%9A%84%E5%AD%A9%E5%AD%90%E6%97%A9%E7%82%B9%E5%9B%9E%E5%AE%B6%23&Refer=top) 1609221
-19. [谢谢emo](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E8%B0%A2emo%23&Refer=top) 1545997
-20. [鸽子灯](https://s.weibo.com//weibo?q=%E9%B8%BD%E5%AD%90%E7%81%AF&Refer=top) 1541219
-21. [请说谢谢财神爷](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E8%AF%B4%E8%B0%A2%E8%B0%A2%E8%B4%A2%E7%A5%9E%E7%88%B7%23&Refer=top) 1522504
+18. [请说谢谢财神爷](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E8%AF%B4%E8%B0%A2%E8%B0%A2%E8%B4%A2%E7%A5%9E%E7%88%B7%23&Refer=top) 1620145
+19. [迷路的孩子早点回家](https://s.weibo.com//weibo?q=%23%E8%BF%B7%E8%B7%AF%E7%9A%84%E5%AD%A9%E5%AD%90%E6%97%A9%E7%82%B9%E5%9B%9E%E5%AE%B6%23&Refer=top) 1609221
+20. [谢谢emo](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E8%B0%A2emo%23&Refer=top) 1545997
+21. [鸽子灯](https://s.weibo.com//weibo?q=%E9%B8%BD%E5%AD%90%E7%81%AF&Refer=top) 1541219
 22. [冰墩墩](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 1422024
 23. [英国代表团大衣](https://s.weibo.com//weibo?q=%E8%8B%B1%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%A4%A7%E8%A1%A3&Refer=top) 1416673
 24. [冬奥会帅哥](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%B8%85%E5%93%A5%23&Refer=top) 1396436
@@ -53,8 +53,8 @@ weibo_top
 42. [中俄元首实现了冬奥之约](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E5%AE%9E%E7%8E%B0%E4%BA%86%E5%86%AC%E5%A5%A5%E4%B9%8B%E7%BA%A6%23&Refer=top) 1022886
 43. [新闻联播](https://s.weibo.com//weibo?q=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD&Refer=top) 1012487
 44. [期待外国运动员用心感受一下中国](https://s.weibo.com//weibo?q=%23%E6%9C%9F%E5%BE%85%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E7%94%A8%E5%BF%83%E6%84%9F%E5%8F%97%E4%B8%80%E4%B8%8B%E4%B8%AD%E5%9B%BD%23&Refer=top) 989216
-45. [鸟巢上空现黄山迎客松](https://s.weibo.com//weibo?q=%23%E9%B8%9F%E5%B7%A2%E4%B8%8A%E7%A9%BA%E7%8E%B0%E9%BB%84%E5%B1%B1%E8%BF%8E%E5%AE%A2%E6%9D%BE%23&Refer=top) 892234
-46. [短道速滑队今冲中国首金](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%98%9F%E4%BB%8A%E5%86%B2%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%87%91%23&Refer=top) 869543
+45. [短道速滑队今冲中国首金](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%98%9F%E4%BB%8A%E5%86%B2%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%87%91%23&Refer=top) 941600
+46. [鸟巢上空现黄山迎客松](https://s.weibo.com//weibo?q=%23%E9%B8%9F%E5%B7%A2%E4%B8%8A%E7%A9%BA%E7%8E%B0%E9%BB%84%E5%B1%B1%E8%BF%8E%E5%AE%A2%E6%9D%BE%23&Refer=top) 892234
 47. [波黑旗手wink](https://s.weibo.com//weibo?q=%23%E6%B3%A2%E9%BB%91%E6%97%97%E6%89%8Bwink%23&Refer=top) 825328
 48. [一起向未来](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=top) 823992
 49. [imagine是奥运保留曲目](https://s.weibo.com//weibo?q=%23imagine%E6%98%AF%E5%A5%A5%E8%BF%90%E4%BF%9D%E7%95%99%E6%9B%B2%E7%9B%AE%23&Refer=top) 820905
@@ -81,8 +81,8 @@ weibo_top
 70. [14年后鸟巢再次升起五环](https://s.weibo.com//weibo?q=%2314%E5%B9%B4%E5%90%8E%E9%B8%9F%E5%B7%A2%E5%86%8D%E6%AC%A1%E5%8D%87%E8%B5%B7%E4%BA%94%E7%8E%AF%23&Refer=top) 402704
 71. [3分钟回看审美天花板](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E7%9C%8B%E5%AE%A1%E7%BE%8E%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top) 389001
 72. [小朋友脚踩星光拉队友](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%84%9A%E8%B8%A9%E6%98%9F%E5%85%89%E6%8B%89%E9%98%9F%E5%8F%8B%23&Refer=top) 341064
-73. [冬奥会开幕式哪一幕最打动你](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%93%AA%E4%B8%80%E5%B9%95%E6%9C%80%E6%89%93%E5%8A%A8%E4%BD%A0%23&Refer=top) 270989
-74. [你给北京冬奥会开幕式打几分](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%BB%99%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%89%93%E5%87%A0%E5%88%86%23&Refer=top) 270608
+73. [你给北京冬奥会开幕式打几分](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%BB%99%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%89%93%E5%87%A0%E5%88%86%23&Refer=top) 294778
+74. [冬奥会开幕式哪一幕最打动你](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%93%AA%E4%B8%80%E5%B9%95%E6%9C%80%E6%89%93%E5%8A%A8%E4%BD%A0%23&Refer=top) 270989
 75. [今夜的中国红太美了](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%9C%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%A4%AA%E7%BE%8E%E4%BA%86%23&Refer=top) 246789
 76. [冰墩墩热销折射全民冬奥热情](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%83%AD%E9%94%80%E6%8A%98%E5%B0%84%E5%85%A8%E6%B0%91%E5%86%AC%E5%A5%A5%E7%83%AD%E6%83%85%23&Refer=top) 194805
 77. [在爱尔兰被流浪汉祝春节快乐](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E7%88%B1%E5%B0%94%E5%85%B0%E8%A2%AB%E6%B5%81%E6%B5%AA%E6%B1%89%E7%A5%9D%E6%98%A5%E8%8A%82%E5%BF%AB%E4%B9%90%23&Refer=top) 163329
