@@ -59,15 +59,15 @@ weibo_top
 48. [徐阳哭了](https://s.weibo.com//weibo?q=%23%E5%BE%90%E9%98%B3%E5%93%AD%E4%BA%86%23&Refer=top) 468052
 49. [冬奥会](https://s.weibo.com//weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top) 465716
 50. [冬奥颁奖花束永不凋谢](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E9%A2%81%E5%A5%96%E8%8A%B1%E6%9D%9F%E6%B0%B8%E4%B8%8D%E5%87%8B%E8%B0%A2%23&Refer=top) 436931
-51. [冰墩墩汤圆](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%B1%A4%E5%9C%86%23&Refer=top) 371407
-52. [重庆北站动车延误](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E5%8C%97%E7%AB%99%E5%8A%A8%E8%BD%A6%E5%BB%B6%E8%AF%AF&Refer=top) 300314
-53. [冰墩墩预售](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%A2%84%E5%94%AE&Refer=top) 211209
+51. [冰墩墩预售](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%A2%84%E5%94%AE&Refer=top) 391185
+52. [冰墩墩汤圆](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%B1%A4%E5%9C%86%23&Refer=top) 371407
+53. [重庆北站动车延误](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E5%8C%97%E7%AB%99%E5%8A%A8%E8%BD%A6%E5%BB%B6%E8%AF%AF&Refer=top) 300314
 54. [神奇逆转女将张琳艳](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%A5%87%E9%80%86%E8%BD%AC%E5%A5%B3%E5%B0%86%E5%BC%A0%E7%90%B3%E8%89%B3%23&Refer=top) 180207
-55. [坐多久才能算久坐](https://s.weibo.com//weibo?q=%23%E5%9D%90%E5%A4%9A%E4%B9%85%E6%89%8D%E8%83%BD%E7%AE%97%E4%B9%85%E5%9D%90%23&Refer=top) 128981
-56. [雅西高速路况](https://s.weibo.com//weibo?q=%E9%9B%85%E8%A5%BF%E9%AB%98%E9%80%9F%E8%B7%AF%E5%86%B5&Refer=top) 126926
-57. [虎年开工第一天](https://s.weibo.com//weibo?q=%E8%99%8E%E5%B9%B4%E5%BC%80%E5%B7%A5%E7%AC%AC%E4%B8%80%E5%A4%A9&Refer=top) 91204
-58. [朱易谈冬奥首秀落泪](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%98%93%E8%B0%88%E5%86%AC%E5%A5%A5%E9%A6%96%E7%A7%80%E8%90%BD%E6%B3%AA%23&Refer=top) 80177
-59. [收收心准备上班](https://s.weibo.com//weibo?q=%23%E6%94%B6%E6%94%B6%E5%BF%83%E5%87%86%E5%A4%87%E4%B8%8A%E7%8F%AD%23&Refer=top) 63018
+55. [坐多久才能算久坐](https://s.weibo.com//weibo?q=%23%E5%9D%90%E5%A4%9A%E4%B9%85%E6%89%8D%E8%83%BD%E7%AE%97%E4%B9%85%E5%9D%90%23&Refer=top) 151265
+56. [雅西高速路况](https://s.weibo.com//weibo?q=%E9%9B%85%E8%A5%BF%E9%AB%98%E9%80%9F%E8%B7%AF%E5%86%B5&Refer=top) 151130
+57. [虎年开工第一天](https://s.weibo.com//weibo?q=%E8%99%8E%E5%B9%B4%E5%BC%80%E5%B7%A5%E7%AC%AC%E4%B8%80%E5%A4%A9&Refer=top) 115515
+58. [收收心准备上班](https://s.weibo.com//weibo?q=%23%E6%94%B6%E6%94%B6%E5%BF%83%E5%87%86%E5%A4%87%E4%B8%8A%E7%8F%AD%23&Refer=top) 115307
+59. [朱易谈冬奥首秀落泪](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E6%98%93%E8%B0%88%E5%86%AC%E5%A5%A5%E9%A6%96%E7%A7%80%E8%90%BD%E6%B3%AA%23&Refer=top) 80177
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
