@@ -60,6 +60,7 @@ weibo_top
 49. [王珊珊回国第一顿想吃火锅](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E7%8F%8A%E7%8F%8A%E5%9B%9E%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%A1%BF%E6%83%B3%E5%90%83%E7%81%AB%E9%94%85%23&Refer=top) 407061
 50. [谢谢猎豹](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E8%B0%A2%E7%8C%8E%E8%B1%B9%23&Refer=top) 374573
 51. [王者之师不可阻挡](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E4%B9%8B%E5%B8%88%E4%B8%8D%E5%8F%AF%E9%98%BB%E6%8C%A1%23&Refer=top) 354933
+52. [被人类幼崽的主事天赋惊到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E4%B8%BB%E4%BA%8B%E5%A4%A9%E8%B5%8B%E6%83%8A%E5%88%B0%E4%BA%86%23&Refer=top) 175672
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
