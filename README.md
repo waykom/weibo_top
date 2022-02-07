@@ -10,7 +10,7 @@ weibo_top
 
 # 今日热门搜索  
 1. [武大靖碰任子威的手示意他先走](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%A2%B0%E4%BB%BB%E5%AD%90%E5%A8%81%E7%9A%84%E6%89%8B%E7%A4%BA%E6%84%8F%E4%BB%96%E5%85%88%E8%B5%B0%23&Refer=top) 7365334
-2. [韩国选手拒绝采访直接离场](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%8B%92%E7%BB%9D%E9%87%87%E8%AE%BF%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%23&Refer=top) 5937966
+2. [韩国选手拒绝采访直接离场](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%8B%92%E7%BB%9D%E9%87%87%E8%AE%BF%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%23&Refer=top) 6475225
 3. [这张冬奥大合影弥足珍贵](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%BC%A0%E5%86%AC%E5%A5%A5%E5%A4%A7%E5%90%88%E5%BD%B1%E5%BC%A5%E8%B6%B3%E7%8F%8D%E8%B4%B5%23&Refer=top) 3327094
 4. [被武大靖李文龙整破防了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%AD%A6%E5%A4%A7%E9%9D%96%E6%9D%8E%E6%96%87%E9%BE%99%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top) 2306961
 5. [刘少林犯规](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%B0%91%E6%9E%97%E7%8A%AF%E8%A7%84%23&Refer=top) 2115198
