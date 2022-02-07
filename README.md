@@ -61,7 +61,9 @@ weibo_top
 50. [谢谢猎豹](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E8%B0%A2%E7%8C%8E%E8%B1%B9%23&Refer=top) 374573
 51. [王者之师不可阻挡](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E4%B9%8B%E5%B8%88%E4%B8%8D%E5%8F%AF%E9%98%BB%E6%8C%A1%23&Refer=top) 354933
 52. [被人类幼崽的主事天赋惊到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E4%B8%BB%E4%BA%8B%E5%A4%A9%E8%B5%8B%E6%83%8A%E5%88%B0%E4%BA%86%23&Refer=top) 186694
-53. [外国人在中国春节闹了哪些笑话](https://s.weibo.com//weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%8A%82%E9%97%B9%E4%BA%86%E5%93%AA%E4%BA%9B%E7%AC%91%E8%AF%9D&Refer=top) 131185
+53. [外国人在中国春节闹了哪些笑话](https://s.weibo.com//weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%8A%82%E9%97%B9%E4%BA%86%E5%93%AA%E4%BA%9B%E7%AC%91%E8%AF%9D&Refer=top) 140833
+54. [像极了学粤语时的我](https://s.weibo.com//weibo?q=%23%E5%83%8F%E6%9E%81%E4%BA%86%E5%AD%A6%E7%B2%A4%E8%AF%AD%E6%97%B6%E7%9A%84%E6%88%91%23&Refer=top) 83214
+55. [果然没人能拒绝奥运徽章](https://s.weibo.com//weibo?q=%23%E6%9E%9C%E7%84%B6%E6%B2%A1%E4%BA%BA%E8%83%BD%E6%8B%92%E7%BB%9D%E5%A5%A5%E8%BF%90%E5%BE%BD%E7%AB%A0%23&Refer=top) 80696
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
