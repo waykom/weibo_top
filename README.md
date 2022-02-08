@@ -29,8 +29,8 @@ weibo_top
 18. [谷爱凌这羽绒服显瘦](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%BF%99%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%98%BE%E7%98%A6%23&Refer=top) 557516
 19. [总台猎豹摄像机跑得比运动员还快](https://s.weibo.com//weibo?q=%E6%80%BB%E5%8F%B0%E7%8C%8E%E8%B1%B9%E6%91%84%E5%83%8F%E6%9C%BA%E8%B7%91%E5%BE%97%E6%AF%94%E8%BF%90%E5%8A%A8%E5%91%98%E8%BF%98%E5%BF%AB&Refer=top) 547362
 20. [谷爱凌的足球天赋有多强](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%9A%84%E8%B6%B3%E7%90%83%E5%A4%A9%E8%B5%8B%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top) 500240
-21. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top) 465720
-22. [厦门人拜天公的仪式感有多强](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E4%BA%BA%E6%8B%9C%E5%A4%A9%E5%85%AC%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top) 464331
+21. [厦门人拜天公的仪式感有多强](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E4%BA%BA%E6%8B%9C%E5%A4%A9%E5%85%AC%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%9C%89%E5%A4%9A%E5%BC%BA%23&Refer=top) 478108
+22. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top) 465720
 23. [什么是谷爱凌精神](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E8%B0%B7%E7%88%B1%E5%87%8C%E7%B2%BE%E7%A5%9E%23&Refer=top) 447960
 24. [谷爱凌妈妈的教育第一是多睡觉](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A6%88%E5%A6%88%E7%9A%84%E6%95%99%E8%82%B2%E7%AC%AC%E4%B8%80%E6%98%AF%E5%A4%9A%E7%9D%A1%E8%A7%89%23&Refer=top) 428480
 25. [羽生结弦被人尊重的原因](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%A2%AB%E4%BA%BA%E5%B0%8A%E9%87%8D%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top) 425202
@@ -51,7 +51,7 @@ weibo_top
 40. [上海规定公交车内不得饮食及外放声音](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%A7%84%E5%AE%9A%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%86%85%E4%B8%8D%E5%BE%97%E9%A5%AE%E9%A3%9F%E5%8F%8A%E5%A4%96%E6%94%BE%E5%A3%B0%E9%9F%B3%23&Refer=top) 193656
 41. [冰墩墩生产工厂已有序复工](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%8E%82%E5%B7%B2%E6%9C%89%E5%BA%8F%E5%A4%8D%E5%B7%A5%23&Refer=top) 193260
 42. [谷爱凌金牌](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E9%87%91%E7%89%8C%23&Refer=top) 165254
-43. [没想到你们是这样的吉祥物](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E4%BD%A0%E4%BB%AC%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E5%90%89%E7%A5%A5%E7%89%A9%23&Refer=top) 129750
+43. [没想到你们是这样的吉祥物](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E4%BD%A0%E4%BB%AC%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E5%90%89%E7%A5%A5%E7%89%A9%23&Refer=top) 153685
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
