@@ -20,8 +20,8 @@ weibo_top
 9. [谷爱凌戴上金牌](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%88%B4%E4%B8%8A%E9%87%91%E7%89%8C%23&Refer=top) 953732
 10. [20220222成为登记结婚热门日子](https://s.weibo.com//weibo?q=%2320220222%E6%88%90%E4%B8%BA%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%E7%83%AD%E9%97%A8%E6%97%A5%E5%AD%90%23&Refer=top) 951059
 11. [北京3人高价倒卖冰墩墩被处罚](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC3%E4%BA%BA%E9%AB%98%E4%BB%B7%E5%80%92%E5%8D%96%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%A2%AB%E5%A4%84%E7%BD%9A%23&Refer=top) 899754
-12. [冰墩墩说话](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%AF%B4%E8%AF%9D&Refer=top) 868319
-13. [谷爱凌咬完金牌吃包子太可爱了](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%92%AC%E5%AE%8C%E9%87%91%E7%89%8C%E5%90%83%E5%8C%85%E5%AD%90%E5%A4%AA%E5%8F%AF%E7%88%B1%E4%BA%86%23&Refer=top) 833106
+12. [谷爱凌咬完金牌吃包子太可爱了](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%92%AC%E5%AE%8C%E9%87%91%E7%89%8C%E5%90%83%E5%8C%85%E5%AD%90%E5%A4%AA%E5%8F%AF%E7%88%B1%E4%BA%86%23&Refer=top) 868358
+13. [冰墩墩说话](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%AF%B4%E8%AF%9D&Refer=top) 868319
 14. [王强因犯规无缘半决赛](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%BC%BA%E5%9B%A0%E7%8A%AF%E8%A7%84%E6%97%A0%E7%BC%98%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top) 723527
 15. [郑州一路灯内发现活鱼](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E8%B7%AF%E7%81%AF%E5%86%85%E5%8F%91%E7%8E%B0%E6%B4%BB%E9%B1%BC%23&Refer=top) 566064
 16. [西藏墨脱警察跪地徒手刨雪救人](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E8%97%8F%E5%A2%A8%E8%84%B1%E8%AD%A6%E5%AF%9F%E8%B7%AA%E5%9C%B0%E5%BE%92%E6%89%8B%E5%88%A8%E9%9B%AA%E6%95%91%E4%BA%BA%23&Refer=top) 564459
@@ -41,8 +41,8 @@ weibo_top
 30. [别忘了雪容融](https://s.weibo.com//weibo?q=%23%E5%88%AB%E5%BF%98%E4%BA%86%E9%9B%AA%E5%AE%B9%E8%9E%8D%23&Refer=top) 349375
 31. [小虎糕](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%99%8E%E7%B3%95%23&Refer=top) 333554
 32. [云瑶情人节限定皮肤](https://s.weibo.com//weibo?q=%23%E4%BA%91%E7%91%B6%E6%83%85%E4%BA%BA%E8%8A%82%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%23&Refer=top) 309443
-33. [外交部正告立陶宛](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%AD%A3%E5%91%8A%E7%AB%8B%E9%99%B6%E5%AE%9B%23&Refer=top) 275386
-34. [王濛说自己是濛墩墩](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E6%BF%9B%E5%A2%A9%E5%A2%A9%23&Refer=top) 274231
+33. [王濛说自己是濛墩墩](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E6%BF%9B%E5%A2%A9%E5%A2%A9%23&Refer=top) 298497
+34. [外交部正告立陶宛](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%AD%A3%E5%91%8A%E7%AB%8B%E9%99%B6%E5%AE%9B%23&Refer=top) 275386
 35. [由热爱抵达极限](https://s.weibo.com//weibo?q=%23%E7%94%B1%E7%83%AD%E7%88%B1%E6%8A%B5%E8%BE%BE%E6%9E%81%E9%99%90%23&Refer=top) 273699
 36. [被中国人的热情治愈了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%83%AD%E6%83%85%E6%B2%BB%E6%84%88%E4%BA%86%23&Refer=top) 260785
 37. [这是男足最接近冠军的一回](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E7%94%B7%E8%B6%B3%E6%9C%80%E6%8E%A5%E8%BF%91%E5%86%A0%E5%86%9B%E7%9A%84%E4%B8%80%E5%9B%9E%23&Refer=top) 204363
@@ -51,6 +51,7 @@ weibo_top
 40. [上海规定公交车内不得饮食及外放声音](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%A7%84%E5%AE%9A%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%86%85%E4%B8%8D%E5%BE%97%E9%A5%AE%E9%A3%9F%E5%8F%8A%E5%A4%96%E6%94%BE%E5%A3%B0%E9%9F%B3%23&Refer=top) 193656
 41. [冰墩墩生产工厂已有序复工](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%8E%82%E5%B7%B2%E6%9C%89%E5%BA%8F%E5%A4%8D%E5%B7%A5%23&Refer=top) 193260
 42. [谷爱凌金牌](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E9%87%91%E7%89%8C%23&Refer=top) 165254
+43. [没想到你们是这样的吉祥物](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E4%BD%A0%E4%BB%AC%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E5%90%89%E7%A5%A5%E7%89%A9%23&Refer=top) 129750
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
