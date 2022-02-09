@@ -17,7 +17,7 @@ weibo_top
 6. [谷爱凌手办](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%89%8B%E5%8A%9E%23&Refer=top) 1288317
 7. [短道速滑男子1500米](https://s.weibo.com//weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%901500%E7%B1%B3%23&Refer=top) 1013603
 8. [上届男子1500米冠军是林孝埈](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E5%B1%8A%E7%94%B7%E5%AD%901500%E7%B1%B3%E5%86%A0%E5%86%9B%E6%98%AF%E6%9E%97%E5%AD%9D%E5%9F%88%23&Refer=top) 944766
-9. [这条微博抽送冰墩墩雪容融](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%8A%BD%E9%80%81%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%9B%AA%E5%AE%B9%E8%9E%8D%23&Refer=top) 862653
+9. [这条微博抽送冰墩墩雪容融](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%8A%BD%E9%80%81%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%9B%AA%E5%AE%B9%E8%9E%8D%23&Refer=top) 874611
 10. [任子威加油](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E5%8A%A0%E6%B2%B9%23&Refer=top) 852885
 11. [中国驻韩大使馆阐明立场](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E9%9F%A9%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%98%90%E6%98%8E%E7%AB%8B%E5%9C%BA%23&Refer=top) 787189
 12. [冰墩墩本墩都有冰墩墩了](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%9C%AC%E5%A2%A9%E9%83%BD%E6%9C%89%E5%86%B0%E5%A2%A9%E5%A2%A9%E4%BA%86%23&Refer=top) 786245
@@ -35,7 +35,7 @@ weibo_top
 24. [英国人眼中的冬奥会有多牛](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%9C%89%E5%A4%9A%E7%89%9B%23&Refer=top) 347860
 25. [悄悄给爸妈转钱他们的反应](https://s.weibo.com//weibo?q=%23%E6%82%84%E6%82%84%E7%BB%99%E7%88%B8%E5%A6%88%E8%BD%AC%E9%92%B1%E4%BB%96%E4%BB%AC%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top) 327777
 26. [雪道尽头是骨科](https://s.weibo.com//weibo?q=%E9%9B%AA%E9%81%93%E5%B0%BD%E5%A4%B4%E6%98%AF%E9%AA%A8%E7%A7%91&Refer=top) 324080
-27. [一墩一融](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%A2%A9%E4%B8%80%E8%9E%8D%23&Refer=top) 301069
+27. [一墩一融](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%A2%A9%E4%B8%80%E8%9E%8D%23&Refer=top) 308239
 28. [任子威被判犯规无缘金牌](https://s.weibo.com//weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%A2%AB%E5%88%A4%E7%8A%AF%E8%A7%84%E6%97%A0%E7%BC%98%E9%87%91%E7%89%8C%23&Refer=top) 297658
 29. [广西百色本土确诊病例增至180例](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%99%BE%E8%89%B2%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E5%A2%9E%E8%87%B3180%E4%BE%8B%23&Refer=top) 297133
 30. [中国男子冰壶队负于瑞典队](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%86%B0%E5%A3%B6%E9%98%9F%E8%B4%9F%E4%BA%8E%E7%91%9E%E5%85%B8%E9%98%9F%23&Refer=top) 271682
@@ -52,15 +52,15 @@ weibo_top
 41. [武大靖陪女队训练饱受眼神杀](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E9%99%AA%E5%A5%B3%E9%98%9F%E8%AE%AD%E7%BB%83%E9%A5%B1%E5%8F%97%E7%9C%BC%E7%A5%9E%E6%9D%80%23&Refer=top) 172391
 42. [00后消防员跳河救人后冻得发抖](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E6%B6%88%E9%98%B2%E5%91%98%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E5%90%8E%E5%86%BB%E5%BE%97%E5%8F%91%E6%8A%96%23&Refer=top) 158591
 43. [王濛 孙龙](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%BF%9B%20%E5%AD%99%E9%BE%99&Refer=top) 155828
-44. [广西柳州捐10万包螺蛳粉驰援百色](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E6%8D%9010%E4%B8%87%E5%8C%85%E8%9E%BA%E8%9B%B3%E7%B2%89%E9%A9%B0%E6%8F%B4%E7%99%BE%E8%89%B2%23&Refer=top) 150512
-45. [花滑小伙回应酷似羽生结弦走红](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%BB%91%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%BA%94%E9%85%B7%E4%BC%BC%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%B5%B0%E7%BA%A2%23&Refer=top) 140834
-46. [女子开车拒听丈夫唠叨用胶带封嘴绑手](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E8%BD%A6%E6%8B%92%E5%90%AC%E4%B8%88%E5%A4%AB%E5%94%A0%E5%8F%A8%E7%94%A8%E8%83%B6%E5%B8%A6%E5%B0%81%E5%98%B4%E7%BB%91%E6%89%8B%23&Refer=top) 122232
-47. [自测腰椎间盘是否突出](https://s.weibo.com//weibo?q=%E8%87%AA%E6%B5%8B%E8%85%B0%E6%A4%8E%E9%97%B4%E7%9B%98%E6%98%AF%E5%90%A6%E7%AA%81%E5%87%BA&Refer=top) 56101
-48. [巴赫打卡冬奥会网红餐厅](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%B5%AB%E6%89%93%E5%8D%A1%E5%86%AC%E5%A5%A5%E4%BC%9A%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%23&Refer=top) 52020
-49. [原来你是这样的羽生结弦](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top) 50036
-50. [远望谷又涨停](https://s.weibo.com//weibo?q=%23%E8%BF%9C%E6%9C%9B%E8%B0%B7%E5%8F%88%E6%B6%A8%E5%81%9C%23&Refer=top) 48244
-51. [50岁滑冰奶奶参加了八届冬奥会](https://s.weibo.com//weibo?q=%2350%E5%B2%81%E6%BB%91%E5%86%B0%E5%A5%B6%E5%A5%B6%E5%8F%82%E5%8A%A0%E4%BA%86%E5%85%AB%E5%B1%8A%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 38418
-52. [谷爱凌的教育启示](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%9A%84%E6%95%99%E8%82%B2%E5%90%AF%E7%A4%BA%23&Refer=top) 28003
+44. [女子开车拒听丈夫唠叨用胶带封嘴绑手](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E8%BD%A6%E6%8B%92%E5%90%AC%E4%B8%88%E5%A4%AB%E5%94%A0%E5%8F%A8%E7%94%A8%E8%83%B6%E5%B8%A6%E5%B0%81%E5%98%B4%E7%BB%91%E6%89%8B%23&Refer=top) 153203
+45. [广西柳州捐10万包螺蛳粉驰援百色](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E6%8D%9010%E4%B8%87%E5%8C%85%E8%9E%BA%E8%9B%B3%E7%B2%89%E9%A9%B0%E6%8F%B4%E7%99%BE%E8%89%B2%23&Refer=top) 150512
+46. [花滑小伙回应酷似羽生结弦走红](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%BB%91%E5%B0%8F%E4%BC%99%E5%9B%9E%E5%BA%94%E9%85%B7%E4%BC%BC%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%B5%B0%E7%BA%A2%23&Refer=top) 140834
+47. [巴赫打卡冬奥会网红餐厅](https://s.weibo.com//weibo?q=%23%E5%B7%B4%E8%B5%AB%E6%89%93%E5%8D%A1%E5%86%AC%E5%A5%A5%E4%BC%9A%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%23&Refer=top) 117430
+48. [远望谷又涨停](https://s.weibo.com//weibo?q=%23%E8%BF%9C%E6%9C%9B%E8%B0%B7%E5%8F%88%E6%B6%A8%E5%81%9C%23&Refer=top) 66086
+49. [自测腰椎间盘是否突出](https://s.weibo.com//weibo?q=%E8%87%AA%E6%B5%8B%E8%85%B0%E6%A4%8E%E9%97%B4%E7%9B%98%E6%98%AF%E5%90%A6%E7%AA%81%E5%87%BA&Refer=top) 65168
+50. [50岁滑冰奶奶参加了八届冬奥会](https://s.weibo.com//weibo?q=%2350%E5%B2%81%E6%BB%91%E5%86%B0%E5%A5%B6%E5%A5%B6%E5%8F%82%E5%8A%A0%E4%BA%86%E5%85%AB%E5%B1%8A%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 52582
+51. [原来你是这样的羽生结弦](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top) 50036
+52. [谷爱凌的教育启示](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%9A%84%E6%95%99%E8%82%B2%E5%90%AF%E7%A4%BA%23&Refer=top) 32199
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
