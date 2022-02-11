@@ -57,6 +57,7 @@ weibo_top
 46. [百色医护人员翻山越岭为群众做核酸](https://s.weibo.com//weibo?q=%23%E7%99%BE%E8%89%B2%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%BF%BB%E5%B1%B1%E8%B6%8A%E5%B2%AD%E4%B8%BA%E7%BE%A4%E4%BC%97%E5%81%9A%E6%A0%B8%E9%85%B8%23&Refer=top) 191928
 47. [速度滑冰是地表最快的运动](https://s.weibo.com//weibo?q=%23%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E6%98%AF%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BF%AB%E7%9A%84%E8%BF%90%E5%8A%A8%23&Refer=top) 109696
 48. [冰墩墩雪容融的专属BGM](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%9B%AA%E5%AE%B9%E8%9E%8D%E7%9A%84%E4%B8%93%E5%B1%9EBGM%23&Refer=top) 83225
+49. [沉浸式剧本杀客单价达500元](https://s.weibo.com//weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%89%A7%E6%9C%AC%E6%9D%80%E5%AE%A2%E5%8D%95%E4%BB%B7%E8%BE%BE500%E5%85%83%23&Refer=top) 16008
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
