@@ -60,10 +60,11 @@ weibo_top
 49. [美国运动员分享在中国的最后一天](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E5%88%86%E4%BA%AB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%23&Refer=top) 139623
 50. [见过最硬核的按摩](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E6%8C%89%E6%91%A9%23&Refer=top) 120780
 51. [新西兰日本敦促公民立即离开乌克兰](https://s.weibo.com//weibo?q=%E6%96%B0%E8%A5%BF%E5%85%B0%E6%97%A5%E6%9C%AC%E6%95%A6%E4%BF%83%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E4%B9%8C%E5%85%8B%E5%85%B0&Refer=top) 61302
-52. [重130吨美国军火运抵乌克兰](https://s.weibo.com//weibo?q=%23%E9%87%8D130%E5%90%A8%E7%BE%8E%E5%9B%BD%E5%86%9B%E7%81%AB%E8%BF%90%E6%8A%B5%E4%B9%8C%E5%85%8B%E5%85%B0%23&Refer=top) 44178
+52. [重130吨美国军火运抵乌克兰](https://s.weibo.com//weibo?q=%23%E9%87%8D130%E5%90%A8%E7%BE%8E%E5%9B%BD%E5%86%9B%E7%81%AB%E8%BF%90%E6%8A%B5%E4%B9%8C%E5%85%8B%E5%85%B0%23&Refer=top) 48560
 53. [永劫无间](https://s.weibo.com//weibo?q=%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4&Refer=top) 35971
-54. [打破旗手魔咒夺金](https://s.weibo.com//weibo?q=%E6%89%93%E7%A0%B4%E6%97%97%E6%89%8B%E9%AD%94%E5%92%92%E5%A4%BA%E9%87%91&Refer=top) 20678
-55. [冰舞教练](https://s.weibo.com//weibo?q=%E5%86%B0%E8%88%9E%E6%95%99%E7%BB%83&Refer=top) 13339
+54. [打破旗手魔咒夺金](https://s.weibo.com//weibo?q=%E6%89%93%E7%A0%B4%E6%97%97%E6%89%8B%E9%AD%94%E5%92%92%E5%A4%BA%E9%87%91&Refer=top) 22128
+55. [韩国20年后在校大学生数量减半](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD20%E5%B9%B4%E5%90%8E%E5%9C%A8%E6%A0%A1%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E9%87%8F%E5%87%8F%E5%8D%8A%23&Refer=top) 13436
+56. [冰舞教练](https://s.weibo.com//weibo?q=%E5%86%B0%E8%88%9E%E6%95%99%E7%BB%83&Refer=top) 13339
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
