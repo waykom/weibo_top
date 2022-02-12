@@ -59,7 +59,7 @@ weibo_top
 48. [冰墩墩](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 150708
 49. [美国运动员分享在中国的最后一天](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E5%88%86%E4%BA%AB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%23&Refer=top) 139623
 50. [见过最硬核的按摩](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E6%8C%89%E6%91%A9%23&Refer=top) 120780
-51. [新西兰日本敦促公民立即离开乌克兰](https://s.weibo.com//weibo?q=%E6%96%B0%E8%A5%BF%E5%85%B0%E6%97%A5%E6%9C%AC%E6%95%A6%E4%BF%83%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E4%B9%8C%E5%85%8B%E5%85%B0&Refer=top) 36945
+51. [新西兰日本敦促公民立即离开乌克兰](https://s.weibo.com//weibo?q=%E6%96%B0%E8%A5%BF%E5%85%B0%E6%97%A5%E6%9C%AC%E6%95%A6%E4%BF%83%E5%85%AC%E6%B0%91%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E4%B9%8C%E5%85%8B%E5%85%B0&Refer=top) 61302
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
