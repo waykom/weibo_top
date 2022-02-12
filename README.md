@@ -58,7 +58,7 @@ weibo_top
 47. [全球最快核酸检测仪器运抵广西](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%BF%AB%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%BB%AA%E5%99%A8%E8%BF%90%E6%8A%B5%E5%B9%BF%E8%A5%BF%23&Refer=top) 151834
 48. [冰墩墩](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 150708
 49. [见过最硬核的按摩](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E6%8C%89%E6%91%A9%23&Refer=top) 120780
-50. [美国运动员分享在中国的最后一天](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E5%88%86%E4%BA%AB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%23&Refer=top) 62719
+50. [美国运动员分享在中国的最后一天](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E5%88%86%E4%BA%AB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%23&Refer=top) 95091
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
