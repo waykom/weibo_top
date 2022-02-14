@@ -57,9 +57,10 @@ weibo_top
 46. [情人节微醺调酒](https://s.weibo.com//weibo?q=%E6%83%85%E4%BA%BA%E8%8A%82%E5%BE%AE%E9%86%BA%E8%B0%83%E9%85%92&Refer=top) 34261
 47. [情人节甜蜜碎钻妆](https://s.weibo.com//weibo?q=%23%E6%83%85%E4%BA%BA%E8%8A%82%E7%94%9C%E8%9C%9C%E7%A2%8E%E9%92%BB%E5%A6%86%23&Refer=top) 25731
 48. [自制情人节草莓蛋糕](https://s.weibo.com//weibo?q=%23%E8%87%AA%E5%88%B6%E6%83%85%E4%BA%BA%E8%8A%82%E8%8D%89%E8%8E%93%E8%9B%8B%E7%B3%95%23&Refer=top) 24418
-49. [瓦利耶娃继续参加北京冬奥会原因](https://s.weibo.com//weibo?q=%23%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E7%BB%A7%E7%BB%AD%E5%8F%82%E5%8A%A0%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%8E%9F%E5%9B%A0%23&Refer=top) 20311
+49. [瓦利耶娃继续参加北京冬奥会原因](https://s.weibo.com//weibo?q=%23%E7%93%A6%E5%88%A9%E8%80%B6%E5%A8%83%E7%BB%A7%E7%BB%AD%E5%8F%82%E5%8A%A0%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%8E%9F%E5%9B%A0%23&Refer=top) 24202
 50. [情人节花艺暖锅有多好吃](https://s.weibo.com//weibo?q=%23%E6%83%85%E4%BA%BA%E8%8A%82%E8%8A%B1%E8%89%BA%E6%9A%96%E9%94%85%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%83%23&Refer=top) 20192
-51. [2021十大谣言榜](https://s.weibo.com//weibo?q=%232021%E5%8D%81%E5%A4%A7%E8%B0%A3%E8%A8%80%E6%A6%9C%23&Refer=top) 12557
+51. [2021十大谣言榜](https://s.weibo.com//weibo?q=%232021%E5%8D%81%E5%A4%A7%E8%B0%A3%E8%A8%80%E6%A6%9C%23&Refer=top) 18922
+52. [女子首次滑雪门票花195元治骨折花400](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E9%A6%96%E6%AC%A1%E6%BB%91%E9%9B%AA%E9%97%A8%E7%A5%A8%E8%8A%B1195%E5%85%83%E6%B2%BB%E9%AA%A8%E6%8A%98%E8%8A%B1400%23&Refer=top) 15795
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
