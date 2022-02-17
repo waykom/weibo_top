@@ -61,6 +61,7 @@ weibo_top
 50. [买奢侈品包包是理财吗](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E5%A5%A2%E4%BE%88%E5%93%81%E5%8C%85%E5%8C%85%E6%98%AF%E7%90%86%E8%B4%A2%E5%90%97%23&Refer=top) 89982
 51. [许巍 桃城](https://s.weibo.com//weibo?q=%E8%AE%B8%E5%B7%8D%20%E6%A1%83%E5%9F%8E&Refer=top) 53056
 52. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 32908
+53. [美方应让亚裔等少数族裔远离暴力恐惧](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%96%B9%E5%BA%94%E8%AE%A9%E4%BA%9A%E8%A3%94%E7%AD%89%E5%B0%91%E6%95%B0%E6%97%8F%E8%A3%94%E8%BF%9C%E7%A6%BB%E6%9A%B4%E5%8A%9B%E6%81%90%E6%83%A7%23&Refer=top) 23257
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
