@@ -58,7 +58,7 @@ weibo_top
 47. [王濛说要给武大靖刷大火箭](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E8%A6%81%E7%BB%99%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%88%B7%E5%A4%A7%E7%81%AB%E7%AE%AD%23&Refer=top) 179593
 48. [碧桂园美好讨薪季](https://s.weibo.com//weibo?q=%23%E7%A2%A7%E6%A1%82%E5%9B%AD%E7%BE%8E%E5%A5%BD%E8%AE%A8%E8%96%AA%E5%AD%A3%23&Refer=top) 143015
 49. [部落冲突](https://s.weibo.com//weibo?q=%23%E9%83%A8%E8%90%BD%E5%86%B2%E7%AA%81%23&Refer=top) 129717
-50. [买奢侈品包包是理财吗](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E5%A5%A2%E4%BE%88%E5%93%81%E5%8C%85%E5%8C%85%E6%98%AF%E7%90%86%E8%B4%A2%E5%90%97%23&Refer=top) 56301
+50. [买奢侈品包包是理财吗](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E5%A5%A2%E4%BE%88%E5%93%81%E5%8C%85%E5%8C%85%E6%98%AF%E7%90%86%E8%B4%A2%E5%90%97%23&Refer=top) 71722
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
