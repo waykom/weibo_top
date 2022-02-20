@@ -10,7 +10,7 @@ weibo_top
 
 # 今日热门搜索  
 1. [冰墩墩哭了](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%93%AD%E4%BA%86%23&Refer=top) 3330663
-2. [查到考研成绩有多激动](https://s.weibo.com//weibo?q=%23%E6%9F%A5%E5%88%B0%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9C%89%E5%A4%9A%E6%BF%80%E5%8A%A8%23&Refer=top) 2765738
+2. [查到考研成绩有多激动](https://s.weibo.com//weibo?q=%23%E6%9F%A5%E5%88%B0%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9C%89%E5%A4%9A%E6%BF%80%E5%8A%A8%23&Refer=top) 2878044
 3. [冰墩墩售罄](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%94%AE%E7%BD%84%23&Refer=top) 2501626
 4. [北京冬奥耀眼的中国红](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E8%80%80%E7%9C%BC%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&Refer=top) 2343895
 5. [乌克兰运动员拥抱俄罗斯运动员](https://s.weibo.com//weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E8%BF%90%E5%8A%A8%E5%91%98%E6%8B%A5%E6%8A%B1%E4%BF%84%E7%BD%97%E6%96%AF%E8%BF%90%E5%8A%A8%E5%91%98&Refer=top) 2304562
@@ -35,11 +35,11 @@ weibo_top
 24. [在冬奥闭幕式看到了丁程鑫](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E5%86%AC%E5%A5%A5%E9%97%AD%E5%B9%95%E5%BC%8F%E7%9C%8B%E5%88%B0%E4%BA%86%E4%B8%81%E7%A8%8B%E9%91%AB%23&Refer=top) 777555
 25. [冬奥会闭幕式上看到了张真源](https://s.weibo.com//weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E5%BC%A0%E7%9C%9F%E6%BA%90%23&Refer=top) 763381
 26. [开幕二十四节气闭幕十二生肖](https://s.weibo.com//weibo?q=%23%E5%BC%80%E5%B9%95%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94%E9%97%AD%E5%B9%95%E5%8D%81%E4%BA%8C%E7%94%9F%E8%82%96%23&Refer=top) 760961
-27. [冰墩墩挥手再见](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%8C%A5%E6%89%8B%E5%86%8D%E8%A7%81%23&Refer=top) 702512
-28. [一起向未来](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=top) 699704
-29. [五环和雪花交汇](https://s.weibo.com//weibo?q=%23%E4%BA%94%E7%8E%AF%E5%92%8C%E9%9B%AA%E8%8A%B1%E4%BA%A4%E6%B1%87%23&Refer=top) 663653
-30. [成都市发现1例新冠肺炎本土病例](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%B8%82%E5%8F%91%E7%8E%B01%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%23&Refer=top) 640836
-31. [手机壳买多少个才算够](https://s.weibo.com//weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%B9%B0%E5%A4%9A%E5%B0%91%E4%B8%AA%E6%89%8D%E7%AE%97%E5%A4%9F%23&Refer=top) 632614
+27. [手机壳买多少个才算够](https://s.weibo.com//weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%B9%B0%E5%A4%9A%E5%B0%91%E4%B8%AA%E6%89%8D%E7%AE%97%E5%A4%9F%23&Refer=top) 739260
+28. [冰墩墩挥手再见](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%8C%A5%E6%89%8B%E5%86%8D%E8%A7%81%23&Refer=top) 702512
+29. [一起向未来](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=top) 699704
+30. [五环和雪花交汇](https://s.weibo.com//weibo?q=%23%E4%BA%94%E7%8E%AF%E5%92%8C%E9%9B%AA%E8%8A%B1%E4%BA%A4%E6%B1%87%23&Refer=top) 663653
+31. [成都市发现1例新冠肺炎本土病例](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%B8%82%E5%8F%91%E7%8E%B01%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%23&Refer=top) 640836
 32. [中国国旗是举得最高的](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97%E6%98%AF%E4%B8%BE%E5%BE%97%E6%9C%80%E9%AB%98%E7%9A%84%23&Refer=top) 613933
 33. [江苏明晨最低零下7度](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%98%8E%E6%99%A8%E6%9C%80%E4%BD%8E%E9%9B%B6%E4%B8%8B7%E5%BA%A6%23&Refer=top) 607609
 34. [再见了北京冬奥](https://s.weibo.com//weibo?q=%23%E5%86%8D%E8%A7%81%E4%BA%86%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%23&Refer=top) 605480
