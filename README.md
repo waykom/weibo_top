@@ -9,7 +9,7 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [普京宣布承认乌东两区为独立国家](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E6%89%BF%E8%AE%A4%E4%B9%8C%E4%B8%9C%E4%B8%A4%E5%8C%BA%E4%B8%BA%E7%8B%AC%E7%AB%8B%E5%9B%BD%E5%AE%B6%23&Refer=top) 2257262
+1. [普京宣布承认乌东两区为独立国家](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E6%89%BF%E8%AE%A4%E4%B9%8C%E4%B8%9C%E4%B8%A4%E5%8C%BA%E4%B8%BA%E7%8B%AC%E7%AB%8B%E5%9B%BD%E5%AE%B6%23&Refer=top) 2953780
 2. [武汉新增4例新冠阳性病例](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E6%96%B0%E5%A2%9E4%E4%BE%8B%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%23&Refer=top) 2030778
 3. [楚原去世](https://s.weibo.com//weibo?q=%23%E6%A5%9A%E5%8E%9F%E5%8E%BB%E4%B8%96%23&Refer=top) 1931591
 4. [3分钟回顾北京冬奥精彩瞬间](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23&Refer=top) 1593188
@@ -40,27 +40,27 @@ weibo_top
 29. [北京上空飘来七彩祥云](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%A9%BA%E9%A3%98%E6%9D%A5%E4%B8%83%E5%BD%A9%E7%A5%A5%E4%BA%91%23&Refer=top) 241557
 30. [朝阳大爷5万张照片记录鸟巢冰丝带诞生](https://s.weibo.com//weibo?q=%23%E6%9C%9D%E9%98%B3%E5%A4%A7%E7%88%B75%E4%B8%87%E5%BC%A0%E7%85%A7%E7%89%87%E8%AE%B0%E5%BD%95%E9%B8%9F%E5%B7%A2%E5%86%B0%E4%B8%9D%E5%B8%A6%E8%AF%9E%E7%94%9F%23&Refer=top) 240183
 31. [冰墩墩穿上雪容融的大红袄子](https://s.weibo.com//weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%A9%BF%E4%B8%8A%E9%9B%AA%E5%AE%B9%E8%9E%8D%E7%9A%84%E5%A4%A7%E7%BA%A2%E8%A2%84%E5%AD%90%23&Refer=top) 234270
-32. [冰墩墩下班了都在做什么](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E4%B8%8B%E7%8F%AD%E4%BA%86%E9%83%BD%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88&Refer=top) 222089
-33. [国务院要求扩大老年人慢性病用药报销范围](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E6%89%A9%E5%A4%A7%E8%80%81%E5%B9%B4%E4%BA%BA%E6%85%A2%E6%80%A7%E7%97%85%E7%94%A8%E8%8D%AF%E6%8A%A5%E9%94%80%E8%8C%83%E5%9B%B4%23&Refer=top) 217297
-34. [当你把失恋告诉爸爸](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E6%8A%8A%E5%A4%B1%E6%81%8B%E5%91%8A%E8%AF%89%E7%88%B8%E7%88%B8%23&Refer=top) 193721
-35. [男子投资20万办赔钱餐厅](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%95%E8%B5%8420%E4%B8%87%E5%8A%9E%E8%B5%94%E9%92%B1%E9%A4%90%E5%8E%85%23&Refer=top) 180408
-36. [男子隐瞒一家五口中风险区行程被立案](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%9A%90%E7%9E%92%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%8C%BA%E8%A1%8C%E7%A8%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%23&Refer=top) 175997
-37. [这根笔我能玩一天](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A0%B9%E7%AC%94%E6%88%91%E8%83%BD%E7%8E%A9%E4%B8%80%E5%A4%A9%23&Refer=top) 175447
-38. [这就是考研的意义吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%80%83%E7%A0%94%E7%9A%84%E6%84%8F%E4%B9%89%E5%90%A7%23&Refer=top) 174626
-39. [13岁男孩离家出走5天骑200公里](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B05%E5%A4%A9%E9%AA%91200%E5%85%AC%E9%87%8C%23&Refer=top) 172351
-40. [苏翊鸣发博说会在更多赛场为国争光](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8F%91%E5%8D%9A%E8%AF%B4%E4%BC%9A%E5%9C%A8%E6%9B%B4%E5%A4%9A%E8%B5%9B%E5%9C%BA%E4%B8%BA%E5%9B%BD%E4%BA%89%E5%85%89%23&Refer=top) 165496
-41. [王者荣耀战队星元皮肤](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%88%98%E9%98%9F%E6%98%9F%E5%85%83%E7%9A%AE%E8%82%A4%23&Refer=top) 161412
-42. [成都疫情最新情况](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&Refer=top) 149542
-43. [明道黄奕对戏视频](https://s.weibo.com//weibo?q=%23%E6%98%8E%E9%81%93%E9%BB%84%E5%A5%95%E5%AF%B9%E6%88%8F%E8%A7%86%E9%A2%91%23&Refer=top) 144829
-44. [狗是真的会笑](https://s.weibo.com//weibo?q=%23%E7%8B%97%E6%98%AF%E7%9C%9F%E7%9A%84%E4%BC%9A%E7%AC%91%23&Refer=top) 139826
-45. [边看手机边吃饭容易伤胃](https://s.weibo.com//weibo?q=%23%E8%BE%B9%E7%9C%8B%E6%89%8B%E6%9C%BA%E8%BE%B9%E5%90%83%E9%A5%AD%E5%AE%B9%E6%98%93%E4%BC%A4%E8%83%83%23&Refer=top) 139733
-46. [从阴天到雪天只有一个客厅的距离](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E9%98%B4%E5%A4%A9%E5%88%B0%E9%9B%AA%E5%A4%A9%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AE%A2%E5%8E%85%E7%9A%84%E8%B7%9D%E7%A6%BB%23&Refer=top) 120124
-47. [第一次给老婆化妆的成果](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E8%80%81%E5%A9%86%E5%8C%96%E5%A6%86%E7%9A%84%E6%88%90%E6%9E%9C%23&Refer=top) 120071
-48. [中国女生化妆都有哪些特点](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%8C%96%E5%A6%86%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E7%82%B9%23&Refer=top) 110321
-49. [编号001的冬奥记者](https://s.weibo.com//weibo?q=%23%E7%BC%96%E5%8F%B7001%E7%9A%84%E5%86%AC%E5%A5%A5%E8%AE%B0%E8%80%85%23&Refer=top) 86196
-50. [还没拥有冰墩墩它就不营业了](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%B2%A1%E6%8B%A5%E6%9C%89%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%AE%83%E5%B0%B1%E4%B8%8D%E8%90%A5%E4%B8%9A%E4%BA%86%23&Refer=top) 81899
-51. [小伙称为领免费电饭煲被骗50余万元](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E4%B8%BA%E9%A2%86%E5%85%8D%E8%B4%B9%E7%94%B5%E9%A5%AD%E7%85%B2%E8%A2%AB%E9%AA%9750%E4%BD%99%E4%B8%87%E5%85%83%23&Refer=top) 64945
-52. [雅培中国回应召回相关婴幼儿产品](https://s.weibo.com//weibo?q=%23%E9%9B%85%E5%9F%B9%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E5%8F%AC%E5%9B%9E%E7%9B%B8%E5%85%B3%E5%A9%B4%E5%B9%BC%E5%84%BF%E4%BA%A7%E5%93%81%23&Refer=top) 44007
+32. [男子隐瞒一家五口中风险区行程被立案](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%9A%90%E7%9E%92%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%8C%BA%E8%A1%8C%E7%A8%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%23&Refer=top) 232006
+33. [13岁男孩离家出走5天骑200公里](https://s.weibo.com//weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B05%E5%A4%A9%E9%AA%91200%E5%85%AC%E9%87%8C%23&Refer=top) 228198
+34. [冰墩墩下班了都在做什么](https://s.weibo.com//weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E4%B8%8B%E7%8F%AD%E4%BA%86%E9%83%BD%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88&Refer=top) 222089
+35. [国务院要求扩大老年人慢性病用药报销范围](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%A6%81%E6%B1%82%E6%89%A9%E5%A4%A7%E8%80%81%E5%B9%B4%E4%BA%BA%E6%85%A2%E6%80%A7%E7%97%85%E7%94%A8%E8%8D%AF%E6%8A%A5%E9%94%80%E8%8C%83%E5%9B%B4%23&Refer=top) 217297
+36. [边看手机边吃饭容易伤胃](https://s.weibo.com//weibo?q=%23%E8%BE%B9%E7%9C%8B%E6%89%8B%E6%9C%BA%E8%BE%B9%E5%90%83%E9%A5%AD%E5%AE%B9%E6%98%93%E4%BC%A4%E8%83%83%23&Refer=top) 199383
+37. [当你把失恋告诉爸爸](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E6%8A%8A%E5%A4%B1%E6%81%8B%E5%91%8A%E8%AF%89%E7%88%B8%E7%88%B8%23&Refer=top) 193721
+38. [男子投资20万办赔钱餐厅](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%95%E8%B5%8420%E4%B8%87%E5%8A%9E%E8%B5%94%E9%92%B1%E9%A4%90%E5%8E%85%23&Refer=top) 180408
+39. [这根笔我能玩一天](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%A0%B9%E7%AC%94%E6%88%91%E8%83%BD%E7%8E%A9%E4%B8%80%E5%A4%A9%23&Refer=top) 175447
+40. [这就是考研的意义吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%80%83%E7%A0%94%E7%9A%84%E6%84%8F%E4%B9%89%E5%90%A7%23&Refer=top) 174626
+41. [苏翊鸣发博说会在更多赛场为国争光](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8F%91%E5%8D%9A%E8%AF%B4%E4%BC%9A%E5%9C%A8%E6%9B%B4%E5%A4%9A%E8%B5%9B%E5%9C%BA%E4%B8%BA%E5%9B%BD%E4%BA%89%E5%85%89%23&Refer=top) 165496
+42. [王者荣耀战队星元皮肤](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%88%98%E9%98%9F%E6%98%9F%E5%85%83%E7%9A%AE%E8%82%A4%23&Refer=top) 161412
+43. [成都疫情最新情况](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&Refer=top) 149542
+44. [明道黄奕对戏视频](https://s.weibo.com//weibo?q=%23%E6%98%8E%E9%81%93%E9%BB%84%E5%A5%95%E5%AF%B9%E6%88%8F%E8%A7%86%E9%A2%91%23&Refer=top) 144829
+45. [编号001的冬奥记者](https://s.weibo.com//weibo?q=%23%E7%BC%96%E5%8F%B7001%E7%9A%84%E5%86%AC%E5%A5%A5%E8%AE%B0%E8%80%85%23&Refer=top) 142196
+46. [狗是真的会笑](https://s.weibo.com//weibo?q=%23%E7%8B%97%E6%98%AF%E7%9C%9F%E7%9A%84%E4%BC%9A%E7%AC%91%23&Refer=top) 139826
+47. [从阴天到雪天只有一个客厅的距离](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E9%98%B4%E5%A4%A9%E5%88%B0%E9%9B%AA%E5%A4%A9%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AE%A2%E5%8E%85%E7%9A%84%E8%B7%9D%E7%A6%BB%23&Refer=top) 138104
+48. [小伙称为领免费电饭煲被骗50余万元](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E4%B8%BA%E9%A2%86%E5%85%8D%E8%B4%B9%E7%94%B5%E9%A5%AD%E7%85%B2%E8%A2%AB%E9%AA%9750%E4%BD%99%E4%B8%87%E5%85%83%23&Refer=top) 136542
+49. [第一次给老婆化妆的成果](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E8%80%81%E5%A9%86%E5%8C%96%E5%A6%86%E7%9A%84%E6%88%90%E6%9E%9C%23&Refer=top) 120071
+50. [中国女生化妆都有哪些特点](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%8C%96%E5%A6%86%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E7%82%B9%23&Refer=top) 110321
+51. [还没拥有冰墩墩它就不营业了](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%B2%A1%E6%8B%A5%E6%9C%89%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%AE%83%E5%B0%B1%E4%B8%8D%E8%90%A5%E4%B8%9A%E4%BA%86%23&Refer=top) 93796
+52. [雅培中国回应召回相关婴幼儿产品](https://s.weibo.com//weibo?q=%23%E9%9B%85%E5%9F%B9%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E5%8F%AC%E5%9B%9E%E7%9B%B8%E5%85%B3%E5%A9%B4%E5%B9%BC%E5%84%BF%E4%BA%A7%E5%93%81%23&Refer=top) 51539
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
