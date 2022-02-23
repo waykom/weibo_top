@@ -10,8 +10,8 @@ weibo_top
 
 # 今日热门搜索  
 1. [上海师范大学 考研成绩](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%20%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9&Refer=top) 2497288
-2. [男子误入缅甸杀猪盘偷受害者名单出逃](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%85%A5%E7%BC%85%E7%94%B8%E6%9D%80%E7%8C%AA%E7%9B%98%E5%81%B7%E5%8F%97%E5%AE%B3%E8%80%85%E5%90%8D%E5%8D%95%E5%87%BA%E9%80%83%23&Refer=top) 1860935
-3. [男子多次微信转发淫秽视频被拘](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E5%BE%AE%E4%BF%A1%E8%BD%AC%E5%8F%91%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98%23&Refer=top) 1717357
+2. [男子多次微信转发淫秽视频被拘](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E5%BE%AE%E4%BF%A1%E8%BD%AC%E5%8F%91%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98%23&Refer=top) 1935250
+3. [男子误入缅甸杀猪盘偷受害者名单出逃](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%85%A5%E7%BC%85%E7%94%B8%E6%9D%80%E7%8C%AA%E7%9B%98%E5%81%B7%E5%8F%97%E5%AE%B3%E8%80%85%E5%90%8D%E5%8D%95%E5%87%BA%E9%80%83%23&Refer=top) 1860935
 4. [那些冬奥教给我们的事](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E5%86%AC%E5%A5%A5%E6%95%99%E7%BB%99%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%8B%23&Refer=top) 1425704
 5. [沈眉庄死的时候我也这么哭的](https://s.weibo.com//weibo?q=%23%E6%B2%88%E7%9C%89%E5%BA%84%E6%AD%BB%E7%9A%84%E6%97%B6%E5%80%99%E6%88%91%E4%B9%9F%E8%BF%99%E4%B9%88%E5%93%AD%E7%9A%84%23&Refer=top) 1394912
 6. [不要总是emo了](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%A6%81%E6%80%BB%E6%98%AFemo%E4%BA%86%23&Refer=top) 1239905
@@ -45,9 +45,9 @@ weibo_top
 34. [警方实锤百万网红李赛高](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E5%AE%9E%E9%94%A4%E7%99%BE%E4%B8%87%E7%BD%91%E7%BA%A2%E6%9D%8E%E8%B5%9B%E9%AB%98%23&Refer=top) 158364
 35. [总台调查采访丰县生育八孩女子事件](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%8F%B0%E8%B0%83%E6%9F%A5%E9%87%87%E8%AE%BF%E4%B8%B0%E5%8E%BF%E7%94%9F%E8%82%B2%E5%85%AB%E5%AD%A9%E5%A5%B3%E5%AD%90%E4%BA%8B%E4%BB%B6%23&Refer=top) 149396
 36. [美足协赔偿美国女足1亿5千万](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E8%B6%B3%E5%8D%8F%E8%B5%94%E5%81%BF%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%B6%B31%E4%BA%BF5%E5%8D%83%E4%B8%87%23&Refer=top) 136966
-37. [从甄嬛传演到知否](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E7%94%84%E5%AC%9B%E4%BC%A0%E6%BC%94%E5%88%B0%E7%9F%A5%E5%90%A6%23&Refer=top) 128721
-38. [苏翊鸣童年采访](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AB%A5%E5%B9%B4%E9%87%87%E8%AE%BF%23&Refer=top) 110663
-39. [江西小伙自述在缅甸像猪一样被贩卖](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B0%8F%E4%BC%99%E8%87%AA%E8%BF%B0%E5%9C%A8%E7%BC%85%E7%94%B8%E5%83%8F%E7%8C%AA%E4%B8%80%E6%A0%B7%E8%A2%AB%E8%B4%A9%E5%8D%96%23&Refer=top) 88678
+37. [江西小伙自述在缅甸像猪一样被贩卖](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B0%8F%E4%BC%99%E8%87%AA%E8%BF%B0%E5%9C%A8%E7%BC%85%E7%94%B8%E5%83%8F%E7%8C%AA%E4%B8%80%E6%A0%B7%E8%A2%AB%E8%B4%A9%E5%8D%96%23&Refer=top) 128939
+38. [从甄嬛传演到知否](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E7%94%84%E5%AC%9B%E4%BC%A0%E6%BC%94%E5%88%B0%E7%9F%A5%E5%90%A6%23&Refer=top) 128721
+39. [苏翊鸣童年采访](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AB%A5%E5%B9%B4%E9%87%87%E8%AE%BF%23&Refer=top) 110663
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
