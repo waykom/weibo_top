@@ -49,6 +49,7 @@ weibo_top
 38. [从甄嬛传演到知否](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E7%94%84%E5%AC%9B%E4%BC%A0%E6%BC%94%E5%88%B0%E7%9F%A5%E5%90%A6%23&Refer=top) 128721
 39. [女子嗜睡20余天醒后智商如低幼](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%97%9C%E7%9D%A120%E4%BD%99%E5%A4%A9%E9%86%92%E5%90%8E%E6%99%BA%E5%95%86%E5%A6%82%E4%BD%8E%E5%B9%BC%23&Refer=top) 112953
 40. [苏翊鸣童年采访](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AB%A5%E5%B9%B4%E9%87%87%E8%AE%BF%23&Refer=top) 110663
+41. [成都春招求职平均薪酬9306元每月](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E6%98%A5%E6%8B%9B%E6%B1%82%E8%81%8C%E5%B9%B3%E5%9D%87%E8%96%AA%E9%85%AC9306%E5%85%83%E6%AF%8F%E6%9C%88%23&Refer=top) 23809
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
