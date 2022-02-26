@@ -62,6 +62,7 @@ weibo_top
 51. [曼联vs沃特福德](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E8%81%94vs%E6%B2%83%E7%89%B9%E7%A6%8F%E5%BE%B7%23&Refer=top) 131772
 52. [梅德韦杰夫说制裁什么也改变不了](https://s.weibo.com//weibo?q=%23%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%E8%AF%B4%E5%88%B6%E8%A3%81%E4%BB%80%E4%B9%88%E4%B9%9F%E6%94%B9%E5%8F%98%E4%B8%8D%E4%BA%86%23&Refer=top) 94974
 53. [一抿就化干锅猪蹄](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%8A%BF%E5%B0%B1%E5%8C%96%E5%B9%B2%E9%94%85%E7%8C%AA%E8%B9%84%23&Refer=top) 40811
+54. [滴滴俄罗斯业务不会关闭继续运营](https://s.weibo.com//weibo?q=%23%E6%BB%B4%E6%BB%B4%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%9A%E5%8A%A1%E4%B8%8D%E4%BC%9A%E5%85%B3%E9%97%AD%E7%BB%A7%E7%BB%AD%E8%BF%90%E8%90%A5%23&Refer=top) 38862
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
