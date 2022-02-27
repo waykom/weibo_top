@@ -58,9 +58,11 @@ weibo_top
 47. [英国外交大臣支持英国人去乌克兰参战](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3%E6%94%AF%E6%8C%81%E8%8B%B1%E5%9B%BD%E4%BA%BA%E5%8E%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8F%82%E6%88%98%23&Refer=top) 121511
 48. [车臣武装对战局有何影响](https://s.weibo.com//weibo?q=%23%E8%BD%A6%E8%87%A3%E6%AD%A6%E8%A3%85%E5%AF%B9%E6%88%98%E5%B1%80%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D%23&Refer=top) 120975
 49. [宝可梦传说阿尔宙斯](https://s.weibo.com//weibo?q=%23%E5%AE%9D%E5%8F%AF%E6%A2%A6%E4%BC%A0%E8%AF%B4%E9%98%BF%E5%B0%94%E5%AE%99%E6%96%AF%23&Refer=top) 105768
-50. [ale LNG](https://s.weibo.com//weibo?q=ale%20LNG&Refer=top) 83531
+50. [ale LNG](https://s.weibo.com//weibo?q=ale%20LNG&Refer=top) 92348
 51. [photic金克丝五杀](https://s.weibo.com//weibo?q=%23photic%E9%87%91%E5%85%8B%E4%B8%9D%E4%BA%94%E6%9D%80%23&Refer=top) 79892
 52. [这篇夜读送给备战高考的你](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%AF%87%E5%A4%9C%E8%AF%BB%E9%80%81%E7%BB%99%E5%A4%87%E6%88%98%E9%AB%98%E8%80%83%E7%9A%84%E4%BD%A0%23&Refer=top) 50402
+53. [俄军进攻手段都有哪些](https://s.weibo.com//weibo?q=%23%E4%BF%84%E5%86%9B%E8%BF%9B%E6%94%BB%E6%89%8B%E6%AE%B5%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%23&Refer=top) 21651
+54. [女子路边投喂野生猴子被咬](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%AF%E8%BE%B9%E6%8A%95%E5%96%82%E9%87%8E%E7%94%9F%E7%8C%B4%E5%AD%90%E8%A2%AB%E5%92%AC%23&Refer=top) 20270
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
