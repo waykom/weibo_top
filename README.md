@@ -23,10 +23,10 @@ weibo_top
 12. [邓超说春晚表演是在和撒贝宁互动](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E6%98%A5%E6%99%9A%E8%A1%A8%E6%BC%94%E6%98%AF%E5%9C%A8%E5%92%8C%E6%92%92%E8%B4%9D%E5%AE%81%E4%BA%92%E5%8A%A8%23&Refer=top) 661951
 13. [乌克兰危机外溢欧洲遭受冲击](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8D%B1%E6%9C%BA%E5%A4%96%E6%BA%A2%E6%AC%A7%E6%B4%B2%E9%81%AD%E5%8F%97%E5%86%B2%E5%87%BB%23&Refer=top) 640451
 14. [37度的嘴怎么能说出这么冷的话](https://s.weibo.com//weibo?q=%2337%E5%BA%A6%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E8%83%BD%E8%AF%B4%E5%87%BA%E8%BF%99%E4%B9%88%E5%86%B7%E7%9A%84%E8%AF%9D%23&Refer=top) 610976
-15. [北约是乌克兰危机的根源](https://s.weibo.com//weibo?q=%23%E5%8C%97%E7%BA%A6%E6%98%AF%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8D%B1%E6%9C%BA%E7%9A%84%E6%A0%B9%E6%BA%90%23&Refer=top) 565461
-16. [警方通报安阳一男子当街行凶被抓](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AE%89%E9%98%B3%E4%B8%80%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E8%A1%8C%E5%87%B6%E8%A2%AB%E6%8A%93%23&Refer=top) 541097
-17. [你的emo哪一瞬间被治愈了](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9A%84emo%E5%93%AA%E4%B8%80%E7%9E%AC%E9%97%B4%E8%A2%AB%E6%B2%BB%E6%84%88%E4%BA%86%23&Refer=top) 459014
-18. [美欧宣布禁止俄部分银行使用SWIFT](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%AC%A7%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E4%BF%84%E9%83%A8%E5%88%86%E9%93%B6%E8%A1%8C%E4%BD%BF%E7%94%A8SWIFT%23&Refer=top) 447348
+15. [美欧宣布禁止俄部分银行使用SWIFT](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%AC%A7%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E4%BF%84%E9%83%A8%E5%88%86%E9%93%B6%E8%A1%8C%E4%BD%BF%E7%94%A8SWIFT%23&Refer=top) 604344
+16. [北约是乌克兰危机的根源](https://s.weibo.com//weibo?q=%23%E5%8C%97%E7%BA%A6%E6%98%AF%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8D%B1%E6%9C%BA%E7%9A%84%E6%A0%B9%E6%BA%90%23&Refer=top) 565461
+17. [警方通报安阳一男子当街行凶被抓](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AE%89%E9%98%B3%E4%B8%80%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E8%A1%8C%E5%87%B6%E8%A2%AB%E6%8A%93%23&Refer=top) 541097
+18. [你的emo哪一瞬间被治愈了](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9A%84emo%E5%93%AA%E4%B8%80%E7%9E%AC%E9%97%B4%E8%A2%AB%E6%B2%BB%E6%84%88%E4%BA%86%23&Refer=top) 459014
 19. [泪失禁体质可以多能哭](https://s.weibo.com//weibo?q=%23%E6%B3%AA%E5%A4%B1%E7%A6%81%E4%BD%93%E8%B4%A8%E5%8F%AF%E4%BB%A5%E5%A4%9A%E8%83%BD%E5%93%AD%23&Refer=top) 427819
 20. [近万法军进入战备状态](https://s.weibo.com//weibo?q=%23%E8%BF%91%E4%B8%87%E6%B3%95%E5%86%9B%E8%BF%9B%E5%85%A5%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81%23&Refer=top) 411862
 21. [宝可梦直面会](https://s.weibo.com//weibo?q=%23%E5%AE%9D%E5%8F%AF%E6%A2%A6%E7%9B%B4%E9%9D%A2%E4%BC%9A%23&Refer=top) 382659
@@ -61,6 +61,7 @@ weibo_top
 50. [宝可梦传说阿尔宙斯](https://s.weibo.com//weibo?q=%23%E5%AE%9D%E5%8F%AF%E6%A2%A6%E4%BC%A0%E8%AF%B4%E9%98%BF%E5%B0%94%E5%AE%99%E6%96%AF%23&Refer=top) 105768
 51. [photic金克丝五杀](https://s.weibo.com//weibo?q=%23photic%E9%87%91%E5%85%8B%E4%B8%9D%E4%BA%94%E6%9D%80%23&Refer=top) 79892
 52. [这篇夜读送给备战高考的你](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%AF%87%E5%A4%9C%E8%AF%BB%E9%80%81%E7%BB%99%E5%A4%87%E6%88%98%E9%AB%98%E8%80%83%E7%9A%84%E4%BD%A0%23&Refer=top) 50402
+53. [ale LNG](https://s.weibo.com//weibo?q=ale%20LNG&Refer=top) 46956
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
