@@ -60,8 +60,8 @@ weibo_top
 49. [车臣武装对战局有何影响](https://s.weibo.com//weibo?q=%23%E8%BD%A6%E8%87%A3%E6%AD%A6%E8%A3%85%E5%AF%B9%E6%88%98%E5%B1%80%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D%23&Refer=top) 120975
 50. [宝可梦传说阿尔宙斯](https://s.weibo.com//weibo?q=%23%E5%AE%9D%E5%8F%AF%E6%A2%A6%E4%BC%A0%E8%AF%B4%E9%98%BF%E5%B0%94%E5%AE%99%E6%96%AF%23&Refer=top) 105768
 51. [photic金克丝五杀](https://s.weibo.com//weibo?q=%23photic%E9%87%91%E5%85%8B%E4%B8%9D%E4%BA%94%E6%9D%80%23&Refer=top) 79892
-52. [这篇夜读送给备战高考的你](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%AF%87%E5%A4%9C%E8%AF%BB%E9%80%81%E7%BB%99%E5%A4%87%E6%88%98%E9%AB%98%E8%80%83%E7%9A%84%E4%BD%A0%23&Refer=top) 50402
-53. [ale LNG](https://s.weibo.com//weibo?q=ale%20LNG&Refer=top) 46956
+52. [ale LNG](https://s.weibo.com//weibo?q=ale%20LNG&Refer=top) 65707
+53. [这篇夜读送给备战高考的你](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%AF%87%E5%A4%9C%E8%AF%BB%E9%80%81%E7%BB%99%E5%A4%87%E6%88%98%E9%AB%98%E8%80%83%E7%9A%84%E4%BD%A0%23&Refer=top) 50402
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
