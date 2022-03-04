@@ -53,6 +53,7 @@ weibo_top
 42. [全方位脱毛干货](https://s.weibo.com//weibo?q=%23%E5%85%A8%E6%96%B9%E4%BD%8D%E8%84%B1%E6%AF%9B%E5%B9%B2%E8%B4%A7%23&Refer=top) 159258
 43. [羽绒和短袖齐现广东街头](https://s.weibo.com//weibo?q=%23%E7%BE%BD%E7%BB%92%E5%92%8C%E7%9F%AD%E8%A2%96%E9%BD%90%E7%8E%B0%E5%B9%BF%E4%B8%9C%E8%A1%97%E5%A4%B4%23&Refer=top) 151549
 44. [厨师都不愿做的菜能有多绝](https://s.weibo.com//weibo?q=%23%E5%8E%A8%E5%B8%88%E9%83%BD%E4%B8%8D%E6%84%BF%E5%81%9A%E7%9A%84%E8%8F%9C%E8%83%BD%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 148225
+45. [7岁女童患长发公主综合症胃石重3斤](https://s.weibo.com//weibo?q=%237%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%82%A3%E9%95%BF%E5%8F%91%E5%85%AC%E4%B8%BB%E7%BB%BC%E5%90%88%E7%97%87%E8%83%83%E7%9F%B3%E9%87%8D3%E6%96%A4%23&Refer=top) 42442
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
