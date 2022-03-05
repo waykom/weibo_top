@@ -51,7 +51,7 @@ weibo_top
 40. [消防员手上老茧可插钢针](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%89%8B%E4%B8%8A%E8%80%81%E8%8C%A7%E5%8F%AF%E6%8F%92%E9%92%A2%E9%92%88%23&Refer=top) 115376
 41. [原来以前我坐的石墩那么贵](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BB%A5%E5%89%8D%E6%88%91%E5%9D%90%E7%9A%84%E7%9F%B3%E5%A2%A9%E9%82%A3%E4%B9%88%E8%B4%B5%23&Refer=top) 86551
 42. [浙江男篮vs辽宁男篮](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%B7%E7%AF%AEvs%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%23&Refer=top) 21356
-43. [圣枪哥没上](https://s.weibo.com//weibo?q=%23%E5%9C%A3%E6%9E%AA%E5%93%A5%E6%B2%A1%E4%B8%8A%23&Refer=top) 13327
+43. [圣枪哥没上](https://s.weibo.com//weibo?q=%23%E5%9C%A3%E6%9E%AA%E5%93%A5%E6%B2%A1%E4%B8%8A%23&Refer=top) 17507
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
