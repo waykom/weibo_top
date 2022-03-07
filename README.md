@@ -60,8 +60,8 @@ weibo_top
 49. [楼上倒沐浴液楼下多家厕所吐泡泡](https://s.weibo.com//weibo?q=%23%E6%A5%BC%E4%B8%8A%E5%80%92%E6%B2%90%E6%B5%B4%E6%B6%B2%E6%A5%BC%E4%B8%8B%E5%A4%9A%E5%AE%B6%E5%8E%95%E6%89%80%E5%90%90%E6%B3%A1%E6%B3%A1%23&Refer=top) 47829
 50. [年轻人的包有多怪](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E5%8C%85%E6%9C%89%E5%A4%9A%E6%80%AA%23&Refer=top) 44166
 51. [轮椅冰壶](https://s.weibo.com//weibo?q=%E8%BD%AE%E6%A4%85%E5%86%B0%E5%A3%B6&Refer=top) 30438
-52. [剁椒辣翅](https://s.weibo.com//weibo?q=%23%E5%89%81%E6%A4%92%E8%BE%A3%E7%BF%85%23&Refer=top) 23246
-53. [那些损伤听力的生活习惯](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E6%8D%9F%E4%BC%A4%E5%90%AC%E5%8A%9B%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%23&Refer=top) 17958
+52. [那些损伤听力的生活习惯](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E6%8D%9F%E4%BC%A4%E5%90%AC%E5%8A%9B%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%23&Refer=top) 23485
+53. [剁椒辣翅](https://s.weibo.com//weibo?q=%23%E5%89%81%E6%A4%92%E8%BE%A3%E7%BF%85%23&Refer=top) 23246
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
