@@ -59,12 +59,12 @@ weibo_top
 48. [建议将关爱动物生命教育纳入中小学教材](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%85%B3%E7%88%B1%E5%8A%A8%E7%89%A9%E7%94%9F%E5%91%BD%E6%95%99%E8%82%B2%E7%BA%B3%E5%85%A5%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E6%9D%90%23&Refer=top) 48360
 49. [楼上倒沐浴液楼下多家厕所吐泡泡](https://s.weibo.com//weibo?q=%23%E6%A5%BC%E4%B8%8A%E5%80%92%E6%B2%90%E6%B5%B4%E6%B6%B2%E6%A5%BC%E4%B8%8B%E5%A4%9A%E5%AE%B6%E5%8E%95%E6%89%80%E5%90%90%E6%B3%A1%E6%B3%A1%23&Refer=top) 47829
 50. [年轻人的包有多怪](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E5%8C%85%E6%9C%89%E5%A4%9A%E6%80%AA%23&Refer=top) 44166
-51. [那些损伤听力的生活习惯](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E6%8D%9F%E4%BC%A4%E5%90%AC%E5%8A%9B%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%23&Refer=top) 35128
+51. [那些损伤听力的生活习惯](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E6%8D%9F%E4%BC%A4%E5%90%AC%E5%8A%9B%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%23&Refer=top) 36936
 52. [轮椅冰壶](https://s.weibo.com//weibo?q=%E8%BD%AE%E6%A4%85%E5%86%B0%E5%A3%B6&Refer=top) 30438
-53. [剁椒辣翅](https://s.weibo.com//weibo?q=%23%E5%89%81%E6%A4%92%E8%BE%A3%E7%BF%85%23&Refer=top) 23246
-54. [建议公开各地交通罚款收入](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%AC%E5%BC%80%E5%90%84%E5%9C%B0%E4%BA%A4%E9%80%9A%E7%BD%9A%E6%AC%BE%E6%94%B6%E5%85%A5%23&Refer=top) 16704
-55. [建议对拐卖知情不报者追责](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9%E6%8B%90%E5%8D%96%E7%9F%A5%E6%83%85%E4%B8%8D%E6%8A%A5%E8%80%85%E8%BF%BD%E8%B4%A3%23&Refer=top) 16081
-56. [王贵齐委员谈癌症早期筛查](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%B4%B5%E9%BD%90%E5%A7%94%E5%91%98%E8%B0%88%E7%99%8C%E7%97%87%E6%97%A9%E6%9C%9F%E7%AD%9B%E6%9F%A5%23&Refer=top) 12849
+53. [建议公开各地交通罚款收入](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%AC%E5%BC%80%E5%90%84%E5%9C%B0%E4%BA%A4%E9%80%9A%E7%BD%9A%E6%AC%BE%E6%94%B6%E5%85%A5%23&Refer=top) 23563
+54. [剁椒辣翅](https://s.weibo.com//weibo?q=%23%E5%89%81%E6%A4%92%E8%BE%A3%E7%BF%85%23&Refer=top) 23246
+55. [建议对拐卖知情不报者追责](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AF%B9%E6%8B%90%E5%8D%96%E7%9F%A5%E6%83%85%E4%B8%8D%E6%8A%A5%E8%80%85%E8%BF%BD%E8%B4%A3%23&Refer=top) 19577
+56. [王贵齐委员谈癌症早期筛查](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%B4%B5%E9%BD%90%E5%A7%94%E5%91%98%E8%B0%88%E7%99%8C%E7%97%87%E6%97%A9%E6%9C%9F%E7%AD%9B%E6%9F%A5%23&Refer=top) 14560
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
