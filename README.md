@@ -57,9 +57,9 @@ weibo_top
 46. [宠物鹦鹉淡定伸头给狗狗剔牙](https://s.weibo.com//weibo?q=%23%E5%AE%A0%E7%89%A9%E9%B9%A6%E9%B9%89%E6%B7%A1%E5%AE%9A%E4%BC%B8%E5%A4%B4%E7%BB%99%E7%8B%97%E7%8B%97%E5%89%94%E7%89%99%23&Refer=top) 72088
 47. [建议尽快实现乳腺癌宫颈癌筛查全覆盖](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%BD%E5%BF%AB%E5%AE%9E%E7%8E%B0%E4%B9%B3%E8%85%BA%E7%99%8C%E5%AE%AB%E9%A2%88%E7%99%8C%E7%AD%9B%E6%9F%A5%E5%85%A8%E8%A6%86%E7%9B%96%23&Refer=top) 50497
 48. [俄称美在乌克兰建超30个生物实验室](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%A7%B0%E7%BE%8E%E5%9C%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BB%BA%E8%B6%8530%E4%B8%AA%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%E5%AE%A4%23&Refer=top) 47449
-49. [闺蜜送来的礼物有多离谱](https://s.weibo.com//weibo?q=%23%E9%97%BA%E8%9C%9C%E9%80%81%E6%9D%A5%E7%9A%84%E7%A4%BC%E7%89%A9%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top) 22268
-50. [陕西本轮疫情表现出高度场所聚集性](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E8%A1%A8%E7%8E%B0%E5%87%BA%E9%AB%98%E5%BA%A6%E5%9C%BA%E6%89%80%E8%81%9A%E9%9B%86%E6%80%A7%23&Refer=top) 16852
-51. [妇女节换购黄金顾客称被套路](https://s.weibo.com//weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E6%8D%A2%E8%B4%AD%E9%BB%84%E9%87%91%E9%A1%BE%E5%AE%A2%E7%A7%B0%E8%A2%AB%E5%A5%97%E8%B7%AF%23&Refer=top) 12075
+49. [陕西本轮疫情表现出高度场所聚集性](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E8%A1%A8%E7%8E%B0%E5%87%BA%E9%AB%98%E5%BA%A6%E5%9C%BA%E6%89%80%E8%81%9A%E9%9B%86%E6%80%A7%23&Refer=top) 24424
+50. [闺蜜送来的礼物有多离谱](https://s.weibo.com//weibo?q=%23%E9%97%BA%E8%9C%9C%E9%80%81%E6%9D%A5%E7%9A%84%E7%A4%BC%E7%89%A9%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top) 22268
+51. [妇女节换购黄金顾客称被套路](https://s.weibo.com//weibo?q=%23%E5%A6%87%E5%A5%B3%E8%8A%82%E6%8D%A2%E8%B4%AD%E9%BB%84%E9%87%91%E9%A1%BE%E5%AE%A2%E7%A7%B0%E8%A2%AB%E5%A5%97%E8%B7%AF%23&Refer=top) 13325
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
