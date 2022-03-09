@@ -49,6 +49,8 @@ weibo_top
 38. [建议独生子女父母退休金上调10-20%](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E7%88%B6%E6%AF%8D%E9%80%80%E4%BC%91%E9%87%91%E4%B8%8A%E8%B0%8310-20%25%23&Refer=top) 117100
 39. [建议将盲驾行为视为危险驾驶](https://s.weibo.com//weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%86%E7%9B%B2%E9%A9%BE%E8%A1%8C%E4%B8%BA%E8%A7%86%E4%B8%BA%E5%8D%B1%E9%99%A9%E9%A9%BE%E9%A9%B6%23&Refer=top) 105496
 40. [女孩被蜘蛛咬伤随后一幕吓坏家长](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%9C%98%E8%9B%9B%E5%92%AC%E4%BC%A4%E9%9A%8F%E5%90%8E%E4%B8%80%E5%B9%95%E5%90%93%E5%9D%8F%E5%AE%B6%E9%95%BF%23&Refer=top) 94451
+41. [杨幂sofigaro三月刊封面](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82sofigaro%E4%B8%89%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%23&Refer=top) 57578
+42. [韩国山火面积逼近历史纪录](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B1%B1%E7%81%AB%E9%9D%A2%E7%A7%AF%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23&Refer=top) 39981
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
