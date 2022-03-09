@@ -51,6 +51,7 @@ weibo_top
 40. [女孩被蜘蛛咬伤随后一幕吓坏家长](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%9C%98%E8%9B%9B%E5%92%AC%E4%BC%A4%E9%9A%8F%E5%90%8E%E4%B8%80%E5%B9%95%E5%90%93%E5%9D%8F%E5%AE%B6%E9%95%BF%23&Refer=top) 94451
 41. [韩国山火面积逼近历史纪录](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B1%B1%E7%81%AB%E9%9D%A2%E7%A7%AF%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23&Refer=top) 66050
 42. [杨幂sofigaro三月刊封面](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E5%B9%82sofigaro%E4%B8%89%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%23&Refer=top) 57578
+43. [北京环球影城表演一观众踹倒演员](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%AF%E7%90%83%E5%BD%B1%E5%9F%8E%E8%A1%A8%E6%BC%94%E4%B8%80%E8%A7%82%E4%BC%97%E8%B8%B9%E5%80%92%E6%BC%94%E5%91%98%23&Refer=top) 20451
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
