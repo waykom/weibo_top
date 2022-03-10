@@ -49,8 +49,9 @@ weibo_top
 38. [华为新人第一课](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BA%E6%96%B0%E4%BA%BA%E7%AC%AC%E4%B8%80%E8%AF%BE&Refer=top) 181218
 39. [莱西市疫情防控履职不力问题处理情况](https://s.weibo.com//weibo?q=%23%E8%8E%B1%E8%A5%BF%E5%B8%82%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%B1%A5%E8%81%8C%E4%B8%8D%E5%8A%9B%E9%97%AE%E9%A2%98%E5%A4%84%E7%90%86%E6%83%85%E5%86%B5%23&Refer=top) 180269
 40. [4岁男孩反复咳嗽流鼻涕却不是感冒](https://s.weibo.com//weibo?q=%234%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%8D%E5%A4%8D%E5%92%B3%E5%97%BD%E6%B5%81%E9%BC%BB%E6%B6%95%E5%8D%B4%E4%B8%8D%E6%98%AF%E6%84%9F%E5%86%92%23&Refer=top) 168616
-41. [吉林农业科技学院将密接次密接学生转运出校](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2%E5%B0%86%E5%AF%86%E6%8E%A5%E6%AC%A1%E5%AF%86%E6%8E%A5%E5%AD%A6%E7%94%9F%E8%BD%AC%E8%BF%90%E5%87%BA%E6%A0%A1%23&Refer=top) 79260
-42. [在IMAX上玩神秘海域](https://s.weibo.com//weibo?q=%23%E5%9C%A8IMAX%E4%B8%8A%E7%8E%A9%E7%A5%9E%E7%A7%98%E6%B5%B7%E5%9F%9F%23&Refer=top) 65026
+41. [22岁常年熬夜男生患感冒查出尿毒症](https://s.weibo.com//weibo?q=%2322%E5%B2%81%E5%B8%B8%E5%B9%B4%E7%86%AC%E5%A4%9C%E7%94%B7%E7%94%9F%E6%82%A3%E6%84%9F%E5%86%92%E6%9F%A5%E5%87%BA%E5%B0%BF%E6%AF%92%E7%97%87%23&Refer=top) 81374
+42. [吉林农业科技学院将密接次密接学生转运出校](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E5%86%9C%E4%B8%9A%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2%E5%B0%86%E5%AF%86%E6%8E%A5%E6%AC%A1%E5%AF%86%E6%8E%A5%E5%AD%A6%E7%94%9F%E8%BD%AC%E8%BF%90%E5%87%BA%E6%A0%A1%23&Refer=top) 79260
+43. [在IMAX上玩神秘海域](https://s.weibo.com//weibo?q=%23%E5%9C%A8IMAX%E4%B8%8A%E7%8E%A9%E7%A5%9E%E7%A7%98%E6%B5%B7%E5%9F%9F%23&Refer=top) 72190
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
