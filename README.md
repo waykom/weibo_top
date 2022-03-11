@@ -49,7 +49,9 @@ weibo_top
 38. [广东人的攀比逻辑](https://s.weibo.com//weibo?q=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E6%94%80%E6%AF%94%E9%80%BB%E8%BE%91&Refer=top) 202934
 39. [雪容融又又又又摔倒了](https://s.weibo.com//weibo?q=%23%E9%9B%AA%E5%AE%B9%E8%9E%8D%E5%8F%88%E5%8F%88%E5%8F%88%E5%8F%88%E6%91%94%E5%80%92%E4%BA%86%23&Refer=top) 201038
 40. [认错爸妈的瞬间有多尴尬](https://s.weibo.com//weibo?q=%23%E8%AE%A4%E9%94%99%E7%88%B8%E5%A6%88%E7%9A%84%E7%9E%AC%E9%97%B4%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC%23&Refer=top) 185264
-41. [原来你们就是气氛终结者](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%AC%E5%B0%B1%E6%98%AF%E6%B0%94%E6%B0%9B%E7%BB%88%E7%BB%93%E8%80%85%23&Refer=top) 109913
+41. [韩国21小时内新增新冠确诊超34万](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD21%E5%B0%8F%E6%97%B6%E5%86%85%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%B6%8534%E4%B8%87%23&Refer=top) 180258
+42. [原来你们就是气氛终结者](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%AC%E5%B0%B1%E6%98%AF%E6%B0%94%E6%B0%9B%E7%BB%88%E7%BB%93%E8%80%85%23&Refer=top) 109913
+43. [T1十五连胜刷新纪录](https://s.weibo.com//weibo?q=%23T1%E5%8D%81%E4%BA%94%E8%BF%9E%E8%83%9C%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95%23&Refer=top) 82599
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
