@@ -53,7 +53,9 @@ weibo_top
 42. [GNR 大象杯](https://s.weibo.com//weibo?q=GNR%20%E5%A4%A7%E8%B1%A1%E6%9D%AF&Refer=top) 134318
 43. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 133667
 44. [咸梅促肉](https://s.weibo.com//weibo?q=%23%E5%92%B8%E6%A2%85%E4%BF%83%E8%82%89%23&Refer=top) 70790
-45. [美股 港股](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1%20%E6%B8%AF%E8%82%A1&Refer=top) 45276
+45. [美股 港股](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1%20%E6%B8%AF%E8%82%A1&Refer=top) 65614
+46. [中方车队抵达中美会晤地点视频](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E8%BD%A6%E9%98%9F%E6%8A%B5%E8%BE%BE%E4%B8%AD%E7%BE%8E%E4%BC%9A%E6%99%A4%E5%9C%B0%E7%82%B9%E8%A7%86%E9%A2%91%23&Refer=top) 22449
+47. [泽连斯基无法在欧洲理事会议会大会上发言](https://s.weibo.com//weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%97%A0%E6%B3%95%E5%9C%A8%E6%AC%A7%E6%B4%B2%E7%90%86%E4%BA%8B%E4%BC%9A%E8%AE%AE%E4%BC%9A%E5%A4%A7%E4%BC%9A%E4%B8%8A%E5%8F%91%E8%A8%80%23&Refer=top) 17287
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
