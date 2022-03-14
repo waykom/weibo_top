@@ -53,7 +53,7 @@ weibo_top
 42. [GNR 大象杯](https://s.weibo.com//weibo?q=GNR%20%E5%A4%A7%E8%B1%A1%E6%9D%AF&Refer=top) 134318
 43. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 133667
 44. [咸梅促肉](https://s.weibo.com//weibo?q=%23%E5%92%B8%E6%A2%85%E4%BF%83%E8%82%89%23&Refer=top) 70790
-45. [美股 港股](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1%20%E6%B8%AF%E8%82%A1&Refer=top) 19401
+45. [美股 港股](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1%20%E6%B8%AF%E8%82%A1&Refer=top) 45276
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
