@@ -20,12 +20,12 @@ weibo_top
 9. [上海交大上千老师开私家车为学生送饭](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%B8%8A%E5%8D%83%E8%80%81%E5%B8%88%E5%BC%80%E7%A7%81%E5%AE%B6%E8%BD%A6%E4%B8%BA%E5%AD%A6%E7%94%9F%E9%80%81%E9%A5%AD%23&Refer=top) 793711
 10. [Uzi哽咽了](https://s.weibo.com//weibo?q=%23Uzi%E5%93%BD%E5%92%BD%E4%BA%86%23&Refer=top) 763184
 11. [外交部提醒已自乌撤离中国公民暂勿返乌](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E5%B7%B2%E8%87%AA%E4%B9%8C%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E8%BF%94%E4%B9%8C%23&Refer=top) 741290
-12. [巩汉林回应冯潇霆](https://s.weibo.com//weibo?q=%23%E5%B7%A9%E6%B1%89%E6%9E%97%E5%9B%9E%E5%BA%94%E5%86%AF%E6%BD%87%E9%9C%86%23&Refer=top) 658694
-13. [拍个身份证照片能有多难](https://s.weibo.com//weibo?q=%23%E6%8B%8D%E4%B8%AA%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%E8%83%BD%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top) 615731
-14. [乌媒称俄罗斯提出六条停战条件](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E7%BD%97%E6%96%AF%E6%8F%90%E5%87%BA%E5%85%AD%E6%9D%A1%E5%81%9C%E6%88%98%E6%9D%A1%E4%BB%B6%23&Refer=top) 531810
-15. [廊坊长征医院](https://s.weibo.com//weibo?q=%E5%BB%8A%E5%9D%8A%E9%95%BF%E5%BE%81%E5%8C%BB%E9%99%A2&Refer=top) 517946
-16. [小县城的夏天有多美好](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%9C%89%E5%A4%9A%E7%BE%8E%E5%A5%BD%23&Refer=top) 513629
-17. [悦诗风吟最高涨价36%](https://s.weibo.com//weibo?q=%23%E6%82%A6%E8%AF%97%E9%A3%8E%E5%90%9F%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B736%25%23&Refer=top) 489062
+12. [悦诗风吟最高涨价36%](https://s.weibo.com//weibo?q=%23%E6%82%A6%E8%AF%97%E9%A3%8E%E5%90%9F%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B736%25%23&Refer=top) 694928
+13. [巩汉林回应冯潇霆](https://s.weibo.com//weibo?q=%23%E5%B7%A9%E6%B1%89%E6%9E%97%E5%9B%9E%E5%BA%94%E5%86%AF%E6%BD%87%E9%9C%86%23&Refer=top) 658694
+14. [拍个身份证照片能有多难](https://s.weibo.com//weibo?q=%23%E6%8B%8D%E4%B8%AA%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%E8%83%BD%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top) 615731
+15. [乌媒称俄罗斯提出六条停战条件](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%AA%92%E7%A7%B0%E4%BF%84%E7%BD%97%E6%96%AF%E6%8F%90%E5%87%BA%E5%85%AD%E6%9D%A1%E5%81%9C%E6%88%98%E6%9D%A1%E4%BB%B6%23&Refer=top) 531810
+16. [廊坊长征医院](https://s.weibo.com//weibo?q=%E5%BB%8A%E5%9D%8A%E9%95%BF%E5%BE%81%E5%8C%BB%E9%99%A2&Refer=top) 517946
+17. [小县城的夏天有多美好](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%9C%89%E5%A4%9A%E7%BE%8E%E5%A5%BD%23&Refer=top) 513629
 18. [90后为何越来越愿意接受灵活就业](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%84%BF%E6%84%8F%E6%8E%A5%E5%8F%97%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%23&Refer=top) 455098
 19. [吉林我们来了](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86%23&Refer=top) 441549
 20. [为什么女生要把自己看得金贵](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%B3%E7%94%9F%E8%A6%81%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9C%8B%E5%BE%97%E9%87%91%E8%B4%B5%23&Refer=top) 380640
@@ -50,6 +50,7 @@ weibo_top
 39. [BLG战胜UP](https://s.weibo.com//weibo?q=%23BLG%E6%88%98%E8%83%9CUP%23&Refer=top) 151892
 40. [赵立坚称台湾如被俄制裁是咎由自取](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E7%A7%B0%E5%8F%B0%E6%B9%BE%E5%A6%82%E8%A2%AB%E4%BF%84%E5%88%B6%E8%A3%81%E6%98%AF%E5%92%8E%E7%94%B1%E8%87%AA%E5%8F%96%23&Refer=top) 142609
 41. [GNR 大象杯](https://s.weibo.com//weibo?q=GNR%20%E5%A4%A7%E8%B1%A1%E6%9D%AF&Refer=top) 134318
+42. [原神](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 108413
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
