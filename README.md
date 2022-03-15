@@ -57,7 +57,8 @@ weibo_top
 46. [韩国新增确诊超44万例](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E8%B6%8544%E4%B8%87%E4%BE%8B%23&Refer=top) 301663
 47. [男子为制毒到大学旁听化学](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E5%88%B6%E6%AF%92%E5%88%B0%E5%A4%A7%E5%AD%A6%E6%97%81%E5%90%AC%E5%8C%96%E5%AD%A6%23&Refer=top) 272000
 48. [明星收入畸高如何规范](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%98%9F%E6%94%B6%E5%85%A5%E7%95%B8%E9%AB%98%E5%A6%82%E4%BD%95%E8%A7%84%E8%8C%83%23&Refer=top) 258986
-49. [邓超到底能有多享受舞台](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E5%88%B0%E5%BA%95%E8%83%BD%E6%9C%89%E5%A4%9A%E4%BA%AB%E5%8F%97%E8%88%9E%E5%8F%B0%23&Refer=top) 170479
+49. [邓超到底能有多享受舞台](https://s.weibo.com//weibo?q=%23%E9%82%93%E8%B6%85%E5%88%B0%E5%BA%95%E8%83%BD%E6%9C%89%E5%A4%9A%E4%BA%AB%E5%8F%97%E8%88%9E%E5%8F%B0%23&Refer=top) 181751
+50. [戚风蛋糕能有多富贵](https://s.weibo.com//weibo?q=%23%E6%88%9A%E9%A3%8E%E8%9B%8B%E7%B3%95%E8%83%BD%E6%9C%89%E5%A4%9A%E5%AF%8C%E8%B4%B5%23&Refer=top) 19814
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
