@@ -59,7 +59,7 @@ weibo_top
 48. [大牌小众香分享](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%89%8C%E5%B0%8F%E4%BC%97%E9%A6%99%E5%88%86%E4%BA%AB&Refer=top) 256302
 49. [美联储加息](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF%23&Refer=top) 209656
 50. [想不起来这是什么歌了](https://s.weibo.com//weibo?q=%23%E6%83%B3%E4%B8%8D%E8%B5%B7%E6%9D%A5%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%AD%8C%E4%BA%86%23&Refer=top) 96484
-51. [北大教授劝年轻人别太早买房](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E5%8A%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%88%AB%E5%A4%AA%E6%97%A9%E4%B9%B0%E6%88%BF%23&Refer=top) 21928
+51. [北大教授劝年轻人别太早买房](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E5%8A%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%88%AB%E5%A4%AA%E6%97%A9%E4%B9%B0%E6%88%BF%23&Refer=top) 49903
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
