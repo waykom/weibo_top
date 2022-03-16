@@ -10,33 +10,33 @@ weibo_top
 
 # 今日热门搜索  
 1. [日本地震](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23&Refer=top) 4113675
-2. [华师大](https://s.weibo.com//weibo?q=%E5%8D%8E%E5%B8%88%E5%A4%A7&Refer=top) 3736540
-3. [不同的城市相同的守护者](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9F%8E%E5%B8%82%E7%9B%B8%E5%90%8C%E7%9A%84%E5%AE%88%E6%8A%A4%E8%80%85%23&Refer=top) 2647901
-4. [分手后一定要删除对方吗](https://s.weibo.com//weibo?q=%23%E5%88%86%E6%89%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E5%88%A0%E9%99%A4%E5%AF%B9%E6%96%B9%E5%90%97%23&Refer=top) 2526455
+2. [分手后一定要删除对方吗](https://s.weibo.com//weibo?q=%23%E5%88%86%E6%89%8B%E5%90%8E%E4%B8%80%E5%AE%9A%E8%A6%81%E5%88%A0%E9%99%A4%E5%AF%B9%E6%96%B9%E5%90%97%23&Refer=top) 3751974
+3. [华师大](https://s.weibo.com//weibo?q=%E5%8D%8E%E5%B8%88%E5%A4%A7&Refer=top) 3736540
+4. [不同的城市相同的守护者](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9F%8E%E5%B8%82%E7%9B%B8%E5%90%8C%E7%9A%84%E5%AE%88%E6%8A%A4%E8%80%85%23&Refer=top) 3008028
 5. [工行2.5亿存款不翼而飞](https://s.weibo.com//weibo?q=%E5%B7%A5%E8%A1%8C2.5%E4%BA%BF%E5%AD%98%E6%AC%BE%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9E&Refer=top) 2316103
 6. [今麦郎声明](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E9%BA%A6%E9%83%8E%E5%A3%B0%E6%98%8E%23&Refer=top) 2142112
 7. [李佳航发文谈男足](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E5%8F%91%E6%96%87%E8%B0%88%E7%94%B7%E8%B6%B3%23&Refer=top) 1494352
-8. [日本接连发生2次强烈地震](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F2%E6%AC%A1%E5%BC%BA%E7%83%88%E5%9C%B0%E9%9C%87%23&Refer=top) 1371816
+8. [日本接连发生2次强烈地震](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F2%E6%AC%A1%E5%BC%BA%E7%83%88%E5%9C%B0%E9%9C%87%23&Refer=top) 1433695
 9. [日本本州7.4级地震](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E7.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top) 1287413
 10. [张艺谋给刘浩存未来发展的建议](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%BB%99%E5%88%98%E6%B5%A9%E5%AD%98%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95%E7%9A%84%E5%BB%BA%E8%AE%AE%23&Refer=top) 1040403
 11. [深圳信息职业技术学院](https://s.weibo.com//weibo?q=%E6%B7%B1%E5%9C%B3%E4%BF%A1%E6%81%AF%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&Refer=top) 977277
 12. [拜登又口误称第一夫人的丈夫感染新冠](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%88%E5%8F%A3%E8%AF%AF%E7%A7%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E7%9A%84%E4%B8%88%E5%A4%AB%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top) 891744
 13. [董路回击冯巩](https://s.weibo.com//weibo?q=%23%E8%91%A3%E8%B7%AF%E5%9B%9E%E5%87%BB%E5%86%AF%E5%B7%A9%23&Refer=top) 877861
 14. [普京发表讲话称没有占领乌克兰的计划](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%8D%A0%E9%A2%86%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9A%84%E8%AE%A1%E5%88%92%23&Refer=top) 844809
-15. [你从哪首歌开始听周杰伦的](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BB%8E%E5%93%AA%E9%A6%96%E6%AD%8C%E5%BC%80%E5%A7%8B%E5%90%AC%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9A%84%23&Refer=top) 768766
-16. [中国男足](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%23&Refer=top) 763459
-17. [95号汽油将进入9元时代](https://s.weibo.com//weibo?q=%2395%E5%8F%B7%E6%B1%BD%E6%B2%B9%E5%B0%86%E8%BF%9B%E5%85%A59%E5%85%83%E6%97%B6%E4%BB%A3%23&Refer=top) 733486
-18. [中国男足需要什么样的舆论环境](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E8%88%86%E8%AE%BA%E7%8E%AF%E5%A2%83%23&Refer=top) 671234
-19. [5千元平板谁最值得买](https://s.weibo.com//weibo?q=%235%E5%8D%83%E5%85%83%E5%B9%B3%E6%9D%BF%E8%B0%81%E6%9C%80%E5%80%BC%E5%BE%97%E4%B9%B0%23&Refer=top) 626052
-20. [日本福岛县发生7.3级地震](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E5%8E%BF%E5%8F%91%E7%94%9F7.3%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 625767
-21. [马嘉祺河南省表演专业统考第一](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%B2%B3%E5%8D%97%E7%9C%81%E8%A1%A8%E6%BC%94%E4%B8%93%E4%B8%9A%E7%BB%9F%E8%80%83%E7%AC%AC%E4%B8%80%23&Refer=top) 624862
-22. [杭州的加油站爆满](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%9A%84%E5%8A%A0%E6%B2%B9%E7%AB%99%E7%88%86%E6%BB%A1%23&Refer=top) 596656
-23. [我还能有机会亲眼去看看这样的世界吗](https://s.weibo.com//weibo?q=%23%E6%88%91%E8%BF%98%E8%83%BD%E6%9C%89%E6%9C%BA%E4%BC%9A%E4%BA%B2%E7%9C%BC%E5%8E%BB%E7%9C%8B%E7%9C%8B%E8%BF%99%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%97%23&Refer=top) 591684
-24. [爸爸建议女儿住隔离酒店朝公路的房间](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E5%BB%BA%E8%AE%AE%E5%A5%B3%E5%84%BF%E4%BD%8F%E9%9A%94%E7%A6%BB%E9%85%92%E5%BA%97%E6%9C%9D%E5%85%AC%E8%B7%AF%E7%9A%84%E6%88%BF%E9%97%B4%23&Refer=top) 563231
-25. [他是真的想有个妹妹](https://s.weibo.com//weibo?q=%23%E4%BB%96%E6%98%AF%E7%9C%9F%E7%9A%84%E6%83%B3%E6%9C%89%E4%B8%AA%E5%A6%B9%E5%A6%B9%23&Refer=top) 541734
-26. [苹果最便宜的M1产品](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84M1%E4%BA%A7%E5%93%81%23&Refer=top) 529025
-27. [华为发布首款鸿蒙智能门锁](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81%23&Refer=top) 502942
-28. [在东北洗澡吃烧烤](https://s.weibo.com//weibo?q=%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%B4%97%E6%BE%A1%E5%90%83%E7%83%A7%E7%83%A4&Refer=top) 489223
+15. [苹果最便宜的M1产品](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84M1%E4%BA%A7%E5%93%81%23&Refer=top) 829101
+16. [你从哪首歌开始听周杰伦的](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BB%8E%E5%93%AA%E9%A6%96%E6%AD%8C%E5%BC%80%E5%A7%8B%E5%90%AC%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9A%84%23&Refer=top) 768766
+17. [中国男足](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%23&Refer=top) 763459
+18. [95号汽油将进入9元时代](https://s.weibo.com//weibo?q=%2395%E5%8F%B7%E6%B1%BD%E6%B2%B9%E5%B0%86%E8%BF%9B%E5%85%A59%E5%85%83%E6%97%B6%E4%BB%A3%23&Refer=top) 733486
+19. [中国男足需要什么样的舆论环境](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E8%88%86%E8%AE%BA%E7%8E%AF%E5%A2%83%23&Refer=top) 671234
+20. [5千元平板谁最值得买](https://s.weibo.com//weibo?q=%235%E5%8D%83%E5%85%83%E5%B9%B3%E6%9D%BF%E8%B0%81%E6%9C%80%E5%80%BC%E5%BE%97%E4%B9%B0%23&Refer=top) 663854
+21. [日本福岛县发生7.3级地震](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E5%8E%BF%E5%8F%91%E7%94%9F7.3%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 625767
+22. [马嘉祺河南省表演专业统考第一](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%B2%B3%E5%8D%97%E7%9C%81%E8%A1%A8%E6%BC%94%E4%B8%93%E4%B8%9A%E7%BB%9F%E8%80%83%E7%AC%AC%E4%B8%80%23&Refer=top) 624862
+23. [杭州的加油站爆满](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%9A%84%E5%8A%A0%E6%B2%B9%E7%AB%99%E7%88%86%E6%BB%A1%23&Refer=top) 596656
+24. [我还能有机会亲眼去看看这样的世界吗](https://s.weibo.com//weibo?q=%23%E6%88%91%E8%BF%98%E8%83%BD%E6%9C%89%E6%9C%BA%E4%BC%9A%E4%BA%B2%E7%9C%BC%E5%8E%BB%E7%9C%8B%E7%9C%8B%E8%BF%99%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%97%23&Refer=top) 591684
+25. [爸爸建议女儿住隔离酒店朝公路的房间](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E5%BB%BA%E8%AE%AE%E5%A5%B3%E5%84%BF%E4%BD%8F%E9%9A%94%E7%A6%BB%E9%85%92%E5%BA%97%E6%9C%9D%E5%85%AC%E8%B7%AF%E7%9A%84%E6%88%BF%E9%97%B4%23&Refer=top) 563231
+26. [他是真的想有个妹妹](https://s.weibo.com//weibo?q=%23%E4%BB%96%E6%98%AF%E7%9C%9F%E7%9A%84%E6%83%B3%E6%9C%89%E4%B8%AA%E5%A6%B9%E5%A6%B9%23&Refer=top) 555177
+27. [在东北洗澡吃烧烤](https://s.weibo.com//weibo?q=%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%B4%97%E6%BE%A1%E5%90%83%E7%83%A7%E7%83%A4&Refer=top) 511412
+28. [华为发布首款鸿蒙智能门锁](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81%23&Refer=top) 502942
 29. [王楚钦孙颖莎新加坡大满贯混双夺冠](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%B7%B7%E5%8F%8C%E5%A4%BA%E5%86%A0%23&Refer=top) 461923
 30. [华为P50有九种颜色](https://s.weibo.com//weibo?q=%E5%8D%8E%E4%B8%BAP50%E6%9C%89%E4%B9%9D%E7%A7%8D%E9%A2%9C%E8%89%B2&Refer=top) 397069
 31. [冯巩](https://s.weibo.com//weibo?q=%E5%86%AF%E5%B7%A9&Refer=top) 381870
@@ -48,7 +48,8 @@ weibo_top
 37. [原来平底锅也能做舒芙蕾](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B9%B3%E5%BA%95%E9%94%85%E4%B9%9F%E8%83%BD%E5%81%9A%E8%88%92%E8%8A%99%E8%95%BE%23&Refer=top) 298733
 38. [中山大学](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6&Refer=top) 290417
 39. [莎莎和楚钦都开心的笑了](https://s.weibo.com//weibo?q=%23%E8%8E%8E%E8%8E%8E%E5%92%8C%E6%A5%9A%E9%92%A6%E9%83%BD%E5%BC%80%E5%BF%83%E7%9A%84%E7%AC%91%E4%BA%86%23&Refer=top) 282327
-40. [深圳房东送72户被封租客每人200元](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%88%BF%E4%B8%9C%E9%80%8172%E6%88%B7%E8%A2%AB%E5%B0%81%E7%A7%9F%E5%AE%A2%E6%AF%8F%E4%BA%BA200%E5%85%83%23&Refer=top) 270687
+40. [日本预言](https://s.weibo.com//weibo?q=%E6%97%A5%E6%9C%AC%E9%A2%84%E8%A8%80&Refer=top) 274040
+41. [深圳房东送72户被封租客每人200元](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%88%BF%E4%B8%9C%E9%80%8172%E6%88%B7%E8%A2%AB%E5%B0%81%E7%A7%9F%E5%AE%A2%E6%AF%8F%E4%BA%BA200%E5%85%83%23&Refer=top) 270687
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
