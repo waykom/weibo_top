@@ -56,8 +56,9 @@ weibo_top
 45. [莎莎和楚钦都开心的笑了](https://s.weibo.com//weibo?q=%23%E8%8E%8E%E8%8E%8E%E5%92%8C%E6%A5%9A%E9%92%A6%E9%83%BD%E5%BC%80%E5%BF%83%E7%9A%84%E7%AC%91%E4%BA%86%23&Refer=top) 282327
 46. [深圳房东送72户被封租客每人200元](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%88%BF%E4%B8%9C%E9%80%8172%E6%88%B7%E8%A2%AB%E5%B0%81%E7%A7%9F%E5%AE%A2%E6%AF%8F%E4%BA%BA200%E5%85%83%23&Refer=top) 270687
 47. [大牌小众香分享](https://s.weibo.com//weibo?q=%E5%A4%A7%E7%89%8C%E5%B0%8F%E4%BC%97%E9%A6%99%E5%88%86%E4%BA%AB&Refer=top) 256302
-48. [想不起来这是什么歌了](https://s.weibo.com//weibo?q=%23%E6%83%B3%E4%B8%8D%E8%B5%B7%E6%9D%A5%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%AD%8C%E4%BA%86%23&Refer=top) 96484
-49. [上沙疫情](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B2%99%E7%96%AB%E6%83%85&Refer=top) 82465
+48. [上沙疫情](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B2%99%E7%96%AB%E6%83%85&Refer=top) 162719
+49. [想不起来这是什么歌了](https://s.weibo.com//weibo?q=%23%E6%83%B3%E4%B8%8D%E8%B5%B7%E6%9D%A5%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%AD%8C%E4%BA%86%23&Refer=top) 96484
+50. [美联储加息](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF%23&Refer=top) 84634
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
