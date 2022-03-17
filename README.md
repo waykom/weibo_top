@@ -52,8 +52,8 @@ weibo_top
 41. [国乒锁定WTT女单冠军](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%B9%92%E9%94%81%E5%AE%9AWTT%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B%23&Refer=top) 143641
 42. [用一句话摧毁超能力](https://s.weibo.com//weibo?q=%23%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%91%A7%E6%AF%81%E8%B6%85%E8%83%BD%E5%8A%9B%23&Refer=top) 119147
 43. [圆了猫咪爱去厕所喝水的梦](https://s.weibo.com//weibo?q=%23%E5%9C%86%E4%BA%86%E7%8C%AB%E5%92%AA%E7%88%B1%E5%8E%BB%E5%8E%95%E6%89%80%E5%96%9D%E6%B0%B4%E7%9A%84%E6%A2%A6%23&Refer=top) 95092
-44. [人类幼崽也太好rua了吧](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E4%B9%9F%E5%A4%AA%E5%A5%BDrua%E4%BA%86%E5%90%A7%23&Refer=top) 40673
-45. [鳄鱼的体型可以有多大](https://s.weibo.com//weibo?q=%23%E9%B3%84%E9%B1%BC%E7%9A%84%E4%BD%93%E5%9E%8B%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top) 33135
+44. [人类幼崽也太好rua了吧](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E4%B9%9F%E5%A4%AA%E5%A5%BDrua%E4%BA%86%E5%90%A7%23&Refer=top) 41052
+45. [鳄鱼的体型可以有多大](https://s.weibo.com//weibo?q=%23%E9%B3%84%E9%B1%BC%E7%9A%84%E4%BD%93%E5%9E%8B%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top) 34276
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
