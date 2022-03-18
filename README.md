@@ -55,6 +55,7 @@ weibo_top
 44. [赵立坚六连问回应法新社记者](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%85%AD%E8%BF%9E%E9%97%AE%E5%9B%9E%E5%BA%94%E6%B3%95%E6%96%B0%E7%A4%BE%E8%AE%B0%E8%80%85%23&Refer=top) 65768
 45. [F1巴林大奖赛](https://s.weibo.com//weibo?q=%23F1%E5%B7%B4%E6%9E%97%E5%A4%A7%E5%A5%96%E8%B5%9B%23&Refer=top) 31482
 46. [平淡的生活是续写浪漫的开始](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E6%B7%A1%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E7%BB%AD%E5%86%99%E6%B5%AA%E6%BC%AB%E7%9A%84%E5%BC%80%E5%A7%8B%23&Refer=top) 26387
+47. [狗子被拒绝后的反应](https://s.weibo.com//weibo?q=%23%E7%8B%97%E5%AD%90%E8%A2%AB%E6%8B%92%E7%BB%9D%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top) 12902
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
