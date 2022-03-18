@@ -51,6 +51,7 @@ weibo_top
 40. [陈梦王曼昱会师决赛](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BC%9A%E5%B8%88%E5%86%B3%E8%B5%9B%23&Refer=top) 129063
 41. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top) 121799
 42. [疫情下的童年也要快乐](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E7%AB%A5%E5%B9%B4%E4%B9%9F%E8%A6%81%E5%BF%AB%E4%B9%90%23&Refer=top) 121743
+43. [交个朋友拟支付罗永浩天价分手费](https://s.weibo.com//weibo?q=%23%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E6%8B%9F%E6%94%AF%E4%BB%98%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%A4%A9%E4%BB%B7%E5%88%86%E6%89%8B%E8%B4%B9%23&Refer=top) 70033
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
