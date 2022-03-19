@@ -11,8 +11,8 @@ weibo_top
 # 今日热门搜索  
 1. [泉州急需物资捐赠](https://s.weibo.com//weibo?q=%23%E6%B3%89%E5%B7%9E%E6%80%A5%E9%9C%80%E7%89%A9%E8%B5%84%E6%8D%90%E8%B5%A0%23&Refer=top) 2851954
 2. [吉林省18天确诊超1万例](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E7%9C%8118%E5%A4%A9%E7%A1%AE%E8%AF%8A%E8%B6%851%E4%B8%87%E4%BE%8B%23&Refer=top) 1963817
-3. [提高科学精准防控水平](https://s.weibo.com//weibo?q=%23%E6%8F%90%E9%AB%98%E7%A7%91%E5%AD%A6%E7%B2%BE%E5%87%86%E9%98%B2%E6%8E%A7%E6%B0%B4%E5%B9%B3%23&Refer=top) 1656482
-4. [4天睡不好就可能长胖](https://s.weibo.com//weibo?q=%234%E5%A4%A9%E7%9D%A1%E4%B8%8D%E5%A5%BD%E5%B0%B1%E5%8F%AF%E8%83%BD%E9%95%BF%E8%83%96%23&Refer=top) 1499210
+3. [4天睡不好就可能长胖](https://s.weibo.com//weibo?q=%234%E5%A4%A9%E7%9D%A1%E4%B8%8D%E5%A5%BD%E5%B0%B1%E5%8F%AF%E8%83%BD%E9%95%BF%E8%83%96%23&Refer=top) 1723840
+4. [提高科学精准防控水平](https://s.weibo.com//weibo?q=%23%E6%8F%90%E9%AB%98%E7%A7%91%E5%AD%A6%E7%B2%BE%E5%87%86%E9%98%B2%E6%8E%A7%E6%B0%B4%E5%B9%B3%23&Refer=top) 1656482
 5. [女子晚走一分钟被隔离在火锅店](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%99%9A%E8%B5%B0%E4%B8%80%E5%88%86%E9%92%9F%E8%A2%AB%E9%9A%94%E7%A6%BB%E5%9C%A8%E7%81%AB%E9%94%85%E5%BA%97%23&Refer=top) 1329173
 6. [长沙疫情](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E7%96%AB%E6%83%85%23&Refer=top) 1305346
 7. [北大同宿舍三人毕业十年的变化](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E5%90%8C%E5%AE%BF%E8%88%8D%E4%B8%89%E4%BA%BA%E6%AF%95%E4%B8%9A%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96%23&Refer=top) 1053034
