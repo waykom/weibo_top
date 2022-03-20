@@ -9,7 +9,7 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [周冠宇F1首秀拿分](https://s.weibo.com//weibo?q=%E5%91%A8%E5%86%A0%E5%AE%87F1%E9%A6%96%E7%A7%80%E6%8B%BF%E5%88%86&Refer=top) 2124266
+1. [周冠宇F1首秀拿分](https://s.weibo.com//weibo?q=%E5%91%A8%E5%86%A0%E5%AE%87F1%E9%A6%96%E7%A7%80%E6%8B%BF%E5%88%86&Refer=top) 2231950
 2. [00后情侣为拍草莓熊连追两条街](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E6%83%85%E4%BE%A3%E4%B8%BA%E6%8B%8D%E8%8D%89%E8%8E%93%E7%86%8A%E8%BF%9E%E8%BF%BD%E4%B8%A4%E6%9D%A1%E8%A1%97%23&Refer=top) 2000795
 3. [广西通报夫妇生育15孩事件](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E9%80%9A%E6%8A%A5%E5%A4%AB%E5%A6%87%E7%94%9F%E8%82%B215%E5%AD%A9%E4%BA%8B%E4%BB%B6%23&Refer=top) 1396978
 4. [上海迪士尼度假区将暂时关闭](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%BA%A6%E5%81%87%E5%8C%BA%E5%B0%86%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%23&Refer=top) 1355459
@@ -18,8 +18,8 @@ weibo_top
 7. [罗翔老师这段话说得太对了](https://s.weibo.com//weibo?q=%E7%BD%97%E7%BF%94%E8%80%81%E5%B8%88%E8%BF%99%E6%AE%B5%E8%AF%9D%E8%AF%B4%E5%BE%97%E5%A4%AA%E5%AF%B9%E4%BA%86&Refer=top) 1235123
 8. [樊振东WTT男单冠军](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9CWTT%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%23&Refer=top) 1227486
 9. [上海北蔡疫情](https://s.weibo.com//weibo?q=%E4%B8%8A%E6%B5%B7%E5%8C%97%E8%94%A1%E7%96%AB%E6%83%85&Refer=top) 1133542
-10. [法国宣布冻结俄央行220亿欧元资产](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%86%BB%E7%BB%93%E4%BF%84%E5%A4%AE%E8%A1%8C220%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B5%84%E4%BA%A7%23&Refer=top) 839034
-11. [美国一警察违规跪压12岁女生](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%AD%A6%E5%AF%9F%E8%BF%9D%E8%A7%84%E8%B7%AA%E5%8E%8B12%E5%B2%81%E5%A5%B3%E7%94%9F%23&Refer=top) 797853
+10. [美国一警察违规跪压12岁女生](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%AD%A6%E5%AF%9F%E8%BF%9D%E8%A7%84%E8%B7%AA%E5%8E%8B12%E5%B2%81%E5%A5%B3%E7%94%9F%23&Refer=top) 914008
+11. [法国宣布冻结俄央行220亿欧元资产](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%86%BB%E7%BB%93%E4%BF%84%E5%A4%AE%E8%A1%8C220%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B5%84%E4%BA%A7%23&Refer=top) 839034
 12. [胖梦](https://s.weibo.com//weibo?q=%E8%83%96%E6%A2%A6&Refer=top) 746794
 13. [下雨天也太适合睡觉了](https://s.weibo.com//weibo?q=%23%E4%B8%8B%E9%9B%A8%E5%A4%A9%E4%B9%9F%E5%A4%AA%E9%80%82%E5%90%88%E7%9D%A1%E8%A7%89%E4%BA%86%23&Refer=top) 663759
 14. [BIGBANG预告照](https://s.weibo.com//weibo?q=%23BIGBANG%E9%A2%84%E5%91%8A%E7%85%A7%23&Refer=top) 642161
