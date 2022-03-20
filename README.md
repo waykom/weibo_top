@@ -53,8 +53,9 @@ weibo_top
 42. [看国乒比赛太热血了](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E5%9B%BD%E4%B9%92%E6%AF%94%E8%B5%9B%E5%A4%AA%E7%83%AD%E8%A1%80%E4%BA%86%23&Refer=top) 145944
 43. [偶像梦幻祭](https://s.weibo.com//weibo?q=%23%E5%81%B6%E5%83%8F%E6%A2%A6%E5%B9%BB%E7%A5%AD%23&Refer=top) 85826
 44. [青春里最让人意难平的瞬间](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%98%A5%E9%87%8C%E6%9C%80%E8%AE%A9%E4%BA%BA%E6%84%8F%E9%9A%BE%E5%B9%B3%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top) 85400
-45. [ale icon](https://s.weibo.com//weibo?q=ale%20icon&Refer=top) 61469
+45. [ale icon](https://s.weibo.com//weibo?q=ale%20icon&Refer=top) 74743
 46. [春分菜的正确打开方式](https://s.weibo.com//weibo?q=%23%E6%98%A5%E5%88%86%E8%8F%9C%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&Refer=top) 17785
+47. [男子闯红灯被撞索赔交警怒斥](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%92%9E%E7%B4%A2%E8%B5%94%E4%BA%A4%E8%AD%A6%E6%80%92%E6%96%A5%23&Refer=top) 11785
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
