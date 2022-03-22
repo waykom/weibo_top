@@ -10,7 +10,7 @@ weibo_top
 
 # 今日热门搜索  
 1. [飞机急剧下降机组没有任何回复](https://s.weibo.com//weibo?q=%23%E9%A3%9E%E6%9C%BA%E6%80%A5%E5%89%A7%E4%B8%8B%E9%99%8D%E6%9C%BA%E7%BB%84%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%9B%9E%E5%A4%8D%23&Refer=top) 4584366
-2. [上海封城传言不实](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%BC%A0%E8%A8%80%E4%B8%8D%E5%AE%9E%23&Refer=top) 1744471
+2. [上海封城传言不实](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%BC%A0%E8%A8%80%E4%B8%8D%E5%AE%9E%23&Refer=top) 1946848
 3. [欧洲多国爆发街头示威](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E8%A1%97%E5%A4%B4%E7%A4%BA%E5%A8%81%23&Refer=top) 1452626
 4. [南京2万斤莴苣因疫情滞销](https://s.weibo.com//weibo?q=%23%E5%8D%97%E4%BA%AC2%E4%B8%87%E6%96%A4%E8%8E%B4%E8%8B%A3%E5%9B%A0%E7%96%AB%E6%83%85%E6%BB%9E%E9%94%80%23&Refer=top) 1271823
 5. [失事飞机残骸抛撒面积非常大](https://s.weibo.com//weibo?q=%23%E5%A4%B1%E4%BA%8B%E9%A3%9E%E6%9C%BA%E6%AE%8B%E9%AA%B8%E6%8A%9B%E6%92%92%E9%9D%A2%E7%A7%AF%E9%9D%9E%E5%B8%B8%E5%A4%A7%23&Refer=top) 1254742
@@ -56,7 +56,7 @@ weibo_top
 45. [原来还可以这么背单词](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E8%83%8C%E5%8D%95%E8%AF%8D%23&Refer=top) 230680
 46. [粉底液一定越贵越好吗](https://s.weibo.com//weibo?q=%23%E7%B2%89%E5%BA%95%E6%B6%B2%E4%B8%80%E5%AE%9A%E8%B6%8A%E8%B4%B5%E8%B6%8A%E5%A5%BD%E5%90%97%23&Refer=top) 223656
 47. [爱而不得是什么样的体验](https://s.weibo.com//weibo?q=%23%E7%88%B1%E8%80%8C%E4%B8%8D%E5%BE%97%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C%23&Refer=top) 206898
-48. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top) 192038
+48. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top) 193781
 49. [5岁女孩舞蹈班练舞下腰时致残](https://s.weibo.com//weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%88%9E%E8%B9%88%E7%8F%AD%E7%BB%83%E8%88%9E%E4%B8%8B%E8%85%B0%E6%97%B6%E8%87%B4%E6%AE%8B%23&Refer=top) 189968
 50. [现在的面包店有多内卷](https://s.weibo.com//weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E9%9D%A2%E5%8C%85%E5%BA%97%E6%9C%89%E5%A4%9A%E5%86%85%E5%8D%B7%23&Refer=top) 182462
 51. [和贾玲当朋友一定很幸福吧](https://s.weibo.com//weibo?q=%23%E5%92%8C%E8%B4%BE%E7%8E%B2%E5%BD%93%E6%9C%8B%E5%8F%8B%E4%B8%80%E5%AE%9A%E5%BE%88%E5%B9%B8%E7%A6%8F%E5%90%A7%23&Refer=top) 179127
