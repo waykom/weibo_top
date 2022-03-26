@@ -12,14 +12,14 @@ weibo_top
 1. [MU5735航班上人员已全部遇难](https://s.weibo.com//weibo?q=%23MU5735%E8%88%AA%E7%8F%AD%E4%B8%8A%E4%BA%BA%E5%91%98%E5%B7%B2%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23&Refer=top) 13343919
 2. [MU5735遇难者头七祭](https://s.weibo.com//weibo?q=%23MU5735%E9%81%87%E9%9A%BE%E8%80%85%E5%A4%B4%E4%B8%83%E7%A5%AD%23&Refer=top) 5041448
 3. [为东航飞行事故遇难者默哀](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%B8%9C%E8%88%AA%E9%A3%9E%E8%A1%8C%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E8%80%85%E9%BB%98%E5%93%80%23&Refer=top) 4216459
-4. [4月1日起交通违法记分将调整](https://s.weibo.com//weibo?q=%234%E6%9C%881%E6%97%A5%E8%B5%B7%E4%BA%A4%E9%80%9A%E8%BF%9D%E6%B3%95%E8%AE%B0%E5%88%86%E5%B0%86%E8%B0%83%E6%95%B4%23&Refer=top) 2970828
+4. [4月1日起交通违法记分将调整](https://s.weibo.com//weibo?q=%234%E6%9C%881%E6%97%A5%E8%B5%B7%E4%BA%A4%E9%80%9A%E8%BF%9D%E6%B3%95%E8%AE%B0%E5%88%86%E5%B0%86%E8%B0%83%E6%95%B4%23&Refer=top) 3031553
 5. [遇难者遗骸物品均已妥善保管](https://s.weibo.com//weibo?q=%23%E9%81%87%E9%9A%BE%E8%80%85%E9%81%97%E9%AA%B8%E7%89%A9%E5%93%81%E5%9D%87%E5%B7%B2%E5%A6%A5%E5%96%84%E4%BF%9D%E7%AE%A1%23&Refer=top) 2064174
 6. [公安机关共确认120人身份](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E5%85%B1%E7%A1%AE%E8%AE%A4120%E4%BA%BA%E8%BA%AB%E4%BB%BD%23&Refer=top) 2048082
 7. [清理涉MU5735违法违规信息27.9万余条](https://s.weibo.com//weibo?q=%23%E6%B8%85%E7%90%86%E6%B6%89MU5735%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E4%BF%A1%E6%81%AF27.9%E4%B8%87%E4%BD%99%E6%9D%A1%23&Refer=top) 2003017
 8. [将继续寻找遇难人员遗骸遗物及飞机残骸](https://s.weibo.com//weibo?q=%23%E5%B0%86%E7%BB%A7%E7%BB%AD%E5%AF%BB%E6%89%BE%E9%81%87%E9%9A%BE%E4%BA%BA%E5%91%98%E9%81%97%E9%AA%B8%E9%81%97%E7%89%A9%E5%8F%8A%E9%A3%9E%E6%9C%BA%E6%AE%8B%E9%AA%B8%23&Refer=top) 1833788
 9. [普京批日本不敢点名是谁扔下原子弹](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E6%89%B9%E6%97%A5%E6%9C%AC%E4%B8%8D%E6%95%A2%E7%82%B9%E5%90%8D%E6%98%AF%E8%B0%81%E6%89%94%E4%B8%8B%E5%8E%9F%E5%AD%90%E5%BC%B9%23&Refer=top) 1360582
-10. [大学生用奖学金买36000只口罩捐学校](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E5%A5%96%E5%AD%A6%E9%87%91%E4%B9%B036000%E5%8F%AA%E5%8F%A3%E7%BD%A9%E6%8D%90%E5%AD%A6%E6%A0%A1%23&Refer=top) 1003577
-11. [网购商品到货慢](https://s.weibo.com//weibo?q=%23%E7%BD%91%E8%B4%AD%E5%95%86%E5%93%81%E5%88%B0%E8%B4%A7%E6%85%A2%23&Refer=top) 891726
+10. [网购商品到货慢](https://s.weibo.com//weibo?q=%23%E7%BD%91%E8%B4%AD%E5%95%86%E5%93%81%E5%88%B0%E8%B4%A7%E6%85%A2%23&Refer=top) 1005216
+11. [大学生用奖学金买36000只口罩捐学校](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E5%A5%96%E5%AD%A6%E9%87%91%E4%B9%B036000%E5%8F%AA%E5%8F%A3%E7%BD%A9%E6%8D%90%E5%AD%A6%E6%A0%A1%23&Refer=top) 1003577
 12. [那些留在县城的年轻人后来怎样了](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E7%95%99%E5%9C%A8%E5%8E%BF%E5%9F%8E%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%90%8E%E6%9D%A5%E6%80%8E%E6%A0%B7%E4%BA%86%23&Refer=top) 832036
 13. [男子起诉同居3年前女友返还40万](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%B5%B7%E8%AF%89%E5%90%8C%E5%B1%853%E5%B9%B4%E5%89%8D%E5%A5%B3%E5%8F%8B%E8%BF%94%E8%BF%9840%E4%B8%87%23&Refer=top) 668460
 14. [痛悼东航客机坠毁事故遇难同胞](https://s.weibo.com//weibo?q=%23%E7%97%9B%E6%82%BC%E4%B8%9C%E8%88%AA%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E5%90%8C%E8%83%9E%23&Refer=top) 661876
@@ -62,6 +62,7 @@ weibo_top
 51. [尚未发现幸存者及第二个黑匣子](https://s.weibo.com//weibo?q=%23%E5%B0%9A%E6%9C%AA%E5%8F%91%E7%8E%B0%E5%B9%B8%E5%AD%98%E8%80%85%E5%8F%8A%E7%AC%AC%E4%BA%8C%E4%B8%AA%E9%BB%91%E5%8C%A3%E5%AD%90%23&Refer=top) 155064
 52. [被女儿送的礼物整破防了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%A5%B3%E5%84%BF%E9%80%81%E7%9A%84%E7%A4%BC%E7%89%A9%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top) 126986
 53. [神仙奶茶小料](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E4%BB%99%E5%A5%B6%E8%8C%B6%E5%B0%8F%E6%96%99%23&Refer=top) 66837
+54. [兵哥哥吃早餐为付款无奈上演调虎离山](https://s.weibo.com//weibo?q=%23%E5%85%B5%E5%93%A5%E5%93%A5%E5%90%83%E6%97%A9%E9%A4%90%E4%B8%BA%E4%BB%98%E6%AC%BE%E6%97%A0%E5%A5%88%E4%B8%8A%E6%BC%94%E8%B0%83%E8%99%8E%E7%A6%BB%E5%B1%B1%23&Refer=top) 51745
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度
