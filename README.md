@@ -67,8 +67,8 @@ weibo_top
 56. [安徽疫情啥时候能结束](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%BE%BD%E7%96%AB%E6%83%85%E5%95%A5%E6%97%B6%E5%80%99%E8%83%BD%E7%BB%93%E6%9D%9F%23&Refer=top) 109463
 57. [新冠治疗口服药到浙江了](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E6%B2%BB%E7%96%97%E5%8F%A3%E6%9C%8D%E8%8D%AF%E5%88%B0%E6%B5%99%E6%B1%9F%E4%BA%86%23&Refer=top) 71426
 58. [如何自由切换发色](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E8%87%AA%E7%94%B1%E5%88%87%E6%8D%A2%E5%8F%91%E8%89%B2%23&Refer=top) 68966
-59. [这嘴快到脑子都跟不上了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%98%B4%E5%BF%AB%E5%88%B0%E8%84%91%E5%AD%90%E9%83%BD%E8%B7%9F%E4%B8%8D%E4%B8%8A%E4%BA%86%23&Refer=top) 29315
-60. [人民日报谈流量乞丐](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E6%B5%81%E9%87%8F%E4%B9%9E%E4%B8%90%23&Refer=top) 27555
+59. [人民日报谈流量乞丐](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E6%B5%81%E9%87%8F%E4%B9%9E%E4%B8%90%23&Refer=top) 39712
+60. [这嘴快到脑子都跟不上了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%98%B4%E5%BF%AB%E5%88%B0%E8%84%91%E5%AD%90%E9%83%BD%E8%B7%9F%E4%B8%8D%E4%B8%8A%E4%BA%86%23&Refer=top) 29315
 61. [新国风浓艳大唐妆](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%9B%BD%E9%A3%8E%E6%B5%93%E8%89%B3%E5%A4%A7%E5%94%90%E5%A6%86%23&Refer=top) 20305
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
