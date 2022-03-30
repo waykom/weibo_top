@@ -55,7 +55,7 @@ weibo_top
 44. [卡塔尔世界杯官方用球公布](https://s.weibo.com//weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%98%E6%96%B9%E7%94%A8%E7%90%83%E5%85%AC%E5%B8%83%23&Refer=top) 132176
 45. [无锡疫情](https://s.weibo.com//weibo?q=%23%E6%97%A0%E9%94%A1%E7%96%AB%E6%83%85%23&Refer=top) 129893
 46. [天官赐福广播剧](https://s.weibo.com//weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%B9%BF%E6%92%AD%E5%89%A7&Refer=top) 123219
-47. [上海已完成核酸筛查910万人](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B7%B2%E5%AE%8C%E6%88%90%E6%A0%B8%E9%85%B8%E7%AD%9B%E6%9F%A5910%E4%B8%87%E4%BA%BA%23&Refer=top) 42843
+47. [上海已完成核酸筛查910万人](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B7%B2%E5%AE%8C%E6%88%90%E6%A0%B8%E9%85%B8%E7%AD%9B%E6%9F%A5910%E4%B8%87%E4%BA%BA%23&Refer=top) 72574
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
