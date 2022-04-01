@@ -53,8 +53,8 @@ weibo_top
 42. [相爱一定有它特别的定义](https://s.weibo.com//weibo?q=%23%E7%9B%B8%E7%88%B1%E4%B8%80%E5%AE%9A%E6%9C%89%E5%AE%83%E7%89%B9%E5%88%AB%E7%9A%84%E5%AE%9A%E4%B9%89%23&Refer=top) 160172
 43. [王者赏金猎手新皮肤](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E8%B5%8F%E9%87%91%E7%8C%8E%E6%89%8B%E6%96%B0%E7%9A%AE%E8%82%A4%23&Refer=top) 159420
 44. [鸡泽疫情防控](https://s.weibo.com//weibo?q=%E9%B8%A1%E6%B3%BD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7&Refer=top) 127329
-45. [被校园暗恋甜到的瞬间](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%A0%A1%E5%9B%AD%E6%9A%97%E6%81%8B%E7%94%9C%E5%88%B0%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top) 99530
-46. [幻想型择偶](https://s.weibo.com//weibo?q=%23%E5%B9%BB%E6%83%B3%E5%9E%8B%E6%8B%A9%E5%81%B6%23&Refer=top) 79675
+45. [幻想型择偶](https://s.weibo.com//weibo?q=%23%E5%B9%BB%E6%83%B3%E5%9E%8B%E6%8B%A9%E5%81%B6%23&Refer=top) 115229
+46. [被校园暗恋甜到的瞬间](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%A0%A1%E5%9B%AD%E6%9A%97%E6%81%8B%E7%94%9C%E5%88%B0%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top) 107727
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
