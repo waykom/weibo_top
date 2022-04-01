@@ -10,7 +10,7 @@ weibo_top
 
 # 今日热门搜索  
 1. [上海疫情正处于快速上升阶段](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E6%AD%A3%E5%A4%84%E4%BA%8E%E5%BF%AB%E9%80%9F%E4%B8%8A%E5%8D%87%E9%98%B6%E6%AE%B5%23&Refer=top) 2177212
-2. [卡塔尔世界杯](https://s.weibo.com//weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top) 1538408
+2. [卡塔尔世界杯](https://s.weibo.com//weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top) 1620605
 3. [2022世界杯抽签](https://s.weibo.com//weibo?q=%232022%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%23&Refer=top) 1253534
 4. [黄大宪](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A4%A7%E5%AE%AA%23&Refer=top) 1253117
 5. [神十三乘组的星空手账](https://s.weibo.com//weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B8%89%E4%B9%98%E7%BB%84%E7%9A%84%E6%98%9F%E7%A9%BA%E6%89%8B%E8%B4%A6%23&Refer=top) 1249234
@@ -46,8 +46,8 @@ weibo_top
 35. [感冒和鼻炎怎么区分](https://s.weibo.com//weibo?q=%23%E6%84%9F%E5%86%92%E5%92%8C%E9%BC%BB%E7%82%8E%E6%80%8E%E4%B9%88%E5%8C%BA%E5%88%86%23&Refer=top) 241983
 36. [乌军机低空攻击俄一石油基地起火画面](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%86%9B%E6%9C%BA%E4%BD%8E%E7%A9%BA%E6%94%BB%E5%87%BB%E4%BF%84%E4%B8%80%E7%9F%B3%E6%B2%B9%E5%9F%BA%E5%9C%B0%E8%B5%B7%E7%81%AB%E7%94%BB%E9%9D%A2%23&Refer=top) 235881
 37. [西班牙德国同组](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BE%B7%E5%9B%BD%E5%90%8C%E7%BB%84%23&Refer=top) 230738
-38. [小众彩妆尖货](https://s.weibo.com//weibo?q=%E5%B0%8F%E4%BC%97%E5%BD%A9%E5%A6%86%E5%B0%96%E8%B4%A7&Refer=top) 207622
-39. [幻想型择偶](https://s.weibo.com//weibo?q=%23%E5%B9%BB%E6%83%B3%E5%9E%8B%E6%8B%A9%E5%81%B6%23&Refer=top) 206615
+38. [幻想型择偶](https://s.weibo.com//weibo?q=%23%E5%B9%BB%E6%83%B3%E5%9E%8B%E6%8B%A9%E5%81%B6%23&Refer=top) 213907
+39. [小众彩妆尖货](https://s.weibo.com//weibo?q=%E5%B0%8F%E4%BC%97%E5%BD%A9%E5%A6%86%E5%B0%96%E8%B4%A7&Refer=top) 207622
 40. [刘传健出任民航飞行学院总飞行师](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BC%A0%E5%81%A5%E5%87%BA%E4%BB%BB%E6%B0%91%E8%88%AA%E9%A3%9E%E8%A1%8C%E5%AD%A6%E9%99%A2%E6%80%BB%E9%A3%9E%E8%A1%8C%E5%B8%88%23&Refer=top) 204619
 41. [保定安国公布1例确诊病例轨迹](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E5%AE%9A%E5%AE%89%E5%9B%BD%E5%85%AC%E5%B8%831%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%BD%A8%E8%BF%B9%23&Refer=top) 189530
 42. [infp](https://s.weibo.com//weibo?q=infp&Refer=top) 184838
@@ -59,7 +59,7 @@ weibo_top
 48. [鸡泽疫情防控](https://s.weibo.com//weibo?q=%E9%B8%A1%E6%B3%BD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7&Refer=top) 127329
 49. [被校园暗恋甜到的瞬间](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%A0%A1%E5%9B%AD%E6%9A%97%E6%81%8B%E7%94%9C%E5%88%B0%E7%9A%84%E7%9E%AC%E9%97%B4%23&Refer=top) 120775
 50. [2022世界杯吉祥物官宣](https://s.weibo.com//weibo?q=%232022%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%89%E7%A5%A5%E7%89%A9%E5%AE%98%E5%AE%A3%23&Refer=top) 118849
-51. [解封之后你想去做什么](https://s.weibo.com//weibo?q=%23%E8%A7%A3%E5%B0%81%E4%B9%8B%E5%90%8E%E4%BD%A0%E6%83%B3%E5%8E%BB%E5%81%9A%E4%BB%80%E4%B9%88%23&Refer=top) 40473
+51. [解封之后你想去做什么](https://s.weibo.com//weibo?q=%23%E8%A7%A3%E5%B0%81%E4%B9%8B%E5%90%8E%E4%BD%A0%E6%83%B3%E5%8E%BB%E5%81%9A%E4%BB%80%E4%B9%88%23&Refer=top) 40888
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
