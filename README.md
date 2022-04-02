@@ -56,7 +56,7 @@ weibo_top
 45. [XYG战胜GK](https://s.weibo.com//weibo?q=%23XYG%E6%88%98%E8%83%9CGK%23&Refer=top) 129603
 46. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top) 110835
 47. [动物表演的背后有多残忍](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E7%89%A9%E8%A1%A8%E6%BC%94%E7%9A%84%E8%83%8C%E5%90%8E%E6%9C%89%E5%A4%9A%E6%AE%8B%E5%BF%8D%23&Refer=top) 77057
-48. [南通新增本土无症状10例](https://s.weibo.com//weibo?q=%23%E5%8D%97%E9%80%9A%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B610%E4%BE%8B%23&Refer=top) 76282
+48. [南通新增本土无症状10例](https://s.weibo.com//weibo?q=%23%E5%8D%97%E9%80%9A%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B610%E4%BE%8B%23&Refer=top) 76360
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
