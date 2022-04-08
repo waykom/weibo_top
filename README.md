@@ -25,14 +25,14 @@ weibo_top
 14. [19岁小伙靠清纯奶音同时交3男友](https://s.weibo.com//weibo?q=%2319%E5%B2%81%E5%B0%8F%E4%BC%99%E9%9D%A0%E6%B8%85%E7%BA%AF%E5%A5%B6%E9%9F%B3%E5%90%8C%E6%97%B6%E4%BA%A43%E7%94%B7%E5%8F%8B%23&Refer=top) 674575
 15. [理工科博士夫妇熬夜优化社区核酸检测方案](https://s.weibo.com//weibo?q=%23%E7%90%86%E5%B7%A5%E7%A7%91%E5%8D%9A%E5%A3%AB%E5%A4%AB%E5%A6%87%E7%86%AC%E5%A4%9C%E4%BC%98%E5%8C%96%E7%A4%BE%E5%8C%BA%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E6%96%B9%E6%A1%88%23&Refer=top) 630970
 16. [演自己写的小说有多尴尬](https://s.weibo.com//weibo?q=%23%E6%BC%94%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%E5%B0%8F%E8%AF%B4%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC%23&Refer=top) 613019
-17. [合肥平均工资9258元](https://s.weibo.com//weibo?q=%23%E5%90%88%E8%82%A5%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%849258%E5%85%83%23&Refer=top) 555765
-18. [上海蔬菜礼包如有遗漏将及时补上](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%94%AC%E8%8F%9C%E7%A4%BC%E5%8C%85%E5%A6%82%E6%9C%89%E9%81%97%E6%BC%8F%E5%B0%86%E5%8F%8A%E6%97%B6%E8%A1%A5%E4%B8%8A%23&Refer=top) 547883
+17. [上海蔬菜礼包如有遗漏将及时补上](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%94%AC%E8%8F%9C%E7%A4%BC%E5%8C%85%E5%A6%82%E6%9C%89%E9%81%97%E6%BC%8F%E5%B0%86%E5%8F%8A%E6%97%B6%E8%A1%A5%E4%B8%8A%23&Refer=top) 580889
+18. [合肥平均工资9258元](https://s.weibo.com//weibo?q=%23%E5%90%88%E8%82%A5%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%849258%E5%85%83%23&Refer=top) 555765
 19. [上海回应外区买到宝山月浦镇抗疫物资](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%9E%E5%BA%94%E5%A4%96%E5%8C%BA%E4%B9%B0%E5%88%B0%E5%AE%9D%E5%B1%B1%E6%9C%88%E6%B5%A6%E9%95%87%E6%8A%97%E7%96%AB%E7%89%A9%E8%B5%84%23&Refer=top) 538313
 20. [AG对战DYG](https://s.weibo.com//weibo?q=%23AG%E5%AF%B9%E6%88%98DYG%23&Refer=top) 528867
 21. [广州白云区开展全员核酸检测](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%99%BD%E4%BA%91%E5%8C%BA%E5%BC%80%E5%B1%95%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 514945
 22. [他肯定是全班最靓的仔吧](https://s.weibo.com//weibo?q=%23%E4%BB%96%E8%82%AF%E5%AE%9A%E6%98%AF%E5%85%A8%E7%8F%AD%E6%9C%80%E9%9D%93%E7%9A%84%E4%BB%94%E5%90%A7%23&Refer=top) 494325
 23. [贵阳晨跑失联17天少年已去世](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E9%98%B3%E6%99%A8%E8%B7%91%E5%A4%B1%E8%81%9417%E5%A4%A9%E5%B0%91%E5%B9%B4%E5%B7%B2%E5%8E%BB%E4%B8%96%23&Refer=top) 488657
-24. [为什么朋友很难成为恋人](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%8B%E5%8F%8B%E5%BE%88%E9%9A%BE%E6%88%90%E4%B8%BA%E6%81%8B%E4%BA%BA%23&Refer=top) 401007
+24. [为什么朋友很难成为恋人](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%8B%E5%8F%8B%E5%BE%88%E9%9A%BE%E6%88%90%E4%B8%BA%E6%81%8B%E4%BA%BA%23&Refer=top) 427934
 25. [谈恋爱一定要趁早](https://s.weibo.com//weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E4%B8%80%E5%AE%9A%E8%A6%81%E8%B6%81%E6%97%A9%23&Refer=top) 396043
 26. [挖矿潮退显卡价格暴跌](https://s.weibo.com//weibo?q=%23%E6%8C%96%E7%9F%BF%E6%BD%AE%E9%80%80%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%23&Refer=top) 384852
 27. [久诚的百里守约](https://s.weibo.com//weibo?q=%23%E4%B9%85%E8%AF%9A%E7%9A%84%E7%99%BE%E9%87%8C%E5%AE%88%E7%BA%A6%23&Refer=top) 379458
@@ -50,7 +50,7 @@ weibo_top
 39. [郑州小伙行程码持续三个月每天变红](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A1%8C%E7%A8%8B%E7%A0%81%E6%8C%81%E7%BB%AD%E4%B8%89%E4%B8%AA%E6%9C%88%E6%AF%8F%E5%A4%A9%E5%8F%98%E7%BA%A2%23&Refer=top) 209235
 40. [孙娜恩离开Apink](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%A8%9C%E6%81%A9%E7%A6%BB%E5%BC%80Apink%23&Refer=top) 207440
 41. [Nuguri DK](https://s.weibo.com//weibo?q=Nuguri%20DK&Refer=top) 183894
-42. [十大凡尔赛采访名场面](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%A4%A7%E5%87%A1%E5%B0%94%E8%B5%9B%E9%87%87%E8%AE%BF%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top) 106612
+42. [十大凡尔赛采访名场面](https://s.weibo.com//weibo?q=%23%E5%8D%81%E5%A4%A7%E5%87%A1%E5%B0%94%E8%B5%9B%E9%87%87%E8%AE%BF%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top) 115427
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
