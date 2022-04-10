@@ -60,7 +60,7 @@ weibo_top
 49. [留学生质疑芬达橙配料表双标](https://s.weibo.com//weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E8%B4%A8%E7%96%91%E8%8A%AC%E8%BE%BE%E6%A9%99%E9%85%8D%E6%96%99%E8%A1%A8%E5%8F%8C%E6%A0%87%23&Refer=top) 54928
 50. [用音乐声援上海](https://s.weibo.com//weibo?q=%23%E7%94%A8%E9%9F%B3%E4%B9%90%E5%A3%B0%E6%8F%B4%E4%B8%8A%E6%B5%B7%23&Refer=top) 38520
 51. [如何破解读过就忘的现象](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E8%AF%BB%E8%BF%87%E5%B0%B1%E5%BF%98%E7%9A%84%E7%8E%B0%E8%B1%A1%23&Refer=top) 22081
-52. [消防员两次下激流救回轻生女子](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%A4%E6%AC%A1%E4%B8%8B%E6%BF%80%E6%B5%81%E6%95%91%E5%9B%9E%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%23&Refer=top) 15220
+52. [消防员两次下激流救回轻生女子](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%A4%E6%AC%A1%E4%B8%8B%E6%BF%80%E6%B5%81%E6%95%91%E5%9B%9E%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%23&Refer=top) 18600
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
