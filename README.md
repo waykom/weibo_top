@@ -13,7 +13,7 @@ weibo_top
 2. [突然就不emo了](https://s.weibo.com//weibo?q=%23%E7%AA%81%E7%84%B6%E5%B0%B1%E4%B8%8Demo%E4%BA%86%23&Refer=top) 1510399
 3. [安全生产十五条措施](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E5%8D%81%E4%BA%94%E6%9D%A1%E6%8E%AA%E6%96%BD%23&Refer=top) 1441067
 4. [员工阳性上海最大家用氧企业停产](https://s.weibo.com//weibo?q=%23%E5%91%98%E5%B7%A5%E9%98%B3%E6%80%A7%E4%B8%8A%E6%B5%B7%E6%9C%80%E5%A4%A7%E5%AE%B6%E7%94%A8%E6%B0%A7%E4%BC%81%E4%B8%9A%E5%81%9C%E4%BA%A7%23&Refer=top) 1204312
-5. [疫情下大学生的夜生活有多绝](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E4%B8%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E5%A4%9C%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 1175577
+5. [疫情下大学生的夜生活有多绝](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E4%B8%8B%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E5%A4%9C%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 1198102
 6. [佛山疫情](https://s.weibo.com//weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%96%AB%E6%83%85%23&Refer=top) 1156671
 7. [你是我的神](https://s.weibo.com//weibo?q=%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E7%A5%9E&Refer=top) 840121
 8. [物流公司已在上海开设助老专车](https://s.weibo.com//weibo?q=%23%E7%89%A9%E6%B5%81%E5%85%AC%E5%8F%B8%E5%B7%B2%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%BC%80%E8%AE%BE%E5%8A%A9%E8%80%81%E4%B8%93%E8%BD%A6%23&Refer=top) 723716
@@ -52,6 +52,7 @@ weibo_top
 41. [遥望的孔襄](https://s.weibo.com//weibo?q=%E9%81%A5%E6%9C%9B%E7%9A%84%E5%AD%94%E8%A5%84&Refer=top) 138253
 42. [间谍过家家](https://s.weibo.com//weibo?q=%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6&Refer=top) 132683
 43. [帕金森病患者七步双手活动法](https://s.weibo.com//weibo?q=%23%E5%B8%95%E9%87%91%E6%A3%AE%E7%97%85%E6%82%A3%E8%80%85%E4%B8%83%E6%AD%A5%E5%8F%8C%E6%89%8B%E6%B4%BB%E5%8A%A8%E6%B3%95%23&Refer=top) 123468
+44. [专家再次强调奥密克戎不是大号流感](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E5%86%8D%E6%AC%A1%E5%BC%BA%E8%B0%83%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%8F%B7%E6%B5%81%E6%84%9F%23&Refer=top) 70837
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
