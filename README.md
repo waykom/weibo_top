@@ -61,7 +61,7 @@ weibo_top
 50. [字写不好与笔无关](https://s.weibo.com//weibo?q=%23%E5%AD%97%E5%86%99%E4%B8%8D%E5%A5%BD%E4%B8%8E%E7%AC%94%E6%97%A0%E5%85%B3%23&Refer=top) 143668
 51. [武汉人的喉咙还好吗](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BA%BA%E7%9A%84%E5%96%89%E5%92%99%E8%BF%98%E5%A5%BD%E5%90%97%23&Refer=top) 135518
 52. [莱万 巴萨](https://s.weibo.com//weibo?q=%E8%8E%B1%E4%B8%87%20%E5%B7%B4%E8%90%A8&Refer=top) 134758
-53. [好朋友都是阶段式的吗](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E6%9C%8B%E5%8F%8B%E9%83%BD%E6%98%AF%E9%98%B6%E6%AE%B5%E5%BC%8F%E7%9A%84%E5%90%97%23&Refer=top) 27119
+53. [好朋友都是阶段式的吗](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E6%9C%8B%E5%8F%8B%E9%83%BD%E6%98%AF%E9%98%B6%E6%AE%B5%E5%BC%8F%E7%9A%84%E5%90%97%23&Refer=top) 32434
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
