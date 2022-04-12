@@ -18,12 +18,12 @@ weibo_top
 7. [山东1人户外挖野菜因气溶胶传播感染](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C1%E4%BA%BA%E6%88%B7%E5%A4%96%E6%8C%96%E9%87%8E%E8%8F%9C%E5%9B%A0%E6%B0%94%E6%BA%B6%E8%83%B6%E4%BC%A0%E6%92%AD%E6%84%9F%E6%9F%93%23&Refer=top) 964388
 8. [女子为发泄情绪高空扔下菜刀电饭锅](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%8F%91%E6%B3%84%E6%83%85%E7%BB%AA%E9%AB%98%E7%A9%BA%E6%89%94%E4%B8%8B%E8%8F%9C%E5%88%80%E7%94%B5%E9%A5%AD%E9%94%85%23&Refer=top) 874973
 9. [刘畊宏健身](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%81%A5%E8%BA%AB%23&Refer=top) 834004
-10. [预计未来几日上海新增感染者人数仍将处于高位](https://s.weibo.com//weibo?q=%23%E9%A2%84%E8%AE%A1%E6%9C%AA%E6%9D%A5%E5%87%A0%E6%97%A5%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%93%E8%80%85%E4%BA%BA%E6%95%B0%E4%BB%8D%E5%B0%86%E5%A4%84%E4%BA%8E%E9%AB%98%E4%BD%8D%23&Refer=top) 739215
+10. [预计未来几日上海新增感染者人数仍将处于高位](https://s.weibo.com//weibo?q=%23%E9%A2%84%E8%AE%A1%E6%9C%AA%E6%9D%A5%E5%87%A0%E6%97%A5%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%93%E8%80%85%E4%BA%BA%E6%95%B0%E4%BB%8D%E5%B0%86%E5%A4%84%E4%BA%8E%E9%AB%98%E4%BD%8D%23&Refer=top) 807835
 11. [父亲备24万元为失踪21年儿子庆生](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E5%A4%8724%E4%B8%87%E5%85%83%E4%B8%BA%E5%A4%B1%E8%B8%AA21%E5%B9%B4%E5%84%BF%E5%AD%90%E5%BA%86%E7%94%9F%23&Refer=top) 691466
 12. [突然有点想家了](https://s.weibo.com//weibo?q=%E7%AA%81%E7%84%B6%E6%9C%89%E7%82%B9%E6%83%B3%E5%AE%B6%E4%BA%86&Refer=top) 571452
 13. [以后吵架再也不怕吵输了](https://s.weibo.com//weibo?q=%23%E4%BB%A5%E5%90%8E%E5%90%B5%E6%9E%B6%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%80%95%E5%90%B5%E8%BE%93%E4%BA%86%23&Refer=top) 570266
 14. [大学生操场合唱蔡徐坤情人](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%93%8D%E5%9C%BA%E5%90%88%E5%94%B1%E8%94%A1%E5%BE%90%E5%9D%A4%E6%83%85%E4%BA%BA%23&Refer=top) 563404
-15. [一张图证明你的数学水平](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%81%E6%98%8E%E4%BD%A0%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%23&Refer=top) 524198
+15. [一张图证明你的数学水平](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%81%E6%98%8E%E4%BD%A0%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%23&Refer=top) 534528
 16. [上海交大欢迎樊振东](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E6%AC%A2%E8%BF%8E%E6%A8%8A%E6%8C%AF%E4%B8%9C%23&Refer=top) 494881
 17. [中年夫妻生活会是什么样子](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E7%94%9F%E6%B4%BB%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%23&Refer=top) 492956
 18. [这两天买菜的广东人](https://s.weibo.com//weibo?q=%E8%BF%99%E4%B8%A4%E5%A4%A9%E4%B9%B0%E8%8F%9C%E7%9A%84%E5%B9%BF%E4%B8%9C%E4%BA%BA&Refer=top) 485047
@@ -50,11 +50,11 @@ weibo_top
 39. [拒绝摆烂开花贝果](https://s.weibo.com//weibo?q=%23%E6%8B%92%E7%BB%9D%E6%91%86%E7%83%82%E5%BC%80%E8%8A%B1%E8%B4%9D%E6%9E%9C%23&Refer=top) 174718
 40. [熊猫吃竹笋好吃到眯起眼睛](https://s.weibo.com//weibo?q=%23%E7%86%8A%E7%8C%AB%E5%90%83%E7%AB%B9%E7%AC%8B%E5%A5%BD%E5%90%83%E5%88%B0%E7%9C%AF%E8%B5%B7%E7%9C%BC%E7%9D%9B%23&Refer=top) 169464
 41. [苏州新增阳性31例](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E5%B7%9E%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A731%E4%BE%8B%23&Refer=top) 159687
-42. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top) 158496
-43. [辽宁男篮vs广东男篮](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AEvs%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%23&Refer=top) 145632
-44. [吉林省最大方舱医院实现清舱](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E7%9C%81%E6%9C%80%E5%A4%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%E5%AE%9E%E7%8E%B0%E6%B8%85%E8%88%B1%23&Refer=top) 140510
-45. [追星揽月的航天女将](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E6%8F%BD%E6%9C%88%E7%9A%84%E8%88%AA%E5%A4%A9%E5%A5%B3%E5%B0%86%23&Refer=top) 139463
-46. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top) 88414
+42. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top) 159430
+43. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top) 158496
+44. [辽宁男篮vs广东男篮](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AEvs%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%23&Refer=top) 145632
+45. [吉林省最大方舱医院实现清舱](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E7%9C%81%E6%9C%80%E5%A4%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%E5%AE%9E%E7%8E%B0%E6%B8%85%E8%88%B1%23&Refer=top) 140510
+46. [追星揽月的航天女将](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E6%8F%BD%E6%9C%88%E7%9A%84%E8%88%AA%E5%A4%A9%E5%A5%B3%E5%B0%86%23&Refer=top) 139463
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
