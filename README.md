@@ -11,9 +11,9 @@ weibo_top
 # 今日热门搜索  
 1. [康师傅老坛酸菜方便面重返超市货架](https://s.weibo.com//weibo?q=%23%E5%BA%B7%E5%B8%88%E5%82%85%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%87%8D%E8%BF%94%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%23&Refer=top) 2998953
 2. [为什么喜欢日落](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%97%A5%E8%90%BD%23&Refer=top) 1746307
-3. [160秒混剪中国航天大事记](https://s.weibo.com//weibo?q=%23160%E7%A7%92%E6%B7%B7%E5%89%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%A4%A7%E4%BA%8B%E8%AE%B0%23&Refer=top) 1375414
-4. [樊振东 大学](https://s.weibo.com//weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%20%E5%A4%A7%E5%AD%A6&Refer=top) 1328537
-5. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top) 1217151
+3. [青年大学习](https://s.weibo.com//weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top) 1386065
+4. [160秒混剪中国航天大事记](https://s.weibo.com//weibo?q=%23160%E7%A7%92%E6%B7%B7%E5%89%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%A4%A7%E4%BA%8B%E8%AE%B0%23&Refer=top) 1375414
+5. [樊振东 大学](https://s.weibo.com//weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%20%E5%A4%A7%E5%AD%A6&Refer=top) 1328537
 6. [龚俊经纪公司声明](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%A3%B0%E6%98%8E%23&Refer=top) 1214645
 7. [普京称基辅已脱离此前共识](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%9F%BA%E8%BE%85%E5%B7%B2%E8%84%B1%E7%A6%BB%E6%AD%A4%E5%89%8D%E5%85%B1%E8%AF%86%23&Refer=top) 1060689
 8. [山东1人户外挖野菜因气溶胶传播感染](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C1%E4%BA%BA%E6%88%B7%E5%A4%96%E6%8C%96%E9%87%8E%E8%8F%9C%E5%9B%A0%E6%B0%94%E6%BA%B6%E8%83%B6%E4%BC%A0%E6%92%AD%E6%84%9F%E6%9F%93%23&Refer=top) 964388
@@ -56,7 +56,7 @@ weibo_top
 45. [吉林省最大方舱医院实现清舱](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E7%9C%81%E6%9C%80%E5%A4%A7%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%E5%AE%9E%E7%8E%B0%E6%B8%85%E8%88%B1%23&Refer=top) 140510
 46. [追星揽月的航天女将](https://s.weibo.com//weibo?q=%23%E8%BF%BD%E6%98%9F%E6%8F%BD%E6%9C%88%E7%9A%84%E8%88%AA%E5%A4%A9%E5%A5%B3%E5%B0%86%23&Refer=top) 139463
 47. [就怕陈奕迅说儿化音](https://s.weibo.com//weibo?q=%23%E5%B0%B1%E6%80%95%E9%99%88%E5%A5%95%E8%BF%85%E8%AF%B4%E5%84%BF%E5%8C%96%E9%9F%B3%23&Refer=top) 73372
-48. [美国CPI](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BDCPI&Refer=top) 18270
+48. [美国CPI](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BDCPI&Refer=top) 39875
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
