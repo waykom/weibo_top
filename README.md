@@ -10,7 +10,7 @@ weibo_top
 
 # 今日热门搜索  
 1. [上海查处多起涉疫谣言](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9F%A5%E5%A4%84%E5%A4%9A%E8%B5%B7%E6%B6%89%E7%96%AB%E8%B0%A3%E8%A8%80%23&Refer=top) 2582321
-2. [美国就是全球最大的人权赤字国](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%B1%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BA%BA%E6%9D%83%E8%B5%A4%E5%AD%97%E5%9B%BD%23&Refer=top) 1820812
+2. [美国就是全球最大的人权赤字国](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%B1%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BA%BA%E6%9D%83%E8%B5%A4%E5%AD%97%E5%9B%BD%23&Refer=top) 1975183
 3. [椰树集团再发争议广告](https://s.weibo.com//weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E5%86%8D%E5%8F%91%E4%BA%89%E8%AE%AE%E5%B9%BF%E5%91%8A%23&Refer=top) 1614131
 4. [我国科学家发布嫦五月壤最新研究成果](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E5%B8%83%E5%AB%A6%E4%BA%94%E6%9C%88%E5%A3%A4%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%23&Refer=top) 1370352
 5. [温精灵](https://s.weibo.com//weibo?q=%E6%B8%A9%E7%B2%BE%E7%81%B5&Refer=top) 1345018
