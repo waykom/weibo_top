@@ -10,7 +10,7 @@ weibo_top
 
 # 今日热门搜索  
 1. [上海查处多起涉疫谣言](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9F%A5%E5%A4%84%E5%A4%9A%E8%B5%B7%E6%B6%89%E7%96%AB%E8%B0%A3%E8%A8%80%23&Refer=top) 2582321
-2. [美国就是全球最大的人权赤字国](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%B1%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BA%BA%E6%9D%83%E8%B5%A4%E5%AD%97%E5%9B%BD%23&Refer=top) 1634628
+2. [美国就是全球最大的人权赤字国](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%B1%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BA%BA%E6%9D%83%E8%B5%A4%E5%AD%97%E5%9B%BD%23&Refer=top) 1684358
 3. [椰树集团再发争议广告](https://s.weibo.com//weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E5%86%8D%E5%8F%91%E4%BA%89%E8%AE%AE%E5%B9%BF%E5%91%8A%23&Refer=top) 1614131
 4. [我国科学家发布嫦五月壤最新研究成果](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E5%B8%83%E5%AB%A6%E4%BA%94%E6%9C%88%E5%A3%A4%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%23&Refer=top) 1331337
 5. [温精灵](https://s.weibo.com//weibo?q=%E6%B8%A9%E7%B2%BE%E7%81%B5&Refer=top) 1319663
@@ -35,9 +35,9 @@ weibo_top
 24. [核酸检测时不建议把口罩往上推](https://s.weibo.com//weibo?q=%23%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E6%97%B6%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%8F%A3%E7%BD%A9%E5%BE%80%E4%B8%8A%E6%8E%A8%23&Refer=top) 329111
 25. [湖南4月12日新增2例确诊病例](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%974%E6%9C%8812%E6%97%A5%E6%96%B0%E5%A2%9E2%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top) 290073
 26. [娶到最爱的人会是什么样子](https://s.weibo.com//weibo?q=%23%E5%A8%B6%E5%88%B0%E6%9C%80%E7%88%B1%E7%9A%84%E4%BA%BA%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%23&Refer=top) 287564
-27. [普京说西方的制裁闪电战已失败](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E8%A5%BF%E6%96%B9%E7%9A%84%E5%88%B6%E8%A3%81%E9%97%AA%E7%94%B5%E6%88%98%E5%B7%B2%E5%A4%B1%E8%B4%A5%23&Refer=top) 280037
-28. [欧洲航天局中止与俄月球项目合作](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E8%88%AA%E5%A4%A9%E5%B1%80%E4%B8%AD%E6%AD%A2%E4%B8%8E%E4%BF%84%E6%9C%88%E7%90%83%E9%A1%B9%E7%9B%AE%E5%90%88%E4%BD%9C%23&Refer=top) 264917
-29. [管泽元](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top) 253395
+27. [管泽元](https://s.weibo.com//weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top) 281589
+28. [普京说西方的制裁闪电战已失败](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E8%A5%BF%E6%96%B9%E7%9A%84%E5%88%B6%E8%A3%81%E9%97%AA%E7%94%B5%E6%88%98%E5%B7%B2%E5%A4%B1%E8%B4%A5%23&Refer=top) 280037
+29. [欧洲航天局中止与俄月球项目合作](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E6%B4%B2%E8%88%AA%E5%A4%A9%E5%B1%80%E4%B8%AD%E6%AD%A2%E4%B8%8E%E4%BF%84%E6%9C%88%E7%90%83%E9%A1%B9%E7%9B%AE%E5%90%88%E4%BD%9C%23&Refer=top) 264917
 30. [故宫春花高清壁纸](https://s.weibo.com//weibo?q=%23%E6%95%85%E5%AE%AB%E6%98%A5%E8%8A%B1%E9%AB%98%E6%B8%85%E5%A3%81%E7%BA%B8%23&Refer=top) 238566
 31. [湖南一400年古树起火](https://s.weibo.com//weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80400%E5%B9%B4%E5%8F%A4%E6%A0%91%E8%B5%B7%E7%81%AB%23&Refer=top) 214717
 32. [疫情下群众们最后的倔强](https://s.weibo.com//weibo?q=%23%E7%96%AB%E6%83%85%E4%B8%8B%E7%BE%A4%E4%BC%97%E4%BB%AC%E6%9C%80%E5%90%8E%E7%9A%84%E5%80%94%E5%BC%BA%23&Refer=top) 209949
@@ -49,6 +49,7 @@ weibo_top
 38. [乐园员工有点魔法天赋在身上](https://s.weibo.com//weibo?q=%23%E4%B9%90%E5%9B%AD%E5%91%98%E5%B7%A5%E6%9C%89%E7%82%B9%E9%AD%94%E6%B3%95%E5%A4%A9%E8%B5%8B%E5%9C%A8%E8%BA%AB%E4%B8%8A%23&Refer=top) 164527
 39. [南昌疫情](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%98%8C%E7%96%AB%E6%83%85%23&Refer=top) 159270
 40. [话剧铁流东进](https://s.weibo.com//weibo?q=%23%E8%AF%9D%E5%89%A7%E9%93%81%E6%B5%81%E4%B8%9C%E8%BF%9B%23&Refer=top) 141005
+41. [常熟疫情](https://s.weibo.com//weibo?q=%E5%B8%B8%E7%86%9F%E7%96%AB%E6%83%85&Refer=top) 136997
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
