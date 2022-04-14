@@ -9,7 +9,7 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [史上最多毕业生1076万](https://s.weibo.com//weibo?q=%23%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%9A%E6%AF%95%E4%B8%9A%E7%94%9F1076%E4%B8%87%23&Refer=top) 1843173
+1. [史上最多毕业生1076万](https://s.weibo.com//weibo?q=%23%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%9A%E6%AF%95%E4%B8%9A%E7%94%9F1076%E4%B8%87%23&Refer=top) 1860113
 2. [双汇火腿肠吃出尖锐异物](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E6%B1%87%E7%81%AB%E8%85%BF%E8%82%A0%E5%90%83%E5%87%BA%E5%B0%96%E9%94%90%E5%BC%82%E7%89%A9%23&Refer=top) 1832489
 3. [走进老区看新貌](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E8%80%81%E5%8C%BA%E7%9C%8B%E6%96%B0%E8%B2%8C%23&Refer=top) 1235917
 4. [太原按下了暂停键](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%8C%89%E4%B8%8B%E4%BA%86%E6%9A%82%E5%81%9C%E9%94%AE%23&Refer=top) 1233940
@@ -38,8 +38,8 @@ weibo_top
 27. [货车高速口怒卸萝卜证清白](https://s.weibo.com//weibo?q=%23%E8%B4%A7%E8%BD%A6%E9%AB%98%E9%80%9F%E5%8F%A3%E6%80%92%E5%8D%B8%E8%90%9D%E5%8D%9C%E8%AF%81%E6%B8%85%E7%99%BD%23&Refer=top) 302368
 28. [为什么偏爱夏天](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%8F%E7%88%B1%E5%A4%8F%E5%A4%A9%23&Refer=top) 275822
 29. [CBA](https://s.weibo.com//weibo?q=CBA&Refer=top) 260716
-30. [哈尔滨疫情](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%96%AB%E6%83%85%23&Refer=top) 256645
-31. [张大仙说终于不用算分了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A4%A7%E4%BB%99%E8%AF%B4%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E7%AE%97%E5%88%86%E4%BA%86%23&Refer=top) 246748
+30. [张大仙说终于不用算分了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A4%A7%E4%BB%99%E8%AF%B4%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E7%AE%97%E5%88%86%E4%BA%86%23&Refer=top) 259078
+31. [哈尔滨疫情](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%96%AB%E6%83%85%23&Refer=top) 256645
 32. [锦鲤](https://s.weibo.com//weibo?q=%23%E9%94%A6%E9%B2%A4%23&Refer=top) 224496
 33. [vox](https://s.weibo.com//weibo?q=vox&Refer=top) 220936
 34. [谁能拒绝一只懂事的狗狗呢](https://s.weibo.com//weibo?q=%23%E8%B0%81%E8%83%BD%E6%8B%92%E7%BB%9D%E4%B8%80%E5%8F%AA%E6%87%82%E4%BA%8B%E7%9A%84%E7%8B%97%E7%8B%97%E5%91%A2%23&Refer=top) 216214
