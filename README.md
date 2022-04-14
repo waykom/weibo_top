@@ -10,19 +10,19 @@ weibo_top
 
 # 今日热门搜索  
 1. [双汇火腿肠吃出尖锐异物](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E6%B1%87%E7%81%AB%E8%85%BF%E8%82%A0%E5%90%83%E5%87%BA%E5%B0%96%E9%94%90%E5%BC%82%E7%89%A9%23&Refer=top) 1832489
-2. [走进老区看新貌](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E8%80%81%E5%8C%BA%E7%9C%8B%E6%96%B0%E8%B2%8C%23&Refer=top) 1235917
-3. [太原按下了暂停键](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%8C%89%E4%B8%8B%E4%BA%86%E6%9A%82%E5%81%9C%E9%94%AE%23&Refer=top) 1233940
-4. [18人涉嫌非法集资1395亿被起诉](https://s.weibo.com//weibo?q=%2318%E4%BA%BA%E6%B6%89%E5%AB%8C%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%841395%E4%BA%BF%E8%A2%AB%E8%B5%B7%E8%AF%89%23&Refer=top) 1225721
-5. [美国用乌克兰精神病患者做生物实验](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E7%B2%BE%E7%A5%9E%E7%97%85%E6%82%A3%E8%80%85%E5%81%9A%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%23&Refer=top) 1161940
-6. [狗子偷吃10斤狗粮被开刀取出8斤](https://s.weibo.com//weibo?q=%23%E7%8B%97%E5%AD%90%E5%81%B7%E5%90%8310%E6%96%A4%E7%8B%97%E7%B2%AE%E8%A2%AB%E5%BC%80%E5%88%80%E5%8F%96%E5%87%BA8%E6%96%A4%23&Refer=top) 1112158
-7. [史上最多毕业生1076万](https://s.weibo.com//weibo?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%9A%E6%AF%95%E4%B8%9A%E7%94%9F1076%E4%B8%87&Refer=top) 1079457
+2. [史上最多毕业生1076万](https://s.weibo.com//weibo?q=%23%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%9A%E6%AF%95%E4%B8%9A%E7%94%9F1076%E4%B8%87%23&Refer=top) 1436388
+3. [走进老区看新貌](https://s.weibo.com//weibo?q=%23%E8%B5%B0%E8%BF%9B%E8%80%81%E5%8C%BA%E7%9C%8B%E6%96%B0%E8%B2%8C%23&Refer=top) 1235917
+4. [太原按下了暂停键](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%8C%89%E4%B8%8B%E4%BA%86%E6%9A%82%E5%81%9C%E9%94%AE%23&Refer=top) 1233940
+5. [18人涉嫌非法集资1395亿被起诉](https://s.weibo.com//weibo?q=%2318%E4%BA%BA%E6%B6%89%E5%AB%8C%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%841395%E4%BA%BF%E8%A2%AB%E8%B5%B7%E8%AF%89%23&Refer=top) 1225721
+6. [美国用乌克兰精神病患者做生物实验](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%A8%E4%B9%8C%E5%85%8B%E5%85%B0%E7%B2%BE%E7%A5%9E%E7%97%85%E6%82%A3%E8%80%85%E5%81%9A%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%23&Refer=top) 1161940
+7. [狗子偷吃10斤狗粮被开刀取出8斤](https://s.weibo.com//weibo?q=%23%E7%8B%97%E5%AD%90%E5%81%B7%E5%90%8310%E6%96%A4%E7%8B%97%E7%B2%AE%E8%A2%AB%E5%BC%80%E5%88%80%E5%8F%96%E5%87%BA8%E6%96%A4%23&Refer=top) 1112158
 8. [XYG 俱乐部](https://s.weibo.com//weibo?q=XYG%20%E4%BF%B1%E4%B9%90%E9%83%A8&Refer=top) 1071350
 9. [教资笔试成绩今晚8点可查](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%B5%84%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9%E4%BB%8A%E6%99%9A8%E7%82%B9%E5%8F%AF%E6%9F%A5%23&Refer=top) 841803
 10. [演员麦皓为去世](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%91%98%E9%BA%A6%E7%9A%93%E4%B8%BA%E5%8E%BB%E4%B8%96%23&Refer=top) 789855
 11. [刘维母亲因病去世](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%BB%B4%E6%AF%8D%E4%BA%B2%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%23&Refer=top) 703727
 12. [新冠病毒疑似与美国生物公司相关](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%91%E4%BC%BC%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%94%9F%E7%89%A9%E5%85%AC%E5%8F%B8%E7%9B%B8%E5%85%B3%23&Refer=top) 694898
 13. [中专生男孩考进清华](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%B8%93%E7%94%9F%E7%94%B7%E5%AD%A9%E8%80%83%E8%BF%9B%E6%B8%85%E5%8D%8E%23&Refer=top) 500714
-14. [5元一锅征服全国](https://s.weibo.com//weibo?q=%235%E5%85%83%E4%B8%80%E9%94%85%E5%BE%81%E6%9C%8D%E5%85%A8%E5%9B%BD%23&Refer=top) 471714
+14. [5元一锅征服全国](https://s.weibo.com//weibo?q=%235%E5%85%83%E4%B8%80%E9%94%85%E5%BE%81%E6%9C%8D%E5%85%A8%E5%9B%BD%23&Refer=top) 488500
 15. [为什么自信很重要](https://s.weibo.com//weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%87%AA%E4%BF%A1%E5%BE%88%E9%87%8D%E8%A6%81&Refer=top) 446990
 16. [教资69](https://s.weibo.com//weibo?q=%E6%95%99%E8%B5%8469&Refer=top) 408368
 17. [95后小伙用6514粒积木还原同福客栈](https://s.weibo.com//weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%99%E7%94%A86514%E7%B2%92%E7%A7%AF%E6%9C%A8%E8%BF%98%E5%8E%9F%E5%90%8C%E7%A6%8F%E5%AE%A2%E6%A0%88%23&Refer=top) 402308
@@ -46,13 +46,14 @@ weibo_top
 35. [辽宁男篮战胜广东男篮](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%23&Refer=top) 214159
 36. [专家称不可盲目相信MBTI测试结果](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E5%8F%AF%E7%9B%B2%E7%9B%AE%E7%9B%B8%E4%BF%A1MBTI%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%23&Refer=top) 191729
 37. [教资 科一](https://s.weibo.com//weibo?q=%E6%95%99%E8%B5%84%20%E7%A7%91%E4%B8%80&Refer=top) 190600
-38. [周鹏](https://s.weibo.com//weibo?q=%E5%91%A8%E9%B9%8F&Refer=top) 181249
-39. [隔离要带些什么](https://s.weibo.com//weibo?q=%23%E9%9A%94%E7%A6%BB%E8%A6%81%E5%B8%A6%E4%BA%9B%E4%BB%80%E4%B9%88%23&Refer=top) 180968
+38. [隔离要带些什么](https://s.weibo.com//weibo?q=%23%E9%9A%94%E7%A6%BB%E8%A6%81%E5%B8%A6%E4%BA%9B%E4%BB%80%E4%B9%88%23&Refer=top) 187965
+39. [周鹏](https://s.weibo.com//weibo?q=%E5%91%A8%E9%B9%8F&Refer=top) 181249
 40. [上海崇明一商家销售280元蔬菜套餐被立案](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B4%87%E6%98%8E%E4%B8%80%E5%95%86%E5%AE%B6%E9%94%80%E5%94%AE280%E5%85%83%E8%94%AC%E8%8F%9C%E5%A5%97%E9%A4%90%E8%A2%AB%E7%AB%8B%E6%A1%88%23&Refer=top) 180780
 41. [赵丽颖时尚芭莎封面](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E5%B0%81%E9%9D%A2%23&Refer=top) 179184
 42. [赵睿](https://s.weibo.com//weibo?q=%E8%B5%B5%E7%9D%BF&Refer=top) 173526
 43. [郑州新增11例无症状感染者](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B0%E5%A2%9E11%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 171304
 44. [热门赶海生物图鉴](https://s.weibo.com//weibo?q=%23%E7%83%AD%E9%97%A8%E8%B5%B6%E6%B5%B7%E7%94%9F%E7%89%A9%E5%9B%BE%E9%89%B4%23&Refer=top) 145672
+45. [张大仙说终于不用算分了](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%A4%A7%E4%BB%99%E8%AF%B4%E7%BB%88%E4%BA%8E%E4%B8%8D%E7%94%A8%E7%AE%97%E5%88%86%E4%BA%86%23&Refer=top) 116068
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
