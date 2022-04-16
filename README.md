@@ -54,7 +54,8 @@ weibo_top
 43. [这几个人会跳的歌可真多](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%87%A0%E4%B8%AA%E4%BA%BA%E4%BC%9A%E8%B7%B3%E7%9A%84%E6%AD%8C%E5%8F%AF%E7%9C%9F%E5%A4%9A%23&Refer=top) 104394
 44. [学没学过小提琴都被侮辱了](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%B2%A1%E5%AD%A6%E8%BF%87%E5%B0%8F%E6%8F%90%E7%90%B4%E9%83%BD%E8%A2%AB%E4%BE%AE%E8%BE%B1%E4%BA%86%23&Refer=top) 67394
 45. [曾繁日顶翻赵继伟](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E7%B9%81%E6%97%A5%E9%A1%B6%E7%BF%BB%E8%B5%B5%E7%BB%A7%E4%BC%9F%23&Refer=top) 50685
-46. [欢迎翟志刚王亚平叶光富回地球](https://s.weibo.com//weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%BF%9F%E5%BF%97%E5%88%9A%E7%8E%8B%E4%BA%9A%E5%B9%B3%E5%8F%B6%E5%85%89%E5%AF%8C%E5%9B%9E%E5%9C%B0%E7%90%83%23&Refer=top) 26042
+46. [被姐夫投毒百草枯女孩属重伤一级](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%A7%90%E5%A4%AB%E6%8A%95%E6%AF%92%E7%99%BE%E8%8D%89%E6%9E%AF%E5%A5%B3%E5%AD%A9%E5%B1%9E%E9%87%8D%E4%BC%A4%E4%B8%80%E7%BA%A7%23&Refer=top) 30390
+47. [欢迎翟志刚王亚平叶光富回地球](https://s.weibo.com//weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%BF%9F%E5%BF%97%E5%88%9A%E7%8E%8B%E4%BA%9A%E5%B9%B3%E5%8F%B6%E5%85%89%E5%AF%8C%E5%9B%9E%E5%9C%B0%E7%90%83%23&Refer=top) 26042
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
