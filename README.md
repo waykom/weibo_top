@@ -54,6 +54,8 @@ weibo_top
 43. [扬州高邮发现1例初筛阳性](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E9%AB%98%E9%82%AE%E5%8F%91%E7%8E%B01%E4%BE%8B%E5%88%9D%E7%AD%9B%E9%98%B3%E6%80%A7%23&Refer=top) 113352
 44. [北京有条紫色的梦幻街道](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%89%E6%9D%A1%E7%B4%AB%E8%89%B2%E7%9A%84%E6%A2%A6%E5%B9%BB%E8%A1%97%E9%81%93%23&Refer=top) 100985
 45. [妖刀的蒙犽](https://s.weibo.com//weibo?q=%23%E5%A6%96%E5%88%80%E7%9A%84%E8%92%99%E7%8A%BD%23&Refer=top) 100916
+46. [父女花4小时用黏土捏出青铜鼎](https://s.weibo.com//weibo?q=%23%E7%88%B6%E5%A5%B3%E8%8A%B14%E5%B0%8F%E6%97%B6%E7%94%A8%E9%BB%8F%E5%9C%9F%E6%8D%8F%E5%87%BA%E9%9D%92%E9%93%9C%E9%BC%8E%23&Refer=top) 13086
+47. [男子做木头望远镜让山里孩子看月球](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%9A%E6%9C%A8%E5%A4%B4%E6%9C%9B%E8%BF%9C%E9%95%9C%E8%AE%A9%E5%B1%B1%E9%87%8C%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%9C%88%E7%90%83%23&Refer=top) 9626
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
