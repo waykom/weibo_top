@@ -52,7 +52,7 @@ weibo_top
 41. [请参加北京这2个旅行团的人员立即报告](https://s.weibo.com//weibo?q=%23%E8%AF%B7%E5%8F%82%E5%8A%A0%E5%8C%97%E4%BA%AC%E8%BF%992%E4%B8%AA%E6%97%85%E8%A1%8C%E5%9B%A2%E7%9A%84%E4%BA%BA%E5%91%98%E7%AB%8B%E5%8D%B3%E6%8A%A5%E5%91%8A%23&Refer=top) 169008
 42. [柳丁](https://s.weibo.com//weibo?q=%E6%9F%B3%E4%B8%81&Refer=top) 163625
 43. [炎炎夏日的椰子冻有多绝](https://s.weibo.com//weibo?q=%23%E7%82%8E%E7%82%8E%E5%A4%8F%E6%97%A5%E7%9A%84%E6%A4%B0%E5%AD%90%E5%86%BB%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 131448
-44. [北京妈妈在教育上有多下功夫](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A6%88%E5%A6%88%E5%9C%A8%E6%95%99%E8%82%B2%E4%B8%8A%E6%9C%89%E5%A4%9A%E4%B8%8B%E5%8A%9F%E5%A4%AB%23&Refer=top) 54992
+44. [北京妈妈在教育上有多下功夫](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A6%88%E5%A6%88%E5%9C%A8%E6%95%99%E8%82%B2%E4%B8%8A%E6%9C%89%E5%A4%9A%E4%B8%8B%E5%8A%9F%E5%A4%AB%23&Refer=top) 64162
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
