@@ -54,8 +54,8 @@ weibo_top
 43. [上海对龙仁粉丝供货商立案调查](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%AF%B9%E9%BE%99%E4%BB%81%E7%B2%89%E4%B8%9D%E4%BE%9B%E8%B4%A7%E5%95%86%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&Refer=top) 205020
 44. [谁不想在学校操场上蹦迪呢](https://s.weibo.com//weibo?q=%23%E8%B0%81%E4%B8%8D%E6%83%B3%E5%9C%A8%E5%AD%A6%E6%A0%A1%E6%93%8D%E5%9C%BA%E4%B8%8A%E8%B9%A6%E8%BF%AA%E5%91%A2%23&Refer=top) 154526
 45. [这就是专属于鲜花的浪漫吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%93%E5%B1%9E%E4%BA%8E%E9%B2%9C%E8%8A%B1%E7%9A%84%E6%B5%AA%E6%BC%AB%E5%90%A7%23&Refer=top) 117326
-46. [青海海北州门源县发生3.9级地震](https://s.weibo.com//weibo?q=%E9%9D%92%E6%B5%B7%E6%B5%B7%E5%8C%97%E5%B7%9E%E9%97%A8%E6%BA%90%E5%8E%BF%E5%8F%91%E7%94%9F3.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 55591
-47. [奥密克戎平均病死率是流感的7.5倍](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%B9%B3%E5%9D%87%E7%97%85%E6%AD%BB%E7%8E%87%E6%98%AF%E6%B5%81%E6%84%9F%E7%9A%847.5%E5%80%8D%23&Refer=top) 33316
+46. [奥密克戎平均病死率是流感的7.5倍](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%B9%B3%E5%9D%87%E7%97%85%E6%AD%BB%E7%8E%87%E6%98%AF%E6%B5%81%E6%84%9F%E7%9A%847.5%E5%80%8D%23&Refer=top) 74391
+47. [青海海北州门源县发生3.9级地震](https://s.weibo.com//weibo?q=%E9%9D%92%E6%B5%B7%E6%B5%B7%E5%8C%97%E5%B7%9E%E9%97%A8%E6%BA%90%E5%8E%BF%E5%8F%91%E7%94%9F3.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 55591
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
