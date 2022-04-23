@@ -38,12 +38,12 @@ weibo_top
 27. [应届毕业生人数首次破千万](https://s.weibo.com//weibo?q=%23%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E4%BA%BA%E6%95%B0%E9%A6%96%E6%AC%A1%E7%A0%B4%E5%8D%83%E4%B8%87%23&Refer=top) 365807
 28. [C罗进球后指天告慰亡子](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E8%BF%9B%E7%90%83%E5%90%8E%E6%8C%87%E5%A4%A9%E5%91%8A%E6%85%B0%E4%BA%A1%E5%AD%90%23&Refer=top) 359305
 29. [北京近日疫情续发和隐匿传播风险高](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E8%BF%91%E6%97%A5%E7%96%AB%E6%83%85%E7%BB%AD%E5%8F%91%E5%92%8C%E9%9A%90%E5%8C%BF%E4%BC%A0%E6%92%AD%E9%A3%8E%E9%99%A9%E9%AB%98%23&Refer=top) 343003
-30. [刘宇宁直播](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&Refer=top) 317011
-31. [演员王玉梅去世](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E7%8E%89%E6%A2%85%E5%8E%BB%E4%B8%96%23&Refer=top) 315631
-32. [小虎厉害](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%99%8E%E5%8E%89%E5%AE%B3&Refer=top) 303641
-33. [TTG 遗憾](https://s.weibo.com//weibo?q=TTG%20%E9%81%97%E6%86%BE&Refer=top) 301772
-34. [徐州部分区域高一高二恢复线下教学](https://s.weibo.com//weibo?q=%23%E5%BE%90%E5%B7%9E%E9%83%A8%E5%88%86%E5%8C%BA%E5%9F%9F%E9%AB%98%E4%B8%80%E9%AB%98%E4%BA%8C%E6%81%A2%E5%A4%8D%E7%BA%BF%E4%B8%8B%E6%95%99%E5%AD%A6%23&Refer=top) 292106
-35. [奥密克戎平均病死率是流感的7.5倍](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%B9%B3%E5%9D%87%E7%97%85%E6%AD%BB%E7%8E%87%E6%98%AF%E6%B5%81%E6%84%9F%E7%9A%847.5%E5%80%8D%23&Refer=top) 283432
+30. [奥密克戎平均病死率是流感的7.5倍](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%B9%B3%E5%9D%87%E7%97%85%E6%AD%BB%E7%8E%87%E6%98%AF%E6%B5%81%E6%84%9F%E7%9A%847.5%E5%80%8D%23&Refer=top) 327806
+31. [刘宇宁直播](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&Refer=top) 317011
+32. [演员王玉梅去世](https://s.weibo.com//weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E7%8E%89%E6%A2%85%E5%8E%BB%E4%B8%96%23&Refer=top) 315631
+33. [小虎厉害](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%99%8E%E5%8E%89%E5%AE%B3&Refer=top) 303641
+34. [TTG 遗憾](https://s.weibo.com//weibo?q=TTG%20%E9%81%97%E6%86%BE&Refer=top) 301772
+35. [徐州部分区域高一高二恢复线下教学](https://s.weibo.com//weibo?q=%23%E5%BE%90%E5%B7%9E%E9%83%A8%E5%88%86%E5%8C%BA%E5%9F%9F%E9%AB%98%E4%B8%80%E9%AB%98%E4%BA%8C%E6%81%A2%E5%A4%8D%E7%BA%BF%E4%B8%8B%E6%95%99%E5%AD%A6%23&Refer=top) 292106
 36. [红楼梦邮票发行](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E6%A5%BC%E6%A2%A6%E9%82%AE%E7%A5%A8%E5%8F%91%E8%A1%8C%23&Refer=top) 278156
 37. [TTG纪录片](https://s.weibo.com//weibo?q=TTG%E7%BA%AA%E5%BD%95%E7%89%87&Refer=top) 277168
 38. [龙舌兰皮肤](https://s.weibo.com//weibo?q=%E9%BE%99%E8%88%8C%E5%85%B0%E7%9A%AE%E8%82%A4&Refer=top) 265770
@@ -56,8 +56,9 @@ weibo_top
 45. [谁不想在学校操场上蹦迪呢](https://s.weibo.com//weibo?q=%23%E8%B0%81%E4%B8%8D%E6%83%B3%E5%9C%A8%E5%AD%A6%E6%A0%A1%E6%93%8D%E5%9C%BA%E4%B8%8A%E8%B9%A6%E8%BF%AA%E5%91%A2%23&Refer=top) 154526
 46. [这就是专属于鲜花的浪漫吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%93%E5%B1%9E%E4%BA%8E%E9%B2%9C%E8%8A%B1%E7%9A%84%E6%B5%AA%E6%BC%AB%E5%90%A7%23&Refer=top) 117326
 47. [青海海北州门源县发生3.9级地震](https://s.weibo.com//weibo?q=%E9%9D%92%E6%B5%B7%E6%B5%B7%E5%8C%97%E5%B7%9E%E9%97%A8%E6%BA%90%E5%8E%BF%E5%8F%91%E7%94%9F3.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 55591
-48. [爱你的男生能有多温柔](https://s.weibo.com//weibo?q=%23%E7%88%B1%E4%BD%A0%E7%9A%84%E7%94%B7%E7%94%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E6%B8%A9%E6%9F%94%23&Refer=top) 34642
+48. [爱你的男生能有多温柔](https://s.weibo.com//weibo?q=%23%E7%88%B1%E4%BD%A0%E7%9A%84%E7%94%B7%E7%94%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E6%B8%A9%E6%9F%94%23&Refer=top) 41520
 49. [颜丙涛9比7塞尔比](https://s.weibo.com//weibo?q=%23%E9%A2%9C%E4%B8%99%E6%B6%9B9%E6%AF%947%E5%A1%9E%E5%B0%94%E6%AF%94%23&Refer=top) 32193
+50. [北京召开第312场疫情防控新闻发布会](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%AC%E5%BC%80%E7%AC%AC312%E5%9C%BA%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 24939
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
