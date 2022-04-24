@@ -48,6 +48,7 @@ weibo_top
 37. [山东新增3例本土确诊45例本土无症状](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A45%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top) 148861
 38. [沈阳社会面清零](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E7%A4%BE%E4%BC%9A%E9%9D%A2%E6%B8%85%E9%9B%B6%23&Refer=top) 142989
 39. [如何打造低妆感妆容](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E4%BD%8E%E5%A6%86%E6%84%9F%E5%A6%86%E5%AE%B9%23&Refer=top) 123151
+40. [法国大选今日马勒对决](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%9B%BD%E5%A4%A7%E9%80%89%E4%BB%8A%E6%97%A5%E9%A9%AC%E5%8B%92%E5%AF%B9%E5%86%B3%23&Refer=top) 26454
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
