@@ -48,15 +48,16 @@ weibo_top
 37. [包头疫情](https://s.weibo.com//weibo?q=%23%E5%8C%85%E5%A4%B4%E7%96%AB%E6%83%85%23&Refer=top) 207141
 38. [哪些专业在大学不止读四年](https://s.weibo.com//weibo?q=%23%E5%93%AA%E4%BA%9B%E4%B8%93%E4%B8%9A%E5%9C%A8%E5%A4%A7%E5%AD%A6%E4%B8%8D%E6%AD%A2%E8%AF%BB%E5%9B%9B%E5%B9%B4%23&Refer=top) 196950
 39. [九江一楼房墙皮脱落致1死](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E6%B1%9F%E4%B8%80%E6%A5%BC%E6%88%BF%E5%A2%99%E7%9A%AE%E8%84%B1%E8%90%BD%E8%87%B41%E6%AD%BB%23&Refer=top) 187189
-40. [法式慵懒红唇妆](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%BC%8F%E6%85%B5%E6%87%92%E7%BA%A2%E5%94%87%E5%A6%86%23&Refer=top) 184119
-41. [杭州地铁](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E5%9C%B0%E9%93%81&Refer=top) 172126
-42. [女生来大姨妈的疼痛等级](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9D%A5%E5%A4%A7%E5%A7%A8%E5%A6%88%E7%9A%84%E7%96%BC%E7%97%9B%E7%AD%89%E7%BA%A7%23&Refer=top) 170782
-43. [外汇存款准备金率下调至8%](https://s.weibo.com//weibo?q=%23%E5%A4%96%E6%B1%87%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91%E7%8E%87%E4%B8%8B%E8%B0%83%E8%87%B38%25%23&Refer=top) 158007
-44. [86岁老人晕车儿女用板车接力7小时拉回](https://s.weibo.com//weibo?q=%2386%E5%B2%81%E8%80%81%E4%BA%BA%E6%99%95%E8%BD%A6%E5%84%BF%E5%A5%B3%E7%94%A8%E6%9D%BF%E8%BD%A6%E6%8E%A5%E5%8A%9B7%E5%B0%8F%E6%97%B6%E6%8B%89%E5%9B%9E%23&Refer=top) 155176
-45. [smart](https://s.weibo.com//weibo?q=smart&Refer=top) 154456
-46. [张伯礼回应动态清零政策](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E5%9B%9E%E5%BA%94%E5%8A%A8%E6%80%81%E6%B8%85%E9%9B%B6%E6%94%BF%E7%AD%96%23&Refer=top) 150229
+40. [张伯礼回应动态清零政策](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E5%9B%9E%E5%BA%94%E5%8A%A8%E6%80%81%E6%B8%85%E9%9B%B6%E6%94%BF%E7%AD%96%23&Refer=top) 184621
+41. [法式慵懒红唇妆](https://s.weibo.com//weibo?q=%23%E6%B3%95%E5%BC%8F%E6%85%B5%E6%87%92%E7%BA%A2%E5%94%87%E5%A6%86%23&Refer=top) 184119
+42. [杭州地铁](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E5%9C%B0%E9%93%81&Refer=top) 172126
+43. [女生来大姨妈的疼痛等级](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9D%A5%E5%A4%A7%E5%A7%A8%E5%A6%88%E7%9A%84%E7%96%BC%E7%97%9B%E7%AD%89%E7%BA%A7%23&Refer=top) 170782
+44. [外汇存款准备金率下调至8%](https://s.weibo.com//weibo?q=%23%E5%A4%96%E6%B1%87%E5%AD%98%E6%AC%BE%E5%87%86%E5%A4%87%E9%87%91%E7%8E%87%E4%B8%8B%E8%B0%83%E8%87%B38%25%23&Refer=top) 158007
+45. [86岁老人晕车儿女用板车接力7小时拉回](https://s.weibo.com//weibo?q=%2386%E5%B2%81%E8%80%81%E4%BA%BA%E6%99%95%E8%BD%A6%E5%84%BF%E5%A5%B3%E7%94%A8%E6%9D%BF%E8%BD%A6%E6%8E%A5%E5%8A%9B7%E5%B0%8F%E6%97%B6%E6%8B%89%E5%9B%9E%23&Refer=top) 155176
+46. [smart](https://s.weibo.com//weibo?q=smart&Refer=top) 154456
 47. [河南周口4岁留守男孩失踪2天](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A34%E5%B2%81%E7%95%99%E5%AE%88%E7%94%B7%E5%AD%A9%E5%A4%B1%E8%B8%AA2%E5%A4%A9%23&Refer=top) 147118
 48. [这火柴真是被玩出花了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%81%AB%E6%9F%B4%E7%9C%9F%E6%98%AF%E8%A2%AB%E7%8E%A9%E5%87%BA%E8%8A%B1%E4%BA%86%23&Refer=top) 144928
+49. [宠物更喜欢孩子的原因](https://s.weibo.com//weibo?q=%23%E5%AE%A0%E7%89%A9%E6%9B%B4%E5%96%9C%E6%AC%A2%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top) 34058
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
