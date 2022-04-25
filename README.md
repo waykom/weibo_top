@@ -18,9 +18,9 @@ weibo_top
 7. [面对奥密克戎中国依然不会躺平](https://s.weibo.com//weibo?q=%23%E9%9D%A2%E5%AF%B9%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E4%B8%AD%E5%9B%BD%E4%BE%9D%E7%84%B6%E4%B8%8D%E4%BC%9A%E8%BA%BA%E5%B9%B3%23&Refer=top) 1062715
 8. [上海暴雨大白被风刮跑](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%E5%A4%A7%E7%99%BD%E8%A2%AB%E9%A3%8E%E5%88%AE%E8%B7%91%23&Refer=top) 946942
 9. [爸爸跟刘畊宏跳操一不留神踢娃脸上](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E8%B7%9F%E5%88%98%E7%95%8A%E5%AE%8F%E8%B7%B3%E6%93%8D%E4%B8%80%E4%B8%8D%E7%95%99%E7%A5%9E%E8%B8%A2%E5%A8%83%E8%84%B8%E4%B8%8A%23&Refer=top) 909021
-10. [你为什么要谈恋爱啊](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B0%88%E6%81%8B%E7%88%B1%E5%95%8A%23&Refer=top) 817355
-11. [北京疫情发布会](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%96%AB%E6%83%85%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 786261
-12. [骗子称求求你把我删了吧](https://s.weibo.com//weibo?q=%23%E9%AA%97%E5%AD%90%E7%A7%B0%E6%B1%82%E6%B1%82%E4%BD%A0%E6%8A%8A%E6%88%91%E5%88%A0%E4%BA%86%E5%90%A7%23&Refer=top) 653708
+10. [骗子称求求你把我删了吧](https://s.weibo.com//weibo?q=%23%E9%AA%97%E5%AD%90%E7%A7%B0%E6%B1%82%E6%B1%82%E4%BD%A0%E6%8A%8A%E6%88%91%E5%88%A0%E4%BA%86%E5%90%A7%23&Refer=top) 890810
+11. [你为什么要谈恋爱啊](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%B0%88%E6%81%8B%E7%88%B1%E5%95%8A%23&Refer=top) 817355
+12. [北京疫情发布会](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E7%96%AB%E6%83%85%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 786261
 13. [北京市民有必要开启囤货模式吗](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E6%9C%89%E5%BF%85%E8%A6%81%E5%BC%80%E5%90%AF%E5%9B%A4%E8%B4%A7%E6%A8%A1%E5%BC%8F%E5%90%97%23&Refer=top) 651759
 14. [本人亲自跳才能瘦的减肥操](https://s.weibo.com//weibo?q=%23%E6%9C%AC%E4%BA%BA%E4%BA%B2%E8%87%AA%E8%B7%B3%E6%89%8D%E8%83%BD%E7%98%A6%E7%9A%84%E5%87%8F%E8%82%A5%E6%93%8D%23&Refer=top) 632119
 15. [刘强东明州女大学生案重启调查](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E6%98%8E%E5%B7%9E%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A1%88%E9%87%8D%E5%90%AF%E8%B0%83%E6%9F%A5%23&Refer=top) 601819
@@ -28,16 +28,16 @@ weibo_top
 17. [抗美援朝老兵向核酸采样人员敬礼](https://s.weibo.com//weibo?q=%23%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E8%80%81%E5%85%B5%E5%90%91%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E4%BA%BA%E5%91%98%E6%95%AC%E7%A4%BC%23&Refer=top) 582388
 18. [总得在夏天去一次livehouse吧](https://s.weibo.com//weibo?q=%23%E6%80%BB%E5%BE%97%E5%9C%A8%E5%A4%8F%E5%A4%A9%E5%8E%BB%E4%B8%80%E6%AC%A1livehouse%E5%90%A7%23&Refer=top) 577954
 19. [谷爱凌跑步中途被路人拦下自拍](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B7%91%E6%AD%A5%E4%B8%AD%E9%80%94%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%8B%A6%E4%B8%8B%E8%87%AA%E6%8B%8D%23&Refer=top) 549436
-20. [上饶115例新增阳性感染者详情](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E9%A5%B6115%E4%BE%8B%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%E8%AF%A6%E6%83%85%23&Refer=top) 469854
-21. [为什么喜欢在小县城生活](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E5%9C%A8%E5%B0%8F%E5%8E%BF%E5%9F%8E%E7%94%9F%E6%B4%BB%23&Refer=top) 451499
-22. [原来偷走妈妈青春的是我](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%81%B7%E8%B5%B0%E5%A6%88%E5%A6%88%E9%9D%92%E6%98%A5%E7%9A%84%E6%98%AF%E6%88%91%23&Refer=top) 433249
-23. [武大靖版本草纲目操有多好笑](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%89%88%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE%E6%93%8D%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top) 425578
-24. [俄乌冲突的本质是俄美冲突](https://s.weibo.com//weibo?q=%23%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BF%84%E7%BE%8E%E5%86%B2%E7%AA%81%23&Refer=top) 397138
-25. [成都人朋友圈雪山浓度超标](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%BA%BA%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%9B%AA%E5%B1%B1%E6%B5%93%E5%BA%A6%E8%B6%85%E6%A0%87%23&Refer=top) 396775
-26. [久酷](https://s.weibo.com//weibo?q=%E4%B9%85%E9%85%B7&Refer=top) 389842
+20. [久酷](https://s.weibo.com//weibo?q=%E4%B9%85%E9%85%B7&Refer=top) 513808
+21. [上饶115例新增阳性感染者详情](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E9%A5%B6115%E4%BE%8B%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%E8%AF%A6%E6%83%85%23&Refer=top) 469854
+22. [为什么喜欢在小县城生活](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E5%9C%A8%E5%B0%8F%E5%8E%BF%E5%9F%8E%E7%94%9F%E6%B4%BB%23&Refer=top) 451499
+23. [原来偷走妈妈青春的是我](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%81%B7%E8%B5%B0%E5%A6%88%E5%A6%88%E9%9D%92%E6%98%A5%E7%9A%84%E6%98%AF%E6%88%91%23&Refer=top) 433249
+24. [武大靖版本草纲目操有多好笑](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%89%88%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE%E6%93%8D%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top) 425578
+25. [俄乌冲突的本质是俄美冲突](https://s.weibo.com//weibo?q=%23%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BF%84%E7%BE%8E%E5%86%B2%E7%AA%81%23&Refer=top) 397138
+26. [成都人朋友圈雪山浓度超标](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%BA%BA%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%9B%AA%E5%B1%B1%E6%B5%93%E5%BA%A6%E8%B6%85%E6%A0%87%23&Refer=top) 396775
 27. [第一视角看拔智齿有多酸爽](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E7%9C%8B%E6%8B%94%E6%99%BA%E9%BD%BF%E6%9C%89%E5%A4%9A%E9%85%B8%E7%88%BD%23&Refer=top) 388640
-28. [文旅部发布五一出游提示](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80%E5%87%BA%E6%B8%B8%E6%8F%90%E7%A4%BA%23&Refer=top) 335213
-29. [省外返豫入豫落地即赋黄码](https://s.weibo.com//weibo?q=%23%E7%9C%81%E5%A4%96%E8%BF%94%E8%B1%AB%E5%85%A5%E8%B1%AB%E8%90%BD%E5%9C%B0%E5%8D%B3%E8%B5%8B%E9%BB%84%E7%A0%81%23&Refer=top) 325399
+28. [省外返豫入豫落地即赋黄码](https://s.weibo.com//weibo?q=%23%E7%9C%81%E5%A4%96%E8%BF%94%E8%B1%AB%E5%85%A5%E8%B1%AB%E8%90%BD%E5%9C%B0%E5%8D%B3%E8%B5%8B%E9%BB%84%E7%A0%81%23&Refer=top) 359061
+29. [文旅部发布五一出游提示](https://s.weibo.com//weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80%E5%87%BA%E6%B8%B8%E6%8F%90%E7%A4%BA%23&Refer=top) 335213
 30. [结婚五年如何与老公沟通](https://s.weibo.com//weibo?q=%23%E7%BB%93%E5%A9%9A%E4%BA%94%E5%B9%B4%E5%A6%82%E4%BD%95%E4%B8%8E%E8%80%81%E5%85%AC%E6%B2%9F%E9%80%9A%23&Refer=top) 313685
 31. [天津2例阳性感染者活动轨迹](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A52%E4%BE%8B%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%E6%B4%BB%E5%8A%A8%E8%BD%A8%E8%BF%B9%23&Refer=top) 293829
 32. [不吃主食的8个副作用](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E5%90%83%E4%B8%BB%E9%A3%9F%E7%9A%848%E4%B8%AA%E5%89%AF%E4%BD%9C%E7%94%A8%23&Refer=top) 277335
@@ -56,6 +56,7 @@ weibo_top
 45. [smart](https://s.weibo.com//weibo?q=smart&Refer=top) 154456
 46. [河南周口4岁留守男孩失踪2天](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A34%E5%B2%81%E7%95%99%E5%AE%88%E7%94%B7%E5%AD%A9%E5%A4%B1%E8%B8%AA2%E5%A4%A9%23&Refer=top) 147118
 47. [这火柴真是被玩出花了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%81%AB%E6%9F%B4%E7%9C%9F%E6%98%AF%E8%A2%AB%E7%8E%A9%E5%87%BA%E8%8A%B1%E4%BA%86%23&Refer=top) 144928
+48. [张伯礼回应动态清零政策](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E5%9B%9E%E5%BA%94%E5%8A%A8%E6%80%81%E6%B8%85%E9%9B%B6%E6%94%BF%E7%AD%96%23&Refer=top) 96680
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
