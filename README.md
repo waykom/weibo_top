@@ -54,6 +54,7 @@ weibo_top
 43. [9旬孤寡老人被民警照顾14年](https://s.weibo.com//weibo?q=%239%E6%97%AC%E5%AD%A4%E5%AF%A1%E8%80%81%E4%BA%BA%E8%A2%AB%E6%B0%91%E8%AD%A6%E7%85%A7%E9%A1%BE14%E5%B9%B4%23&Refer=top) 166313
 44. [被毛茸茸的小鸭子可爱到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E5%B0%8F%E9%B8%AD%E5%AD%90%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&Refer=top) 160409
 45. [折叠手机的正确打开方式](https://s.weibo.com//weibo?q=%23%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&Refer=top) 143833
+46. [K宝生日当天获授勋](https://s.weibo.com//weibo?q=%23K%E5%AE%9D%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E8%8E%B7%E6%8E%88%E5%8B%8B%23&Refer=top) 32252
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
