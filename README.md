@@ -56,7 +56,7 @@ weibo_top
 45. [今年五一假期你的安排](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E4%BD%A0%E7%9A%84%E5%AE%89%E6%8E%92%23&Refer=top) 134516
 46. [美国游客试图携带炮弹登机](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%AF%95%E5%9B%BE%E6%90%BA%E5%B8%A6%E7%82%AE%E5%BC%B9%E7%99%BB%E6%9C%BA&Refer=top) 124043
 47. [大情种游戏专用ID](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E6%83%85%E7%A7%8D%E6%B8%B8%E6%88%8F%E4%B8%93%E7%94%A8ID%23&Refer=top) 52174
-48. [猴子开窗跳入居民家中打开煤气灶](https://s.weibo.com//weibo?q=%23%E7%8C%B4%E5%AD%90%E5%BC%80%E7%AA%97%E8%B7%B3%E5%85%A5%E5%B1%85%E6%B0%91%E5%AE%B6%E4%B8%AD%E6%89%93%E5%BC%80%E7%85%A4%E6%B0%94%E7%81%B6%23&Refer=top) 21538
+48. [猴子开窗跳入居民家中打开煤气灶](https://s.weibo.com//weibo?q=%23%E7%8C%B4%E5%AD%90%E5%BC%80%E7%AA%97%E8%B7%B3%E5%85%A5%E5%B1%85%E6%B0%91%E5%AE%B6%E4%B8%AD%E6%89%93%E5%BC%80%E7%85%A4%E6%B0%94%E7%81%B6%23&Refer=top) 26471
 49. [海豹是用肚子走路的](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E8%B1%B9%E6%98%AF%E7%94%A8%E8%82%9A%E5%AD%90%E8%B5%B0%E8%B7%AF%E7%9A%84%23&Refer=top) 19331
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
