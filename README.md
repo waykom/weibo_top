@@ -54,7 +54,7 @@ weibo_top
 43. [NV永不加班](https://s.weibo.com//weibo?q=%23NV%E6%B0%B8%E4%B8%8D%E5%8A%A0%E7%8F%AD%23&Refer=top) 160581
 44. [连岳](https://s.weibo.com//weibo?q=%E8%BF%9E%E5%B2%B3&Refer=top) 159296
 45. [今年五一假期你的安排](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E4%BD%A0%E7%9A%84%E5%AE%89%E6%8E%92%23&Refer=top) 134516
-46. [美国游客试图携带炮弹登机](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%AF%95%E5%9B%BE%E6%90%BA%E5%B8%A6%E7%82%AE%E5%BC%B9%E7%99%BB%E6%9C%BA&Refer=top) 100994
+46. [美国游客试图携带炮弹登机](https://s.weibo.com//weibo?q=%E7%BE%8E%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%AF%95%E5%9B%BE%E6%90%BA%E5%B8%A6%E7%82%AE%E5%BC%B9%E7%99%BB%E6%9C%BA&Refer=top) 124043
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
