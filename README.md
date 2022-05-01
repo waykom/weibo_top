@@ -50,6 +50,7 @@ weibo_top
 39. [这就是我的梦中情院](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%88%91%E7%9A%84%E6%A2%A6%E4%B8%AD%E6%83%85%E9%99%A2%23&Refer=top) 120463
 40. [热刺vs莱斯特城](https://s.weibo.com//weibo?q=%23%E7%83%AD%E5%88%BAvs%E8%8E%B1%E6%96%AF%E7%89%B9%E5%9F%8E%23&Refer=top) 95539
 41. [妹妹是导弹射手姐姐曾是航母女兵](https://s.weibo.com//weibo?q=%23%E5%A6%B9%E5%A6%B9%E6%98%AF%E5%AF%BC%E5%BC%B9%E5%B0%84%E6%89%8B%E5%A7%90%E5%A7%90%E6%9B%BE%E6%98%AF%E8%88%AA%E6%AF%8D%E5%A5%B3%E5%85%B5%23&Refer=top) 35849
+42. [Liluo云顶全球总决赛夺冠](https://s.weibo.com//weibo?q=%23Liluo%E4%BA%91%E9%A1%B6%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%A4%BA%E5%86%A0%23&Refer=top) 12433
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
