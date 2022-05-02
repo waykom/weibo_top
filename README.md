@@ -58,7 +58,7 @@ weibo_top
 47. [你会做引体向上吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%BC%9A%E5%81%9A%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%E5%90%97%23&Refer=top) 13992
 48. [面包车加油站起火员工仅18秒扑灭](https://s.weibo.com//weibo?q=%23%E9%9D%A2%E5%8C%85%E8%BD%A6%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%B5%B7%E7%81%AB%E5%91%98%E5%B7%A5%E4%BB%8518%E7%A7%92%E6%89%91%E7%81%AD%23&Refer=top) 12086
 49. [航拍悬崖上人工打造的挂壁公路](https://s.weibo.com//weibo?q=%23%E8%88%AA%E6%8B%8D%E6%82%AC%E5%B4%96%E4%B8%8A%E4%BA%BA%E5%B7%A5%E6%89%93%E9%80%A0%E7%9A%84%E6%8C%82%E5%A3%81%E5%85%AC%E8%B7%AF%23&Refer=top) 11252
-50. [海军登陆舰海上协同训练](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%86%9B%E7%99%BB%E9%99%86%E8%88%B0%E6%B5%B7%E4%B8%8A%E5%8D%8F%E5%90%8C%E8%AE%AD%E7%BB%83%23&Refer=top) 10226
+50. [海军登陆舰海上协同训练](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%86%9B%E7%99%BB%E9%99%86%E8%88%B0%E6%B5%B7%E4%B8%8A%E5%8D%8F%E5%90%8C%E8%AE%AD%E7%BB%83%23&Refer=top) 10618
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
