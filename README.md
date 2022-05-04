@@ -51,7 +51,8 @@ weibo_top
 40. [孙宇航和孙宇航恋爱了](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%AE%87%E8%88%AA%E5%92%8C%E5%AD%99%E5%AE%87%E8%88%AA%E6%81%8B%E7%88%B1%E4%BA%86%23&Refer=top) 111079
 41. [这包艺术成分很高](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%8C%85%E8%89%BA%E6%9C%AF%E6%88%90%E5%88%86%E5%BE%88%E9%AB%98%23&Refer=top) 91407
 42. [长沙自建房倒塌事故发现5名遇难者](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E8%87%AA%E5%BB%BA%E6%88%BF%E5%80%92%E5%A1%8C%E4%BA%8B%E6%95%85%E5%8F%91%E7%8E%B05%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%23&Refer=top) 85874
-43. [游乐园回应过山车悬停半空18人被困](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%9B%9E%E5%BA%94%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%82%AC%E5%81%9C%E5%8D%8A%E7%A9%BA18%E4%BA%BA%E8%A2%AB%E5%9B%B0%23&Refer=top) 28808
+43. [游乐园回应过山车悬停半空18人被困](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%9B%9E%E5%BA%94%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%82%AC%E5%81%9C%E5%8D%8A%E7%A9%BA18%E4%BA%BA%E8%A2%AB%E5%9B%B0%23&Refer=top) 32901
+44. [战疫是中国青年对长征精神的传承](https://s.weibo.com//weibo?q=%23%E6%88%98%E7%96%AB%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E5%AF%B9%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E%E7%9A%84%E4%BC%A0%E6%89%BF%23&Refer=top) 11956
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
