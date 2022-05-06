@@ -15,14 +15,14 @@ weibo_top
 4. [跳刘畊宏半个月的效果](https://s.weibo.com//weibo?q=%23%E8%B7%B3%E5%88%98%E7%95%8A%E5%AE%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%E7%9A%84%E6%95%88%E6%9E%9C%23&Refer=top) 1285003
 5. [为什么性教育这么难](https://s.weibo.com//weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%A7%E6%95%99%E8%82%B2%E8%BF%99%E4%B9%88%E9%9A%BE&Refer=top) 1282033
 6. [6岁男童失踪14天小区地下室发现身亡](https://s.weibo.com//weibo?q=%236%E5%B2%81%E7%94%B7%E7%AB%A5%E5%A4%B1%E8%B8%AA14%E5%A4%A9%E5%B0%8F%E5%8C%BA%E5%9C%B0%E4%B8%8B%E5%AE%A4%E5%8F%91%E7%8E%B0%E8%BA%AB%E4%BA%A1%23&Refer=top) 1253322
-7. [日本在台湾问题上对中国人民负有历史罪责](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B4%9F%E6%9C%89%E5%8E%86%E5%8F%B2%E7%BD%AA%E8%B4%A3%23&Refer=top) 1067720
-8. [哈佛曾为韦神打破校规](https://s.weibo.com//weibo?q=%23%E5%93%88%E4%BD%9B%E6%9B%BE%E4%B8%BA%E9%9F%A6%E7%A5%9E%E6%89%93%E7%A0%B4%E6%A0%A1%E8%A7%84%23&Refer=top) 901219
-9. [用毒蛇的毒毒毒蛇到底会怎样](https://s.weibo.com//weibo?q=%23%E7%94%A8%E6%AF%92%E8%9B%87%E7%9A%84%E6%AF%92%E6%AF%92%E6%AF%92%E8%9B%87%E5%88%B0%E5%BA%95%E4%BC%9A%E6%80%8E%E6%A0%B7%23&Refer=top) 745414
-10. [北京要求结婚登记需持48小时核酸阴性证明](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E8%A6%81%E6%B1%82%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E9%9C%80%E6%8C%8148%E5%B0%8F%E6%97%B6%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E8%AF%81%E6%98%8E%23&Refer=top) 702007
-11. [北大数学院院长谈韦神](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%99%A2%E9%99%A2%E9%95%BF%E8%B0%88%E9%9F%A6%E7%A5%9E%23&Refer=top) 587758
-12. [医生建议吃小龙虾1个人不要超过1斤](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%90%83%E5%B0%8F%E9%BE%99%E8%99%BE1%E4%B8%AA%E4%BA%BA%E4%B8%8D%E8%A6%81%E8%B6%85%E8%BF%871%E6%96%A4%23&Refer=top) 578944
-13. [长春辟谣](https://s.weibo.com//weibo?q=%E9%95%BF%E6%98%A5%E8%BE%9F%E8%B0%A3&Refer=top) 524585
-14. [be美学的暗恋真的好戳](https://s.weibo.com//weibo?q=%23be%E7%BE%8E%E5%AD%A6%E7%9A%84%E6%9A%97%E6%81%8B%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%88%B3%23&Refer=top) 467780
+7. [医生建议吃小龙虾1个人不要超过1斤](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%90%83%E5%B0%8F%E9%BE%99%E8%99%BE1%E4%B8%AA%E4%BA%BA%E4%B8%8D%E8%A6%81%E8%B6%85%E8%BF%871%E6%96%A4%23&Refer=top) 1095358
+8. [日本在台湾问题上对中国人民负有历史罪责](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B4%9F%E6%9C%89%E5%8E%86%E5%8F%B2%E7%BD%AA%E8%B4%A3%23&Refer=top) 1067720
+9. [哈佛曾为韦神打破校规](https://s.weibo.com//weibo?q=%23%E5%93%88%E4%BD%9B%E6%9B%BE%E4%B8%BA%E9%9F%A6%E7%A5%9E%E6%89%93%E7%A0%B4%E6%A0%A1%E8%A7%84%23&Refer=top) 901219
+10. [用毒蛇的毒毒毒蛇到底会怎样](https://s.weibo.com//weibo?q=%23%E7%94%A8%E6%AF%92%E8%9B%87%E7%9A%84%E6%AF%92%E6%AF%92%E6%AF%92%E8%9B%87%E5%88%B0%E5%BA%95%E4%BC%9A%E6%80%8E%E6%A0%B7%23&Refer=top) 745414
+11. [北京要求结婚登记需持48小时核酸阴性证明](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E8%A6%81%E6%B1%82%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E9%9C%80%E6%8C%8148%E5%B0%8F%E6%97%B6%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E8%AF%81%E6%98%8E%23&Refer=top) 702007
+12. [be美学的暗恋真的好戳](https://s.weibo.com//weibo?q=%23be%E7%BE%8E%E5%AD%A6%E7%9A%84%E6%9A%97%E6%81%8B%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%88%B3%23&Refer=top) 599752
+13. [北大数学院院长谈韦神](https://s.weibo.com//weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%B0%E5%AD%A6%E9%99%A2%E9%99%A2%E9%95%BF%E8%B0%88%E9%9F%A6%E7%A5%9E%23&Refer=top) 587758
+14. [长春辟谣](https://s.weibo.com//weibo?q=%E9%95%BF%E6%98%A5%E8%BE%9F%E8%B0%A3&Refer=top) 524585
 15. [流星雨](https://s.weibo.com//weibo?q=%E6%B5%81%E6%98%9F%E9%9B%A8&Refer=top) 458948
 16. [女子奶茶里喝出7厘米出粉机零部件](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A5%B6%E8%8C%B6%E9%87%8C%E5%96%9D%E5%87%BA7%E5%8E%98%E7%B1%B3%E5%87%BA%E7%B2%89%E6%9C%BA%E9%9B%B6%E9%83%A8%E4%BB%B6%23&Refer=top) 445319
 17. [苹果iPhone14没有mini](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9CiPhone14%E6%B2%A1%E6%9C%89mini%23&Refer=top) 442027
@@ -45,13 +45,14 @@ weibo_top
 34. [柳州除了螺蛳粉还能吃什么](https://s.weibo.com//weibo?q=%23%E6%9F%B3%E5%B7%9E%E9%99%A4%E4%BA%86%E8%9E%BA%E8%9B%B3%E7%B2%89%E8%BF%98%E8%83%BD%E5%90%83%E4%BB%80%E4%B9%88%23&Refer=top) 224215
 35. [坏掉的水果都去哪了](https://s.weibo.com//weibo?q=%23%E5%9D%8F%E6%8E%89%E7%9A%84%E6%B0%B4%E6%9E%9C%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86%23&Refer=top) 220018
 36. [李易峰工作室回应被起诉](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89%23&Refer=top) 210137
-37. [海外微信](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%A4%96%E5%BE%AE%E4%BF%A1%23&Refer=top) 191784
-38. [高合行车记录仪疑似泄露隐私](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%90%88%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E7%96%91%E4%BC%BC%E6%B3%84%E9%9C%B2%E9%9A%90%E7%A7%81%23&Refer=top) 188254
-39. [成都晚霞漫画天](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E6%99%9A%E9%9C%9E%E6%BC%AB%E7%94%BB%E5%A4%A9%23&Refer=top) 179805
-40. [AI阅读小说有多离谱](https://s.weibo.com//weibo?q=%23AI%E9%98%85%E8%AF%BB%E5%B0%8F%E8%AF%B4%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top) 178271
-41. [62岁阿姨瞒着家人献血21年](https://s.weibo.com//weibo?q=%2362%E5%B2%81%E9%98%BF%E5%A7%A8%E7%9E%92%E7%9D%80%E5%AE%B6%E4%BA%BA%E7%8C%AE%E8%A1%8021%E5%B9%B4%23&Refer=top) 176995
-42. [原来小女孩也爱生气](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B0%8F%E5%A5%B3%E5%AD%A9%E4%B9%9F%E7%88%B1%E7%94%9F%E6%B0%94%23&Refer=top) 151160
-43. [当小狗认错了主人](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B0%8F%E7%8B%97%E8%AE%A4%E9%94%99%E4%BA%86%E4%B8%BB%E4%BA%BA%23&Refer=top) 149850
+37. [当小狗认错了主人](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%B0%8F%E7%8B%97%E8%AE%A4%E9%94%99%E4%BA%86%E4%B8%BB%E4%BA%BA%23&Refer=top) 197198
+38. [海外微信](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%A4%96%E5%BE%AE%E4%BF%A1%23&Refer=top) 191784
+39. [高合行车记录仪疑似泄露隐私](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%90%88%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E7%96%91%E4%BC%BC%E6%B3%84%E9%9C%B2%E9%9A%90%E7%A7%81%23&Refer=top) 188254
+40. [成都晚霞漫画天](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E6%99%9A%E9%9C%9E%E6%BC%AB%E7%94%BB%E5%A4%A9%23&Refer=top) 179805
+41. [AI阅读小说有多离谱](https://s.weibo.com//weibo?q=%23AI%E9%98%85%E8%AF%BB%E5%B0%8F%E8%AF%B4%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top) 178271
+42. [62岁阿姨瞒着家人献血21年](https://s.weibo.com//weibo?q=%2362%E5%B2%81%E9%98%BF%E5%A7%A8%E7%9E%92%E7%9D%80%E5%AE%B6%E4%BA%BA%E7%8C%AE%E8%A1%8021%E5%B9%B4%23&Refer=top) 176995
+43. [两女孩酒店退房留满屋垃圾已长蛆](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%A5%B3%E5%AD%A9%E9%85%92%E5%BA%97%E9%80%80%E6%88%BF%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE%E5%B7%B2%E9%95%BF%E8%9B%86%23&Refer=top) 158535
+44. [原来小女孩也爱生气](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B0%8F%E5%A5%B3%E5%AD%A9%E4%B9%9F%E7%88%B1%E7%94%9F%E6%B0%94%23&Refer=top) 151160
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
