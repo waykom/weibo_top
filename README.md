@@ -57,6 +57,7 @@ weibo_top
 46. [郑州保供24小时](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E4%BF%9D%E4%BE%9B24%E5%B0%8F%E6%97%B6%23&Refer=top) 130593
 47. [切尔西vs狼队](https://s.weibo.com//weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E7%8B%BC%E9%98%9F%23&Refer=top) 125386
 48. [一封写给妈妈的情书](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%B0%81%E5%86%99%E7%BB%99%E5%A6%88%E5%A6%88%E7%9A%84%E6%83%85%E4%B9%A6%23&Refer=top) 99419
+49. [斗罗大陆](https://s.weibo.com//weibo?q=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&Refer=top) 10258
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
