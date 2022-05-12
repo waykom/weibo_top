@@ -11,7 +11,7 @@ weibo_top
 # 今日热门搜索  
 1. [警方回应哈尔滨男子烧伤死亡](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%93%88%E5%B0%94%E6%BB%A8%E7%94%B7%E5%AD%90%E7%83%A7%E4%BC%A4%E6%AD%BB%E4%BA%A1%23&Refer=top) 2385973
 2. [黑洞](https://s.weibo.com//weibo?q=%23%E9%BB%91%E6%B4%9E%23&Refer=top) 1894191
-3. [上海快递个人散件派送正在恢复](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%BF%AB%E9%80%92%E4%B8%AA%E4%BA%BA%E6%95%A3%E4%BB%B6%E6%B4%BE%E9%80%81%E6%AD%A3%E5%9C%A8%E6%81%A2%E5%A4%8D%23&Refer=top) 1597979
+3. [上海快递个人散件派送正在恢复](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%BF%AB%E9%80%92%E4%B8%AA%E4%BA%BA%E6%95%A3%E4%BB%B6%E6%B4%BE%E9%80%81%E6%AD%A3%E5%9C%A8%E6%81%A2%E5%A4%8D%23&Refer=top) 1609789
 4. [防灾减灾自救知识](https://s.weibo.com//weibo?q=%23%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E8%87%AA%E6%95%91%E7%9F%A5%E8%AF%86%23&Refer=top) 1568487
 5. [拍内衣照被开除空姐申请再审](https://s.weibo.com//weibo?q=%23%E6%8B%8D%E5%86%85%E8%A1%A3%E7%85%A7%E8%A2%AB%E5%BC%80%E9%99%A4%E7%A9%BA%E5%A7%90%E7%94%B3%E8%AF%B7%E5%86%8D%E5%AE%A1%23&Refer=top) 1521678
 6. [死了的小龙虾一定不能吃](https://s.weibo.com//weibo?q=%23%E6%AD%BB%E4%BA%86%E7%9A%84%E5%B0%8F%E9%BE%99%E8%99%BE%E4%B8%80%E5%AE%9A%E4%B8%8D%E8%83%BD%E5%90%83%23&Refer=top) 1272616
@@ -51,10 +51,10 @@ weibo_top
 40. [被咸蛋黄焗玉米征服了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%92%B8%E8%9B%8B%E9%BB%84%E7%84%97%E7%8E%89%E7%B1%B3%E5%BE%81%E6%9C%8D%E4%BA%86%23&Refer=top) 137676
 41. [奥特曼卡牌掏空小学生零花钱](https://s.weibo.com//weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%8D%A1%E7%89%8C%E6%8E%8F%E7%A9%BA%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%9B%B6%E8%8A%B1%E9%92%B1%23&Refer=top) 137627
 42. [没减肥都不知道自己这么能吃](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E5%87%8F%E8%82%A5%E9%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E8%BF%99%E4%B9%88%E8%83%BD%E5%90%83%23&Refer=top) 135668
-43. [GALA卢锡安五杀](https://s.weibo.com//weibo?q=%23GALA%E5%8D%A2%E9%94%A1%E5%AE%89%E4%BA%94%E6%9D%80%23&Refer=top) 134746
-44. [北京13日起在12个区开展三轮核酸筛查](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC13%E6%97%A5%E8%B5%B7%E5%9C%A812%E4%B8%AA%E5%8C%BA%E5%BC%80%E5%B1%95%E4%B8%89%E8%BD%AE%E6%A0%B8%E9%85%B8%E7%AD%9B%E6%9F%A5%23&Refer=top) 133487
-45. [男子不想上班于是伪造黄码发给老板](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E4%BA%8E%E6%98%AF%E4%BC%AA%E9%80%A0%E9%BB%84%E7%A0%81%E5%8F%91%E7%BB%99%E8%80%81%E6%9D%BF%23&Refer=top) 132303
-46. [朝夕光年](https://s.weibo.com//weibo?q=%E6%9C%9D%E5%A4%95%E5%85%89%E5%B9%B4&Refer=top) 130179
+43. [朝夕光年](https://s.weibo.com//weibo?q=%E6%9C%9D%E5%A4%95%E5%85%89%E5%B9%B4&Refer=top) 134772
+44. [GALA卢锡安五杀](https://s.weibo.com//weibo?q=%23GALA%E5%8D%A2%E9%94%A1%E5%AE%89%E4%BA%94%E6%9D%80%23&Refer=top) 134746
+45. [北京13日起在12个区开展三轮核酸筛查](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC13%E6%97%A5%E8%B5%B7%E5%9C%A812%E4%B8%AA%E5%8C%BA%E5%BC%80%E5%B1%95%E4%B8%89%E8%BD%AE%E6%A0%B8%E9%85%B8%E7%AD%9B%E6%9F%A5%23&Refer=top) 133487
+46. [男子不想上班于是伪造黄码发给老板](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E4%BA%8E%E6%98%AF%E4%BC%AA%E9%80%A0%E9%BB%84%E7%A0%81%E5%8F%91%E7%BB%99%E8%80%81%E6%9D%BF%23&Refer=top) 132303
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
