@@ -55,6 +55,8 @@ weibo_top
 44. [GALA卢锡安五杀](https://s.weibo.com//weibo?q=%23GALA%E5%8D%A2%E9%94%A1%E5%AE%89%E4%BA%94%E6%9D%80%23&Refer=top) 134746
 45. [北京13日起在12个区开展三轮核酸筛查](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC13%E6%97%A5%E8%B5%B7%E5%9C%A812%E4%B8%AA%E5%8C%BA%E5%BC%80%E5%B1%95%E4%B8%89%E8%BD%AE%E6%A0%B8%E9%85%B8%E7%AD%9B%E6%9F%A5%23&Refer=top) 133487
 46. [男子不想上班于是伪造黄码发给老板](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E4%BA%8E%E6%98%AF%E4%BC%AA%E9%80%A0%E9%BB%84%E7%A0%81%E5%8F%91%E7%BB%99%E8%80%81%E6%9D%BF%23&Refer=top) 132303
+47. [俄罗斯制裁欧洲天然气企业](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%88%B6%E8%A3%81%E6%AC%A7%E6%B4%B2%E5%A4%A9%E7%84%B6%E6%B0%94%E4%BC%81%E4%B8%9A%23&Refer=top) 13033
+48. [厦门暴雨](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%23&Refer=top) 12481
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
