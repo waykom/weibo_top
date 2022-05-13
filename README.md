@@ -20,9 +20,9 @@ weibo_top
 9. [北京会不会出现规模化疫情](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E8%A7%84%E6%A8%A1%E5%8C%96%E7%96%AB%E6%83%85%23&Refer=top) 739474
 10. [字节虚拟偶像女团成员宣布停播](https://s.weibo.com//weibo?q=%23%E5%AD%97%E8%8A%82%E8%99%9A%E6%8B%9F%E5%81%B6%E5%83%8F%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E5%AE%A3%E5%B8%83%E5%81%9C%E6%92%AD%23&Refer=top) 702394
 11. [招聘启事工资6到8千上班变4千](https://s.weibo.com//weibo?q=%23%E6%8B%9B%E8%81%98%E5%90%AF%E4%BA%8B%E5%B7%A5%E8%B5%846%E5%88%B08%E5%8D%83%E4%B8%8A%E7%8F%AD%E5%8F%984%E5%8D%83%23&Refer=top) 694885
-12. [女儿坐在外公肩头看哭妈妈](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9D%90%E5%9C%A8%E5%A4%96%E5%85%AC%E8%82%A9%E5%A4%B4%E7%9C%8B%E5%93%AD%E5%A6%88%E5%A6%88%23&Refer=top) 648402
-13. [重庆的面有多卷](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E7%9A%84%E9%9D%A2%E6%9C%89%E5%A4%9A%E5%8D%B7%23&Refer=top) 609551
-14. [中方无法出席全球抗疫峰会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E6%97%A0%E6%B3%95%E5%87%BA%E5%B8%AD%E5%85%A8%E7%90%83%E6%8A%97%E7%96%AB%E5%B3%B0%E4%BC%9A%23&Refer=top) 595544
+12. [中方无法出席全球抗疫峰会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E6%97%A0%E6%B3%95%E5%87%BA%E5%B8%AD%E5%85%A8%E7%90%83%E6%8A%97%E7%96%AB%E5%B3%B0%E4%BC%9A%23&Refer=top) 687529
+13. [女儿坐在外公肩头看哭妈妈](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9D%90%E5%9C%A8%E5%A4%96%E5%85%AC%E8%82%A9%E5%A4%B4%E7%9C%8B%E5%93%AD%E5%A6%88%E5%A6%88%23&Refer=top) 648402
+14. [重庆的面有多卷](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E7%9A%84%E9%9D%A2%E6%9C%89%E5%A4%9A%E5%8D%B7%23&Refer=top) 609551
 15. [Steam](https://s.weibo.com//weibo?q=%23Steam%23&Refer=top) 587003
 16. [茅台原董事长高卫东被查](https://s.weibo.com//weibo?q=%23%E8%8C%85%E5%8F%B0%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E9%AB%98%E5%8D%AB%E4%B8%9C%E8%A2%AB%E6%9F%A5%23&Refer=top) 562588
 17. [扬州沐浴足疗行业发求援书](https://s.weibo.com//weibo?q=%23%E6%89%AC%E5%B7%9E%E6%B2%90%E6%B5%B4%E8%B6%B3%E7%96%97%E8%A1%8C%E4%B8%9A%E5%8F%91%E6%B1%82%E6%8F%B4%E4%B9%A6%23&Refer=top) 441582
@@ -46,13 +46,13 @@ weibo_top
 35. [居然被机器人可爱到了](https://s.weibo.com//weibo?q=%23%E5%B1%85%E7%84%B6%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&Refer=top) 201527
 36. [入职体检不得开展乙肝孕检等检测](https://s.weibo.com//weibo?q=%23%E5%85%A5%E8%81%8C%E4%BD%93%E6%A3%80%E4%B8%8D%E5%BE%97%E5%BC%80%E5%B1%95%E4%B9%99%E8%82%9D%E5%AD%95%E6%A3%80%E7%AD%89%E6%A3%80%E6%B5%8B%23&Refer=top) 173235
 37. [才知道毕设可以这么难](https://s.weibo.com//weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E6%AF%95%E8%AE%BE%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E9%9A%BE%23&Refer=top) 163948
-38. [北京534路公交相关聚集性疫情目前3人感染](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC534%E8%B7%AF%E5%85%AC%E4%BA%A4%E7%9B%B8%E5%85%B3%E8%81%9A%E9%9B%86%E6%80%A7%E7%96%AB%E6%83%85%E7%9B%AE%E5%89%8D3%E4%BA%BA%E6%84%9F%E6%9F%93%23&Refer=top) 156524
-39. [志愿者义剪女子提琴拉孤勇者伴奏](https://s.weibo.com//weibo?q=%23%E5%BF%97%E6%84%BF%E8%80%85%E4%B9%89%E5%89%AA%E5%A5%B3%E5%AD%90%E6%8F%90%E7%90%B4%E6%8B%89%E5%AD%A4%E5%8B%87%E8%80%85%E4%BC%B4%E5%A5%8F%23&Refer=top) 149414
+38. [志愿者义剪女子提琴拉孤勇者伴奏](https://s.weibo.com//weibo?q=%23%E5%BF%97%E6%84%BF%E8%80%85%E4%B9%89%E5%89%AA%E5%A5%B3%E5%AD%90%E6%8F%90%E7%90%B4%E6%8B%89%E5%AD%A4%E5%8B%87%E8%80%85%E4%BC%B4%E5%A5%8F%23&Refer=top) 160112
+39. [北京534路公交相关聚集性疫情目前3人感染](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC534%E8%B7%AF%E5%85%AC%E4%BA%A4%E7%9B%B8%E5%85%B3%E8%81%9A%E9%9B%86%E6%80%A7%E7%96%AB%E6%83%85%E7%9B%AE%E5%89%8D3%E4%BA%BA%E6%84%9F%E6%9F%93%23&Refer=top) 156524
 40. [作家陈渐谈知网被立案调查](https://s.weibo.com//weibo?q=%23%E4%BD%9C%E5%AE%B6%E9%99%88%E6%B8%90%E8%B0%88%E7%9F%A5%E7%BD%91%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&Refer=top) 142237
 41. [200多斤的国宝洗澡开心得像个孩子](https://s.weibo.com//weibo?q=%23200%E5%A4%9A%E6%96%A4%E7%9A%84%E5%9B%BD%E5%AE%9D%E6%B4%97%E6%BE%A1%E5%BC%80%E5%BF%83%E5%BE%97%E5%83%8F%E4%B8%AA%E5%AD%A9%E5%AD%90%23&Refer=top) 140411
 42. [从北京坐高铁去武汉仅需3个多小时](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%8C%97%E4%BA%AC%E5%9D%90%E9%AB%98%E9%93%81%E5%8E%BB%E6%AD%A6%E6%B1%89%E4%BB%85%E9%9C%803%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%23&Refer=top) 139934
-43. [美国承诺投资东盟1.5亿美元](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%BF%E8%AF%BA%E6%8A%95%E8%B5%84%E4%B8%9C%E7%9B%9F1.5%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top) 109294
-44. [社融](https://s.weibo.com//weibo?q=%E7%A4%BE%E8%9E%8D&Refer=top) 66384
+43. [美国承诺投资东盟1.5亿美元](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%BF%E8%AF%BA%E6%8A%95%E8%B5%84%E4%B8%9C%E7%9B%9F1.5%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top) 110758
+44. [社融](https://s.weibo.com//weibo?q=%E7%A4%BE%E8%9E%8D&Refer=top) 77605
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
