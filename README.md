@@ -16,9 +16,9 @@ weibo_top
 5. [普京已下令采取措施加强俄西部防御](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E5%B7%B2%E4%B8%8B%E4%BB%A4%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD%E5%8A%A0%E5%BC%BA%E4%BF%84%E8%A5%BF%E9%83%A8%E9%98%B2%E5%BE%A1%23&Refer=top) 1422967
 6. [女子称方便面油包出现白色颗粒](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%96%B9%E4%BE%BF%E9%9D%A2%E6%B2%B9%E5%8C%85%E5%87%BA%E7%8E%B0%E7%99%BD%E8%89%B2%E9%A2%97%E7%B2%92%23&Refer=top) 1205839
 7. [4岁孩子存钱罐有6万4](https://s.weibo.com//weibo?q=%234%E5%B2%81%E5%AD%A9%E5%AD%90%E5%AD%98%E9%92%B1%E7%BD%90%E6%9C%896%E4%B8%874%23&Refer=top) 1121583
-8. [韦东奕谣言始作俑者道歉](https://s.weibo.com//weibo?q=%23%E9%9F%A6%E4%B8%9C%E5%A5%95%E8%B0%A3%E8%A8%80%E5%A7%8B%E4%BD%9C%E4%BF%91%E8%80%85%E9%81%93%E6%AD%89%23&Refer=top) 797186
-9. [北京会不会出现规模化疫情](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E8%A7%84%E6%A8%A1%E5%8C%96%E7%96%AB%E6%83%85%23&Refer=top) 739474
-10. [中方无法出席全球抗疫峰会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E6%97%A0%E6%B3%95%E5%87%BA%E5%B8%AD%E5%85%A8%E7%90%83%E6%8A%97%E7%96%AB%E5%B3%B0%E4%BC%9A%23&Refer=top) 732183
+8. [中方无法出席全球抗疫峰会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E6%97%A0%E6%B3%95%E5%87%BA%E5%B8%AD%E5%85%A8%E7%90%83%E6%8A%97%E7%96%AB%E5%B3%B0%E4%BC%9A%23&Refer=top) 880790
+9. [韦东奕谣言始作俑者道歉](https://s.weibo.com//weibo?q=%23%E9%9F%A6%E4%B8%9C%E5%A5%95%E8%B0%A3%E8%A8%80%E5%A7%8B%E4%BD%9C%E4%BF%91%E8%80%85%E9%81%93%E6%AD%89%23&Refer=top) 797186
+10. [北京会不会出现规模化疫情](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E8%A7%84%E6%A8%A1%E5%8C%96%E7%96%AB%E6%83%85%23&Refer=top) 739474
 11. [字节虚拟偶像女团成员宣布停播](https://s.weibo.com//weibo?q=%23%E5%AD%97%E8%8A%82%E8%99%9A%E6%8B%9F%E5%81%B6%E5%83%8F%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E5%AE%A3%E5%B8%83%E5%81%9C%E6%92%AD%23&Refer=top) 702394
 12. [招聘启事工资6到8千上班变4千](https://s.weibo.com//weibo?q=%23%E6%8B%9B%E8%81%98%E5%90%AF%E4%BA%8B%E5%B7%A5%E8%B5%846%E5%88%B08%E5%8D%83%E4%B8%8A%E7%8F%AD%E5%8F%984%E5%8D%83%23&Refer=top) 694885
 13. [女儿坐在外公肩头看哭妈妈](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E5%9D%90%E5%9C%A8%E5%A4%96%E5%85%AC%E8%82%A9%E5%A4%B4%E7%9C%8B%E5%93%AD%E5%A6%88%E5%A6%88%23&Refer=top) 648402
@@ -51,8 +51,9 @@ weibo_top
 40. [作家陈渐谈知网被立案调查](https://s.weibo.com//weibo?q=%23%E4%BD%9C%E5%AE%B6%E9%99%88%E6%B8%90%E8%B0%88%E7%9F%A5%E7%BD%91%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&Refer=top) 142237
 41. [200多斤的国宝洗澡开心得像个孩子](https://s.weibo.com//weibo?q=%23200%E5%A4%9A%E6%96%A4%E7%9A%84%E5%9B%BD%E5%AE%9D%E6%B4%97%E6%BE%A1%E5%BC%80%E5%BF%83%E5%BE%97%E5%83%8F%E4%B8%AA%E5%AD%A9%E5%AD%90%23&Refer=top) 140411
 42. [从北京坐高铁去武汉仅需3个多小时](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E5%8C%97%E4%BA%AC%E5%9D%90%E9%AB%98%E9%93%81%E5%8E%BB%E6%AD%A6%E6%B1%89%E4%BB%85%E9%9C%803%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%23&Refer=top) 139934
-43. [美国承诺投资东盟1.5亿美元](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%BF%E8%AF%BA%E6%8A%95%E8%B5%84%E4%B8%9C%E7%9B%9F1.5%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top) 116275
+43. [美国承诺投资东盟1.5亿美元](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%BF%E8%AF%BA%E6%8A%95%E8%B5%84%E4%B8%9C%E7%9B%9F1.5%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top) 136411
 44. [社融](https://s.weibo.com//weibo?q=%E7%A4%BE%E8%9E%8D&Refer=top) 92666
+45. [光遇](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87&Refer=top) 48935
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
