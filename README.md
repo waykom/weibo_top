@@ -26,9 +26,9 @@ weibo_top
 15. [RNG九连胜](https://s.weibo.com//weibo?q=%23RNG%E4%B9%9D%E8%BF%9E%E8%83%9C%23&Refer=top) 577497
 16. [MSI](https://s.weibo.com//weibo?q=MSI&Refer=top) 543632
 17. [张军](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%86%9B&Refer=top) 484860
-18. [GALA的塔姆](https://s.weibo.com//weibo?q=%23GALA%E7%9A%84%E5%A1%94%E5%A7%86%23&Refer=top) 470073
-19. [北京丰台新增1确诊6阳性轨迹涉医院市场](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%B0%E5%8F%B0%E6%96%B0%E5%A2%9E1%E7%A1%AE%E8%AF%8A6%E9%98%B3%E6%80%A7%E8%BD%A8%E8%BF%B9%E6%B6%89%E5%8C%BB%E9%99%A2%E5%B8%82%E5%9C%BA%23&Refer=top) 448383
-20. [A-soul制作委员会致歉](https://s.weibo.com//weibo?q=%23A-soul%E5%88%B6%E4%BD%9C%E5%A7%94%E5%91%98%E4%BC%9A%E8%87%B4%E6%AD%89%23&Refer=top) 434065
+18. [A-soul制作委员会致歉](https://s.weibo.com//weibo?q=%23A-soul%E5%88%B6%E4%BD%9C%E5%A7%94%E5%91%98%E4%BC%9A%E8%87%B4%E6%AD%89%23&Refer=top) 476932
+19. [GALA的塔姆](https://s.weibo.com//weibo?q=%23GALA%E7%9A%84%E5%A1%94%E5%A7%86%23&Refer=top) 470073
+20. [北京丰台新增1确诊6阳性轨迹涉医院市场](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%B0%E5%8F%B0%E6%96%B0%E5%A2%9E1%E7%A1%AE%E8%AF%8A6%E9%98%B3%E6%80%A7%E8%BD%A8%E8%BF%B9%E6%B6%89%E5%8C%BB%E9%99%A2%E5%B8%82%E5%9C%BA%23&Refer=top) 448383
 21. [2022清华五道口首席经济学家论坛](https://s.weibo.com//weibo?q=%232022%E6%B8%85%E5%8D%8E%E4%BA%94%E9%81%93%E5%8F%A3%E9%A6%96%E5%B8%AD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E8%AE%BA%E5%9D%9B%23&Refer=top) 395157
 22. [西瓜被吃得最不体面的一次](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E7%93%9C%E8%A2%AB%E5%90%83%E5%BE%97%E6%9C%80%E4%B8%8D%E4%BD%93%E9%9D%A2%E7%9A%84%E4%B8%80%E6%AC%A1%23&Refer=top) 376491
 23. [余霜一晚上都在为RNG写段子](https://s.weibo.com//weibo?q=%23%E4%BD%99%E9%9C%9C%E4%B8%80%E6%99%9A%E4%B8%8A%E9%83%BD%E5%9C%A8%E4%B8%BARNG%E5%86%99%E6%AE%B5%E5%AD%90%23&Refer=top) 341242
