@@ -60,7 +60,8 @@ weibo_top
 49. [国内首个授权的魔芋新品种](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AA%E6%8E%88%E6%9D%83%E7%9A%84%E9%AD%94%E8%8A%8B%E6%96%B0%E5%93%81%E7%A7%8D%23&Refer=top) 10881
 50. [中华鲟游泳的样子太治愈了](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%8D%8E%E9%B2%9F%E6%B8%B8%E6%B3%B3%E7%9A%84%E6%A0%B7%E5%AD%90%E5%A4%AA%E6%B2%BB%E6%84%88%E4%BA%86%23&Refer=top) 10878
 51. [求贤若渴黑龙江60条来了](https://s.weibo.com//weibo?q=%23%E6%B1%82%E8%B4%A4%E8%8B%A5%E6%B8%B4%E9%BB%91%E9%BE%99%E6%B1%9F60%E6%9D%A1%E6%9D%A5%E4%BA%86%23&Refer=top) 9913
-52. [薛恒被提起公诉](https://s.weibo.com//weibo?q=%23%E8%96%9B%E6%81%92%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89%23&Refer=top) 8060
+52. [许昌新增本土确诊4例](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%8C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A4%E4%BE%8B%23&Refer=top) 8928
+53. [薛恒被提起公诉](https://s.weibo.com//weibo?q=%23%E8%96%9B%E6%81%92%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89%23&Refer=top) 8060
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
