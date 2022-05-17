@@ -59,7 +59,8 @@ weibo_top
 48. [被馋到转圈圈的狗狗](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%A6%8B%E5%88%B0%E8%BD%AC%E5%9C%88%E5%9C%88%E7%9A%84%E7%8B%97%E7%8B%97%23&Refer=top) 20822
 49. [西安部分街区给井盖装防护网](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E9%83%A8%E5%88%86%E8%A1%97%E5%8C%BA%E7%BB%99%E4%BA%95%E7%9B%96%E8%A3%85%E9%98%B2%E6%8A%A4%E7%BD%91%23&Refer=top) 13644
 50. [窃贼被抓时正在网吧看普法节目](https://s.weibo.com//weibo?q=%23%E7%AA%83%E8%B4%BC%E8%A2%AB%E6%8A%93%E6%97%B6%E6%AD%A3%E5%9C%A8%E7%BD%91%E5%90%A7%E7%9C%8B%E6%99%AE%E6%B3%95%E8%8A%82%E7%9B%AE%23&Refer=top) 12559
-51. [第一次见这样的走秀](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E6%A0%B7%E7%9A%84%E8%B5%B0%E7%A7%80%23&Refer=top) 8414
+51. [冠军教练阿布谈EDG夏季赛调整](https://s.weibo.com//weibo?q=%23%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E9%98%BF%E5%B8%83%E8%B0%88EDG%E5%A4%8F%E5%AD%A3%E8%B5%9B%E8%B0%83%E6%95%B4%23&Refer=top) 8859
+52. [第一次见这样的走秀](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E6%A0%B7%E7%9A%84%E8%B5%B0%E7%A7%80%23&Refer=top) 8414
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
