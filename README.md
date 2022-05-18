@@ -50,6 +50,7 @@ weibo_top
 39. [上海6人哄抬物价被采取刑事强制措施](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B76%E4%BA%BA%E5%93%84%E6%8A%AC%E7%89%A9%E4%BB%B7%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23&Refer=top) 125417
 40. [婴儿被兔子咬断手指交警4分钟送医](https://s.weibo.com//weibo?q=%23%E5%A9%B4%E5%84%BF%E8%A2%AB%E5%85%94%E5%AD%90%E5%92%AC%E6%96%AD%E6%89%8B%E6%8C%87%E4%BA%A4%E8%AD%A64%E5%88%86%E9%92%9F%E9%80%81%E5%8C%BB%23&Refer=top) 122753
 41. [肌肉酸痛就来拉伸吧](https://s.weibo.com//weibo?q=%23%E8%82%8C%E8%82%89%E9%85%B8%E7%97%9B%E5%B0%B1%E6%9D%A5%E6%8B%89%E4%BC%B8%E5%90%A7%23&Refer=top) 107566
+42. [90后父母用宝宝哭声哄娃](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E7%88%B6%E6%AF%8D%E7%94%A8%E5%AE%9D%E5%AE%9D%E5%93%AD%E5%A3%B0%E5%93%84%E5%A8%83%23&Refer=top) 81706
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
