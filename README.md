@@ -52,8 +52,9 @@ weibo_top
 41. [肌肉酸痛就来拉伸吧](https://s.weibo.com//weibo?q=%23%E8%82%8C%E8%82%89%E9%85%B8%E7%97%9B%E5%B0%B1%E6%9D%A5%E6%8B%89%E4%BC%B8%E5%90%A7%23&Refer=top) 107566
 42. [90后父母用宝宝哭声哄娃](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E7%88%B6%E6%AF%8D%E7%94%A8%E5%AE%9D%E5%AE%9D%E5%93%AD%E5%A3%B0%E5%93%84%E5%A8%83%23&Refer=top) 81706
 43. [959人走出亚速钢铁厂投降](https://s.weibo.com//weibo?q=%23959%E4%BA%BA%E8%B5%B0%E5%87%BA%E4%BA%9A%E9%80%9F%E9%92%A2%E9%93%81%E5%8E%82%E6%8A%95%E9%99%8D%23&Refer=top) 48871
-44. [班主任把封闭住校高三学生宠上天](https://s.weibo.com//weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%8A%8A%E5%B0%81%E9%97%AD%E4%BD%8F%E6%A0%A1%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%AE%A0%E4%B8%8A%E5%A4%A9%23&Refer=top) 23101
-45. [阿德巴约一级恶意犯规](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%BE%B7%E5%B7%B4%E7%BA%A6%E4%B8%80%E7%BA%A7%E6%81%B6%E6%84%8F%E7%8A%AF%E8%A7%84%23&Refer=top) 15750
+44. [班主任把封闭住校高三学生宠上天](https://s.weibo.com//weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%8A%8A%E5%B0%81%E9%97%AD%E4%BD%8F%E6%A0%A1%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%AE%A0%E4%B8%8A%E5%A4%A9%23&Refer=top) 35213
+45. [那些演戏反差感很大的演员](https://s.weibo.com//weibo?q=%23%E9%82%A3%E4%BA%9B%E6%BC%94%E6%88%8F%E5%8F%8D%E5%B7%AE%E6%84%9F%E5%BE%88%E5%A4%A7%E7%9A%84%E6%BC%94%E5%91%98%23&Refer=top) 17205
+46. [阿德巴约一级恶意犯规](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%BE%B7%E5%B7%B4%E7%BA%A6%E4%B8%80%E7%BA%A7%E6%81%B6%E6%84%8F%E7%8A%AF%E8%A7%84%23&Refer=top) 16560
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
