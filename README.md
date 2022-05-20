@@ -52,7 +52,7 @@ weibo_top
 41. [G2终结RNG连胜](https://s.weibo.com//weibo?q=%23G2%E7%BB%88%E7%BB%93RNG%E8%BF%9E%E8%83%9C%23&Refer=top) 105875
 42. [新手相机怎么选](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%89%8B%E7%9B%B8%E6%9C%BA%E6%80%8E%E4%B9%88%E9%80%89%23&Refer=top) 100571
 43. [今天发一条有爱的微博](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%8F%91%E4%B8%80%E6%9D%A1%E6%9C%89%E7%88%B1%E7%9A%84%E5%BE%AE%E5%8D%9A%23&Refer=top) 93923
-44. [百名红通人员孙锋被遣返回国](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%90%8D%E7%BA%A2%E9%80%9A%E4%BA%BA%E5%91%98%E5%AD%99%E9%94%8B%E8%A2%AB%E9%81%A3%E8%BF%94%E5%9B%9E%E5%9B%BD%23&Refer=top) 49136
+44. [百名红通人员孙锋被遣返回国](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%90%8D%E7%BA%A2%E9%80%9A%E4%BA%BA%E5%91%98%E5%AD%99%E9%94%8B%E8%A2%AB%E9%81%A3%E8%BF%94%E5%9B%9E%E5%9B%BD%23&Refer=top) 59064
 45. [北京2地由中风险升级为高风险](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC2%E5%9C%B0%E7%94%B1%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%8D%87%E7%BA%A7%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%23&Refer=top) 38803
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
