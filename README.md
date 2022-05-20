@@ -51,6 +51,7 @@ weibo_top
 40. [4AM想起大号密码了](https://s.weibo.com//weibo?q=%234AM%E6%83%B3%E8%B5%B7%E5%A4%A7%E5%8F%B7%E5%AF%86%E7%A0%81%E4%BA%86%23&Refer=top) 112199
 41. [G2终结RNG连胜](https://s.weibo.com//weibo?q=%23G2%E7%BB%88%E7%BB%93RNG%E8%BF%9E%E8%83%9C%23&Refer=top) 105875
 42. [新手相机怎么选](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%89%8B%E7%9B%B8%E6%9C%BA%E6%80%8E%E4%B9%88%E9%80%89%23&Refer=top) 100571
+43. [今天发一条有爱的微博](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%8F%91%E4%B8%80%E6%9D%A1%E6%9C%89%E7%88%B1%E7%9A%84%E5%BE%AE%E5%8D%9A%23&Refer=top) 93923
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
