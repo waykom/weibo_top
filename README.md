@@ -43,18 +43,18 @@ weibo_top
 32. [Steam崩了](https://s.weibo.com//weibo?q=Steam%E5%B4%A9%E4%BA%86&Refer=top) 222846
 33. [有一种浪漫叫5架歼20](https://s.weibo.com//weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B5%AA%E6%BC%AB%E5%8F%AB5%E6%9E%B6%E6%AD%BC20%23&Refer=top) 197508
 34. [RNG](https://s.weibo.com//weibo?q=%23RNG%23&Refer=top) 196891
-35. [明起北京丰台设置电子围栏](https://s.weibo.com//weibo?q=%23%E6%98%8E%E8%B5%B7%E5%8C%97%E4%BA%AC%E4%B8%B0%E5%8F%B0%E8%AE%BE%E7%BD%AE%E7%94%B5%E5%AD%90%E5%9B%B4%E6%A0%8F%23&Refer=top) 176318
-36. [重庆侧翻客车司机曾3次关闭定位](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%BE%A7%E7%BF%BB%E5%AE%A2%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%9B%BE3%E6%AC%A1%E5%85%B3%E9%97%AD%E5%AE%9A%E4%BD%8D%23&Refer=top) 165680
-37. [G2战胜RNG](https://s.weibo.com//weibo?q=%23G2%E6%88%98%E8%83%9CRNG%23&Refer=top) 156655
-38. [天津核酸](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E6%A0%B8%E9%85%B8&Refer=top) 151072
+35. [天津核酸](https://s.weibo.com//weibo?q=%E5%A4%A9%E6%B4%A5%E6%A0%B8%E9%85%B8&Refer=top) 184849
+36. [明起北京丰台设置电子围栏](https://s.weibo.com//weibo?q=%23%E6%98%8E%E8%B5%B7%E5%8C%97%E4%BA%AC%E4%B8%B0%E5%8F%B0%E8%AE%BE%E7%BD%AE%E7%94%B5%E5%AD%90%E5%9B%B4%E6%A0%8F%23&Refer=top) 176318
+37. [重庆侧翻客车司机曾3次关闭定位](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%BE%A7%E7%BF%BB%E5%AE%A2%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%9B%BE3%E6%AC%A1%E5%85%B3%E9%97%AD%E5%AE%9A%E4%BD%8D%23&Refer=top) 165680
+38. [G2战胜RNG](https://s.weibo.com//weibo?q=%23G2%E6%88%98%E8%83%9CRNG%23&Refer=top) 156655
 39. [F1](https://s.weibo.com//weibo?q=F1&Refer=top) 126148
 40. [4AM想起大号密码了](https://s.weibo.com//weibo?q=%234AM%E6%83%B3%E8%B5%B7%E5%A4%A7%E5%8F%B7%E5%AF%86%E7%A0%81%E4%BA%86%23&Refer=top) 112199
 41. [G2终结RNG连胜](https://s.weibo.com//weibo?q=%23G2%E7%BB%88%E7%BB%93RNG%E8%BF%9E%E8%83%9C%23&Refer=top) 105875
 42. [新手相机怎么选](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%89%8B%E7%9B%B8%E6%9C%BA%E6%80%8E%E4%B9%88%E9%80%89%23&Refer=top) 100571
-43. [今天发一条有爱的微博](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%8F%91%E4%B8%80%E6%9D%A1%E6%9C%89%E7%88%B1%E7%9A%84%E5%BE%AE%E5%8D%9A%23&Refer=top) 93923
-44. [北京2地由中风险升级为高风险](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC2%E5%9C%B0%E7%94%B1%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%8D%87%E7%BA%A7%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%23&Refer=top) 82752
-45. [百名红通人员孙锋被遣返回国](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%90%8D%E7%BA%A2%E9%80%9A%E4%BA%BA%E5%91%98%E5%AD%99%E9%94%8B%E8%A2%AB%E9%81%A3%E8%BF%94%E5%9B%9E%E5%9B%BD%23&Refer=top) 82388
-46. [南开区核酸](https://s.weibo.com//weibo?q=%E5%8D%97%E5%BC%80%E5%8C%BA%E6%A0%B8%E9%85%B8&Refer=top) 28521
+43. [北京2地由中风险升级为高风险](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC2%E5%9C%B0%E7%94%B1%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%8D%87%E7%BA%A7%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%23&Refer=top) 98698
+44. [百名红通人员孙锋被遣返回国](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%90%8D%E7%BA%A2%E9%80%9A%E4%BA%BA%E5%91%98%E5%AD%99%E9%94%8B%E8%A2%AB%E9%81%A3%E8%BF%94%E5%9B%9E%E5%9B%BD%23&Refer=top) 97290
+45. [今天发一条有爱的微博](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%8F%91%E4%B8%80%E6%9D%A1%E6%9C%89%E7%88%B1%E7%9A%84%E5%BE%AE%E5%8D%9A%23&Refer=top) 93923
+46. [南开区核酸](https://s.weibo.com//weibo?q=%E5%8D%97%E5%BC%80%E5%8C%BA%E6%A0%B8%E9%85%B8&Refer=top) 53445
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
