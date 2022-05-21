@@ -50,7 +50,7 @@ weibo_top
 39. [你家电视广告多么](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%AE%B6%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E5%A4%9A%E4%B9%88%23&Refer=top) 152407
 40. [多国报告出现的猴痘是什么疾病](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9B%BD%E6%8A%A5%E5%91%8A%E5%87%BA%E7%8E%B0%E7%9A%84%E7%8C%B4%E7%97%98%E6%98%AF%E4%BB%80%E4%B9%88%E7%96%BE%E7%97%85%23&Refer=top) 141058
 41. [熊猫生娃全过程记录](https://s.weibo.com//weibo?q=%23%E7%86%8A%E7%8C%AB%E7%94%9F%E5%A8%83%E5%85%A8%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95%23&Refer=top) 127716
-42. [美前总统承认美国曾承诺北约不扩张](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%89%8D%E6%80%BB%E7%BB%9F%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%9B%BE%E6%89%BF%E8%AF%BA%E5%8C%97%E7%BA%A6%E4%B8%8D%E6%89%A9%E5%BC%A0%23&Refer=top) 19107
+42. [美前总统承认美国曾承诺北约不扩张](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%89%8D%E6%80%BB%E7%BB%9F%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%9B%BE%E6%89%BF%E8%AF%BA%E5%8C%97%E7%BA%A6%E4%B8%8D%E6%89%A9%E5%BC%A0%23&Refer=top) 50632
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
