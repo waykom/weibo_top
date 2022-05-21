@@ -9,14 +9,14 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [华山医院感染科解答猴痘病毒](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E5%B1%B1%E5%8C%BB%E9%99%A2%E6%84%9F%E6%9F%93%E7%A7%91%E8%A7%A3%E7%AD%94%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92%23&Refer=top) 1870417
+1. [华山医院感染科解答猴痘病毒](https://s.weibo.com//weibo?q=%23%E5%8D%8E%E5%B1%B1%E5%8C%BB%E9%99%A2%E6%84%9F%E6%9F%93%E7%A7%91%E8%A7%A3%E7%AD%94%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92%23&Refer=top) 1965489
 2. [中国为什么不担心粮食危机](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8B%85%E5%BF%83%E7%B2%AE%E9%A3%9F%E5%8D%B1%E6%9C%BA%23&Refer=top) 1600297
 3. [卫星视角下的中国梯田有多美](https://s.weibo.com//weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%A2%AF%E7%94%B0%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top) 1591415
 4. [猴痘病毒是天花病毒的近亲](https://s.weibo.com//weibo?q=%23%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92%E6%98%AF%E5%A4%A9%E8%8A%B1%E7%97%85%E6%AF%92%E7%9A%84%E8%BF%91%E4%BA%B2%23&Refer=top) 1361096
 5. [风吹过稻田我又想您了](https://s.weibo.com//weibo?q=%23%E9%A3%8E%E5%90%B9%E8%BF%87%E7%A8%BB%E7%94%B0%E6%88%91%E5%8F%88%E6%83%B3%E6%82%A8%E4%BA%86%23&Refer=top) 1248329
 6. [猴痘会成为下一个大流行病毒吗](https://s.weibo.com//weibo?q=%23%E7%8C%B4%E7%97%98%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%B5%81%E8%A1%8C%E7%97%85%E6%AF%92%E5%90%97%23&Refer=top) 1170877
 7. [釜山图书馆](https://s.weibo.com//weibo?q=%23%E9%87%9C%E5%B1%B1%E5%9B%BE%E4%B9%A6%E9%A6%86%23&Refer=top) 897950
-8. [云南一中学教师殴打学生被处理](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%A4%84%E7%90%86%23&Refer=top) 847958
+8. [云南一中学教师殴打学生被处理](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%A4%84%E7%90%86%23&Refer=top) 869951
 9. [被00后的消费观整不会了](https://s.weibo.com//weibo?q=%23%E8%A2%AB00%E5%90%8E%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82%E6%95%B4%E4%B8%8D%E4%BC%9A%E4%BA%86%23&Refer=top) 845442
 10. [日本女性买堕胎药将需要配偶同意](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%80%A7%E4%B9%B0%E5%A0%95%E8%83%8E%E8%8D%AF%E5%B0%86%E9%9C%80%E8%A6%81%E9%85%8D%E5%81%B6%E5%90%8C%E6%84%8F%23&Refer=top) 826226
 11. [世卫担忧猴痘病毒或已在社区隐匿传播](https://s.weibo.com//weibo?q=%23%E4%B8%96%E5%8D%AB%E6%8B%85%E5%BF%A7%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92%E6%88%96%E5%B7%B2%E5%9C%A8%E7%A4%BE%E5%8C%BA%E9%9A%90%E5%8C%BF%E4%BC%A0%E6%92%AD%23&Refer=top) 771050
@@ -33,12 +33,12 @@ weibo_top
 22. [小时候一个人走回家的经历](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%B5%B0%E5%9B%9E%E5%AE%B6%E7%9A%84%E7%BB%8F%E5%8E%86%23&Refer=top) 393980
 23. [上海临港方舱医院正式休舱](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%B4%E6%B8%AF%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%E6%AD%A3%E5%BC%8F%E4%BC%91%E8%88%B1%23&Refer=top) 334246
 24. [高迪](https://s.weibo.com//weibo?q=%E9%AB%98%E8%BF%AA&Refer=top) 329510
-25. [一夜暴腹](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%A4%9C%E6%9A%B4%E8%85%B9%23&Refer=top) 311688
-26. [人间一粒种天上一颗星](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E9%97%B4%E4%B8%80%E7%B2%92%E7%A7%8D%E5%A4%A9%E4%B8%8A%E4%B8%80%E9%A2%97%E6%98%9F%23&Refer=top) 310795
-27. [中外审美差异真的很大吗](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%A4%96%E5%AE%A1%E7%BE%8E%E5%B7%AE%E5%BC%82%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A4%A7%E5%90%97&Refer=top) 294651
-28. [江苏1500名老人被骗20亿](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F1500%E5%90%8D%E8%80%81%E4%BA%BA%E8%A2%AB%E9%AA%9720%E4%BA%BF%23&Refer=top) 282797
-29. [发稻穗表情纪念袁老](https://s.weibo.com//weibo?q=%23%E5%8F%91%E7%A8%BB%E7%A9%97%E8%A1%A8%E6%83%85%E7%BA%AA%E5%BF%B5%E8%A2%81%E8%80%81%23&Refer=top) 279802
-30. [间谍过家家](https://s.weibo.com//weibo?q=%23%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6%23&Refer=top) 266841
+25. [人间一粒种天上一颗星](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E9%97%B4%E4%B8%80%E7%B2%92%E7%A7%8D%E5%A4%A9%E4%B8%8A%E4%B8%80%E9%A2%97%E6%98%9F%23&Refer=top) 324189
+26. [一夜暴腹](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%A4%9C%E6%9A%B4%E8%85%B9%23&Refer=top) 311688
+27. [间谍过家家](https://s.weibo.com//weibo?q=%23%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6%23&Refer=top) 302029
+28. [中外审美差异真的很大吗](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%A4%96%E5%AE%A1%E7%BE%8E%E5%B7%AE%E5%BC%82%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A4%A7%E5%90%97&Refer=top) 294651
+29. [江苏1500名老人被骗20亿](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%8B%8F1500%E5%90%8D%E8%80%81%E4%BA%BA%E8%A2%AB%E9%AA%9720%E4%BA%BF%23&Refer=top) 282797
+30. [发稻穗表情纪念袁老](https://s.weibo.com//weibo?q=%23%E5%8F%91%E7%A8%BB%E7%A9%97%E8%A1%A8%E6%83%85%E7%BA%AA%E5%BF%B5%E8%A2%81%E8%80%81%23&Refer=top) 279802
 31. [米勒解说](https://s.weibo.com//weibo?q=%E7%B1%B3%E5%8B%92%E8%A7%A3%E8%AF%B4&Refer=top) 238201
 32. [可达鸭](https://s.weibo.com//weibo?q=%E5%8F%AF%E8%BE%BE%E9%B8%AD&Refer=top) 225034
 33. [喜马拉雅山脉爆发红色精灵闪电](https://s.weibo.com//weibo?q=%23%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1%E8%84%89%E7%88%86%E5%8F%91%E7%BA%A2%E8%89%B2%E7%B2%BE%E7%81%B5%E9%97%AA%E7%94%B5%23&Refer=top) 216005
@@ -48,7 +48,7 @@ weibo_top
 37. [澳大利亚](https://s.weibo.com//weibo?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A&Refer=top) 153439
 38. [多国报告出现的猴痘是什么疾病](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9B%BD%E6%8A%A5%E5%91%8A%E5%87%BA%E7%8E%B0%E7%9A%84%E7%8C%B4%E7%97%98%E6%98%AF%E4%BB%80%E4%B9%88%E7%96%BE%E7%97%85%23&Refer=top) 141058
 39. [熊猫生娃全过程记录](https://s.weibo.com//weibo?q=%23%E7%86%8A%E7%8C%AB%E7%94%9F%E5%A8%83%E5%85%A8%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%95%23&Refer=top) 127716
-40. [你家电视广告多么](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%AE%B6%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E5%A4%9A%E4%B9%88%23&Refer=top) 106478
+40. [你家电视广告多么](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%AE%B6%E7%94%B5%E8%A7%86%E5%B9%BF%E5%91%8A%E5%A4%9A%E4%B9%88%23&Refer=top) 111348
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
