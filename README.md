@@ -53,7 +53,7 @@ weibo_top
 42. [富二代盗窃自家工厂56次被父亲送上法庭](https://s.weibo.com//weibo?q=%23%E5%AF%8C%E4%BA%8C%E4%BB%A3%E7%9B%97%E7%AA%83%E8%87%AA%E5%AE%B6%E5%B7%A5%E5%8E%8256%E6%AC%A1%E8%A2%AB%E7%88%B6%E4%BA%B2%E9%80%81%E4%B8%8A%E6%B3%95%E5%BA%AD%23&Refer=top) 119237
 43. [北京一社区19例阳性与多家庭间聚会有关](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E7%A4%BE%E5%8C%BA19%E4%BE%8B%E9%98%B3%E6%80%A7%E4%B8%8E%E5%A4%9A%E5%AE%B6%E5%BA%AD%E9%97%B4%E8%81%9A%E4%BC%9A%E6%9C%89%E5%85%B3%23&Refer=top) 111178
 44. [男子酒驾被查狂喝水要求重测](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E7%8B%82%E5%96%9D%E6%B0%B4%E8%A6%81%E6%B1%82%E9%87%8D%E6%B5%8B%23&Refer=top) 107266
-45. [女孩被急流冲走好心人拼命截住](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%80%A5%E6%B5%81%E5%86%B2%E8%B5%B0%E5%A5%BD%E5%BF%83%E4%BA%BA%E6%8B%BC%E5%91%BD%E6%88%AA%E4%BD%8F%23&Refer=top) 87543
+45. [女孩被急流冲走好心人拼命截住](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%80%A5%E6%B5%81%E5%86%B2%E8%B5%B0%E5%A5%BD%E5%BF%83%E4%BA%BA%E6%8B%BC%E5%91%BD%E6%88%AA%E4%BD%8F%23&Refer=top) 94623
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
