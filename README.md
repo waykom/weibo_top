@@ -56,8 +56,8 @@ weibo_top
 45. [男子酒驾被查狂喝水要求重测](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E7%8B%82%E5%96%9D%E6%B0%B4%E8%A6%81%E6%B1%82%E9%87%8D%E6%B5%8B%23&Refer=top) 107266
 46. [三份猴痘病毒最新基因测序结果公布](https://s.weibo.com//weibo?q=%23%E4%B8%89%E4%BB%BD%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92%E6%9C%80%E6%96%B0%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8F%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&Refer=top) 54125
 47. [MANNER咖啡一上海门店被立案调查](https://s.weibo.com//weibo?q=%23MANNER%E5%92%96%E5%95%A1%E4%B8%80%E4%B8%8A%E6%B5%B7%E9%97%A8%E5%BA%97%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&Refer=top) 35040
-48. [夏天戴口罩要注意什么](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E5%A4%A9%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=top) 19038
-49. [男子酒驾被查疯狂抱怨姐姐害死人](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E7%96%AF%E7%8B%82%E6%8A%B1%E6%80%A8%E5%A7%90%E5%A7%90%E5%AE%B3%E6%AD%BB%E4%BA%BA%23&Refer=top) 10844
+48. [夏天戴口罩要注意什么](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E5%A4%A9%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=top) 19521
+49. [男子酒驾被查疯狂抱怨姐姐害死人](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E7%96%AF%E7%8B%82%E6%8A%B1%E6%80%A8%E5%A7%90%E5%A7%90%E5%AE%B3%E6%AD%BB%E4%BA%BA%23&Refer=top) 14119
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
