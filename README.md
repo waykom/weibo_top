@@ -49,6 +49,7 @@ weibo_top
 38. [00后女孩频繁挖鼻孔致颅内感染险丧命](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E9%A2%91%E7%B9%81%E6%8C%96%E9%BC%BB%E5%AD%94%E8%87%B4%E9%A2%85%E5%86%85%E6%84%9F%E6%9F%93%E9%99%A9%E4%B8%A7%E5%91%BD%23&Refer=top) 163990
 39. [西安5月25日开展大规模核酸检测](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%895%E6%9C%8825%E6%97%A5%E5%BC%80%E5%B1%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 160439
 40. [有城市空置房12年都卖不完](https://s.weibo.com//weibo?q=%23%E6%9C%89%E5%9F%8E%E5%B8%82%E7%A9%BA%E7%BD%AE%E6%88%BF12%E5%B9%B4%E9%83%BD%E5%8D%96%E4%B8%8D%E5%AE%8C%23&Refer=top) 158140
+41. [Crisp出道六周年](https://s.weibo.com//weibo?q=%23Crisp%E5%87%BA%E9%81%93%E5%85%AD%E5%91%A8%E5%B9%B4%23&Refer=top) 64171
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
