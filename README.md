@@ -57,7 +57,9 @@ weibo_top
 46. [甘肃体罚学生幼儿园教师被解聘](https://s.weibo.com//weibo?q=%23%E7%94%98%E8%82%83%E4%BD%93%E7%BD%9A%E5%AD%A6%E7%94%9F%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%95%99%E5%B8%88%E8%A2%AB%E8%A7%A3%E8%81%98%23&Refer=top) 21702
 47. [国防部称中俄联合空中战略巡航与当前局势无关](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E4%B8%AD%E4%BF%84%E8%81%94%E5%90%88%E7%A9%BA%E4%B8%AD%E6%88%98%E7%95%A5%E5%B7%A1%E8%88%AA%E4%B8%8E%E5%BD%93%E5%89%8D%E5%B1%80%E5%8A%BF%E6%97%A0%E5%85%B3%23&Refer=top) 15357
 48. [妈妈用一根拉链做成钱包](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E4%B8%80%E6%A0%B9%E6%8B%89%E9%93%BE%E5%81%9A%E6%88%90%E9%92%B1%E5%8C%85%23&Refer=top) 11322
-49. [汽车爆胎撞护栏侧翻司机无大碍走下车](https://s.weibo.com//weibo?q=%23%E6%B1%BD%E8%BD%A6%E7%88%86%E8%83%8E%E6%92%9E%E6%8A%A4%E6%A0%8F%E4%BE%A7%E7%BF%BB%E5%8F%B8%E6%9C%BA%E6%97%A0%E5%A4%A7%E7%A2%8D%E8%B5%B0%E4%B8%8B%E8%BD%A6%23&Refer=top) 9700
+49. [南宁一刷单诈骗团伙103人被控制](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%AE%81%E4%B8%80%E5%88%B7%E5%8D%95%E8%AF%88%E9%AA%97%E5%9B%A2%E4%BC%99103%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6%23&Refer=top) 10566
+50. [汽车爆胎撞护栏侧翻司机无大碍走下车](https://s.weibo.com//weibo?q=%23%E6%B1%BD%E8%BD%A6%E7%88%86%E8%83%8E%E6%92%9E%E6%8A%A4%E6%A0%8F%E4%BE%A7%E7%BF%BB%E5%8F%B8%E6%9C%BA%E6%97%A0%E5%A4%A7%E7%A2%8D%E8%B5%B0%E4%B8%8B%E8%BD%A6%23&Refer=top) 9700
+51. [官方回应洒水车朝两边摊贩喷水](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B4%92%E6%B0%B4%E8%BD%A6%E6%9C%9D%E4%B8%A4%E8%BE%B9%E6%91%8A%E8%B4%A9%E5%96%B7%E6%B0%B4%23&Refer=top) 8890
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
