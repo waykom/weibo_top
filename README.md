@@ -56,6 +56,7 @@ weibo_top
 45. [孤勇者词作者回应歌曲成儿歌](https://s.weibo.com//weibo?q=%23%E5%AD%A4%E5%8B%87%E8%80%85%E8%AF%8D%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E6%AD%8C%E6%9B%B2%E6%88%90%E5%84%BF%E6%AD%8C%23&Refer=top) 79736
 46. [飞盘](https://s.weibo.com//weibo?q=%E9%A3%9E%E7%9B%98&Refer=top) 62955
 47. [冰箱食材大挑战](https://s.weibo.com//weibo?q=%E5%86%B0%E7%AE%B1%E9%A3%9F%E6%9D%90%E5%A4%A7%E6%8C%91%E6%88%98&Refer=top) 11913
+48. [中国新闻网连麦熊丙奇](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E8%BF%9E%E9%BA%A6%E7%86%8A%E4%B8%99%E5%A5%87%23&Refer=top) 11453
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
