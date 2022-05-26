@@ -53,6 +53,7 @@ weibo_top
 42. [定金人的统一睡姿](https://s.weibo.com//weibo?q=%23%E5%AE%9A%E9%87%91%E4%BA%BA%E7%9A%84%E7%BB%9F%E4%B8%80%E7%9D%A1%E5%A7%BF%23&Refer=top) 135869
 43. [杭州核酸](https://s.weibo.com//weibo?q=%E6%9D%AD%E5%B7%9E%E6%A0%B8%E9%85%B8&Refer=top) 133984
 44. [苏炳添分享深蹲锻炼技巧](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%88%86%E4%BA%AB%E6%B7%B1%E8%B9%B2%E9%94%BB%E7%82%BC%E6%8A%80%E5%B7%A7%23&Refer=top) 130156
+45. [孤勇者词作者回应歌曲成儿歌](https://s.weibo.com//weibo?q=%23%E5%AD%A4%E5%8B%87%E8%80%85%E8%AF%8D%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E6%AD%8C%E6%9B%B2%E6%88%90%E5%84%BF%E6%AD%8C%23&Refer=top) 71616
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
