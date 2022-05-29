@@ -51,7 +51,7 @@ weibo_top
 40. [两个共产党员11年资助72名学生](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%B8%AA%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%9811%E5%B9%B4%E8%B5%84%E5%8A%A972%E5%90%8D%E5%AD%A6%E7%94%9F%23&Refer=top) 156255
 41. [中疾控披露首例奥密克戎变异株BA.5输入上海](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%96%BE%E6%8E%A7%E6%8A%AB%E9%9C%B2%E9%A6%96%E4%BE%8B%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AABA.5%E8%BE%93%E5%85%A5%E4%B8%8A%E6%B5%B7%23&Refer=top) 150004
 42. [法网2022](https://s.weibo.com//weibo?q=%23%E6%B3%95%E7%BD%912022%23&Refer=top) 101329
-43. [GALA单杀Gumayusi](https://s.weibo.com//weibo?q=%23GALA%E5%8D%95%E6%9D%80Gumayusi%23&Refer=top) 21594
+43. [GALA单杀Gumayusi](https://s.weibo.com//weibo?q=%23GALA%E5%8D%95%E6%9D%80Gumayusi%23&Refer=top) 25720
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
