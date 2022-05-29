@@ -44,12 +44,13 @@ weibo_top
 33. [金色的雨](https://s.weibo.com//weibo?q=%23%E9%87%91%E8%89%B2%E7%9A%84%E9%9B%A8%23&Refer=top) 198978
 34. [台湾新增新冠肺炎死亡病例145例](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B145%E4%BE%8B%23&Refer=top) 192945
 35. [感谢圣枪哥](https://s.weibo.com//weibo?q=%23%E6%84%9F%E8%B0%A2%E5%9C%A3%E6%9E%AA%E5%93%A5%23&Refer=top) 189211
-36. [上海对不裁员少裁员困难企业最高补贴300万](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%AF%B9%E4%B8%8D%E8%A3%81%E5%91%98%E5%B0%91%E8%A3%81%E5%91%98%E5%9B%B0%E9%9A%BE%E4%BC%81%E4%B8%9A%E6%9C%80%E9%AB%98%E8%A1%A5%E8%B4%B4300%E4%B8%87%23&Refer=top) 184914
-37. [Diya首胜](https://s.weibo.com//weibo?q=%23Diya%E9%A6%96%E8%83%9C%23&Refer=top) 170232
-38. [安踏女鞋海报被指有擦边色情嫌疑](https://s.weibo.com//weibo?q=%23%E5%AE%89%E8%B8%8F%E5%A5%B3%E9%9E%8B%E6%B5%B7%E6%8A%A5%E8%A2%AB%E6%8C%87%E6%9C%89%E6%93%A6%E8%BE%B9%E8%89%B2%E6%83%85%E5%AB%8C%E7%96%91%23&Refer=top) 170157
-39. [两个共产党员11年资助72名学生](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%B8%AA%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%9811%E5%B9%B4%E8%B5%84%E5%8A%A972%E5%90%8D%E5%AD%A6%E7%94%9F%23&Refer=top) 156255
-40. [中疾控披露首例奥密克戎变异株BA.5输入上海](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%96%BE%E6%8E%A7%E6%8A%AB%E9%9C%B2%E9%A6%96%E4%BE%8B%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AABA.5%E8%BE%93%E5%85%A5%E4%B8%8A%E6%B5%B7%23&Refer=top) 150004
-41. [法网2022](https://s.weibo.com//weibo?q=%23%E6%B3%95%E7%BD%912022%23&Refer=top) 101329
+36. [龚俊恭喜RNG夺冠](https://s.weibo.com//weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%81%AD%E5%96%9CRNG%E5%A4%BA%E5%86%A0%23&Refer=top) 188763
+37. [上海对不裁员少裁员困难企业最高补贴300万](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%AF%B9%E4%B8%8D%E8%A3%81%E5%91%98%E5%B0%91%E8%A3%81%E5%91%98%E5%9B%B0%E9%9A%BE%E4%BC%81%E4%B8%9A%E6%9C%80%E9%AB%98%E8%A1%A5%E8%B4%B4300%E4%B8%87%23&Refer=top) 184914
+38. [Diya首胜](https://s.weibo.com//weibo?q=%23Diya%E9%A6%96%E8%83%9C%23&Refer=top) 170232
+39. [安踏女鞋海报被指有擦边色情嫌疑](https://s.weibo.com//weibo?q=%23%E5%AE%89%E8%B8%8F%E5%A5%B3%E9%9E%8B%E6%B5%B7%E6%8A%A5%E8%A2%AB%E6%8C%87%E6%9C%89%E6%93%A6%E8%BE%B9%E8%89%B2%E6%83%85%E5%AB%8C%E7%96%91%23&Refer=top) 170157
+40. [两个共产党员11年资助72名学生](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E4%B8%AA%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%9811%E5%B9%B4%E8%B5%84%E5%8A%A972%E5%90%8D%E5%AD%A6%E7%94%9F%23&Refer=top) 156255
+41. [中疾控披露首例奥密克戎变异株BA.5输入上海](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%96%BE%E6%8E%A7%E6%8A%AB%E9%9C%B2%E9%A6%96%E4%BE%8B%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AABA.5%E8%BE%93%E5%85%A5%E4%B8%8A%E6%B5%B7%23&Refer=top) 150004
+42. [法网2022](https://s.weibo.com//weibo?q=%23%E6%B3%95%E7%BD%912022%23&Refer=top) 101329
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
