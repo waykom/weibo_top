@@ -11,13 +11,13 @@ weibo_top
 # 今日热门搜索  
 1. [教育部将彻查教材插图问题](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%B0%86%E5%BD%BB%E6%9F%A5%E6%95%99%E6%9D%90%E6%8F%92%E5%9B%BE%E9%97%AE%E9%A2%98%23&Refer=top) 4132529
 2. [教育部开展全国教材全面排查工作](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%BC%80%E5%B1%95%E5%85%A8%E5%9B%BD%E6%95%99%E6%9D%90%E5%85%A8%E9%9D%A2%E6%8E%92%E6%9F%A5%E5%B7%A5%E4%BD%9C%23&Refer=top) 1498153
-3. [校方回应两学生毕设代做事件](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%AD%A6%E7%94%9F%E6%AF%95%E8%AE%BE%E4%BB%A3%E5%81%9A%E4%BA%8B%E4%BB%B6%23&Refer=top) 1323523
-4. [哪里有彩虹告诉我](https://s.weibo.com//weibo?q=%23%E5%93%AA%E9%87%8C%E6%9C%89%E5%BD%A9%E8%99%B9%E5%91%8A%E8%AF%89%E6%88%91%23&Refer=top) 1147692
-5. [年轻人为什么都活的焦虑](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E6%B4%BB%E7%9A%84%E7%84%A6%E8%99%91%23&Refer=top) 1111601
-6. [乐山地震](https://s.weibo.com//weibo?q=%23%E4%B9%90%E5%B1%B1%E5%9C%B0%E9%9C%87%23&Refer=top) 980729
-7. [6月1日零时起上海有序恢复住宅小区出入](https://s.weibo.com//weibo?q=%236%E6%9C%881%E6%97%A5%E9%9B%B6%E6%97%B6%E8%B5%B7%E4%B8%8A%E6%B5%B7%E6%9C%89%E5%BA%8F%E6%81%A2%E5%A4%8D%E4%BD%8F%E5%AE%85%E5%B0%8F%E5%8C%BA%E5%87%BA%E5%85%A5%23&Refer=top) 875391
-8. [重庆北碚](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E5%8C%97%E7%A2%9A&Refer=top) 875252
-9. [郑钦文](https://s.weibo.com//weibo?q=%E9%83%91%E9%92%A6%E6%96%87&Refer=top) 874728
+3. [郑钦文](https://s.weibo.com//weibo?q=%E9%83%91%E9%92%A6%E6%96%87&Refer=top) 1324052
+4. [校方回应两学生毕设代做事件](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%AD%A6%E7%94%9F%E6%AF%95%E8%AE%BE%E4%BB%A3%E5%81%9A%E4%BA%8B%E4%BB%B6%23&Refer=top) 1323523
+5. [哪里有彩虹告诉我](https://s.weibo.com//weibo?q=%23%E5%93%AA%E9%87%8C%E6%9C%89%E5%BD%A9%E8%99%B9%E5%91%8A%E8%AF%89%E6%88%91%23&Refer=top) 1147692
+6. [年轻人为什么都活的焦虑](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E6%B4%BB%E7%9A%84%E7%84%A6%E8%99%91%23&Refer=top) 1111601
+7. [乐山地震](https://s.weibo.com//weibo?q=%23%E4%B9%90%E5%B1%B1%E5%9C%B0%E9%9C%87%23&Refer=top) 980729
+8. [6月1日零时起上海有序恢复住宅小区出入](https://s.weibo.com//weibo?q=%236%E6%9C%881%E6%97%A5%E9%9B%B6%E6%97%B6%E8%B5%B7%E4%B8%8A%E6%B5%B7%E6%9C%89%E5%BA%8F%E6%81%A2%E5%A4%8D%E4%BD%8F%E5%AE%85%E5%B0%8F%E5%8C%BA%E5%87%BA%E5%85%A5%23&Refer=top) 875391
+9. [重庆北碚](https://s.weibo.com//weibo?q=%E9%87%8D%E5%BA%86%E5%8C%97%E7%A2%9A&Refer=top) 875252
 10. [小肚小肚](https://s.weibo.com//weibo?q=%E5%B0%8F%E8%82%9A%E5%B0%8F%E8%82%9A&Refer=top) 803739
 11. [92号汽油进入9元时代](https://s.weibo.com//weibo?q=%2392%E5%8F%B7%E6%B1%BD%E6%B2%B9%E8%BF%9B%E5%85%A59%E5%85%83%E6%97%B6%E4%BB%A3%23&Refer=top) 663087
 12. [南大碎尸案死者家属回应事件进展](https://s.weibo.com//weibo?q=%23%E5%8D%97%E5%A4%A7%E7%A2%8E%E5%B0%B8%E6%A1%88%E6%AD%BB%E8%80%85%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E4%BA%8B%E4%BB%B6%E8%BF%9B%E5%B1%95%23&Refer=top) 579669
@@ -46,12 +46,12 @@ weibo_top
 35. [河南常态化核酸由政府买单](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B8%B8%E6%80%81%E5%8C%96%E6%A0%B8%E9%85%B8%E7%94%B1%E6%94%BF%E5%BA%9C%E4%B9%B0%E5%8D%95%23&Refer=top) 144421
 36. [荣耀发布会](https://s.weibo.com//weibo?q=%23%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 141789
 37. [上海男子开救护车通宵接送300位返乡者](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%94%B7%E5%AD%90%E5%BC%80%E6%95%91%E6%8A%A4%E8%BD%A6%E9%80%9A%E5%AE%B5%E6%8E%A5%E9%80%81300%E4%BD%8D%E8%BF%94%E4%B9%A1%E8%80%85%23&Refer=top) 134502
-38. [今夜油价上调](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%9C%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83%23&Refer=top) 122026
-39. [汽油柴油每吨分别提高400元和390元](https://s.weibo.com//weibo?q=%E6%B1%BD%E6%B2%B9%E6%9F%B4%E6%B2%B9%E6%AF%8F%E5%90%A8%E5%88%86%E5%88%AB%E6%8F%90%E9%AB%98400%E5%85%83%E5%92%8C390%E5%85%83&Refer=top) 112456
-40. [夏日绿豆冰拿铁](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E6%97%A5%E7%BB%BF%E8%B1%86%E5%86%B0%E6%8B%BF%E9%93%81%23&Refer=top) 104450
-41. [不愧是计算机专业的](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%84%A7%E6%98%AF%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E7%9A%84%23&Refer=top) 98197
-42. [那兔致敬中国科技工作者](https://s.weibo.com//weibo?q=%23%E9%82%A3%E5%85%94%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85%23&Refer=top) 93944
-43. [郑钦文冲击生涯首个大满贯八强](https://s.weibo.com//weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%86%B2%E5%87%BB%E7%94%9F%E6%B6%AF%E9%A6%96%E4%B8%AA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%85%AB%E5%BC%BA%23&Refer=top) 69829
+38. [郑钦文冲击生涯首个大满贯八强](https://s.weibo.com//weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%86%B2%E5%87%BB%E7%94%9F%E6%B6%AF%E9%A6%96%E4%B8%AA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%85%AB%E5%BC%BA%23&Refer=top) 130618
+39. [今夜油价上调](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%9C%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83%23&Refer=top) 122026
+40. [汽油柴油每吨分别提高400元和390元](https://s.weibo.com//weibo?q=%E6%B1%BD%E6%B2%B9%E6%9F%B4%E6%B2%B9%E6%AF%8F%E5%90%A8%E5%88%86%E5%88%AB%E6%8F%90%E9%AB%98400%E5%85%83%E5%92%8C390%E5%85%83&Refer=top) 112456
+41. [夏日绿豆冰拿铁](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E6%97%A5%E7%BB%BF%E8%B1%86%E5%86%B0%E6%8B%BF%E9%93%81%23&Refer=top) 104450
+42. [不愧是计算机专业的](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E6%84%A7%E6%98%AF%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E7%9A%84%23&Refer=top) 98197
+43. [那兔致敬中国科技工作者](https://s.weibo.com//weibo?q=%23%E9%82%A3%E5%85%94%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85%23&Refer=top) 93944
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
