@@ -62,7 +62,7 @@ weibo_top
 51. [蔡徐坤给患病粉丝送儿童节礼物](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%BB%99%E6%82%A3%E7%97%85%E7%B2%89%E4%B8%9D%E9%80%81%E5%84%BF%E7%AB%A5%E8%8A%82%E7%A4%BC%E7%89%A9%23&Refer=top) 84713
 52. [用漫画见面的方式说再见](https://s.weibo.com//weibo?q=%23%E7%94%A8%E6%BC%AB%E7%94%BB%E8%A7%81%E9%9D%A2%E7%9A%84%E6%96%B9%E5%BC%8F%E8%AF%B4%E5%86%8D%E8%A7%81%23&Refer=top) 84076
 53. [孩子眼中的诗意世界](https://s.weibo.com//weibo?q=%23%E5%AD%A9%E5%AD%90%E7%9C%BC%E4%B8%AD%E7%9A%84%E8%AF%97%E6%84%8F%E4%B8%96%E7%95%8C%23&Refer=top) 28350
-54. [法拉利回应4S店强制加价提车](https://s.weibo.com//weibo?q=%23%E6%B3%95%E6%8B%89%E5%88%A9%E5%9B%9E%E5%BA%944S%E5%BA%97%E5%BC%BA%E5%88%B6%E5%8A%A0%E4%BB%B7%E6%8F%90%E8%BD%A6%23&Refer=top) 17189
+54. [法拉利回应4S店强制加价提车](https://s.weibo.com//weibo?q=%23%E6%B3%95%E6%8B%89%E5%88%A9%E5%9B%9E%E5%BA%944S%E5%BA%97%E5%BC%BA%E5%88%B6%E5%8A%A0%E4%BB%B7%E6%8F%90%E8%BD%A6%23&Refer=top) 20677
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
