@@ -30,8 +30,8 @@ weibo_top
 19. [BLG官宣Bin加入](https://s.weibo.com//weibo?q=%23BLG%E5%AE%98%E5%AE%A3Bin%E5%8A%A0%E5%85%A5%23&Refer=top) 498067
 20. [杨紫直播](https://s.weibo.com//weibo?q=%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD&Refer=top) 494937
 21. [2022LPL春季转会期](https://s.weibo.com//weibo?q=%232022LPL%E6%98%A5%E5%AD%A3%E8%BD%AC%E4%BC%9A%E6%9C%9F%23&Refer=top) 494099
-22. [温儒敏否认语文教材选编课文夹带私货](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%84%92%E6%95%8F%E5%90%A6%E8%AE%A4%E8%AF%AD%E6%96%87%E6%95%99%E6%9D%90%E9%80%89%E7%BC%96%E8%AF%BE%E6%96%87%E5%A4%B9%E5%B8%A6%E7%A7%81%E8%B4%A7%23&Refer=top) 433746
-23. [美国仍有44个州存在合法童婚](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8D%E6%9C%8944%E4%B8%AA%E5%B7%9E%E5%AD%98%E5%9C%A8%E5%90%88%E6%B3%95%E7%AB%A5%E5%A9%9A%23&Refer=top) 420393
+22. [美国仍有44个州存在合法童婚](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8D%E6%9C%8944%E4%B8%AA%E5%B7%9E%E5%AD%98%E5%9C%A8%E5%90%88%E6%B3%95%E7%AB%A5%E5%A9%9A%23&Refer=top) 434372
+23. [温儒敏否认语文教材选编课文夹带私货](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E5%84%92%E6%95%8F%E5%90%A6%E8%AE%A4%E8%AF%AD%E6%96%87%E6%95%99%E6%9D%90%E9%80%89%E7%BC%96%E8%AF%BE%E6%96%87%E5%A4%B9%E5%B8%A6%E7%A7%81%E8%B4%A7%23&Refer=top) 433746
 24. [上海检察院检察长张本才被查](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%A3%80%E5%AF%9F%E9%99%A2%E6%A3%80%E5%AF%9F%E9%95%BF%E5%BC%A0%E6%9C%AC%E6%89%8D%E8%A2%AB%E6%9F%A5%23&Refer=top) 415222
 25. [中国女排世界联赛首秀](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%96%E7%95%8C%E8%81%94%E8%B5%9B%E9%A6%96%E7%A7%80%23&Refer=top) 400808
 26. [小肚已接收扁平指令](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E8%82%9A%E5%B7%B2%E6%8E%A5%E6%94%B6%E6%89%81%E5%B9%B3%E6%8C%87%E4%BB%A4%23&Refer=top) 373190
@@ -55,7 +55,7 @@ weibo_top
 44. [黄明昊方澄清](https://s.weibo.com//weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E6%96%B9%E6%BE%84%E6%B8%85%23&Refer=top) 180263
 45. [地震瞬间他们转身奔向轮椅同学](https://s.weibo.com//weibo?q=%23%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E4%BB%96%E4%BB%AC%E8%BD%AC%E8%BA%AB%E5%A5%94%E5%90%91%E8%BD%AE%E6%A4%85%E5%90%8C%E5%AD%A6%23&Refer=top) 169472
 46. [一起去上海压马路](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%B5%B7%E5%8E%BB%E4%B8%8A%E6%B5%B7%E5%8E%8B%E9%A9%AC%E8%B7%AF%23&Refer=top) 166085
-47. [2022世界女排联赛](https://s.weibo.com//weibo?q=%232022%E4%B8%96%E7%95%8C%E5%A5%B3%E6%8E%92%E8%81%94%E8%B5%9B%23&Refer=top) 66039
+47. [2022世界女排联赛](https://s.weibo.com//weibo?q=%232022%E4%B8%96%E7%95%8C%E5%A5%B3%E6%8E%92%E8%81%94%E8%B5%9B%23&Refer=top) 83113
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
