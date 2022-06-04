@@ -48,6 +48,7 @@ weibo_top
 37. [D2809](https://s.weibo.com//weibo?q=%23D2809%23&Refer=top) 71510
 38. [河南嵩山龙门2比2大连人](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B5%A9%E5%B1%B1%E9%BE%99%E9%97%A82%E6%AF%942%E5%A4%A7%E8%BF%9E%E4%BA%BA%23&Refer=top) 66636
 39. [中超新赛季首个帽子戏法](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E8%B6%85%E6%96%B0%E8%B5%9B%E5%AD%A3%E9%A6%96%E4%B8%AA%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&Refer=top) 65590
+40. [上海海港0比1武汉长江](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF0%E6%AF%941%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%23&Refer=top) 10400
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
