@@ -50,8 +50,8 @@ weibo_top
 39. [蔡斌表情](https://s.weibo.com//weibo?q=%23%E8%94%A1%E6%96%8C%E8%A1%A8%E6%83%85%23&Refer=top) 112912
 40. [最年轻乘组在空间站向祖国人民敬礼](https://s.weibo.com//weibo?q=%23%E6%9C%80%E5%B9%B4%E8%BD%BB%E4%B9%98%E7%BB%84%E5%9C%A8%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%91%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%95%AC%E7%A4%BC%23&Refer=top) 85037
 41. [小国天花板](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%9B%BD%E5%A4%A9%E8%8A%B1%E6%9D%BF&Refer=top) 79055
-42. [防止疫情防控层层加码九不准](https://s.weibo.com//weibo?q=%23%E9%98%B2%E6%AD%A2%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%B1%82%E5%B1%82%E5%8A%A0%E7%A0%81%E4%B9%9D%E4%B8%8D%E5%87%86%23&Refer=top) 48593
-43. [美国12岁儿童持枪抢劫加油站](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD12%E5%B2%81%E5%84%BF%E7%AB%A5%E6%8C%81%E6%9E%AA%E6%8A%A2%E5%8A%AB%E5%8A%A0%E6%B2%B9%E7%AB%99%23&Refer=top) 48338
+42. [美国12岁儿童持枪抢劫加油站](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD12%E5%B2%81%E5%84%BF%E7%AB%A5%E6%8C%81%E6%9E%AA%E6%8A%A2%E5%8A%AB%E5%8A%A0%E6%B2%B9%E7%AB%99%23&Refer=top) 50328
+43. [防止疫情防控层层加码九不准](https://s.weibo.com//weibo?q=%23%E9%98%B2%E6%AD%A2%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%B1%82%E5%B1%82%E5%8A%A0%E7%A0%81%E4%B9%9D%E4%B8%8D%E5%87%86%23&Refer=top) 48593
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
