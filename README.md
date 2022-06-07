@@ -17,7 +17,7 @@ weibo_top
 6. [高考数学](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%23&Refer=top) 1322489
 7. [浙江数学 边哭边写](https://s.weibo.com//weibo?q=%E6%B5%99%E6%B1%9F%E6%95%B0%E5%AD%A6%20%E8%BE%B9%E5%93%AD%E8%BE%B9%E5%86%99&Refer=top) 1227171
 8. [两男子将好友扔出窗致十级伤残](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E7%94%B7%E5%AD%90%E5%B0%86%E5%A5%BD%E5%8F%8B%E6%89%94%E5%87%BA%E7%AA%97%E8%87%B4%E5%8D%81%E7%BA%A7%E4%BC%A4%E6%AE%8B%23&Refer=top) 1211628
-9. [谁在为高价雪糕买单](https://s.weibo.com//weibo?q=%23%E8%B0%81%E5%9C%A8%E4%B8%BA%E9%AB%98%E4%BB%B7%E9%9B%AA%E7%B3%95%E4%B9%B0%E5%8D%95%23&Refer=top) 926059
+9. [谁在为高价雪糕买单](https://s.weibo.com//weibo?q=%23%E8%B0%81%E5%9C%A8%E4%B8%BA%E9%AB%98%E4%BB%B7%E9%9B%AA%E7%B3%95%E4%B9%B0%E5%8D%95%23&Refer=top) 935080
 10. [迪丽热巴好美](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%BD%E7%BE%8E%23&Refer=top) 818232
 11. [河北一老师忘带40多个准考证](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%80%E8%80%81%E5%B8%88%E5%BF%98%E5%B8%A640%E5%A4%9A%E4%B8%AA%E5%87%86%E8%80%83%E8%AF%81%23&Refer=top) 731966
 12. [官方辟谣考生请人代答](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E8%80%83%E7%94%9F%E8%AF%B7%E4%BA%BA%E4%BB%A3%E7%AD%94%23&Refer=top) 660840
