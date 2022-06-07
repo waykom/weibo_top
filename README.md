@@ -53,6 +53,7 @@ weibo_top
 42. [本手 妙手 俗手](https://s.weibo.com//weibo?q=%E6%9C%AC%E6%89%8B%20%E5%A6%99%E6%89%8B%20%E4%BF%97%E6%89%8B&Refer=top) 106005
 43. [晒出最美海平线](https://s.weibo.com//weibo?q=%23%E6%99%92%E5%87%BA%E6%9C%80%E7%BE%8E%E6%B5%B7%E5%B9%B3%E7%BA%BF%23&Refer=top) 83609
 44. [田柾国直播](https://s.weibo.com//weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E7%9B%B4%E6%92%AD%23&Refer=top) 65621
+45. [中学为考生定制免费谐音梗餐](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%AD%A6%E4%B8%BA%E8%80%83%E7%94%9F%E5%AE%9A%E5%88%B6%E5%85%8D%E8%B4%B9%E8%B0%90%E9%9F%B3%E6%A2%97%E9%A4%90%23&Refer=top) 12625
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
