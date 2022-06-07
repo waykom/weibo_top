@@ -50,7 +50,7 @@ weibo_top
 39. [高考数学甲卷](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E7%94%B2%E5%8D%B7%23&Refer=top) 120009
 40. [欧国联](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E5%9B%BD%E8%81%94%23&Refer=top) 115983
 41. [本手 妙手 俗手](https://s.weibo.com//weibo?q=%E6%9C%AC%E6%89%8B%20%E5%A6%99%E6%89%8B%20%E4%BF%97%E6%89%8B&Refer=top) 106005
-42. [晒出最美海平线](https://s.weibo.com//weibo?q=%23%E6%99%92%E5%87%BA%E6%9C%80%E7%BE%8E%E6%B5%B7%E5%B9%B3%E7%BA%BF%23&Refer=top) 81052
+42. [晒出最美海平线](https://s.weibo.com//weibo?q=%23%E6%99%92%E5%87%BA%E6%9C%80%E7%BE%8E%E6%B5%B7%E5%B9%B3%E7%BA%BF%23&Refer=top) 83609
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
