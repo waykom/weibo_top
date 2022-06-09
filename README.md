@@ -31,8 +31,8 @@ weibo_top
 20. [耳朵里为什么会长霉](https://s.weibo.com//weibo?q=%23%E8%80%B3%E6%9C%B5%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E9%95%BF%E9%9C%89%23&Refer=top) 237962
 21. [人类幼崽的袜子有多可爱](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E8%A2%9C%E5%AD%90%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top) 211791
 22. [低风险地区人群没必要频繁核酸检测](https://s.weibo.com//weibo?q=%23%E4%BD%8E%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%E4%BA%BA%E7%BE%A4%E6%B2%A1%E5%BF%85%E8%A6%81%E9%A2%91%E7%B9%81%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 205950
-23. [四六级准考证](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%87%86%E8%80%83%E8%AF%81%23&Refer=top) 198887
-24. [四川马尔康连发多次地震](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E9%A9%AC%E5%B0%94%E5%BA%B7%E8%BF%9E%E5%8F%91%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87&Refer=top) 184259
+23. [四川马尔康连发多次地震](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%A9%AC%E5%B0%94%E5%BA%B7%E8%BF%9E%E5%8F%91%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87%23&Refer=top) 205409
+24. [四六级准考证](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%87%86%E8%80%83%E8%AF%81%23&Refer=top) 198887
 25. [1818给紫金陈寄了礼物](https://s.weibo.com//weibo?q=1818%E7%BB%99%E7%B4%AB%E9%87%91%E9%99%88%E5%AF%84%E4%BA%86%E7%A4%BC%E7%89%A9&Refer=top) 172568
 26. [90后小伙为患癌小朋友蓄发4年](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E4%B8%BA%E6%82%A3%E7%99%8C%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%93%84%E5%8F%914%E5%B9%B4%23&Refer=top) 157143
 27. [tyloo](https://s.weibo.com//weibo?q=tyloo&Refer=top) 149704
@@ -54,6 +54,7 @@ weibo_top
 43. [00后女生1周3次密室逃脱致肺部感染](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F1%E5%91%A83%E6%AC%A1%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1%E8%87%B4%E8%82%BA%E9%83%A8%E6%84%9F%E6%9F%93%23&Refer=top) 87793
 44. [校长师生雨中踢球告别高考](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E9%95%BF%E5%B8%88%E7%94%9F%E9%9B%A8%E4%B8%AD%E8%B8%A2%E7%90%83%E5%91%8A%E5%88%AB%E9%AB%98%E8%80%83%23&Refer=top) 83564
 45. [红外相机拍到21种珍稀野生动物](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E5%A4%96%E7%9B%B8%E6%9C%BA%E6%8B%8D%E5%88%B021%E7%A7%8D%E7%8F%8D%E7%A8%80%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%23&Refer=top) 70259
+46. [去武功山看日出要带被子](https://s.weibo.com//weibo?q=%23%E5%8E%BB%E6%AD%A6%E5%8A%9F%E5%B1%B1%E7%9C%8B%E6%97%A5%E5%87%BA%E8%A6%81%E5%B8%A6%E8%A2%AB%E5%AD%90%23&Refer=top) 51501
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
