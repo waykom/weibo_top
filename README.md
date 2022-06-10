@@ -54,6 +54,7 @@ weibo_top
 43. [成都涉事幼儿园被曝无资质](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E6%B6%89%E4%BA%8B%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E6%9B%9D%E6%97%A0%E8%B5%84%E8%B4%A8%23&Refer=top) 259934
 44. [没有何老师救不了的场](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%9C%89%E4%BD%95%E8%80%81%E5%B8%88%E6%95%91%E4%B8%8D%E4%BA%86%E7%9A%84%E5%9C%BA%23&Refer=top) 235334
 45. [见义勇为人员参加高考加20分系误读](https://s.weibo.com//weibo?q=%23%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E4%BA%BA%E5%91%98%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%E5%8A%A020%E5%88%86%E7%B3%BB%E8%AF%AF%E8%AF%BB%23&Refer=top) 228755
+46. [为什么成年后听懂了大张伟](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%90%E5%B9%B4%E5%90%8E%E5%90%AC%E6%87%82%E4%BA%86%E5%A4%A7%E5%BC%A0%E4%BC%9F%23&Refer=top) 91780
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
