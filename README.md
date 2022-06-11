@@ -53,6 +53,7 @@ weibo_top
 42. [唐山恶性伤人事件我们因何愤怒](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%B1%B1%E6%81%B6%E6%80%A7%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%88%91%E4%BB%AC%E5%9B%A0%E4%BD%95%E6%84%A4%E6%80%92%23&Refer=top) 179893
 43. [平价雪糕也好吃](https://s.weibo.com//weibo?q=%23%E5%B9%B3%E4%BB%B7%E9%9B%AA%E7%B3%95%E4%B9%9F%E5%A5%BD%E5%90%83%23&Refer=top) 130170
 44. [欧国联](https://s.weibo.com//weibo?q=%23%E6%AC%A7%E5%9B%BD%E8%81%94%23&Refer=top) 73722
+45. [2022年文化和自然遗产日](https://s.weibo.com//weibo?q=%232022%E5%B9%B4%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E6%97%A5%23&Refer=top) 7688
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
