@@ -22,9 +22,9 @@ weibo_top
 11. [腾讯下架QQ影音所有版本](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF%E4%B8%8B%E6%9E%B6QQ%E5%BD%B1%E9%9F%B3%E6%89%80%E6%9C%89%E7%89%88%E6%9C%AC%23&Refer=top) 727403
 12. [瑜伽馆老板实名举报遭同行5人打进ICU](https://s.weibo.com//weibo?q=%23%E7%91%9C%E4%BC%BD%E9%A6%86%E8%80%81%E6%9D%BF%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E9%81%AD%E5%90%8C%E8%A1%8C5%E4%BA%BA%E6%89%93%E8%BF%9BICU%23&Refer=top) 722598
 13. [学生因食堂占座将汤面泼向他人脸部](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E7%94%9F%E5%9B%A0%E9%A3%9F%E5%A0%82%E5%8D%A0%E5%BA%A7%E5%B0%86%E6%B1%A4%E9%9D%A2%E6%B3%BC%E5%90%91%E4%BB%96%E4%BA%BA%E8%84%B8%E9%83%A8%23&Refer=top) 624531
-14. [中国boy道歉](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BDboy%E9%81%93%E6%AD%89%23&Refer=top) 584923
-15. [校车司机数次猥亵多名女童被判6年](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%95%B0%E6%AC%A1%E7%8C%A5%E4%BA%B5%E5%A4%9A%E5%90%8D%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%88%A46%E5%B9%B4%23&Refer=top) 569986
-16. [牺牲消防员刘泽军女友发的信息让人泪目](https://s.weibo.com//weibo?q=%23%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E5%88%98%E6%B3%BD%E5%86%9B%E5%A5%B3%E5%8F%8B%E5%8F%91%E7%9A%84%E4%BF%A1%E6%81%AF%E8%AE%A9%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&Refer=top) 546636
+14. [牺牲消防员刘泽军女友发的信息让人泪目](https://s.weibo.com//weibo?q=%23%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E5%88%98%E6%B3%BD%E5%86%9B%E5%A5%B3%E5%8F%8B%E5%8F%91%E7%9A%84%E4%BF%A1%E6%81%AF%E8%AE%A9%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&Refer=top) 585315
+15. [中国boy道歉](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BDboy%E9%81%93%E6%AD%89%23&Refer=top) 584923
+16. [校车司机数次猥亵多名女童被判6年](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%95%B0%E6%AC%A1%E7%8C%A5%E4%BA%B5%E5%A4%9A%E5%90%8D%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%88%A46%E5%B9%B4%23&Refer=top) 569986
 17. [长沙的夜市真的好好吃](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%B2%99%E7%9A%84%E5%A4%9C%E5%B8%82%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%A5%BD%E5%90%83%23&Refer=top) 522910
 18. [从零到一的爱情](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E9%9B%B6%E5%88%B0%E4%B8%80%E7%9A%84%E7%88%B1%E6%83%85%23&Refer=top) 477701
 19. [被阿雅说的话安慰到了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%98%BF%E9%9B%85%E8%AF%B4%E7%9A%84%E8%AF%9D%E5%AE%89%E6%85%B0%E5%88%B0%E4%BA%86%23&Refer=top) 429291
@@ -48,10 +48,10 @@ weibo_top
 37. [高考查分时间](https://s.weibo.com//weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4%23&Refer=top) 194381
 38. [大熊猫跑步肚皮要擦出火星了](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%B7%91%E6%AD%A5%E8%82%9A%E7%9A%AE%E8%A6%81%E6%93%A6%E5%87%BA%E7%81%AB%E6%98%9F%E4%BA%86%23&Refer=top) 170149
 39. [这就是专属于毕业季的浪漫吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%93%E5%B1%9E%E4%BA%8E%E6%AF%95%E4%B8%9A%E5%AD%A3%E7%9A%84%E6%B5%AA%E6%BC%AB%E5%90%A7%23&Refer=top) 156955
-40. [云南文山失联男童已不幸死亡](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%87%E5%B1%B1%E5%A4%B1%E8%81%94%E7%94%B7%E7%AB%A5%E5%B7%B2%E4%B8%8D%E5%B9%B8%E6%AD%BB%E4%BA%A1%23&Refer=top) 135282
-41. [下个30克冰雹等于从3楼丢下个花盆](https://s.weibo.com//weibo?q=%23%E4%B8%8B%E4%B8%AA30%E5%85%8B%E5%86%B0%E9%9B%B9%E7%AD%89%E4%BA%8E%E4%BB%8E3%E6%A5%BC%E4%B8%A2%E4%B8%8B%E4%B8%AA%E8%8A%B1%E7%9B%86%23&Refer=top) 130392
-42. [EDG开赛二连胜](https://s.weibo.com//weibo?q=%23EDG%E5%BC%80%E8%B5%9B%E4%BA%8C%E8%BF%9E%E8%83%9C%23&Refer=top) 75147
-43. [比特币跌破24000美元](https://s.weibo.com//weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E8%B7%8C%E7%A0%B424000%E7%BE%8E%E5%85%83%23&Refer=top) 72859
+40. [比特币跌破24000美元](https://s.weibo.com//weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E8%B7%8C%E7%A0%B424000%E7%BE%8E%E5%85%83%23&Refer=top) 138760
+41. [云南文山失联男童已不幸死亡](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E6%96%87%E5%B1%B1%E5%A4%B1%E8%81%94%E7%94%B7%E7%AB%A5%E5%B7%B2%E4%B8%8D%E5%B9%B8%E6%AD%BB%E4%BA%A1%23&Refer=top) 135282
+42. [下个30克冰雹等于从3楼丢下个花盆](https://s.weibo.com//weibo?q=%23%E4%B8%8B%E4%B8%AA30%E5%85%8B%E5%86%B0%E9%9B%B9%E7%AD%89%E4%BA%8E%E4%BB%8E3%E6%A5%BC%E4%B8%A2%E4%B8%8B%E4%B8%AA%E8%8A%B1%E7%9B%86%23&Refer=top) 130392
+43. [EDG开赛二连胜](https://s.weibo.com//weibo?q=%23EDG%E5%BC%80%E8%B5%9B%E4%BA%8C%E8%BF%9E%E8%83%9C%23&Refer=top) 75147
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
