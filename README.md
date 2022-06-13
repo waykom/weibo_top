@@ -53,7 +53,7 @@ weibo_top
 42. [下个30克冰雹等于从3楼丢下个花盆](https://s.weibo.com//weibo?q=%23%E4%B8%8B%E4%B8%AA30%E5%85%8B%E5%86%B0%E9%9B%B9%E7%AD%89%E4%BA%8E%E4%BB%8E3%E6%A5%BC%E4%B8%A2%E4%B8%8B%E4%B8%AA%E8%8A%B1%E7%9B%86%23&Refer=top) 130392
 43. [EDG开赛二连胜](https://s.weibo.com//weibo?q=%23EDG%E5%BC%80%E8%B5%9B%E4%BA%8C%E8%BF%9E%E8%83%9C%23&Refer=top) 75147
 44. [北京12日新增均与酒吧疫情关联](https://s.weibo.com//weibo?q=%E5%8C%97%E4%BA%AC12%E6%97%A5%E6%96%B0%E5%A2%9E%E5%9D%87%E4%B8%8E%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E5%85%B3%E8%81%94&Refer=top) 47487
-45. [日元对美元汇率创近24年来新低](https://s.weibo.com//weibo?q=%23%E6%97%A5%E5%85%83%E5%AF%B9%E7%BE%8E%E5%85%83%E6%B1%87%E7%8E%87%E5%88%9B%E8%BF%9124%E5%B9%B4%E6%9D%A5%E6%96%B0%E4%BD%8E%23&Refer=top) 23562
+45. [日元对美元汇率创近24年来新低](https://s.weibo.com//weibo?q=%23%E6%97%A5%E5%85%83%E5%AF%B9%E7%BE%8E%E5%85%83%E6%B1%87%E7%8E%87%E5%88%9B%E8%BF%9124%E5%B9%B4%E6%9D%A5%E6%96%B0%E4%BD%8E%23&Refer=top) 30908
 46. [男子开斗气车致事故获刑1年半赔96万](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E6%96%97%E6%B0%94%E8%BD%A6%E8%87%B4%E4%BA%8B%E6%95%85%E8%8E%B7%E5%88%911%E5%B9%B4%E5%8D%8A%E8%B5%9496%E4%B8%87%23&Refer=top) 8529
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
