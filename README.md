@@ -54,12 +54,13 @@ weibo_top
 43. [女子与男友分手后患上心碎综合症](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%88%86%E6%89%8B%E5%90%8E%E6%82%A3%E4%B8%8A%E5%BF%83%E7%A2%8E%E7%BB%BC%E5%90%88%E7%97%87%23&Refer=top) 192913
 44. [双胞胎宝宝互相打屁屁逗趣](https://s.weibo.com//weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%AE%9D%E5%AE%9D%E4%BA%92%E7%9B%B8%E6%89%93%E5%B1%81%E5%B1%81%E9%80%97%E8%B6%A3%23&Refer=top) 180611
 45. [天堂超市酒吧疫情新增密接1638人](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%A0%82%E8%B6%85%E5%B8%82%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E6%96%B0%E5%A2%9E%E5%AF%86%E6%8E%A51638%E4%BA%BA%23&Refer=top) 175651
-46. [山东新一轮强对流天气上线](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E5%AF%B9%E6%B5%81%E5%A4%A9%E6%B0%94%E4%B8%8A%E7%BA%BF%23&Refer=top) 75090
-47. [北京一些小店不扫码随便进](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E4%BA%9B%E5%B0%8F%E5%BA%97%E4%B8%8D%E6%89%AB%E7%A0%81%E9%9A%8F%E4%BE%BF%E8%BF%9B%23&Refer=top) 37489
-48. [为什么总觉得缺爱](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%A7%89%E5%BE%97%E7%BC%BA%E7%88%B1%23&Refer=top) 8843
-49. [看铁路这样穿越沙漠之海](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E9%93%81%E8%B7%AF%E8%BF%99%E6%A0%B7%E7%A9%BF%E8%B6%8A%E6%B2%99%E6%BC%A0%E4%B9%8B%E6%B5%B7%23&Refer=top) 8119
-50. [涉天堂超市酒吧疫情已有351例感染者](https://s.weibo.com//weibo?q=%23%E6%B6%89%E5%A4%A9%E5%A0%82%E8%B6%85%E5%B8%82%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E5%B7%B2%E6%9C%89351%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 8089
-51. [董宇辉说我就是一个农民的孩子](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E8%AF%B4%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%86%9C%E6%B0%91%E7%9A%84%E5%AD%A9%E5%AD%90%23&Refer=top) 7054
+46. [山东新一轮强对流天气上线](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E5%AF%B9%E6%B5%81%E5%A4%A9%E6%B0%94%E4%B8%8A%E7%BA%BF%23&Refer=top) 78881
+47. [北京一些小店不扫码随便进](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E4%BA%9B%E5%B0%8F%E5%BA%97%E4%B8%8D%E6%89%AB%E7%A0%81%E9%9A%8F%E4%BE%BF%E8%BF%9B%23&Refer=top) 48234
+48. [涉天堂超市酒吧疫情已有351例感染者](https://s.weibo.com//weibo?q=%23%E6%B6%89%E5%A4%A9%E5%A0%82%E8%B6%85%E5%B8%82%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E5%B7%B2%E6%9C%89351%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 15348
+49. [看铁路这样穿越沙漠之海](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E9%93%81%E8%B7%AF%E8%BF%99%E6%A0%B7%E7%A9%BF%E8%B6%8A%E6%B2%99%E6%BC%A0%E4%B9%8B%E6%B5%B7%23&Refer=top) 12377
+50. [东北小姐姐科普铁路知识咔咔的](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B0%8F%E5%A7%90%E5%A7%90%E7%A7%91%E6%99%AE%E9%93%81%E8%B7%AF%E7%9F%A5%E8%AF%86%E5%92%94%E5%92%94%E7%9A%84%23&Refer=top) 12312
+51. [为什么总觉得缺爱](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%A7%89%E5%BE%97%E7%BC%BA%E7%88%B1%23&Refer=top) 8843
+52. [董宇辉说我就是一个农民的孩子](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E8%AF%B4%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%86%9C%E6%B0%91%E7%9A%84%E5%AD%A9%E5%AD%90%23&Refer=top) 7054
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
