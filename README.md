@@ -51,7 +51,7 @@ weibo_top
 40. [北京朝阳新增密接1910人](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E6%96%B0%E5%A2%9E%E5%AF%86%E6%8E%A51910%E4%BA%BA%23&Refer=top) 84272
 41. [一招缓解因久坐导致的腰痛](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%8B%9B%E7%BC%93%E8%A7%A3%E5%9B%A0%E4%B9%85%E5%9D%90%E5%AF%BC%E8%87%B4%E7%9A%84%E8%85%B0%E7%97%9B%23&Refer=top) 57501
 42. [二次元毕业pose](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E6%AC%A1%E5%85%83%E6%AF%95%E4%B8%9Apose%23&Refer=top) 24805
-43. [三星堆考古为何未发现文字](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E4%B8%BA%E4%BD%95%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%87%E5%AD%97%23&Refer=top) 19300
+43. [三星堆考古为何未发现文字](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E4%B8%BA%E4%BD%95%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%87%E5%AD%97%23&Refer=top) 21609
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
