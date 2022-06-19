@@ -36,12 +36,12 @@ weibo_top
 25. [唐山要求不漏一人一案彻查严惩](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%B1%B1%E8%A6%81%E6%B1%82%E4%B8%8D%E6%BC%8F%E4%B8%80%E4%BA%BA%E4%B8%80%E6%A1%88%E5%BD%BB%E6%9F%A5%E4%B8%A5%E6%83%A9%23&Refer=top) 720132
 26. [爸宝女](https://s.weibo.com//weibo?q=%E7%88%B8%E5%AE%9D%E5%A5%B3&Refer=top) 615800
 27. [父亲节红包](https://s.weibo.com//weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82%E7%BA%A2%E5%8C%85&Refer=top) 531505
-28. [狗狗找吃的误开炉灶开关引燃房子](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E6%89%BE%E5%90%83%E7%9A%84%E8%AF%AF%E5%BC%80%E7%82%89%E7%81%B6%E5%BC%80%E5%85%B3%E5%BC%95%E7%87%83%E6%88%BF%E5%AD%90%23&Refer=top) 519411
-29. [浮川 皮肤](https://s.weibo.com//weibo?q=%E6%B5%AE%E5%B7%9D%20%E7%9A%AE%E8%82%A4&Refer=top) 511609
-30. [警方回应网传训犬师虐狗视频](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%AE%AD%E7%8A%AC%E5%B8%88%E8%99%90%E7%8B%97%E8%A7%86%E9%A2%91%23&Refer=top) 510464
-31. [保安偷拍业主电梯亲热转发被拘](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E5%AE%89%E5%81%B7%E6%8B%8D%E4%B8%9A%E4%B8%BB%E7%94%B5%E6%A2%AF%E4%BA%B2%E7%83%AD%E8%BD%AC%E5%8F%91%E8%A2%AB%E6%8B%98%23&Refer=top) 509139
-32. [河南新财富实控人国籍已迁往国外](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E8%B4%A2%E5%AF%8C%E5%AE%9E%E6%8E%A7%E4%BA%BA%E5%9B%BD%E7%B1%8D%E5%B7%B2%E8%BF%81%E5%BE%80%E5%9B%BD%E5%A4%96%23&Refer=top) 489420
-33. [网易阴阳师手游回应争议](https://s.weibo.com//weibo?q=%23%E7%BD%91%E6%98%93%E9%98%B4%E9%98%B3%E5%B8%88%E6%89%8B%E6%B8%B8%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23&Refer=top) 481459
+28. [网易阴阳师手游回应争议](https://s.weibo.com//weibo?q=%23%E7%BD%91%E6%98%93%E9%98%B4%E9%98%B3%E5%B8%88%E6%89%8B%E6%B8%B8%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23&Refer=top) 521625
+29. [狗狗找吃的误开炉灶开关引燃房子](https://s.weibo.com//weibo?q=%23%E7%8B%97%E7%8B%97%E6%89%BE%E5%90%83%E7%9A%84%E8%AF%AF%E5%BC%80%E7%82%89%E7%81%B6%E5%BC%80%E5%85%B3%E5%BC%95%E7%87%83%E6%88%BF%E5%AD%90%23&Refer=top) 519411
+30. [浮川 皮肤](https://s.weibo.com//weibo?q=%E6%B5%AE%E5%B7%9D%20%E7%9A%AE%E8%82%A4&Refer=top) 511609
+31. [警方回应网传训犬师虐狗视频](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E8%AE%AD%E7%8A%AC%E5%B8%88%E8%99%90%E7%8B%97%E8%A7%86%E9%A2%91%23&Refer=top) 510464
+32. [保安偷拍业主电梯亲热转发被拘](https://s.weibo.com//weibo?q=%23%E4%BF%9D%E5%AE%89%E5%81%B7%E6%8B%8D%E4%B8%9A%E4%B8%BB%E7%94%B5%E6%A2%AF%E4%BA%B2%E7%83%AD%E8%BD%AC%E5%8F%91%E8%A2%AB%E6%8B%98%23&Refer=top) 509139
+33. [河南新财富实控人国籍已迁往国外](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E8%B4%A2%E5%AF%8C%E5%AE%9E%E6%8E%A7%E4%BA%BA%E5%9B%BD%E7%B1%8D%E5%B7%B2%E8%BF%81%E5%BE%80%E5%9B%BD%E5%A4%96%23&Refer=top) 489420
 34. [世上最爱我的男人](https://s.weibo.com//weibo?q=%23%E4%B8%96%E4%B8%8A%E6%9C%80%E7%88%B1%E6%88%91%E7%9A%84%E7%94%B7%E4%BA%BA%23&Refer=top) 467034
 35. [河南新财富集团被查](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E8%B4%A2%E5%AF%8C%E9%9B%86%E5%9B%A2%E8%A2%AB%E6%9F%A5%23&Refer=top) 451496
 36. [爸爸的背影超有爱](https://s.weibo.com//weibo?q=%23%E7%88%B8%E7%88%B8%E7%9A%84%E8%83%8C%E5%BD%B1%E8%B6%85%E6%9C%89%E7%88%B1%23&Refer=top) 445928
@@ -55,10 +55,10 @@ weibo_top
 44. [gemini直播间](https://s.weibo.com//weibo?q=%23gemini%E7%9B%B4%E6%92%AD%E9%97%B4%23&Refer=top) 370292
 45. [北京昨日增1例本土无症状](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%A8%E6%97%A5%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top) 361750
 46. [男子误吞6公分鱼刺肠道被戳穿](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%90%9E6%E5%85%AC%E5%88%86%E9%B1%BC%E5%88%BA%E8%82%A0%E9%81%93%E8%A2%AB%E6%88%B3%E7%A9%BF%23&Refer=top) 353597
-47. [佛山南海龙卷风](https://s.weibo.com//weibo?q=%23%E4%BD%9B%E5%B1%B1%E5%8D%97%E6%B5%B7%E9%BE%99%E5%8D%B7%E9%A3%8E%23&Refer=top) 345556
-48. [山东81岁退休老教师直播教物理](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C81%E5%B2%81%E9%80%80%E4%BC%91%E8%80%81%E6%95%99%E5%B8%88%E7%9B%B4%E6%92%AD%E6%95%99%E7%89%A9%E7%90%86%23&Refer=top) 315511
-49. [刘畊宏直播降温女孩们都去哪了](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E7%9B%B4%E6%92%AD%E9%99%8D%E6%B8%A9%E5%A5%B3%E5%AD%A9%E4%BB%AC%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86%23&Refer=top) 309727
-50. [我爸年轻时有多帅](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%88%B8%E5%B9%B4%E8%BD%BB%E6%97%B6%E6%9C%89%E5%A4%9A%E5%B8%85%23&Refer=top) 308292
+47. [我爸年轻时有多帅](https://s.weibo.com//weibo?q=%23%E6%88%91%E7%88%B8%E5%B9%B4%E8%BD%BB%E6%97%B6%E6%9C%89%E5%A4%9A%E5%B8%85%23&Refer=top) 352696
+48. [佛山南海龙卷风](https://s.weibo.com//weibo?q=%23%E4%BD%9B%E5%B1%B1%E5%8D%97%E6%B5%B7%E9%BE%99%E5%8D%B7%E9%A3%8E%23&Refer=top) 345556
+49. [山东81岁退休老教师直播教物理](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C81%E5%B2%81%E9%80%80%E4%BC%91%E8%80%81%E6%95%99%E5%B8%88%E7%9B%B4%E6%92%AD%E6%95%99%E7%89%A9%E7%90%86%23&Refer=top) 315511
+50. [刘畊宏直播降温女孩们都去哪了](https://s.weibo.com//weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E7%9B%B4%E6%92%AD%E9%99%8D%E6%B8%A9%E5%A5%B3%E5%AD%A9%E4%BB%AC%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86%23&Refer=top) 309727
 51. [熬夜的正确补觉方式是分时段补](https://s.weibo.com//weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9A%84%E6%AD%A3%E7%A1%AE%E8%A1%A5%E8%A7%89%E6%96%B9%E5%BC%8F%E6%98%AF%E5%88%86%E6%97%B6%E6%AE%B5%E8%A1%A5%23&Refer=top) 306440
 52. [福建松溪出现历史最大洪水](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E6%9D%BE%E6%BA%AA%E5%87%BA%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%9C%80%E5%A4%A7%E6%B4%AA%E6%B0%B4%23&Refer=top) 295950
 53. [父亲节礼物](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%23&Refer=top) 295092
@@ -69,7 +69,7 @@ weibo_top
 58. [父亲节文案](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%E6%96%87%E6%A1%88%23&Refer=top) 274768
 59. [一碗热面让身无分文男子含泪道谢](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%A2%97%E7%83%AD%E9%9D%A2%E8%AE%A9%E8%BA%AB%E6%97%A0%E5%88%86%E6%96%87%E7%94%B7%E5%AD%90%E5%90%AB%E6%B3%AA%E9%81%93%E8%B0%A2%23&Refer=top) 274742
 60. [学校给的毕业礼物也太绝了](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%BB%99%E7%9A%84%E6%AF%95%E4%B8%9A%E7%A4%BC%E7%89%A9%E4%B9%9F%E5%A4%AA%E7%BB%9D%E4%BA%86%23&Refer=top) 273374
-61. [辽宁新增1例本土确诊和3例本土无症状](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E5%92%8C3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top) 268205
+61. [辽宁新增1例本土确诊和3例本土无症状](https://s.weibo.com//weibo?q=%23%E8%BE%BD%E5%AE%81%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E5%92%8C3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top) 272731
 62. [6月18日新增5例本土确诊](https://s.weibo.com//weibo?q=%236%E6%9C%8818%E6%97%A5%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top) 260216
 63. [8旬老人辗转3小时给医生送杨梅](https://s.weibo.com//weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA%E8%BE%97%E8%BD%AC3%E5%B0%8F%E6%97%B6%E7%BB%99%E5%8C%BB%E7%94%9F%E9%80%81%E6%9D%A8%E6%A2%85%23&Refer=top) 254282
 64. [国务院任命香港特别行政区第六届政府主要官员](https://s.weibo.com//weibo?q=%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%BB%BB%E5%91%BD%E9%A6%99%E6%B8%AF%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA%E7%AC%AC%E5%85%AD%E5%B1%8A%E6%94%BF%E5%BA%9C%E4%B8%BB%E8%A6%81%E5%AE%98%E5%91%98&Refer=top) 253356
@@ -111,16 +111,18 @@ weibo_top
 100. [中国女排不敌美国女排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%8D%E6%95%8C%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%8E%92%23&Refer=top) 125824
 101. [杜兰特说我加盟勇士后就已经死了](https://s.weibo.com//weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%E8%AF%B4%E6%88%91%E5%8A%A0%E7%9B%9F%E5%8B%87%E5%A3%AB%E5%90%8E%E5%B0%B1%E5%B7%B2%E7%BB%8F%E6%AD%BB%E4%BA%86%23&Refer=top) 125663
 102. [这片红海滩美得浓烈又震撼](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%89%87%E7%BA%A2%E6%B5%B7%E6%BB%A9%E7%BE%8E%E5%BE%97%E6%B5%93%E7%83%88%E5%8F%88%E9%9C%87%E6%92%BC%23&Refer=top) 113932
-103. [沙画致敬警察父亲](https://s.weibo.com//weibo?q=%23%E6%B2%99%E7%94%BB%E8%87%B4%E6%95%AC%E8%AD%A6%E5%AF%9F%E7%88%B6%E4%BA%B2%23&Refer=top) 102823
-104. [父亲节表情包](https://s.weibo.com//weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82%E8%A1%A8%E6%83%85%E5%8C%85&Refer=top) 101934
-105. [消防车化身救护车疾驰送昏迷孩子就医](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E8%BD%A6%E5%8C%96%E8%BA%AB%E6%95%91%E6%8A%A4%E8%BD%A6%E7%96%BE%E9%A9%B0%E9%80%81%E6%98%8F%E8%BF%B7%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%8C%BB%23&Refer=top) 96447
-106. [PNC全明星](https://s.weibo.com//weibo?q=%23PNC%E5%85%A8%E6%98%8E%E6%98%9F%23&Refer=top) 93196
-107. [燃夏快乐争霸赛](https://s.weibo.com//weibo?q=%E7%87%83%E5%A4%8F%E5%BF%AB%E4%B9%90%E4%BA%89%E9%9C%B8%E8%B5%9B&Refer=top) 85190
-108. [周冠宇首次晋级Q3](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%A0%E5%AE%87%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7Q3%23&Refer=top) 73554
-109. [2022f1加拿大大奖赛排位赛](https://s.weibo.com//weibo?q=2022f1%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%8E%92%E4%BD%8D%E8%B5%9B&Refer=top) 59098
-110. [西安这个周末不太晒](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E8%BF%99%E4%B8%AA%E5%91%A8%E6%9C%AB%E4%B8%8D%E5%A4%AA%E6%99%92%23&Refer=top) 40224
-111. [西安夏日清晨的天空宛如油画](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E5%A4%8F%E6%97%A5%E6%B8%85%E6%99%A8%E7%9A%84%E5%A4%A9%E7%A9%BA%E5%AE%9B%E5%A6%82%E6%B2%B9%E7%94%BB%23&Refer=top) 11126
-112. [湖北专升本英语](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8C%97%E4%B8%93%E5%8D%87%E6%9C%AC%E8%8B%B1%E8%AF%AD&Refer=top) 8138
+103. [消防车化身救护车疾驰送昏迷孩子就医](https://s.weibo.com//weibo?q=%23%E6%B6%88%E9%98%B2%E8%BD%A6%E5%8C%96%E8%BA%AB%E6%95%91%E6%8A%A4%E8%BD%A6%E7%96%BE%E9%A9%B0%E9%80%81%E6%98%8F%E8%BF%B7%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%8C%BB%23&Refer=top) 103378
+104. [沙画致敬警察父亲](https://s.weibo.com//weibo?q=%23%E6%B2%99%E7%94%BB%E8%87%B4%E6%95%AC%E8%AD%A6%E5%AF%9F%E7%88%B6%E4%BA%B2%23&Refer=top) 102823
+105. [父亲节表情包](https://s.weibo.com//weibo?q=%E7%88%B6%E4%BA%B2%E8%8A%82%E8%A1%A8%E6%83%85%E5%8C%85&Refer=top) 101934
+106. [不运动也能健身或成现实](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E8%BF%90%E5%8A%A8%E4%B9%9F%E8%83%BD%E5%81%A5%E8%BA%AB%E6%88%96%E6%88%90%E7%8E%B0%E5%AE%9E%23&Refer=top) 94725
+107. [PNC全明星](https://s.weibo.com//weibo?q=%23PNC%E5%85%A8%E6%98%8E%E6%98%9F%23&Refer=top) 93196
+108. [当你和满级小孩一起上课](https://s.weibo.com//weibo?q=%23%E5%BD%93%E4%BD%A0%E5%92%8C%E6%BB%A1%E7%BA%A7%E5%B0%8F%E5%AD%A9%E4%B8%80%E8%B5%B7%E4%B8%8A%E8%AF%BE%23&Refer=top) 86312
+109. [燃夏快乐争霸赛](https://s.weibo.com//weibo?q=%E7%87%83%E5%A4%8F%E5%BF%AB%E4%B9%90%E4%BA%89%E9%9C%B8%E8%B5%9B&Refer=top) 85190
+110. [周冠宇首次晋级Q3](https://s.weibo.com//weibo?q=%23%E5%91%A8%E5%86%A0%E5%AE%87%E9%A6%96%E6%AC%A1%E6%99%8B%E7%BA%A7Q3%23&Refer=top) 73554
+111. [2022f1加拿大大奖赛排位赛](https://s.weibo.com//weibo?q=2022f1%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%8E%92%E4%BD%8D%E8%B5%9B&Refer=top) 59098
+112. [西安这个周末不太晒](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E8%BF%99%E4%B8%AA%E5%91%A8%E6%9C%AB%E4%B8%8D%E5%A4%AA%E6%99%92%23&Refer=top) 40224
+113. [西安夏日清晨的天空宛如油画](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E5%AE%89%E5%A4%8F%E6%97%A5%E6%B8%85%E6%99%A8%E7%9A%84%E5%A4%A9%E7%A9%BA%E5%AE%9B%E5%A6%82%E6%B2%B9%E7%94%BB%23&Refer=top) 11126
+114. [湖北专升本英语](https://s.weibo.com//weibo?q=%E6%B9%96%E5%8C%97%E4%B8%93%E5%8D%87%E6%9C%AC%E8%8B%B1%E8%AF%AD&Refer=top) 8138
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
