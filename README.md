@@ -52,6 +52,7 @@ weibo_top
 41. [动画折枝有多绝](https://s.weibo.com//weibo?q=%23%E5%8A%A8%E7%94%BB%E6%8A%98%E6%9E%9D%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 129177
 42. [想看许昕打球了](https://s.weibo.com//weibo?q=%23%E6%83%B3%E7%9C%8B%E8%AE%B8%E6%98%95%E6%89%93%E7%90%83%E4%BA%86%23&Refer=top) 116590
 43. [男子自学按摩致66岁老人死亡](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%87%AA%E5%AD%A6%E6%8C%89%E6%91%A9%E8%87%B466%E5%B2%81%E8%80%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top) 92423
+44. [小朋友对孤勇者有多敏感](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%AF%B9%E5%AD%A4%E5%8B%87%E8%80%85%E6%9C%89%E5%A4%9A%E6%95%8F%E6%84%9F%23&Refer=top) 83716
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
