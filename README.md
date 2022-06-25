@@ -12,7 +12,7 @@ weibo_top
 1. [避孕套巨头过去两年销量下降40%](https://s.weibo.com//weibo?q=%23%E9%81%BF%E5%AD%95%E5%A5%97%E5%B7%A8%E5%A4%B4%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E9%94%80%E9%87%8F%E4%B8%8B%E9%99%8D40%25%23&Refer=top) 5516118
 2. [00后大学毕业了](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E4%BA%86%23&Refer=top) 1491241
 3. [班主任激动得像个孩子](https://s.weibo.com//weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%BF%80%E5%8A%A8%E5%BE%97%E5%83%8F%E4%B8%AA%E5%AD%A9%E5%AD%90%23&Refer=top) 1214057
-4. [主人离世狗狗要被卖挣扎不愿离开](https://s.weibo.com//weibo?q=%23%E4%B8%BB%E4%BA%BA%E7%A6%BB%E4%B8%96%E7%8B%97%E7%8B%97%E8%A6%81%E8%A2%AB%E5%8D%96%E6%8C%A3%E6%89%8E%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%23&Refer=top) 865368
+4. [主人离世狗狗要被卖挣扎不愿离开](https://s.weibo.com//weibo?q=%23%E4%B8%BB%E4%BA%BA%E7%A6%BB%E4%B8%96%E7%8B%97%E7%8B%97%E8%A6%81%E8%A2%AB%E5%8D%96%E6%8C%A3%E6%89%8E%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%23&Refer=top) 910698
 5. [一段线不是本科线](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%AE%B5%E7%BA%BF%E4%B8%8D%E6%98%AF%E6%9C%AC%E7%A7%91%E7%BA%BF%23&Refer=top) 790102
 6. [被东北的雪糕便宜哭了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E4%B8%9C%E5%8C%97%E7%9A%84%E9%9B%AA%E7%B3%95%E4%BE%BF%E5%AE%9C%E5%93%AD%E4%BA%86%23&Refer=top) 627630
 7. [间谍过家家](https://s.weibo.com//weibo?q=%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6&Refer=top) 624620
@@ -45,9 +45,9 @@ weibo_top
 34. [河南交警帮车坏了的瓜农吆喝卖瓜](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E4%BA%A4%E8%AD%A6%E5%B8%AE%E8%BD%A6%E5%9D%8F%E4%BA%86%E7%9A%84%E7%93%9C%E5%86%9C%E5%90%86%E5%96%9D%E5%8D%96%E7%93%9C%23&Refer=top) 81039
 35. [WB战胜狼队](https://s.weibo.com//weibo?q=%23WB%E6%88%98%E8%83%9C%E7%8B%BC%E9%98%9F%23&Refer=top) 69257
 36. [女会计师转行当飞行队救援队员](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E4%BC%9A%E8%AE%A1%E5%B8%88%E8%BD%AC%E8%A1%8C%E5%BD%93%E9%A3%9E%E8%A1%8C%E9%98%9F%E6%95%91%E6%8F%B4%E9%98%9F%E5%91%98%23&Refer=top) 66512
-37. [饿了么宵夜免单答案](https://s.weibo.com//weibo?q=%23%E9%A5%BF%E4%BA%86%E4%B9%88%E5%AE%B5%E5%A4%9C%E5%85%8D%E5%8D%95%E7%AD%94%E6%A1%88%23&Refer=top) 58649
-38. [LGD周决第二日暂居榜首](https://s.weibo.com//weibo?q=%23LGD%E5%91%A8%E5%86%B3%E7%AC%AC%E4%BA%8C%E6%97%A5%E6%9A%82%E5%B1%85%E6%A6%9C%E9%A6%96%23&Refer=top) 57985
-39. [中国队晋级女子4x100混接力决赛](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%AD%904x100%E6%B7%B7%E6%8E%A5%E5%8A%9B%E5%86%B3%E8%B5%9B%23&Refer=top) 49681
+37. [中国队晋级女子4x100混接力决赛](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%AD%904x100%E6%B7%B7%E6%8E%A5%E5%8A%9B%E5%86%B3%E8%B5%9B%23&Refer=top) 63008
+38. [饿了么宵夜免单答案](https://s.weibo.com//weibo?q=%23%E9%A5%BF%E4%BA%86%E4%B9%88%E5%AE%B5%E5%A4%9C%E5%85%8D%E5%8D%95%E7%AD%94%E6%A1%88%23&Refer=top) 58649
+39. [LGD周决第二日暂居榜首](https://s.weibo.com//weibo?q=%23LGD%E5%91%A8%E5%86%B3%E7%AC%AC%E4%BA%8C%E6%97%A5%E6%9A%82%E5%B1%85%E6%A6%9C%E9%A6%96%23&Refer=top) 57985
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
