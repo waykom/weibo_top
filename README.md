@@ -14,8 +14,8 @@ weibo_top
 3. [女子吸食笑气3个月差点瘫痪](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%B8%E9%A3%9F%E7%AC%91%E6%B0%943%E4%B8%AA%E6%9C%88%E5%B7%AE%E7%82%B9%E7%98%AB%E7%97%AA%23&Refer=top) 1008284
 4. [广东彩票史上第一大奖诞生](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%BD%A9%E7%A5%A8%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%A5%96%E8%AF%9E%E7%94%9F%23&Refer=top) 985755
 5. [学习通](https://s.weibo.com//weibo?q=%E5%AD%A6%E4%B9%A0%E9%80%9A&Refer=top) 962759
-6. [15岁女孩误食毒蘑菇全身换血保命](https://s.weibo.com//weibo?q=%2315%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E9%A3%9F%E6%AF%92%E8%98%91%E8%8F%87%E5%85%A8%E8%BA%AB%E6%8D%A2%E8%A1%80%E4%BF%9D%E5%91%BD%23&Refer=top) 769947
-7. [女子高考落榜读专科逆袭买千万别墅](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E8%80%83%E8%90%BD%E6%A6%9C%E8%AF%BB%E4%B8%93%E7%A7%91%E9%80%86%E8%A2%AD%E4%B9%B0%E5%8D%83%E4%B8%87%E5%88%AB%E5%A2%85%23&Refer=top) 695462
+6. [女子高考落榜读专科逆袭买千万别墅](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E8%80%83%E8%90%BD%E6%A6%9C%E8%AF%BB%E4%B8%93%E7%A7%91%E9%80%86%E8%A2%AD%E4%B9%B0%E5%8D%83%E4%B8%87%E5%88%AB%E5%A2%85%23&Refer=top) 830663
+7. [15岁女孩误食毒蘑菇全身换血保命](https://s.weibo.com//weibo?q=%2315%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E9%A3%9F%E6%AF%92%E8%98%91%E8%8F%87%E5%85%A8%E8%BA%AB%E6%8D%A2%E8%A1%80%E4%BF%9D%E5%91%BD%23&Refer=top) 769947
 8. [刘强东事件女方多次称自愿发生关系](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E4%BA%8B%E4%BB%B6%E5%A5%B3%E6%96%B9%E5%A4%9A%E6%AC%A1%E7%A7%B0%E8%87%AA%E6%84%BF%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%23&Refer=top) 592806
 9. [突然就没那么焦虑了](https://s.weibo.com//weibo?q=%23%E7%AA%81%E7%84%B6%E5%B0%B1%E6%B2%A1%E9%82%A3%E4%B9%88%E7%84%A6%E8%99%91%E4%BA%86%23&Refer=top) 588486
 10. [青岛核酸检测周二男性周五女性](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%91%A8%E4%BA%8C%E7%94%B7%E6%80%A7%E5%91%A8%E4%BA%94%E5%A5%B3%E6%80%A7%23&Refer=top) 362086
@@ -45,8 +45,8 @@ weibo_top
 34. [唐山全面启动夏季治安打击整治百日行动](https://s.weibo.com//weibo?q=%23%E5%94%90%E5%B1%B1%E5%85%A8%E9%9D%A2%E5%90%AF%E5%8A%A8%E5%A4%8F%E5%AD%A3%E6%B2%BB%E5%AE%89%E6%89%93%E5%87%BB%E6%95%B4%E6%B2%BB%E7%99%BE%E6%97%A5%E8%A1%8C%E5%8A%A8%23&Refer=top) 90386
 35. [青岛暴雨](https://s.weibo.com//weibo?q=%23%E9%9D%92%E5%B2%9B%E6%9A%B4%E9%9B%A8%23&Refer=top) 89046
 36. [上海新增社会面2例本土无症状](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E7%A4%BE%E4%BC%9A%E9%9D%A22%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top) 82376
-37. [交警中暑晕倒老板抱进店里喂水](https://s.weibo.com//weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B8%AD%E6%9A%91%E6%99%95%E5%80%92%E8%80%81%E6%9D%BF%E6%8A%B1%E8%BF%9B%E5%BA%97%E9%87%8C%E5%96%82%E6%B0%B4%23&Refer=top) 74311
-38. [算是把儿童乐器玩明白了](https://s.weibo.com//weibo?q=%23%E7%AE%97%E6%98%AF%E6%8A%8A%E5%84%BF%E7%AB%A5%E4%B9%90%E5%99%A8%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 73695
+37. [算是把儿童乐器玩明白了](https://s.weibo.com//weibo?q=%23%E7%AE%97%E6%98%AF%E6%8A%8A%E5%84%BF%E7%AB%A5%E4%B9%90%E5%99%A8%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 81109
+38. [交警中暑晕倒老板抱进店里喂水](https://s.weibo.com//weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B8%AD%E6%9A%91%E6%99%95%E5%80%92%E8%80%81%E6%9D%BF%E6%8A%B1%E8%BF%9B%E5%BA%97%E9%87%8C%E5%96%82%E6%B0%B4%23&Refer=top) 74311
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
