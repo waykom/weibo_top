@@ -69,7 +69,8 @@ weibo_top
 58. [一条plog告别六月](https://s.weibo.com//weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E5%85%AD%E6%9C%88%23&Refer=top) 21082
 59. [迪士尼相关访问量环比暴涨655%](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9B%B8%E5%85%B3%E8%AE%BF%E9%97%AE%E9%87%8F%E7%8E%AF%E6%AF%94%E6%9A%B4%E6%B6%A8655%25%23&Refer=top) 16986
 60. [贵州绝美火烧云](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%BB%9D%E7%BE%8E%E7%81%AB%E7%83%A7%E4%BA%91%23&Refer=top) 8185
-61. [路人王二萌](https://s.weibo.com//weibo?q=%E8%B7%AF%E4%BA%BA%E7%8E%8B%E4%BA%8C%E8%90%8C&Refer=top) 7609
+61. [吉林平均降雨创1951年来历史极值](https://s.weibo.com//weibo?q=%23%E5%90%89%E6%9E%97%E5%B9%B3%E5%9D%87%E9%99%8D%E9%9B%A8%E5%88%9B1951%E5%B9%B4%E6%9D%A5%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC%23&Refer=top) 7639
+62. [路人王二萌](https://s.weibo.com//weibo?q=%E8%B7%AF%E4%BA%BA%E7%8E%8B%E4%BA%8C%E8%90%8C&Refer=top) 7609
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
