@@ -55,7 +55,7 @@ weibo_top
 44. [高二生高考超线78分回校再战清北](https://s.weibo.com//weibo?q=%23%E9%AB%98%E4%BA%8C%E7%94%9F%E9%AB%98%E8%80%83%E8%B6%85%E7%BA%BF78%E5%88%86%E5%9B%9E%E6%A0%A1%E5%86%8D%E6%88%98%E6%B8%85%E5%8C%97%23&Refer=top) 84739
 45. [RNG战胜OMG](https://s.weibo.com//weibo?q=%23RNG%E6%88%98%E8%83%9COMG%23&Refer=top) 78974
 46. [周琦还有机会重返NBA吗](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%90%A6%E8%BF%98%E6%9C%89%E6%9C%BA%E4%BC%9A%E9%87%8D%E8%BF%94NBA%E5%90%97%23&Refer=top) 70031
-47. [我一直挂念着香港](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%B8%80%E7%9B%B4%E6%8C%82%E5%BF%B5%E7%9D%80%E9%A6%99%E6%B8%AF%23&Refer=top) 36035
+47. [我一直挂念着香港](https://s.weibo.com//weibo?q=%23%E6%88%91%E4%B8%80%E7%9B%B4%E6%8C%82%E5%BF%B5%E7%9D%80%E9%A6%99%E6%B8%AF%23&Refer=top) 39709
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
