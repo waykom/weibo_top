@@ -9,8 +9,8 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [钟薛高31度室温下放1小时不化](https://s.weibo.com//weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%9831%E5%BA%A6%E5%AE%A4%E6%B8%A9%E4%B8%8B%E6%94%BE1%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%8C%96%23&Refer=top) 2186990
-2. [父亲制止孩子哭闹掌掴孩子致死被判刑](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E5%88%B6%E6%AD%A2%E5%AD%A9%E5%AD%90%E5%93%AD%E9%97%B9%E6%8E%8C%E6%8E%B4%E5%AD%A9%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E5%88%91%23&Refer=top) 2091044
+1. [父亲制止孩子哭闹掌掴孩子致死被判刑](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E5%88%B6%E6%AD%A2%E5%AD%A9%E5%AD%90%E5%93%AD%E9%97%B9%E6%8E%8C%E6%8E%B4%E5%AD%A9%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E5%88%91%23&Refer=top) 2211107
+2. [钟薛高31度室温下放1小时不化](https://s.weibo.com//weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%9831%E5%BA%A6%E5%AE%A4%E6%B8%A9%E4%B8%8B%E6%94%BE1%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%8C%96%23&Refer=top) 2186990
 3. [钟薛高回应雪糕长时间不融化](https://s.weibo.com//weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%9B%9E%E5%BA%94%E9%9B%AA%E7%B3%95%E9%95%BF%E6%97%B6%E9%97%B4%E4%B8%8D%E8%9E%8D%E5%8C%96%23&Refer=top) 1961007
 4. [逐梦青春筑梦未来](https://s.weibo.com//weibo?q=%23%E9%80%90%E6%A2%A6%E9%9D%92%E6%98%A5%E7%AD%91%E6%A2%A6%E6%9C%AA%E6%9D%A5%23&Refer=top) 1869102
 5. [广东汕头新增8例阳性](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E6%96%B0%E5%A2%9E8%E4%BE%8B%E9%98%B3%E6%80%A7%23&Refer=top) 1412326
@@ -49,8 +49,8 @@ weibo_top
 38. [全红婵可爱展示最近新拍的照片](https://s.weibo.com//weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%AF%E7%88%B1%E5%B1%95%E7%A4%BA%E6%9C%80%E8%BF%91%E6%96%B0%E6%8B%8D%E7%9A%84%E7%85%A7%E7%89%87%23&Refer=top) 120205
 39. [你还在为肚子上的赘肉烦恼吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%BF%98%E5%9C%A8%E4%B8%BA%E8%82%9A%E5%AD%90%E4%B8%8A%E7%9A%84%E8%B5%98%E8%82%89%E7%83%A6%E6%81%BC%E5%90%97%23&Refer=top) 117623
 40. [女子称民警拦截电诈是关心过头](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B0%91%E8%AD%A6%E6%8B%A6%E6%88%AA%E7%94%B5%E8%AF%88%E6%98%AF%E5%85%B3%E5%BF%83%E8%BF%87%E5%A4%B4%23&Refer=top) 105285
-41. [青海湖湟鱼跃起洄游](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%B5%B7%E6%B9%96%E6%B9%9F%E9%B1%BC%E8%B7%83%E8%B5%B7%E6%B4%84%E6%B8%B8%23&Refer=top) 98490
-42. [没想到结个婚还挺废人](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%BB%93%E4%B8%AA%E5%A9%9A%E8%BF%98%E6%8C%BA%E5%BA%9F%E4%BA%BA%23&Refer=top) 68281
+41. [没想到结个婚还挺废人](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%BB%93%E4%B8%AA%E5%A9%9A%E8%BF%98%E6%8C%BA%E5%BA%9F%E4%BA%BA%23&Refer=top) 99079
+42. [青海湖湟鱼跃起洄游](https://s.weibo.com//weibo?q=%23%E9%9D%92%E6%B5%B7%E6%B9%96%E6%B9%9F%E9%B1%BC%E8%B7%83%E8%B5%B7%E6%B4%84%E6%B8%B8%23&Refer=top) 98490
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
