@@ -55,7 +55,7 @@ weibo_top
 44. [4AM好可惜](https://s.weibo.com//weibo?q=4AM%E5%A5%BD%E5%8F%AF%E6%83%9C&Refer=top) 90759
 45. [中国球迷现场为女排加油](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E7%8E%B0%E5%9C%BA%E4%B8%BA%E5%A5%B3%E6%8E%92%E5%8A%A0%E6%B2%B9%23&Refer=top) 81544
 46. [刘畊宏直播](https://s.weibo.com//weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%E7%9B%B4%E6%92%AD&Refer=top) 38148
-47. [F1 吓人](https://s.weibo.com//weibo?q=F1%20%E5%90%93%E4%BA%BA&Refer=top) 25694
+47. [F1 吓人](https://s.weibo.com//weibo?q=F1%20%E5%90%93%E4%BA%BA&Refer=top) 27930
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
