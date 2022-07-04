@@ -18,7 +18,7 @@ weibo_top
 7. [大一女生给妈妈做饭被烧成重伤](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E7%BB%99%E5%A6%88%E5%A6%88%E5%81%9A%E9%A5%AD%E8%A2%AB%E7%83%A7%E6%88%90%E9%87%8D%E4%BC%A4%23&Refer=top) 1030761
 8. [山西一医师猥亵儿童获刑1年2个月](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%8C%BB%E5%B8%88%E7%8C%A5%E4%BA%B5%E5%84%BF%E7%AB%A5%E8%8E%B7%E5%88%911%E5%B9%B42%E4%B8%AA%E6%9C%88%23&Refer=top) 840129
 9. [女子玩智能音响发现多名房客被拍](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%8E%A9%E6%99%BA%E8%83%BD%E9%9F%B3%E5%93%8D%E5%8F%91%E7%8E%B0%E5%A4%9A%E5%90%8D%E6%88%BF%E5%AE%A2%E8%A2%AB%E6%8B%8D%23&Refer=top) 795296
-10. [老人路边卖菜被楼上住户泼机油](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E8%B7%AF%E8%BE%B9%E5%8D%96%E8%8F%9C%E8%A2%AB%E6%A5%BC%E4%B8%8A%E4%BD%8F%E6%88%B7%E6%B3%BC%E6%9C%BA%E6%B2%B9%23&Refer=top) 655905
+10. [老人路边卖菜被楼上住户泼机油](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E8%B7%AF%E8%BE%B9%E5%8D%96%E8%8F%9C%E8%A2%AB%E6%A5%BC%E4%B8%8A%E4%BD%8F%E6%88%B7%E6%B3%BC%E6%9C%BA%E6%B2%B9%23&Refer=top) 669896
 11. [女子无人区上厕所与狼四目相对](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%97%A0%E4%BA%BA%E5%8C%BA%E4%B8%8A%E5%8E%95%E6%89%80%E4%B8%8E%E7%8B%BC%E5%9B%9B%E7%9B%AE%E7%9B%B8%E5%AF%B9%23&Refer=top) 646933
 12. [朱俐静去世](https://s.weibo.com//weibo?q=%23%E6%9C%B1%E4%BF%90%E9%9D%99%E5%8E%BB%E4%B8%96%23&Refer=top) 636884
 13. [vava 抄袭](https://s.weibo.com//weibo?q=vava%20%E6%8A%84%E8%A2%AD&Refer=top) 631674
@@ -29,9 +29,9 @@ weibo_top
 18. [女子给妈买100元凉鞋被丈夫扔服务区](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%99%E5%A6%88%E4%B9%B0100%E5%85%83%E5%87%89%E9%9E%8B%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%89%94%E6%9C%8D%E5%8A%A1%E5%8C%BA%23&Refer=top) 431483
 19. [高速公路现黄金蟒盘踞车尾](https://s.weibo.com//weibo?q=%23%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E7%8E%B0%E9%BB%84%E9%87%91%E8%9F%92%E7%9B%98%E8%B8%9E%E8%BD%A6%E5%B0%BE%23&Refer=top) 412109
 20. [俄罗斯北极地区发现大量石油](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%8C%97%E6%9E%81%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%8E%B0%E5%A4%A7%E9%87%8F%E7%9F%B3%E6%B2%B9%23&Refer=top) 406642
-21. [男子因生活压力大暴雨中淡定喝酒](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E7%94%9F%E6%B4%BB%E5%8E%8B%E5%8A%9B%E5%A4%A7%E6%9A%B4%E9%9B%A8%E4%B8%AD%E6%B7%A1%E5%AE%9A%E5%96%9D%E9%85%92%23&Refer=top) 362224
-22. [男子将猥亵女儿者打至轻伤二级](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%86%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%84%BF%E8%80%85%E6%89%93%E8%87%B3%E8%BD%BB%E4%BC%A4%E4%BA%8C%E7%BA%A7%23&Refer=top) 354908
-23. [还有什么是蟑螂做不到的](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%AF%E8%9F%91%E8%9E%82%E5%81%9A%E4%B8%8D%E5%88%B0%E7%9A%84%23&Refer=top) 333086
+21. [还有什么是蟑螂做不到的](https://s.weibo.com//weibo?q=%23%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%AF%E8%9F%91%E8%9E%82%E5%81%9A%E4%B8%8D%E5%88%B0%E7%9A%84%23&Refer=top) 398886
+22. [男子因生活压力大暴雨中淡定喝酒](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E7%94%9F%E6%B4%BB%E5%8E%8B%E5%8A%9B%E5%A4%A7%E6%9A%B4%E9%9B%A8%E4%B8%AD%E6%B7%A1%E5%AE%9A%E5%96%9D%E9%85%92%23&Refer=top) 362224
+23. [男子将猥亵女儿者打至轻伤二级](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%86%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%84%BF%E8%80%85%E6%89%93%E8%87%B3%E8%BD%BB%E4%BC%A4%E4%BA%8C%E7%BA%A7%23&Refer=top) 354908
 24. [郭艾伦因发烧错过比赛](https://s.weibo.com//weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E5%9B%A0%E5%8F%91%E7%83%A7%E9%94%99%E8%BF%87%E6%AF%94%E8%B5%9B%23&Refer=top) 320876
 25. [怎么对待另一半频繁说分手](https://s.weibo.com//weibo?q=%23%E6%80%8E%E4%B9%88%E5%AF%B9%E5%BE%85%E5%8F%A6%E4%B8%80%E5%8D%8A%E9%A2%91%E7%B9%81%E8%AF%B4%E5%88%86%E6%89%8B%23&Refer=top) 294109
 26. [硬糖少女303突袭直播](https://s.weibo.com//weibo?q=%23%E7%A1%AC%E7%B3%96%E5%B0%91%E5%A5%B3303%E7%AA%81%E8%A2%AD%E7%9B%B4%E6%92%AD%23&Refer=top) 289190
@@ -54,6 +54,8 @@ weibo_top
 43. [小学生们喜欢孤勇者的原因](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%BB%AC%E5%96%9C%E6%AC%A2%E5%AD%A4%E5%8B%87%E8%80%85%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top) 128533
 44. [外交部回应所谓中国很可能占领月球](https://s.weibo.com//weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%89%80%E8%B0%93%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%8F%AF%E8%83%BD%E5%8D%A0%E9%A2%86%E6%9C%88%E7%90%83%23&Refer=top) 123669
 45. [脂肪瘤一般不会癌变](https://s.weibo.com//weibo?q=%23%E8%84%82%E8%82%AA%E7%98%A4%E4%B8%80%E8%88%AC%E4%B8%8D%E4%BC%9A%E7%99%8C%E5%8F%98%23&Refer=top) 118602
+46. [罗永浩称直播界刮起讲内容歪风](https://s.weibo.com//weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%A7%B0%E7%9B%B4%E6%92%AD%E7%95%8C%E5%88%AE%E8%B5%B7%E8%AE%B2%E5%86%85%E5%AE%B9%E6%AD%AA%E9%A3%8E%23&Refer=top) 59750
+47. [王哲林半场12分](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%93%B2%E6%9E%97%E5%8D%8A%E5%9C%BA12%E5%88%86%23&Refer=top) 50403
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
