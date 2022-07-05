@@ -54,6 +54,7 @@ weibo_top
 43. [这小棉袄有点漏风了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%8F%E6%A3%89%E8%A2%84%E6%9C%89%E7%82%B9%E6%BC%8F%E9%A3%8E%E4%BA%86%23&Refer=top) 88553
 44. [厦门暴雨](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%23&Refer=top) 36515
 45. [把四川话说成了英语](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E5%9B%9B%E5%B7%9D%E8%AF%9D%E8%AF%B4%E6%88%90%E4%BA%86%E8%8B%B1%E8%AF%AD%23&Refer=top) 15313
+46. [公安练兵遇到真小偷是什么体验](https://s.weibo.com//weibo?q=%23%E5%85%AC%E5%AE%89%E7%BB%83%E5%85%B5%E9%81%87%E5%88%B0%E7%9C%9F%E5%B0%8F%E5%81%B7%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 8959
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
