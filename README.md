@@ -52,7 +52,7 @@ weibo_top
 41. [TJ沃伦签约篮网](https://s.weibo.com//weibo?q=%23TJ%E6%B2%83%E4%BC%A6%E7%AD%BE%E7%BA%A6%E7%AF%AE%E7%BD%91%23&Refer=top) 109924
 42. [见妻子被冲走旱鸭子丈夫扑进急流](https://s.weibo.com//weibo?q=%23%E8%A7%81%E5%A6%BB%E5%AD%90%E8%A2%AB%E5%86%B2%E8%B5%B0%E6%97%B1%E9%B8%AD%E5%AD%90%E4%B8%88%E5%A4%AB%E6%89%91%E8%BF%9B%E6%80%A5%E6%B5%81%23&Refer=top) 109493
 43. [这小棉袄有点漏风了](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%8F%E6%A3%89%E8%A2%84%E6%9C%89%E7%82%B9%E6%BC%8F%E9%A3%8E%E4%BA%86%23&Refer=top) 88553
-44. [厦门暴雨](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%23&Refer=top) 31910
+44. [厦门暴雨](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%23&Refer=top) 36515
 45. [把四川话说成了英语](https://s.weibo.com//weibo?q=%23%E6%8A%8A%E5%9B%9B%E5%B7%9D%E8%AF%9D%E8%AF%B4%E6%88%90%E4%BA%86%E8%8B%B1%E8%AF%AD%23&Refer=top) 15313
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
