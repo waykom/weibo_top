@@ -57,7 +57,7 @@ weibo_top
 46. [景区饭店5元餐具费被指价格过高](https://s.weibo.com//weibo?q=%23%E6%99%AF%E5%8C%BA%E9%A5%AD%E5%BA%975%E5%85%83%E9%A4%90%E5%85%B7%E8%B4%B9%E8%A2%AB%E6%8C%87%E4%BB%B7%E6%A0%BC%E8%BF%87%E9%AB%98%23&Refer=top) 93727
 47. [霍启刚问马龙什么是六边形战士](https://s.weibo.com//weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E9%97%AE%E9%A9%AC%E9%BE%99%E4%BB%80%E4%B9%88%E6%98%AF%E5%85%AD%E8%BE%B9%E5%BD%A2%E6%88%98%E5%A3%AB%23&Refer=top) 88247
 48. [余秀华](https://s.weibo.com//weibo?q=%E4%BD%99%E7%A7%80%E5%8D%8E&Refer=top) 49299
-49. [周杰伦同款相机身价翻倍](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%8C%E6%AC%BE%E7%9B%B8%E6%9C%BA%E8%BA%AB%E4%BB%B7%E7%BF%BB%E5%80%8D%23&Refer=top) 37994
+49. [周杰伦同款相机身价翻倍](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%8C%E6%AC%BE%E7%9B%B8%E6%9C%BA%E8%BA%AB%E4%BB%B7%E7%BF%BB%E5%80%8D%23&Refer=top) 41912
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
