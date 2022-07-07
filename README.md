@@ -59,7 +59,7 @@ weibo_top
 48. [樊振东备战世乒赛](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%87%E6%88%98%E4%B8%96%E4%B9%92%E8%B5%9B%23&Refer=top) 25425
 49. [马龙出征WTT欧洲夏季系列赛](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E5%87%BA%E5%BE%81WTT%E6%AC%A7%E6%B4%B2%E5%A4%8F%E5%AD%A3%E7%B3%BB%E5%88%97%E8%B5%9B%23&Refer=top) 25321
 50. [大马500赛李诗沣进八强](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%A9%AC500%E8%B5%9B%E6%9D%8E%E8%AF%97%E6%B2%A3%E8%BF%9B%E5%85%AB%E5%BC%BA%23&Refer=top) 22072
-51. [川大录取通知书上新了](https://s.weibo.com//weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E4%B8%8A%E6%96%B0%E4%BA%86%23&Refer=top) 11034
+51. [川大录取通知书上新了](https://s.weibo.com//weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E4%B8%8A%E6%96%B0%E4%BA%86%23&Refer=top) 18385
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
