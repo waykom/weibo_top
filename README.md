@@ -56,7 +56,9 @@ weibo_top
 45. [永远会被清醒发言戳到](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E8%BF%9C%E4%BC%9A%E8%A2%AB%E6%B8%85%E9%86%92%E5%8F%91%E8%A8%80%E6%88%B3%E5%88%B0%23&Refer=top) 101519
 46. [这首歌在唱我吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%A6%96%E6%AD%8C%E5%9C%A8%E5%94%B1%E6%88%91%E5%90%A7%23&Refer=top) 59390
 47. [孙春龙一行擅自进入苍山被罚1.75万朋友圈集资](https://s.weibo.com//weibo?q=%23%E5%AD%99%E6%98%A5%E9%BE%99%E4%B8%80%E8%A1%8C%E6%93%85%E8%87%AA%E8%BF%9B%E5%85%A5%E8%8B%8D%E5%B1%B1%E8%A2%AB%E7%BD%9A1.75%E4%B8%87%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%9B%86%E8%B5%84%23&Refer=top) 33132
-48. [樊振东备战世乒赛](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%87%E6%88%98%E4%B8%96%E4%B9%92%E8%B5%9B%23&Refer=top) 18264
+48. [马龙出征WTT欧洲夏季系列赛](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E5%87%BA%E5%BE%81WTT%E6%AC%A7%E6%B4%B2%E5%A4%8F%E5%AD%A3%E7%B3%BB%E5%88%97%E8%B5%9B%23&Refer=top) 25321
+49. [大马500赛李诗沣进八强](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E9%A9%AC500%E8%B5%9B%E6%9D%8E%E8%AF%97%E6%B2%A3%E8%BF%9B%E5%85%AB%E5%BC%BA%23&Refer=top) 22072
+50. [樊振东备战世乒赛](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%87%E6%88%98%E4%B8%96%E4%B9%92%E8%B5%9B%23&Refer=top) 21741
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
