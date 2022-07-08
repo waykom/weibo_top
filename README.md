@@ -37,8 +37,8 @@ weibo_top
 26. [印度为安倍遇刺哀悼一天](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%BA%E5%AE%89%E5%80%8D%E9%81%87%E5%88%BA%E5%93%80%E6%82%BC%E4%B8%80%E5%A4%A9%23&Refer=top) 364317
 27. [安倍中枪将给日本带来什么影响](https://s.weibo.com//weibo?q=%23%E5%AE%89%E5%80%8D%E4%B8%AD%E6%9E%AA%E5%B0%86%E7%BB%99%E6%97%A5%E6%9C%AC%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23&Refer=top) 362650
 28. [嫌疑人枪支或为3D打印机制作](https://s.weibo.com//weibo?q=%23%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9E%AA%E6%94%AF%E6%88%96%E4%B8%BA3D%E6%89%93%E5%8D%B0%E6%9C%BA%E5%88%B6%E4%BD%9C%23&Refer=top) 342292
-29. [这天空是卡bug了吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%A4%A9%E7%A9%BA%E6%98%AF%E5%8D%A1bug%E4%BA%86%E5%90%97%23&Refer=top) 297239
-30. [女儿剖腹产妈妈含泪帮抹药](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E5%89%96%E8%85%B9%E4%BA%A7%E5%A6%88%E5%A6%88%E5%90%AB%E6%B3%AA%E5%B8%AE%E6%8A%B9%E8%8D%AF%23&Refer=top) 293151
+29. [女儿剖腹产妈妈含泪帮抹药](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E5%89%96%E8%85%B9%E4%BA%A7%E5%A6%88%E5%A6%88%E5%90%AB%E6%B3%AA%E5%B8%AE%E6%8A%B9%E8%8D%AF%23&Refer=top) 337628
+30. [这天空是卡bug了吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%A4%A9%E7%A9%BA%E6%98%AF%E5%8D%A1bug%E4%BA%86%E5%90%97%23&Refer=top) 297239
 31. [约翰逊用日语回应安倍遇刺](https://s.weibo.com//weibo?q=%23%E7%BA%A6%E7%BF%B0%E9%80%8A%E7%94%A8%E6%97%A5%E8%AF%AD%E5%9B%9E%E5%BA%94%E5%AE%89%E5%80%8D%E9%81%87%E5%88%BA%23&Refer=top) 246398
 32. [母亲教我的择偶法则](https://s.weibo.com//weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%95%99%E6%88%91%E7%9A%84%E6%8B%A9%E5%81%B6%E6%B3%95%E5%88%99%23&Refer=top) 244399
 33. [王一博影剧综哪个先来](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BD%B1%E5%89%A7%E7%BB%BC%E5%93%AA%E4%B8%AA%E5%85%88%E6%9D%A5%23&Refer=top) 220483
@@ -51,8 +51,9 @@ weibo_top
 40. [新英雄戈娅登场KPL](https://s.weibo.com//weibo?q=%23%E6%96%B0%E8%8B%B1%E9%9B%84%E6%88%88%E5%A8%85%E7%99%BB%E5%9C%BAKPL%23&Refer=top) 136043
 41. [Fly的花木兰](https://s.weibo.com//weibo?q=%23Fly%E7%9A%84%E8%8A%B1%E6%9C%A8%E5%85%B0%23&Refer=top) 122562
 42. [为妹妹报志愿的事难过了](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%A6%B9%E5%A6%B9%E6%8A%A5%E5%BF%97%E6%84%BF%E7%9A%84%E4%BA%8B%E9%9A%BE%E8%BF%87%E4%BA%86%23&Refer=top) 122349
-43. [特朗普就安倍中枪表态](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E5%AE%89%E5%80%8D%E4%B8%AD%E6%9E%AA%E8%A1%A8%E6%80%81%23&Refer=top) 81848
-44. [武汉三镇5比0武汉长江](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%875%E6%AF%940%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%23&Refer=top) 10485
+43. [宋慧乔时装周造型](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E6%97%B6%E8%A3%85%E5%91%A8%E9%80%A0%E5%9E%8B%23&Refer=top) 95689
+44. [特朗普就安倍中枪表态](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E5%AE%89%E5%80%8D%E4%B8%AD%E6%9E%AA%E8%A1%A8%E6%80%81%23&Refer=top) 81848
+45. [武汉三镇5比0武汉长江](https://s.weibo.com//weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%875%E6%AF%940%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%23&Refer=top) 10485
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
