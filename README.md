@@ -9,9 +9,9 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [杨幂工作室回应受伤](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%8F%97%E4%BC%A4&Refer=top) 7237918
+1. [杨幂工作室回应受伤](https://s.weibo.com//weibo?q=%E6%9D%A8%E5%B9%82%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%8F%97%E4%BC%A4&Refer=top) 11489619
 2. [嫌疑人刺杀安倍的弹药是哪里来的](https://s.weibo.com//weibo?q=%23%E5%AB%8C%E7%96%91%E4%BA%BA%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D%E7%9A%84%E5%BC%B9%E8%8D%AF%E6%98%AF%E5%93%AA%E9%87%8C%E6%9D%A5%E7%9A%84%23&Refer=top) 4094578
-3. [150秒高效燃脂操](https://s.weibo.com//weibo?q=%23150%E7%A7%92%E9%AB%98%E6%95%88%E7%87%83%E8%84%82%E6%93%8D%23&Refer=top) 2181193
+3. [150秒高效燃脂操](https://s.weibo.com//weibo?q=%23150%E7%A7%92%E9%AB%98%E6%95%88%E7%87%83%E8%84%82%E6%93%8D%23&Refer=top) 2953355
 4. [女子称吃炸鸡发现包装盒有血渍](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%90%83%E7%82%B8%E9%B8%A1%E5%8F%91%E7%8E%B0%E5%8C%85%E8%A3%85%E7%9B%92%E6%9C%89%E8%A1%80%E6%B8%8D%23&Refer=top) 1924323
 5. [密室大逃脱节目组致歉](https://s.weibo.com//weibo?q=%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%E8%8A%82%E7%9B%AE%E7%BB%84%E8%87%B4%E6%AD%89&Refer=top) 1503009
 6. [AD差距](https://s.weibo.com//weibo?q=AD%E5%B7%AE%E8%B7%9D&Refer=top) 1208709
@@ -21,7 +21,7 @@ weibo_top
 10. [为什么不喜欢和父母一起住](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%92%8C%E7%88%B6%E6%AF%8D%E4%B8%80%E8%B5%B7%E4%BD%8F%23&Refer=top) 780590
 11. [亚洲人首夺温网单打冠军](https://s.weibo.com//weibo?q=%23%E4%BA%9A%E6%B4%B2%E4%BA%BA%E9%A6%96%E5%A4%BA%E6%B8%A9%E7%BD%91%E5%8D%95%E6%89%93%E5%86%A0%E5%86%9B%23&Refer=top) 761909
 12. [再熬夜就只能留这种发型了](https://s.weibo.com//weibo?q=%23%E5%86%8D%E7%86%AC%E5%A4%9C%E5%B0%B1%E5%8F%AA%E8%83%BD%E7%95%99%E8%BF%99%E7%A7%8D%E5%8F%91%E5%9E%8B%E4%BA%86%23&Refer=top) 615530
-13. [成都高温市民涌入地铁站纳凉](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E9%AB%98%E6%B8%A9%E5%B8%82%E6%B0%91%E6%B6%8C%E5%85%A5%E5%9C%B0%E9%93%81%E7%AB%99%E7%BA%B3%E5%87%89%23&Refer=top) 578489
+13. [成都高温市民涌入地铁站纳凉](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E9%AB%98%E6%B8%A9%E5%B8%82%E6%B0%91%E6%B6%8C%E5%85%A5%E5%9C%B0%E9%93%81%E7%AB%99%E7%BA%B3%E5%87%89%23&Refer=top) 613208
 14. [上海新增社会面1例本土确诊](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E7%A4%BE%E4%BC%9A%E9%9D%A21%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top) 571985
 15. [吴奇隆服老了但没完全服](https://s.weibo.com//weibo?q=%23%E5%90%B4%E5%A5%87%E9%9A%86%E6%9C%8D%E8%80%81%E4%BA%86%E4%BD%86%E6%B2%A1%E5%AE%8C%E5%85%A8%E6%9C%8D%23&Refer=top) 483861
 16. [女子躲进宾馆房间给骗子转账](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BA%B2%E8%BF%9B%E5%AE%BE%E9%A6%86%E6%88%BF%E9%97%B4%E7%BB%99%E9%AA%97%E5%AD%90%E8%BD%AC%E8%B4%A6%23&Refer=top) 454548
@@ -46,11 +46,12 @@ weibo_top
 35. [中国复眼开建](https://s.weibo.com//weibo?q=%E4%B8%AD%E5%9B%BD%E5%A4%8D%E7%9C%BC%E5%BC%80%E5%BB%BA&Refer=top) 174337
 36. [广州新增6例新冠病毒感染者](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%96%B0%E5%A2%9E6%E4%BE%8B%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 171873
 37. [原来这就是心动的感觉吗](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E5%BF%83%E5%8A%A8%E7%9A%84%E6%84%9F%E8%A7%89%E5%90%97%23&Refer=top) 155944
-38. [这个夏天一定要吃冰饭](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E5%90%83%E5%86%B0%E9%A5%AD%23&Refer=top) 136531
+38. [这个夏天一定要吃冰饭](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E5%90%83%E5%86%B0%E9%A5%AD%23&Refer=top) 151483
 39. [女业主反映漏水问题遭开发商掌掴](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E4%B8%9A%E4%B8%BB%E5%8F%8D%E6%98%A0%E6%BC%8F%E6%B0%B4%E9%97%AE%E9%A2%98%E9%81%AD%E5%BC%80%E5%8F%91%E5%95%86%E6%8E%8C%E6%8E%B4%23&Refer=top) 129089
 40. [TES战胜RNG](https://s.weibo.com//weibo?q=%23TES%E6%88%98%E8%83%9CRNG%23&Refer=top) 128510
 41. [Bin 加油](https://s.weibo.com//weibo?q=Bin%20%E5%8A%A0%E6%B2%B9&Refer=top) 122098
 42. [中国男排战胜保加利亚男排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%92%E6%88%98%E8%83%9C%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E7%94%B7%E6%8E%92%23&Refer=top) 109822
+43. [幼儿园搭百平水池供学生抓泥鳅](https://s.weibo.com//weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%90%AD%E7%99%BE%E5%B9%B3%E6%B0%B4%E6%B1%A0%E4%BE%9B%E5%AD%A6%E7%94%9F%E6%8A%93%E6%B3%A5%E9%B3%85%23&Refer=top) 77860
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
