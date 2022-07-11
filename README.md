@@ -17,12 +17,12 @@ weibo_top
 6. [这一刻明白了读书的意义](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E6%98%8E%E7%99%BD%E4%BA%86%E8%AF%BB%E4%B9%A6%E7%9A%84%E6%84%8F%E4%B9%89%23&Refer=top) 1004875
 7. [张京华](https://s.weibo.com//weibo?q=%E5%BC%A0%E4%BA%AC%E5%8D%8E&Refer=top) 868093
 8. [成都电视台就谭谈交通发布声明](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%94%B5%E8%A7%86%E5%8F%B0%E5%B0%B1%E8%B0%AD%E8%B0%88%E4%BA%A4%E9%80%9A%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23&Refer=top) 801868
-9. [成都电视台](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E7%94%B5%E8%A7%86%E5%8F%B0&Refer=top) 751490
+9. [成都电视台](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E7%94%B5%E8%A7%86%E5%8F%B0&Refer=top) 778592
 10. [韩国统一教承认与安倍遇刺有关](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BB%9F%E4%B8%80%E6%95%99%E6%89%BF%E8%AE%A4%E4%B8%8E%E5%AE%89%E5%80%8D%E9%81%87%E5%88%BA%E6%9C%89%E5%85%B3%23&Refer=top) 699890
 11. [陈婷否认张艺谋急售无锡别墅](https://s.weibo.com//weibo?q=%23%E9%99%88%E5%A9%B7%E5%90%A6%E8%AE%A4%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%80%A5%E5%94%AE%E6%97%A0%E9%94%A1%E5%88%AB%E5%A2%85%23&Refer=top) 645350
 12. [江浙沪川渝局地将超40度](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%B7%9D%E6%B8%9D%E5%B1%80%E5%9C%B0%E5%B0%86%E8%B6%8540%E5%BA%A6%23&Refer=top) 631321
-13. [罗永浩称拿火烤钟薛高精神有问题](https://s.weibo.com//weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%A7%B0%E6%8B%BF%E7%81%AB%E7%83%A4%E9%92%9F%E8%96%9B%E9%AB%98%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98%23&Refer=top) 589495
-14. [害怕告诉父母考研的原因](https://s.weibo.com//weibo?q=%23%E5%AE%B3%E6%80%95%E5%91%8A%E8%AF%89%E7%88%B6%E6%AF%8D%E8%80%83%E7%A0%94%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top) 556384
+13. [害怕告诉父母考研的原因](https://s.weibo.com//weibo?q=%23%E5%AE%B3%E6%80%95%E5%91%8A%E8%AF%89%E7%88%B6%E6%AF%8D%E8%80%83%E7%A0%94%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top) 627802
+14. [罗永浩称拿火烤钟薛高精神有问题](https://s.weibo.com//weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%A7%B0%E6%8B%BF%E7%81%AB%E7%83%A4%E9%92%9F%E8%96%9B%E9%AB%98%E7%B2%BE%E7%A5%9E%E6%9C%89%E9%97%AE%E9%A2%98%23&Refer=top) 589495
 15. [男孩沉迷游戏被训持刀威胁父母](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E6%B2%89%E8%BF%B7%E6%B8%B8%E6%88%8F%E8%A2%AB%E8%AE%AD%E6%8C%81%E5%88%80%E5%A8%81%E8%83%81%E7%88%B6%E6%AF%8D%23&Refer=top) 533581
 16. [深圳疫情防控](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top) 502782
 17. [重庆两女生下河戏水意外身亡](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%A4%E5%A5%B3%E7%94%9F%E4%B8%8B%E6%B2%B3%E6%88%8F%E6%B0%B4%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1%23&Refer=top) 442878
@@ -50,7 +50,8 @@ weibo_top
 39. [上海称用人单位不得歧视阳性康复者](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%A7%B0%E7%94%A8%E4%BA%BA%E5%8D%95%E4%BD%8D%E4%B8%8D%E5%BE%97%E6%AD%A7%E8%A7%86%E9%98%B3%E6%80%A7%E5%BA%B7%E5%A4%8D%E8%80%85%23&Refer=top) 164941
 40. [起身常眩晕的人老年痴呆风险更高](https://s.weibo.com//weibo?q=%23%E8%B5%B7%E8%BA%AB%E5%B8%B8%E7%9C%A9%E6%99%95%E7%9A%84%E4%BA%BA%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86%E9%A3%8E%E9%99%A9%E6%9B%B4%E9%AB%98%23&Refer=top) 155448
 41. [写着写着就变身了](https://s.weibo.com//weibo?q=%23%E5%86%99%E7%9D%80%E5%86%99%E7%9D%80%E5%B0%B1%E5%8F%98%E8%BA%AB%E4%BA%86%23&Refer=top) 147080
-42. [村行垫付小程序7月15日启用](https://s.weibo.com//weibo?q=%23%E6%9D%91%E8%A1%8C%E5%9E%AB%E4%BB%98%E5%B0%8F%E7%A8%8B%E5%BA%8F7%E6%9C%8815%E6%97%A5%E5%90%AF%E7%94%A8%23&Refer=top) 119139
+42. [村行垫付小程序7月15日启用](https://s.weibo.com//weibo?q=%23%E6%9D%91%E8%A1%8C%E5%9E%AB%E4%BB%98%E5%B0%8F%E7%A8%8B%E5%BA%8F7%E6%9C%8815%E6%97%A5%E5%90%AF%E7%94%A8%23&Refer=top) 120795
+43. [如何预防感染霍乱](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E9%A2%84%E9%98%B2%E6%84%9F%E6%9F%93%E9%9C%8D%E4%B9%B1%23&Refer=top) 67300
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
