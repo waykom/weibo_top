@@ -54,6 +54,7 @@ weibo_top
 43. [乐视称或率先推行四天半工作制](https://s.weibo.com//weibo?q=%23%E4%B9%90%E8%A7%86%E7%A7%B0%E6%88%96%E7%8E%87%E5%85%88%E6%8E%A8%E8%A1%8C%E5%9B%9B%E5%A4%A9%E5%8D%8A%E5%B7%A5%E4%BD%9C%E5%88%B6%23&Refer=top) 43305
 44. [蒙蒂诺曼去世](https://s.weibo.com//weibo?q=%23%E8%92%99%E8%92%82%E8%AF%BA%E6%9B%BC%E5%8E%BB%E4%B8%96%23&Refer=top) 26485
 45. [这个夏天想住在水里](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E6%83%B3%E4%BD%8F%E5%9C%A8%E6%B0%B4%E9%87%8C%23&Refer=top) 14020
+46. [劳动合同这三点一定要写清](https://s.weibo.com//weibo?q=%23%E5%8A%B3%E5%8A%A8%E5%90%88%E5%90%8C%E8%BF%99%E4%B8%89%E7%82%B9%E4%B8%80%E5%AE%9A%E8%A6%81%E5%86%99%E6%B8%85%23&Refer=top) 13511
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
