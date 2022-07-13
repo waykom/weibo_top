@@ -53,6 +53,7 @@ weibo_top
 42. [莎头](https://s.weibo.com//weibo?q=%E8%8E%8E%E5%A4%B4&Refer=top) 26291
 43. [斯里兰卡政府证实总统已离境](https://s.weibo.com//weibo?q=%23%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E6%94%BF%E5%BA%9C%E8%AF%81%E5%AE%9E%E6%80%BB%E7%BB%9F%E5%B7%B2%E7%A6%BB%E5%A2%83%23&Refer=top) 25278
 44. [陪人民子弟兵站岗](https://s.weibo.com//weibo?q=%23%E9%99%AA%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E7%AB%99%E5%B2%97%23&Refer=top) 9165
+45. [云南大理星空如梦似幻](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E6%98%9F%E7%A9%BA%E5%A6%82%E6%A2%A6%E4%BC%BC%E5%B9%BB%23&Refer=top) 8541
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
