@@ -55,6 +55,7 @@ weibo_top
 44. [中国男篮vs巴林男篮](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E5%B7%B4%E6%9E%97%E7%94%B7%E7%AF%AE%23&Refer=top) 34172
 45. [TTG再战卡位赛](https://s.weibo.com//weibo?q=%23TTG%E5%86%8D%E6%88%98%E5%8D%A1%E4%BD%8D%E8%B5%9B%23&Refer=top) 21309
 46. [V5战胜iG](https://s.weibo.com//weibo?q=%23V5%E6%88%98%E8%83%9CiG%23&Refer=top) 18534
+47. [夏夜萤火虫氛围感绝了](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E5%A4%9C%E8%90%A4%E7%81%AB%E8%99%AB%E6%B0%9B%E5%9B%B4%E6%84%9F%E7%BB%9D%E4%BA%86%23&Refer=top) 9770
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
