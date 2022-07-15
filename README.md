@@ -52,6 +52,7 @@ weibo_top
 41. [AG逆风翻盘](https://s.weibo.com//weibo?q=%23AG%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%23&Refer=top) 36458
 42. [辅警江边拍婚纱照救起两人](https://s.weibo.com//weibo?q=%23%E8%BE%85%E8%AD%A6%E6%B1%9F%E8%BE%B9%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E6%95%91%E8%B5%B7%E4%B8%A4%E4%BA%BA%23&Refer=top) 33136
 43. [全国最大的奥特曼](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A5%A5%E7%89%B9%E6%9B%BC%23&Refer=top) 32566
+44. [广州天气](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A4%A9%E6%B0%94%23&Refer=top) 8942
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
