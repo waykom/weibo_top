@@ -52,8 +52,9 @@ weibo_top
 41. [王楚钦王曼昱3比2张本智和早田希娜](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%942%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&Refer=top) 106433
 42. [莱万即将加盟巴萨](https://s.weibo.com//weibo?q=%23%E8%8E%B1%E4%B8%87%E5%8D%B3%E5%B0%86%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8%23&Refer=top) 105217
 43. [黄山警民救助一只黄山短尾幼猴](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%B1%B1%E8%AD%A6%E6%B0%91%E6%95%91%E5%8A%A9%E4%B8%80%E5%8F%AA%E9%BB%84%E5%B1%B1%E7%9F%AD%E5%B0%BE%E5%B9%BC%E7%8C%B4%23&Refer=top) 103310
-44. [luca](https://s.weibo.com//weibo?q=luca&Refer=top) 68553
+44. [luca](https://s.weibo.com//weibo?q=luca&Refer=top) 84427
 45. [周琦状态](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%90%A6%E7%8A%B6%E6%80%81%23&Refer=top) 57129
+46. [马龙王楚钦无缘男双决赛](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%97%A0%E7%BC%98%E7%94%B7%E5%8F%8C%E5%86%B3%E8%B5%9B%23&Refer=top) 17041
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
