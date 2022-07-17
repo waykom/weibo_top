@@ -63,7 +63,7 @@ weibo_top
 52. [王楚钦4比3马龙](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%943%E9%A9%AC%E9%BE%99%23&Refer=top) 407443
 53. [四川北川洪灾致6人死亡12人失联](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8C%97%E5%B7%9D%E6%B4%AA%E7%81%BE%E8%87%B46%E4%BA%BA%E6%AD%BB%E4%BA%A112%E4%BA%BA%E5%A4%B1%E8%81%94%23&Refer=top) 404891
 54. [斗破苍穹缘起开播](https://s.weibo.com//weibo?q=%23%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%E7%BC%98%E8%B5%B7%E5%BC%80%E6%92%AD%23&Refer=top) 400003
-55. [韦正发声](https://s.weibo.com//weibo?q=%23%E9%9F%A6%E6%AD%A3%E5%8F%91%E5%A3%B0%23&Refer=top) 377831
+55. [韦正发声](https://s.weibo.com//weibo?q=%23%E9%9F%A6%E6%AD%A3%E5%8F%91%E5%A3%B0%23&Refer=top) 379443
 56. [沈阳城管称雨天洒水是为防花草受伤害](https://s.weibo.com//weibo?q=%23%E6%B2%88%E9%98%B3%E5%9F%8E%E7%AE%A1%E7%A7%B0%E9%9B%A8%E5%A4%A9%E6%B4%92%E6%B0%B4%E6%98%AF%E4%B8%BA%E9%98%B2%E8%8A%B1%E8%8D%89%E5%8F%97%E4%BC%A4%E5%AE%B3%23&Refer=top) 374365
 57. [王楚钦王曼昱vs张本智和早田希娜](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&Refer=top) 356365
 58. [斗鱼](https://s.weibo.com//weibo?q=%E6%96%97%E9%B1%BC&Refer=top) 342210
