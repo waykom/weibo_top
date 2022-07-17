@@ -12,15 +12,15 @@ weibo_top
 1. [上海此次KTV疫情在沪密接2.3万人](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%AD%A4%E6%AC%A1KTV%E7%96%AB%E6%83%85%E5%9C%A8%E6%B2%AA%E5%AF%86%E6%8E%A52.3%E4%B8%87%E4%BA%BA%23&Refer=top) 3665879
 2. [工人收工路上因热射病去世](https://s.weibo.com//weibo?q=%23%E5%B7%A5%E4%BA%BA%E6%94%B6%E5%B7%A5%E8%B7%AF%E4%B8%8A%E5%9B%A0%E7%83%AD%E5%B0%84%E7%97%85%E5%8E%BB%E4%B8%96%23&Refer=top) 2792579
 3. [黄老师](https://s.weibo.com//weibo?q=%E9%BB%84%E8%80%81%E5%B8%88&Refer=top) 2113125
-4. [烈日下的劳动者辛苦了](https://s.weibo.com//weibo?q=%23%E7%83%88%E6%97%A5%E4%B8%8B%E7%9A%84%E5%8A%B3%E5%8A%A8%E8%80%85%E8%BE%9B%E8%8B%A6%E4%BA%86%23&Refer=top) 1962934
-5. [交警认定郑州女大学生车祸系货车全责](https://s.weibo.com//weibo?q=%23%E4%BA%A4%E8%AD%A6%E8%AE%A4%E5%AE%9A%E9%83%91%E5%B7%9E%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%A6%E7%A5%B8%E7%B3%BB%E8%B4%A7%E8%BD%A6%E5%85%A8%E8%B4%A3%23&Refer=top) 1713090
+4. [交警认定郑州女大学生车祸系货车全责](https://s.weibo.com//weibo?q=%23%E4%BA%A4%E8%AD%A6%E8%AE%A4%E5%AE%9A%E9%83%91%E5%B7%9E%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%A6%E7%A5%B8%E7%B3%BB%E8%B4%A7%E8%BD%A6%E5%85%A8%E8%B4%A3%23&Refer=top) 2091075
+5. [烈日下的劳动者辛苦了](https://s.weibo.com//weibo?q=%23%E7%83%88%E6%97%A5%E4%B8%8B%E7%9A%84%E5%8A%B3%E5%8A%A8%E8%80%85%E8%BE%9B%E8%8B%A6%E4%BA%86%23&Refer=top) 1962934
 6. [318家5A景区全名单](https://s.weibo.com//weibo?q=%23318%E5%AE%B65A%E6%99%AF%E5%8C%BA%E5%85%A8%E5%90%8D%E5%8D%95%23&Refer=top) 1046041
 7. [王澄澄](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%BE%84%E6%BE%84&Refer=top) 1035665
-8. [上海新增本土确诊2例无症状24例](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B624%E4%BE%8B%23&Refer=top) 883770
-9. [西班牙高温已在3天内致84人死亡](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E6%B8%A9%E5%B7%B2%E5%9C%A83%E5%A4%A9%E5%86%85%E8%87%B484%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top) 883641
-10. [热射病](https://s.weibo.com//weibo?q=%23%E7%83%AD%E5%B0%84%E7%97%85%23&Refer=top) 847581
-11. [苏炳添无缘百米决赛](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%97%A0%E7%BC%98%E7%99%BE%E7%B1%B3%E5%86%B3%E8%B5%9B%23&Refer=top) 768610
-12. [王曼昱 退赛](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E9%80%80%E8%B5%9B&Refer=top) 759437
+8. [王曼昱 退赛](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E9%80%80%E8%B5%9B&Refer=top) 977330
+9. [上海新增本土确诊2例无症状24例](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B624%E4%BE%8B%23&Refer=top) 883770
+10. [西班牙高温已在3天内致84人死亡](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E6%B8%A9%E5%B7%B2%E5%9C%A83%E5%A4%A9%E5%86%85%E8%87%B484%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top) 883641
+11. [热射病](https://s.weibo.com//weibo?q=%23%E7%83%AD%E5%B0%84%E7%97%85%23&Refer=top) 847581
+12. [苏炳添无缘百米决赛](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%97%A0%E7%BC%98%E7%99%BE%E7%B1%B3%E5%86%B3%E8%B5%9B%23&Refer=top) 822167
 13. [用高德打车遇车祸身亡女生哥哥发声](https://s.weibo.com//weibo?q=%23%E7%94%A8%E9%AB%98%E5%BE%B7%E6%89%93%E8%BD%A6%E9%81%87%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%E5%A5%B3%E7%94%9F%E5%93%A5%E5%93%A5%E5%8F%91%E5%A3%B0%23&Refer=top) 751282
 14. [广西新增235例本土无症状](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%96%B0%E5%A2%9E235%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top) 740598
 15. [王俊凯不得不C](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%8D%E5%BE%97%E4%B8%8DC%23&Refer=top) 622759
@@ -64,27 +64,28 @@ weibo_top
 53. [陕西甘泉夜空出现彩云追月](https://s.weibo.com//weibo?q=%23%E9%99%95%E8%A5%BF%E7%94%98%E6%B3%89%E5%A4%9C%E7%A9%BA%E5%87%BA%E7%8E%B0%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88%23&Refer=top) 177737
 54. [中国队6人全满分获国际奥数冠军](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F6%E4%BA%BA%E5%85%A8%E6%BB%A1%E5%88%86%E8%8E%B7%E5%9B%BD%E9%99%85%E5%A5%A5%E6%95%B0%E5%86%A0%E5%86%9B%23&Refer=top) 174343
 55. [王楚钦一天打满17局](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%80%E5%A4%A9%E6%89%93%E6%BB%A117%E5%B1%80%23&Refer=top) 167812
-56. [杨绛诞辰111周年](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%BB%9B%E8%AF%9E%E8%BE%B0111%E5%91%A8%E5%B9%B4%23&Refer=top) 166618
-57. [黄山警民救助一只黄山短尾幼猴](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%B1%B1%E8%AD%A6%E6%B0%91%E6%95%91%E5%8A%A9%E4%B8%80%E5%8F%AA%E9%BB%84%E5%B1%B1%E7%9F%AD%E5%B0%BE%E5%B9%BC%E7%8C%B4%23&Refer=top) 165030
-58. [洒水车雨天绕圈洒水](https://s.weibo.com//weibo?q=%23%E6%B4%92%E6%B0%B4%E8%BD%A6%E9%9B%A8%E5%A4%A9%E7%BB%95%E5%9C%88%E6%B4%92%E6%B0%B4%23&Refer=top) 163114
-59. [什么时候才能不为友谊emo](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E4%B8%8D%E4%B8%BA%E5%8F%8B%E8%B0%8Aemo%23&Refer=top) 158867
-60. [原来真的会有人笑着走出理发店](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%9C%89%E4%BA%BA%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E7%90%86%E5%8F%91%E5%BA%97%23&Refer=top) 148448
-61. [李景亮TKO穆斯里穆](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%99%AF%E4%BA%AETKO%E7%A9%86%E6%96%AF%E9%87%8C%E7%A9%86%23&Refer=top) 148327
-62. [7旬奶奶坚守陕北行医54年](https://s.weibo.com//weibo?q=%237%E6%97%AC%E5%A5%B6%E5%A5%B6%E5%9D%9A%E5%AE%88%E9%99%95%E5%8C%97%E8%A1%8C%E5%8C%BB54%E5%B9%B4%23&Refer=top) 134746
-63. [空军超燃高清壁纸](https://s.weibo.com//weibo?q=%23%E7%A9%BA%E5%86%9B%E8%B6%85%E7%87%83%E9%AB%98%E6%B8%85%E5%A3%81%E7%BA%B8%23&Refer=top) 132960
-64. [周琦大帽](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%90%A6%E5%A4%A7%E5%B8%BD%23&Refer=top) 129225
-65. [UFC](https://s.weibo.com//weibo?q=UFC&Refer=top) 124419
-66. [中国女乒锁定女单冠军](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%B9%92%E9%94%81%E5%AE%9A%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B%23&Refer=top) 116055
-67. [Uzi解说](https://s.weibo.com//weibo?q=%23Uzi%E8%A7%A3%E8%AF%B4%23&Refer=top) 109444
-68. [王楚钦王曼昱3比2张本智和早田希娜](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%942%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&Refer=top) 106433
-69. [莱万即将加盟巴萨](https://s.weibo.com//weibo?q=%23%E8%8E%B1%E4%B8%87%E5%8D%B3%E5%B0%86%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8%23&Refer=top) 105217
-70. [李景亮 中国力量](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%99%AF%E4%BA%AE%20%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F&Refer=top) 94627
-71. [马龙王楚钦无缘男双决赛](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%97%A0%E7%BC%98%E7%94%B7%E5%8F%8C%E5%86%B3%E8%B5%9B%23&Refer=top) 81883
-72. [周琦状态](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%90%A6%E7%8A%B6%E6%80%81%23&Refer=top) 57129
-73. [歌词里的彩云追月有多美](https://s.weibo.com//weibo?q=%23%E6%AD%8C%E8%AF%8D%E9%87%8C%E7%9A%84%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top) 14709
-74. [宁波消费券](https://s.weibo.com//weibo?q=%23%E5%AE%81%E6%B3%A2%E6%B6%88%E8%B4%B9%E5%88%B8%23&Refer=top) 14415
-75. [男生刻在DNA里的中二](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E5%88%BB%E5%9C%A8DNA%E9%87%8C%E7%9A%84%E4%B8%AD%E4%BA%8C%23&Refer=top) 11881
-76. [明早9点看苏炳添100米半决赛](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%97%A99%E7%82%B9%E7%9C%8B%E8%8B%8F%E7%82%B3%E6%B7%BB100%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top) 8498
+56. [巩立姣说战胜自己就是战胜一切](https://s.weibo.com//weibo?q=%23%E5%B7%A9%E7%AB%8B%E5%A7%A3%E8%AF%B4%E6%88%98%E8%83%9C%E8%87%AA%E5%B7%B1%E5%B0%B1%E6%98%AF%E6%88%98%E8%83%9C%E4%B8%80%E5%88%87%23&Refer=top) 166692
+57. [杨绛诞辰111周年](https://s.weibo.com//weibo?q=%23%E6%9D%A8%E7%BB%9B%E8%AF%9E%E8%BE%B0111%E5%91%A8%E5%B9%B4%23&Refer=top) 166618
+58. [黄山警民救助一只黄山短尾幼猴](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%B1%B1%E8%AD%A6%E6%B0%91%E6%95%91%E5%8A%A9%E4%B8%80%E5%8F%AA%E9%BB%84%E5%B1%B1%E7%9F%AD%E5%B0%BE%E5%B9%BC%E7%8C%B4%23&Refer=top) 165030
+59. [洒水车雨天绕圈洒水](https://s.weibo.com//weibo?q=%23%E6%B4%92%E6%B0%B4%E8%BD%A6%E9%9B%A8%E5%A4%A9%E7%BB%95%E5%9C%88%E6%B4%92%E6%B0%B4%23&Refer=top) 163114
+60. [什么时候才能不为友谊emo](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E4%B8%8D%E4%B8%BA%E5%8F%8B%E8%B0%8Aemo%23&Refer=top) 158867
+61. [原来真的会有人笑着走出理发店](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%9C%89%E4%BA%BA%E7%AC%91%E7%9D%80%E8%B5%B0%E5%87%BA%E7%90%86%E5%8F%91%E5%BA%97%23&Refer=top) 148448
+62. [李景亮TKO穆斯里穆](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%99%AF%E4%BA%AETKO%E7%A9%86%E6%96%AF%E9%87%8C%E7%A9%86%23&Refer=top) 148327
+63. [7旬奶奶坚守陕北行医54年](https://s.weibo.com//weibo?q=%237%E6%97%AC%E5%A5%B6%E5%A5%B6%E5%9D%9A%E5%AE%88%E9%99%95%E5%8C%97%E8%A1%8C%E5%8C%BB54%E5%B9%B4%23&Refer=top) 134746
+64. [空军超燃高清壁纸](https://s.weibo.com//weibo?q=%23%E7%A9%BA%E5%86%9B%E8%B6%85%E7%87%83%E9%AB%98%E6%B8%85%E5%A3%81%E7%BA%B8%23&Refer=top) 132960
+65. [周琦大帽](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%90%A6%E5%A4%A7%E5%B8%BD%23&Refer=top) 129225
+66. [UFC](https://s.weibo.com//weibo?q=UFC&Refer=top) 124419
+67. [中国女乒锁定女单冠军](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%B9%92%E9%94%81%E5%AE%9A%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B%23&Refer=top) 116055
+68. [Uzi解说](https://s.weibo.com//weibo?q=%23Uzi%E8%A7%A3%E8%AF%B4%23&Refer=top) 109444
+69. [王楚钦王曼昱3比2张本智和早田希娜](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%942%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&Refer=top) 106433
+70. [莱万即将加盟巴萨](https://s.weibo.com//weibo?q=%23%E8%8E%B1%E4%B8%87%E5%8D%B3%E5%B0%86%E5%8A%A0%E7%9B%9F%E5%B7%B4%E8%90%A8%23&Refer=top) 105217
+71. [李景亮 中国力量](https://s.weibo.com//weibo?q=%E6%9D%8E%E6%99%AF%E4%BA%AE%20%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F&Refer=top) 94627
+72. [马龙王楚钦无缘男双决赛](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%97%A0%E7%BC%98%E7%94%B7%E5%8F%8C%E5%86%B3%E8%B5%9B%23&Refer=top) 81883
+73. [周琦状态](https://s.weibo.com//weibo?q=%23%E5%91%A8%E7%90%A6%E7%8A%B6%E6%80%81%23&Refer=top) 57129
+74. [歌词里的彩云追月有多美](https://s.weibo.com//weibo?q=%23%E6%AD%8C%E8%AF%8D%E9%87%8C%E7%9A%84%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top) 14709
+75. [宁波消费券](https://s.weibo.com//weibo?q=%23%E5%AE%81%E6%B3%A2%E6%B6%88%E8%B4%B9%E5%88%B8%23&Refer=top) 14415
+76. [男生刻在DNA里的中二](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E5%88%BB%E5%9C%A8DNA%E9%87%8C%E7%9A%84%E4%B8%AD%E4%BA%8C%23&Refer=top) 11881
+77. [明早9点看苏炳添100米半决赛](https://s.weibo.com//weibo?q=%23%E6%98%8E%E6%97%A99%E7%82%B9%E7%9C%8B%E8%8B%8F%E7%82%B3%E6%B7%BB100%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top) 8498
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
