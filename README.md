@@ -49,14 +49,14 @@ weibo_top
 38. [不会点文言文都不敢评论了](https://s.weibo.com//weibo?q=%23%E4%B8%8D%E4%BC%9A%E7%82%B9%E6%96%87%E8%A8%80%E6%96%87%E9%83%BD%E4%B8%8D%E6%95%A2%E8%AF%84%E8%AE%BA%E4%BA%86%23&Refer=top) 202200
 39. [女儿的复旦录取通知是妈妈送来的](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A4%8D%E6%97%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E6%98%AF%E5%A6%88%E5%A6%88%E9%80%81%E6%9D%A5%E7%9A%84%23&Refer=top) 190554
 40. [没人能拒绝这么可爱的柯基](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E4%BA%BA%E8%83%BD%E6%8B%92%E7%BB%9D%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%E7%9A%84%E6%9F%AF%E5%9F%BA%23&Refer=top) 172790
-41. [花季少女全身90%烧伤容貌尽毁](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%AD%A3%E5%B0%91%E5%A5%B3%E5%85%A8%E8%BA%AB90%25%E7%83%A7%E4%BC%A4%E5%AE%B9%E8%B2%8C%E5%B0%BD%E6%AF%81&Refer=top) 143368
+41. [花季少女全身90%烧伤容貌尽毁](https://s.weibo.com//weibo?q=%E8%8A%B1%E5%AD%A3%E5%B0%91%E5%A5%B3%E5%85%A8%E8%BA%AB90%25%E7%83%A7%E4%BC%A4%E5%AE%B9%E8%B2%8C%E5%B0%BD%E6%AF%81&Refer=top) 147152
 42. [成都疫情防控](https://s.weibo.com//weibo?q=%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7&Refer=top) 143365
 43. [中国男篮失误](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%A4%B1%E8%AF%AF%23&Refer=top) 142490
 44. [想念赵继伟](https://s.weibo.com//weibo?q=%E6%83%B3%E5%BF%B5%E8%B5%B5%E7%BB%A7%E4%BC%9F&Refer=top) 121451
 45. [宁波象山超美蓝眼泪](https://s.weibo.com//weibo?q=%23%E5%AE%81%E6%B3%A2%E8%B1%A1%E5%B1%B1%E8%B6%85%E7%BE%8E%E8%93%9D%E7%9C%BC%E6%B3%AA%23&Refer=top) 117687
-46. [上海近30年老牌蛋糕房大门紧闭](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%9130%E5%B9%B4%E8%80%81%E7%89%8C%E8%9B%8B%E7%B3%95%E6%88%BF%E5%A4%A7%E9%97%A8%E7%B4%A7%E9%97%AD%23&Refer=top) 60188
+46. [上海近30年老牌蛋糕房大门紧闭](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%9130%E5%B9%B4%E8%80%81%E7%89%8C%E8%9B%8B%E7%B3%95%E6%88%BF%E5%A4%A7%E9%97%A8%E7%B4%A7%E9%97%AD%23&Refer=top) 68093
 47. [阿尔卑斯山最大冰川或30年内消失](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1%E6%9C%80%E5%A4%A7%E5%86%B0%E5%B7%9D%E6%88%9630%E5%B9%B4%E5%86%85%E6%B6%88%E5%A4%B1%23&Refer=top) 51287
-48. [有点眼红现在小孩的玩具](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%82%B9%E7%9C%BC%E7%BA%A2%E7%8E%B0%E5%9C%A8%E5%B0%8F%E5%AD%A9%E7%9A%84%E7%8E%A9%E5%85%B7%23&Refer=top) 13071
+48. [有点眼红现在小孩的玩具](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%82%B9%E7%9C%BC%E7%BA%A2%E7%8E%B0%E5%9C%A8%E5%B0%8F%E5%AD%A9%E7%9A%84%E7%8E%A9%E5%85%B7%23&Refer=top) 14776
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
