@@ -53,6 +53,7 @@ weibo_top
 42. [中国男篮失误](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%A4%B1%E8%AF%AF%23&Refer=top) 142490
 43. [想念赵继伟](https://s.weibo.com//weibo?q=%E6%83%B3%E5%BF%B5%E8%B5%B5%E7%BB%A7%E4%BC%9F&Refer=top) 121451
 44. [宁波象山超美蓝眼泪](https://s.weibo.com//weibo?q=%23%E5%AE%81%E6%B3%A2%E8%B1%A1%E5%B1%B1%E8%B6%85%E7%BE%8E%E8%93%9D%E7%9C%BC%E6%B3%AA%23&Refer=top) 117687
+45. [阿尔卑斯山最大冰川或30年内消失](https://s.weibo.com//weibo?q=%23%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1%E6%9C%80%E5%A4%A7%E5%86%B0%E5%B7%9D%E6%88%9630%E5%B9%B4%E5%86%85%E6%B6%88%E5%A4%B1%23&Refer=top) 19057
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
