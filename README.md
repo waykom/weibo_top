@@ -49,11 +49,12 @@ weibo_top
 38. [男孩捅蜂窝被蛰半边脸肿成球](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E6%8D%85%E8%9C%82%E7%AA%9D%E8%A2%AB%E8%9B%B0%E5%8D%8A%E8%BE%B9%E8%84%B8%E8%82%BF%E6%88%90%E7%90%83%23&Refer=top) 141875
 39. [陈梦王曼昱会师女单半决赛](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BC%9A%E5%B8%88%E5%A5%B3%E5%8D%95%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top) 140901
 40. [四川理县发生3.3级地震](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%90%86%E5%8E%BF%E5%8F%91%E7%94%9F3.3%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 127871
-41. [成都警方通报男子小区内跳楼身亡](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%B0%8F%E5%8C%BA%E5%86%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&Refer=top) 117596
-42. [零基础学拉丁舞的体验](https://s.weibo.com//weibo?q=%23%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E6%8B%89%E4%B8%81%E8%88%9E%E7%9A%84%E4%BD%93%E9%AA%8C%23&Refer=top) 105437
-43. [女子指尖扎入针头17年在手背发现](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8C%87%E5%B0%96%E6%89%8E%E5%85%A5%E9%92%88%E5%A4%B417%E5%B9%B4%E5%9C%A8%E6%89%8B%E8%83%8C%E5%8F%91%E7%8E%B0%23&Refer=top) 95060
+41. [女子指尖扎入针头17年在手背发现](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8C%87%E5%B0%96%E6%89%8E%E5%85%A5%E9%92%88%E5%A4%B417%E5%B9%B4%E5%9C%A8%E6%89%8B%E8%83%8C%E5%8F%91%E7%8E%B0%23&Refer=top) 118104
+42. [成都警方通报男子小区内跳楼身亡](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%B0%8F%E5%8C%BA%E5%86%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&Refer=top) 117596
+43. [零基础学拉丁舞的体验](https://s.weibo.com//weibo?q=%23%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E6%8B%89%E4%B8%81%E8%88%9E%E7%9A%84%E4%BD%93%E9%AA%8C%23&Refer=top) 105437
 44. [缅甸5.9级地震](https://s.weibo.com//weibo?q=%E7%BC%85%E7%94%B85.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 76470
-45. [成都目前所有病例均属同一传播链](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%9B%AE%E5%89%8D%E6%89%80%E6%9C%89%E7%97%85%E4%BE%8B%E5%9D%87%E5%B1%9E%E5%90%8C%E4%B8%80%E4%BC%A0%E6%92%AD%E9%93%BE%23&Refer=top) 46977
+45. [成都目前所有病例均属同一传播链](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%9B%AE%E5%89%8D%E6%89%80%E6%9C%89%E7%97%85%E4%BE%8B%E5%9D%87%E5%B1%9E%E5%90%8C%E4%B8%80%E4%BC%A0%E6%92%AD%E9%93%BE%23&Refer=top) 64192
+46. [永远会为中国式浪漫热泪盈眶](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E8%BF%9C%E4%BC%9A%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%23&Refer=top) 9493
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
