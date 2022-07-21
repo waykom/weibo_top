@@ -48,7 +48,8 @@ weibo_top
 37. [陈梦王曼昱会师女单半决赛](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BC%9A%E5%B8%88%E5%A5%B3%E5%8D%95%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top) 140901
 38. [四川理县发生3.3级地震](https://s.weibo.com//weibo?q=%E5%9B%9B%E5%B7%9D%E7%90%86%E5%8E%BF%E5%8F%91%E7%94%9F3.3%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 127871
 39. [成都警方通报男子小区内跳楼身亡](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%B0%8F%E5%8C%BA%E5%86%85%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&Refer=top) 117596
-40. [零基础学拉丁舞的体验](https://s.weibo.com//weibo?q=%23%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E6%8B%89%E4%B8%81%E8%88%9E%E7%9A%84%E4%BD%93%E9%AA%8C%23&Refer=top) 105437
+40. [云南弥勒3.2级地震](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E5%BC%A5%E5%8B%923.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top) 112812
+41. [零基础学拉丁舞的体验](https://s.weibo.com//weibo?q=%23%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E6%8B%89%E4%B8%81%E8%88%9E%E7%9A%84%E4%BD%93%E9%AA%8C%23&Refer=top) 105437
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
