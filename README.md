@@ -52,8 +52,8 @@ weibo_top
 41. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top) 160921
 42. [今天星期五](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%9F%E6%9C%9F%E4%BA%94%23&Refer=top) 157755
 43. [为崽而战](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%B4%BD%E8%80%8C%E6%88%98%23&Refer=top) 127100
-44. [重庆一村庄河水冒泡能点燃](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E6%9D%91%E5%BA%84%E6%B2%B3%E6%B0%B4%E5%86%92%E6%B3%A1%E8%83%BD%E7%82%B9%E7%87%83%23&Refer=top) 18250
-45. [缔约英雄](https://s.weibo.com//weibo?q=%23%E7%BC%94%E7%BA%A6%E8%8B%B1%E9%9B%84%23&Refer=top) 14545
+44. [重庆一村庄河水冒泡能点燃](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E6%9D%91%E5%BA%84%E6%B2%B3%E6%B0%B4%E5%86%92%E6%B3%A1%E8%83%BD%E7%82%B9%E7%87%83%23&Refer=top) 34990
+45. [缔约英雄](https://s.weibo.com//weibo?q=%23%E7%BC%94%E7%BA%A6%E8%8B%B1%E9%9B%84%23&Refer=top) 23238
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
