@@ -53,9 +53,10 @@ weibo_top
 42. [TheShy伤害](https://s.weibo.com//weibo?q=TheShy%E4%BC%A4%E5%AE%B3&Refer=top) 107380
 43. [LGD DOTA2](https://s.weibo.com//weibo?q=LGD%20DOTA2&Refer=top) 102666
 44. [TT周冠军](https://s.weibo.com//weibo?q=%23TT%E5%91%A8%E5%86%A0%E5%86%9B%23&Refer=top) 88658
-45. [自然灿获得周MVP](https://s.weibo.com//weibo?q=%23%E8%87%AA%E7%84%B6%E7%81%BF%E8%8E%B7%E5%BE%97%E5%91%A8MVP%23&Refer=top) 80377
-46. [NV常规赛积分第一](https://s.weibo.com//weibo?q=%23NV%E5%B8%B8%E8%A7%84%E8%B5%9B%E7%A7%AF%E5%88%86%E7%AC%AC%E4%B8%80%23&Refer=top) 72431
-47. [Tian说希望继续赢下去](https://s.weibo.com//weibo?q=%23Tian%E8%AF%B4%E5%B8%8C%E6%9C%9B%E7%BB%A7%E7%BB%AD%E8%B5%A2%E4%B8%8B%E5%8E%BB%23&Refer=top) 52326
+45. [林志颖已清醒](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E5%B7%B2%E6%B8%85%E9%86%92%23&Refer=top) 82555
+46. [自然灿获得周MVP](https://s.weibo.com//weibo?q=%23%E8%87%AA%E7%84%B6%E7%81%BF%E8%8E%B7%E5%BE%97%E5%91%A8MVP%23&Refer=top) 80377
+47. [NV常规赛积分第一](https://s.weibo.com//weibo?q=%23NV%E5%B8%B8%E8%A7%84%E8%B5%9B%E7%A7%AF%E5%88%86%E7%AC%AC%E4%B8%80%23&Refer=top) 72431
+48. [Tian说希望继续赢下去](https://s.weibo.com//weibo?q=%23Tian%E8%AF%B4%E5%B8%8C%E6%9C%9B%E7%BB%A7%E7%BB%AD%E8%B5%A2%E4%B8%8B%E5%8E%BB%23&Refer=top) 52326
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
