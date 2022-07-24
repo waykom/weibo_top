@@ -48,11 +48,12 @@ weibo_top
 37. [贵州省考](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%9C%81%E8%80%83%23&Refer=top) 119176
 38. [TTG终结对eStar八连败](https://s.weibo.com//weibo?q=%23TTG%E7%BB%88%E7%BB%93%E5%AF%B9eStar%E5%85%AB%E8%BF%9E%E8%B4%A5%23&Refer=top) 115828
 39. [TheShy伤害](https://s.weibo.com//weibo?q=TheShy%E4%BC%A4%E5%AE%B3&Refer=top) 107380
-40. [TT周冠军](https://s.weibo.com//weibo?q=%23TT%E5%91%A8%E5%86%A0%E5%86%9B%23&Refer=top) 88658
-41. [自然灿获得周MVP](https://s.weibo.com//weibo?q=%23%E8%87%AA%E7%84%B6%E7%81%BF%E8%8E%B7%E5%BE%97%E5%91%A8MVP%23&Refer=top) 80377
-42. [NV常规赛积分第一](https://s.weibo.com//weibo?q=%23NV%E5%B8%B8%E8%A7%84%E8%B5%9B%E7%A7%AF%E5%88%86%E7%AC%AC%E4%B8%80%23&Refer=top) 72431
-43. [Tian说希望继续赢下去](https://s.weibo.com//weibo?q=%23Tian%E8%AF%B4%E5%B8%8C%E6%9C%9B%E7%BB%A7%E7%BB%AD%E8%B5%A2%E4%B8%8B%E5%8E%BB%23&Refer=top) 52326
-44. [成都一女子斑马线上被轿车撞飞](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%A5%B3%E5%AD%90%E6%96%91%E9%A9%AC%E7%BA%BF%E4%B8%8A%E8%A2%AB%E8%BD%BF%E8%BD%A6%E6%92%9E%E9%A3%9E%23&Refer=top) 42788
+40. [成都一女子斑马线上被轿车撞飞](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%A5%B3%E5%AD%90%E6%96%91%E9%A9%AC%E7%BA%BF%E4%B8%8A%E8%A2%AB%E8%BD%BF%E8%BD%A6%E6%92%9E%E9%A3%9E%23&Refer=top) 90235
+41. [TT周冠军](https://s.weibo.com//weibo?q=%23TT%E5%91%A8%E5%86%A0%E5%86%9B%23&Refer=top) 88658
+42. [自然灿获得周MVP](https://s.weibo.com//weibo?q=%23%E8%87%AA%E7%84%B6%E7%81%BF%E8%8E%B7%E5%BE%97%E5%91%A8MVP%23&Refer=top) 80377
+43. [NV常规赛积分第一](https://s.weibo.com//weibo?q=%23NV%E5%B8%B8%E8%A7%84%E8%B5%9B%E7%A7%AF%E5%88%86%E7%AC%AC%E4%B8%80%23&Refer=top) 72431
+44. [九尾 裁判](https://s.weibo.com//weibo?q=%E4%B9%9D%E5%B0%BE%20%E8%A3%81%E5%88%A4&Refer=top) 58233
+45. [Tian说希望继续赢下去](https://s.weibo.com//weibo?q=%23Tian%E8%AF%B4%E5%B8%8C%E6%9C%9B%E7%BB%A7%E7%BB%AD%E8%B5%A2%E4%B8%8B%E5%8E%BB%23&Refer=top) 52326
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
