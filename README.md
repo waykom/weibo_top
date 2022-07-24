@@ -24,7 +24,7 @@ weibo_top
 13. [日本九州鹿儿岛县樱岛火山喷发](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B9%9D%E5%B7%9E%E9%B9%BF%E5%84%BF%E5%B2%9B%E5%8E%BF%E6%A8%B1%E5%B2%9B%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&Refer=top) 540149
 14. [法拉利](https://s.weibo.com//weibo?q=%E6%B3%95%E6%8B%89%E5%88%A9&Refer=top) 470746
 15. [Ning 饭堂](https://s.weibo.com//weibo?q=Ning%20%E9%A5%AD%E5%A0%82&Refer=top) 444097
-16. [多地佛协通知对供奉牌位进行自查](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%BD%9B%E5%8D%8F%E9%80%9A%E7%9F%A5%E5%AF%B9%E4%BE%9B%E5%A5%89%E7%89%8C%E4%BD%8D%E8%BF%9B%E8%A1%8C%E8%87%AA%E6%9F%A5%23&Refer=top) 401890
+16. [多地佛协通知对供奉牌位进行自查](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E5%9C%B0%E4%BD%9B%E5%8D%8F%E9%80%9A%E7%9F%A5%E5%AF%B9%E4%BE%9B%E5%A5%89%E7%89%8C%E4%BD%8D%E8%BF%9B%E8%A1%8C%E8%87%AA%E6%9F%A5%23&Refer=top) 410117
 17. [国足0比0日本](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B30%E6%AF%940%E6%97%A5%E6%9C%AC%23&Refer=top) 366381
 18. [九尾的干将莫邪](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E5%B0%BE%E7%9A%84%E5%B9%B2%E5%B0%86%E8%8E%AB%E9%82%AA%23&Refer=top) 364363
 19. [江西通报一地将承办日本夏日祭活动](https://s.weibo.com//weibo?q=%23%E6%B1%9F%E8%A5%BF%E9%80%9A%E6%8A%A5%E4%B8%80%E5%9C%B0%E5%B0%86%E6%89%BF%E5%8A%9E%E6%97%A5%E6%9C%AC%E5%A4%8F%E6%97%A5%E7%A5%AD%E6%B4%BB%E5%8A%A8%23&Refer=top) 363472
@@ -52,6 +52,7 @@ weibo_top
 41. [自然灿获得周MVP](https://s.weibo.com//weibo?q=%23%E8%87%AA%E7%84%B6%E7%81%BF%E8%8E%B7%E5%BE%97%E5%91%A8MVP%23&Refer=top) 80377
 42. [NV常规赛积分第一](https://s.weibo.com//weibo?q=%23NV%E5%B8%B8%E8%A7%84%E8%B5%9B%E7%A7%AF%E5%88%86%E7%AC%AC%E4%B8%80%23&Refer=top) 72431
 43. [Tian说希望继续赢下去](https://s.weibo.com//weibo?q=%23Tian%E8%AF%B4%E5%B8%8C%E6%9C%9B%E7%BB%A7%E7%BB%AD%E8%B5%A2%E4%B8%8B%E5%8E%BB%23&Refer=top) 52326
+44. [成都一女子斑马线上被轿车撞飞](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%A5%B3%E5%AD%90%E6%96%91%E9%A9%AC%E7%BA%BF%E4%B8%8A%E8%A2%AB%E8%BD%BF%E8%BD%A6%E6%92%9E%E9%A3%9E%23&Refer=top) 42788
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
