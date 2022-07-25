@@ -56,6 +56,7 @@ weibo_top
 45. [重庆大风](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E5%A4%A7%E9%A3%8E%23&Refer=top) 118161
 46. [房东每度电按1元收费](https://s.weibo.com//weibo?q=%23%E6%88%BF%E4%B8%9C%E6%AF%8F%E5%BA%A6%E7%94%B5%E6%8C%891%E5%85%83%E6%94%B6%E8%B4%B9%23&Refer=top) 115392
 47. [张碧晨微博直播](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%BE%AE%E5%8D%9A%E7%9B%B4%E6%92%AD%23&Refer=top) 105983
+48. [巴黎vs大阪钢巴](https://s.weibo.com//weibo?q=%E5%B7%B4%E9%BB%8Evs%E5%A4%A7%E9%98%AA%E9%92%A2%E5%B7%B4&Refer=top) 11585
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
