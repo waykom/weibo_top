@@ -58,7 +58,7 @@ weibo_top
 47. [校园贷危害有多大](https://s.weibo.com//weibo?q=%23%E6%A0%A1%E5%9B%AD%E8%B4%B7%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top) 105402
 48. [欧洲热浪报告](https://s.weibo.com//weibo?q=%E6%AC%A7%E6%B4%B2%E7%83%AD%E6%B5%AA%E6%8A%A5%E5%91%8A&Refer=top) 69886
 49. [蔡徐坤登顶微博综艺视频榜](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%99%BB%E9%A1%B6%E5%BE%AE%E5%8D%9A%E7%BB%BC%E8%89%BA%E8%A7%86%E9%A2%91%E6%A6%9C%23&Refer=top) 53914
-50. [张艺兴影视综全面开花](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BD%B1%E8%A7%86%E7%BB%BC%E5%85%A8%E9%9D%A2%E5%BC%80%E8%8A%B1%23&Refer=top) 33856
+50. [张艺兴影视综全面开花](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BD%B1%E8%A7%86%E7%BB%BC%E5%85%A8%E9%9D%A2%E5%BC%80%E8%8A%B1%23&Refer=top) 37589
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
