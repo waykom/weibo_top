@@ -49,6 +49,7 @@ weibo_top
 38. [迪奥抄袭马面裙](https://s.weibo.com//weibo?q=%23%E8%BF%AA%E5%A5%A5%E6%8A%84%E8%A2%AD%E9%A9%AC%E9%9D%A2%E8%A3%99%23&Refer=top) 144313
 39. [郭艾伦](https://s.weibo.com//weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6&Refer=top) 141472
 40. [这猫到底是怎么养的](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%8C%AB%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E5%85%BB%E7%9A%84%23&Refer=top) 137736
+41. [六旬大叔高温下跪地施救溺水男孩](https://s.weibo.com//weibo?q=%23%E5%85%AD%E6%97%AC%E5%A4%A7%E5%8F%94%E9%AB%98%E6%B8%A9%E4%B8%8B%E8%B7%AA%E5%9C%B0%E6%96%BD%E6%95%91%E6%BA%BA%E6%B0%B4%E7%94%B7%E5%AD%A9%23&Refer=top) 15504
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
