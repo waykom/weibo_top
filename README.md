@@ -50,7 +50,7 @@ weibo_top
 39. [GEN战胜T1](https://s.weibo.com//weibo?q=%23GEN%E6%88%98%E8%83%9CT1%23&Refer=top) 115302
 40. [9岁娃没写作业被爸爸骂背书包出走](https://s.weibo.com//weibo?q=%239%E5%B2%81%E5%A8%83%E6%B2%A1%E5%86%99%E4%BD%9C%E4%B8%9A%E8%A2%AB%E7%88%B8%E7%88%B8%E9%AA%82%E8%83%8C%E4%B9%A6%E5%8C%85%E5%87%BA%E8%B5%B0%23&Refer=top) 114041
 41. [乐山枪案嫌犯与女伤者关系密切](https://s.weibo.com//weibo?q=%23%E4%B9%90%E5%B1%B1%E6%9E%AA%E6%A1%88%E5%AB%8C%E7%8A%AF%E4%B8%8E%E5%A5%B3%E4%BC%A4%E8%80%85%E5%85%B3%E7%B3%BB%E5%AF%86%E5%88%87%23&Refer=top) 97601
-42. [只有吴磊受伤的世界达成了](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E6%9C%89%E5%90%B4%E7%A3%8A%E5%8F%97%E4%BC%A4%E7%9A%84%E4%B8%96%E7%95%8C%E8%BE%BE%E6%88%90%E4%BA%86%23&Refer=top) 78070
+42. [只有吴磊受伤的世界达成了](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E6%9C%89%E5%90%B4%E7%A3%8A%E5%8F%97%E4%BC%A4%E7%9A%84%E4%B8%96%E7%95%8C%E8%BE%BE%E6%88%90%E4%BA%86%23&Refer=top) 91032
 43. [中国男篮众将祝福吴冠希张常宁](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BC%97%E5%B0%86%E7%A5%9D%E7%A6%8F%E5%90%B4%E5%86%A0%E5%B8%8C%E5%BC%A0%E5%B8%B8%E5%AE%81%23&Refer=top) 76670
 44. [成都加油](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%8A%A0%E6%B2%B9%23&Refer=top) 66416
 45. [利物浦曼城红蓝大战](https://s.weibo.com//weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6%E6%9B%BC%E5%9F%8E%E7%BA%A2%E8%93%9D%E5%A4%A7%E6%88%98%23&Refer=top) 36167
