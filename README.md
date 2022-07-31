@@ -23,8 +23,8 @@ weibo_top
 12. [考驾照真的太难了](https://s.weibo.com//weibo?q=%23%E8%80%83%E9%A9%BE%E7%85%A7%E7%9C%9F%E7%9A%84%E5%A4%AA%E9%9A%BE%E4%BA%86%23&Refer=top) 575836
 13. [男子穿短袖误困冰库机智报警自救](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%A9%BF%E7%9F%AD%E8%A2%96%E8%AF%AF%E5%9B%B0%E5%86%B0%E5%BA%93%E6%9C%BA%E6%99%BA%E6%8A%A5%E8%AD%A6%E8%87%AA%E6%95%91%23&Refer=top) 479283
 14. [赵让回应内娱没有舞台](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E8%AE%A9%E5%9B%9E%E5%BA%94%E5%86%85%E5%A8%B1%E6%B2%A1%E6%9C%89%E8%88%9E%E5%8F%B0%23&Refer=top) 466510
-15. [上海相关区域开展3天2检全员核酸](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%9B%B8%E5%85%B3%E5%8C%BA%E5%9F%9F%E5%BC%80%E5%B1%953%E5%A4%A92%E6%A3%80%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%23&Refer=top) 420115
-16. [晚上睡不着可以白天补觉吗](https://s.weibo.com//weibo?q=%23%E6%99%9A%E4%B8%8A%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%8F%AF%E4%BB%A5%E7%99%BD%E5%A4%A9%E8%A1%A5%E8%A7%89%E5%90%97%23&Refer=top) 400869
+15. [晚上睡不着可以白天补觉吗](https://s.weibo.com//weibo?q=%23%E6%99%9A%E4%B8%8A%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%8F%AF%E4%BB%A5%E7%99%BD%E5%A4%A9%E8%A1%A5%E8%A7%89%E5%90%97%23&Refer=top) 435907
+16. [上海相关区域开展3天2检全员核酸](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%9B%B8%E5%85%B3%E5%8C%BA%E5%9F%9F%E5%BC%80%E5%B1%953%E5%A4%A92%E6%A3%80%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%23&Refer=top) 420115
 17. [郭艾伦 发点啥都会被过度分析和解读](https://s.weibo.com//weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%20%E5%8F%91%E7%82%B9%E5%95%A5%E9%83%BD%E4%BC%9A%E8%A2%AB%E8%BF%87%E5%BA%A6%E5%88%86%E6%9E%90%E5%92%8C%E8%A7%A3%E8%AF%BB&Refer=top) 361634
 18. [研究发现长颈鹿脖子长真正原因](https://s.weibo.com//weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E9%95%BF%E9%A2%88%E9%B9%BF%E8%84%96%E5%AD%90%E9%95%BF%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%23&Refer=top) 356284
 19. [鸿星尔克再捐1个亿](https://s.weibo.com//weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E5%86%8D%E6%8D%901%E4%B8%AA%E4%BA%BF%23&Refer=top) 334905
@@ -63,6 +63,7 @@ weibo_top
 52. [3孩均非亲生事件第三人发声](https://s.weibo.com//weibo?q=%233%E5%AD%A9%E5%9D%87%E9%9D%9E%E4%BA%B2%E7%94%9F%E4%BA%8B%E4%BB%B6%E7%AC%AC%E4%B8%89%E4%BA%BA%E5%8F%91%E5%A3%B0%23&Refer=top) 82938
 53. [邹阳MVP](https://s.weibo.com//weibo?q=%23%E9%82%B9%E9%98%B3MVP%23&Refer=top) 79187
 54. [佩洛西的公务飞机已经出发](https://s.weibo.com//weibo?q=%23%E4%BD%A9%E6%B4%9B%E8%A5%BF%E7%9A%84%E5%85%AC%E5%8A%A1%E9%A3%9E%E6%9C%BA%E5%B7%B2%E7%BB%8F%E5%87%BA%E5%8F%91%23&Refer=top) 74427
+55. [数学家丘成桐称很少教儿子数学](https://s.weibo.com//weibo?q=%23%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%B8%98%E6%88%90%E6%A1%90%E7%A7%B0%E5%BE%88%E5%B0%91%E6%95%99%E5%84%BF%E5%AD%90%E6%95%B0%E5%AD%A6%23&Refer=top) 19535
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
