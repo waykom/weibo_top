@@ -60,6 +60,7 @@ weibo_top
 49. [北京上海等地率先落实核酸结果互认](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8A%E6%B5%B7%E7%AD%89%E5%9C%B0%E7%8E%87%E5%85%88%E8%90%BD%E5%AE%9E%E6%A0%B8%E9%85%B8%E7%BB%93%E6%9E%9C%E4%BA%92%E8%AE%A4%23&Refer=top) 136054
 50. [早见沙织确诊新冠](https://s.weibo.com//weibo?q=%23%E6%97%A9%E8%A7%81%E6%B2%99%E7%BB%87%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&Refer=top) 114567
 51. [俩狗狗打闹时看到镜头马上表情管理](https://s.weibo.com//weibo?q=%23%E4%BF%A9%E7%8B%97%E7%8B%97%E6%89%93%E9%97%B9%E6%97%B6%E7%9C%8B%E5%88%B0%E9%95%9C%E5%A4%B4%E9%A9%AC%E4%B8%8A%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86%23&Refer=top) 78813
+52. [柯基满身是血用眼神求助路人送医](https://s.weibo.com//weibo?q=%23%E6%9F%AF%E5%9F%BA%E6%BB%A1%E8%BA%AB%E6%98%AF%E8%A1%80%E7%94%A8%E7%9C%BC%E7%A5%9E%E6%B1%82%E5%8A%A9%E8%B7%AF%E4%BA%BA%E9%80%81%E5%8C%BB%23&Refer=top) 37004
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
