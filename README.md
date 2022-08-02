@@ -61,8 +61,9 @@ weibo_top
 50. [台媒称佩洛西预计今晚抵达台湾](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E5%AA%92%E7%A7%B0%E4%BD%A9%E6%B4%9B%E8%A5%BF%E9%A2%84%E8%AE%A1%E4%BB%8A%E6%99%9A%E6%8A%B5%E8%BE%BE%E5%8F%B0%E6%B9%BE%23&Refer=top) 122538
 51. [印尼解封Steam](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%B0%BC%E8%A7%A3%E5%B0%81Steam%23&Refer=top) 89373
 52. [原神宵宫复刻](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E7%A5%9E%E5%AE%B5%E5%AE%AB%E5%A4%8D%E5%88%BB%23&Refer=top) 77573
-53. [洒水车无视路人高压水管直接喷](https://s.weibo.com//weibo?q=%23%E6%B4%92%E6%B0%B4%E8%BD%A6%E6%97%A0%E8%A7%86%E8%B7%AF%E4%BA%BA%E9%AB%98%E5%8E%8B%E6%B0%B4%E7%AE%A1%E7%9B%B4%E6%8E%A5%E5%96%B7%23&Refer=top) 42572
+53. [洒水车无视路人高压水管直接喷](https://s.weibo.com//weibo?q=%23%E6%B4%92%E6%B0%B4%E8%BD%A6%E6%97%A0%E8%A7%86%E8%B7%AF%E4%BA%BA%E9%AB%98%E5%8E%8B%E6%B0%B4%E7%AE%A1%E7%9B%B4%E6%8E%A5%E5%96%B7%23&Refer=top) 60323
 54. [收到喜欢的礼物是一种什么体验](https://s.weibo.com//weibo?q=%23%E6%94%B6%E5%88%B0%E5%96%9C%E6%AC%A2%E7%9A%84%E7%A4%BC%E7%89%A9%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 32572
+55. [女子疑因超时发语音辱骂外卖员](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%96%91%E5%9B%A0%E8%B6%85%E6%97%B6%E5%8F%91%E8%AF%AD%E9%9F%B3%E8%BE%B1%E9%AA%82%E5%A4%96%E5%8D%96%E5%91%98%23&Refer=top) 22238
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
