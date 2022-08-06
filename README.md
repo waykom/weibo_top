@@ -54,7 +54,7 @@ weibo_top
 43. [善于伪装的西瓜刺客](https://s.weibo.com//weibo?q=%23%E5%96%84%E4%BA%8E%E4%BC%AA%E8%A3%85%E7%9A%84%E8%A5%BF%E7%93%9C%E5%88%BA%E5%AE%A2%23&Refer=top) 179881
 44. [紫幻小乔MVP](https://s.weibo.com//weibo?q=%23%E7%B4%AB%E5%B9%BB%E5%B0%8F%E4%B9%94MVP%23&Refer=top) 172483
 45. [海南公布近期旅客离岛疫情防控措施](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E5%85%AC%E5%B8%83%E8%BF%91%E6%9C%9F%E6%97%85%E5%AE%A2%E7%A6%BB%E5%B2%9B%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8E%AA%E6%96%BD%23&Refer=top) 171195
-46. [浙江本轮疫情系奥密克戎BA.5.2变异株](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E7%B3%BB%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8EBA.5.2%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top) 115363
+46. [浙江本轮疫情系奥密克戎BA.5.2变异株](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E7%B3%BB%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8EBA.5.2%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top) 143940
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
