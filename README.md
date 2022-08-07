@@ -30,9 +30,9 @@ weibo_top
 19. [非要在婚礼露一手的爸爸](https://s.weibo.com//weibo?q=%23%E9%9D%9E%E8%A6%81%E5%9C%A8%E5%A9%9A%E7%A4%BC%E9%9C%B2%E4%B8%80%E6%89%8B%E7%9A%84%E7%88%B8%E7%88%B8%23&Refer=top) 386218
 20. [小伙立夏在上海隔离立秋滞留三亚](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E7%AB%8B%E5%A4%8F%E5%9C%A8%E4%B8%8A%E6%B5%B7%E9%9A%94%E7%A6%BB%E7%AB%8B%E7%A7%8B%E6%BB%9E%E7%95%99%E4%B8%89%E4%BA%9A%23&Refer=top) 382365
 21. [冉莹颖情绪崩溃](https://s.weibo.com//weibo?q=%23%E5%86%89%E8%8E%B9%E9%A2%96%E6%83%85%E7%BB%AA%E5%B4%A9%E6%BA%83%23&Refer=top) 361335
-22. [新晋奶爸左右手托双胞胎睡觉气坏宝妈](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%99%8B%E5%A5%B6%E7%88%B8%E5%B7%A6%E5%8F%B3%E6%89%8B%E6%89%98%E5%8F%8C%E8%83%9E%E8%83%8E%E7%9D%A1%E8%A7%89%E6%B0%94%E5%9D%8F%E5%AE%9D%E5%A6%88%23&Refer=top) 334147
-23. [美海军导弹测量船匆忙部署至冲绳以南](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%B5%B7%E5%86%9B%E5%AF%BC%E5%BC%B9%E6%B5%8B%E9%87%8F%E8%88%B9%E5%8C%86%E5%BF%99%E9%83%A8%E7%BD%B2%E8%87%B3%E5%86%B2%E7%BB%B3%E4%BB%A5%E5%8D%97%23&Refer=top) 324264
-24. [第一次见这么享受洗澡的狗](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E4%BA%AB%E5%8F%97%E6%B4%97%E6%BE%A1%E7%9A%84%E7%8B%97%23&Refer=top) 302610
+22. [第一次见这么享受洗澡的狗](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E4%BA%AB%E5%8F%97%E6%B4%97%E6%BE%A1%E7%9A%84%E7%8B%97%23&Refer=top) 335029
+23. [新晋奶爸左右手托双胞胎睡觉气坏宝妈](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%99%8B%E5%A5%B6%E7%88%B8%E5%B7%A6%E5%8F%B3%E6%89%8B%E6%89%98%E5%8F%8C%E8%83%9E%E8%83%8E%E7%9D%A1%E8%A7%89%E6%B0%94%E5%9D%8F%E5%AE%9D%E5%A6%88%23&Refer=top) 334147
+24. [美海军导弹测量船匆忙部署至冲绳以南](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%B5%B7%E5%86%9B%E5%AF%BC%E5%BC%B9%E6%B5%8B%E9%87%8F%E8%88%B9%E5%8C%86%E5%BF%99%E9%83%A8%E7%BD%B2%E8%87%B3%E5%86%B2%E7%BB%B3%E4%BB%A5%E5%8D%97%23&Refer=top) 324264
 25. [京一终身禁赛](https://s.weibo.com//weibo?q=%23%E4%BA%AC%E4%B8%80%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&Refer=top) 300280
 26. [九尾的王昭君](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E5%B0%BE%E7%9A%84%E7%8E%8B%E6%98%AD%E5%90%9B%23&Refer=top) 298602
 27. [三亚全市社区实行封闭式管理](https://s.weibo.com//weibo?q=%23%E4%B8%89%E4%BA%9A%E5%85%A8%E5%B8%82%E7%A4%BE%E5%8C%BA%E5%AE%9E%E8%A1%8C%E5%B0%81%E9%97%AD%E5%BC%8F%E7%AE%A1%E7%90%86%23&Refer=top) 206206
@@ -51,6 +51,8 @@ weibo_top
 40. [马龙保研北体大](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E4%BF%9D%E7%A0%94%E5%8C%97%E4%BD%93%E5%A4%A7%23&Refer=top) 146033
 41. [秋天的第一份祝福](https://s.weibo.com//weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E7%A5%9D%E7%A6%8F%23&Refer=top) 128315
 42. [曼联1比2布莱顿](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E8%81%941%E6%AF%942%E5%B8%83%E8%8E%B1%E9%A1%BF%23&Refer=top) 107692
+43. [海南新冠疫情防控工作发布会](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%B7%A5%E4%BD%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 58312
+44. [原来这就是数学之美](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%23&Refer=top) 43965
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
