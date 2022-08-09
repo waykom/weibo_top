@@ -56,9 +56,9 @@ weibo_top
 45. [厦门重点人群今天开展一次核酸检测](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E9%87%8D%E7%82%B9%E4%BA%BA%E7%BE%A4%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B1%95%E4%B8%80%E6%AC%A1%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 85030
 46. [好莱坞多家公司不让片中角色抽烟](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E7%89%87%E4%B8%AD%E8%A7%92%E8%89%B2%E6%8A%BD%E7%83%9F%23&Refer=top) 68452
 47. [Billboard首封预告是王嘉尔吧](https://s.weibo.com//weibo?q=%23Billboard%E9%A6%96%E5%B0%81%E9%A2%84%E5%91%8A%E6%98%AF%E7%8E%8B%E5%98%89%E5%B0%94%E5%90%A7%23&Refer=top) 47848
-48. [乃万喜提驾照](https://s.weibo.com//weibo?q=%23%E4%B9%83%E4%B8%87%E5%96%9C%E6%8F%90%E9%A9%BE%E7%85%A7%23&Refer=top) 40835
-49. [男子离家返工父母给带回活鸡鸭羊](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%A6%BB%E5%AE%B6%E8%BF%94%E5%B7%A5%E7%88%B6%E6%AF%8D%E7%BB%99%E5%B8%A6%E5%9B%9E%E6%B4%BB%E9%B8%A1%E9%B8%AD%E7%BE%8A%23&Refer=top) 37120
-50. [嫌犯到法院旁听自己案件被抓](https://s.weibo.com//weibo?q=%23%E5%AB%8C%E7%8A%AF%E5%88%B0%E6%B3%95%E9%99%A2%E6%97%81%E5%90%AC%E8%87%AA%E5%B7%B1%E6%A1%88%E4%BB%B6%E8%A2%AB%E6%8A%93%23&Refer=top) 30967
+48. [嫌犯到法院旁听自己案件被抓](https://s.weibo.com//weibo?q=%23%E5%AB%8C%E7%8A%AF%E5%88%B0%E6%B3%95%E9%99%A2%E6%97%81%E5%90%AC%E8%87%AA%E5%B7%B1%E6%A1%88%E4%BB%B6%E8%A2%AB%E6%8A%93%23&Refer=top) 45928
+49. [男子离家返工父母给带回活鸡鸭羊](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%A6%BB%E5%AE%B6%E8%BF%94%E5%B7%A5%E7%88%B6%E6%AF%8D%E7%BB%99%E5%B8%A6%E5%9B%9E%E6%B4%BB%E9%B8%A1%E9%B8%AD%E7%BE%8A%23&Refer=top) 45645
+50. [乃万喜提驾照](https://s.weibo.com//weibo?q=%23%E4%B9%83%E4%B8%87%E5%96%9C%E6%8F%90%E9%A9%BE%E7%85%A7%23&Refer=top) 40835
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
