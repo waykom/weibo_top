@@ -48,10 +48,10 @@ weibo_top
 37. [雷军喜欢重金属](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E5%86%9B%E5%96%9C%E6%AC%A2%E9%87%8D%E9%87%91%E5%B1%9E%23&Refer=top) 163310
 38. [女子微整形失败10个月没敢出门](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BE%AE%E6%95%B4%E5%BD%A2%E5%A4%B1%E8%B4%A510%E4%B8%AA%E6%9C%88%E6%B2%A1%E6%95%A2%E5%87%BA%E9%97%A8%23&Refer=top) 156793
 39. [永昌公安警情通报](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E6%98%8C%E5%85%AC%E5%AE%89%E8%AD%A6%E6%83%85%E9%80%9A%E6%8A%A5%23&Refer=top) 156257
-40. [男子进店推销无果后跪地不起](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9B%E5%BA%97%E6%8E%A8%E9%94%80%E6%97%A0%E6%9E%9C%E5%90%8E%E8%B7%AA%E5%9C%B0%E4%B8%8D%E8%B5%B7%23&Refer=top) 138434
+40. [男子进店推销无果后跪地不起](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9B%E5%BA%97%E6%8E%A8%E9%94%80%E6%97%A0%E6%9E%9C%E5%90%8E%E8%B7%AA%E5%9C%B0%E4%B8%8D%E8%B5%B7%23&Refer=top) 144275
 41. [为了这扇窗的风景值了](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BA%86%E8%BF%99%E6%89%87%E7%AA%97%E7%9A%84%E9%A3%8E%E6%99%AF%E5%80%BC%E4%BA%86%23&Refer=top) 117547
 42. [厦门重点人群今天开展一次核酸检测](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E9%87%8D%E7%82%B9%E4%BA%BA%E7%BE%A4%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B1%95%E4%B8%80%E6%AC%A1%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 85030
-43. [高温作业工人死在出租屋获赔8.3万](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%B8%A9%E4%BD%9C%E4%B8%9A%E5%B7%A5%E4%BA%BA%E6%AD%BB%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8E%B7%E8%B5%948.3%E4%B8%87%23&Refer=top) 46288
+43. [高温作业工人死在出租屋获赔8.3万](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%B8%A9%E4%BD%9C%E4%B8%9A%E5%B7%A5%E4%BA%BA%E6%AD%BB%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8E%B7%E8%B5%948.3%E4%B8%87%23&Refer=top) 73681
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
