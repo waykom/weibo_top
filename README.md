@@ -19,8 +19,8 @@ weibo_top
 8. [名创优品致歉声明](https://s.weibo.com//weibo?q=%23%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&Refer=top) 987020
 9. [80后女正厅段颖被查](https://s.weibo.com//weibo?q=%2380%E5%90%8E%E5%A5%B3%E6%AD%A3%E5%8E%85%E6%AE%B5%E9%A2%96%E8%A2%AB%E6%9F%A5%23&Refer=top) 975841
 10. [水谷隼感染新冠](https://s.weibo.com//weibo?q=%23%E6%B0%B4%E8%B0%B7%E9%9A%BC%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top) 732070
-11. [南昌每5套房就有1套空着](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%98%8C%E6%AF%8F5%E5%A5%97%E6%88%BF%E5%B0%B1%E6%9C%891%E5%A5%97%E7%A9%BA%E7%9D%80%23&Refer=top) 668661
-12. [00后女孩给离世父母发消息分享生活](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%BB%99%E7%A6%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E5%8F%91%E6%B6%88%E6%81%AF%E5%88%86%E4%BA%AB%E7%94%9F%E6%B4%BB%23&Refer=top) 613308
+11. [00后女孩给离世父母发消息分享生活](https://s.weibo.com//weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%BB%99%E7%A6%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E5%8F%91%E6%B6%88%E6%81%AF%E5%88%86%E4%BA%AB%E7%94%9F%E6%B4%BB%23&Refer=top) 681996
+12. [南昌每5套房就有1套空着](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%98%8C%E6%AF%8F5%E5%A5%97%E6%88%BF%E5%B0%B1%E6%9C%891%E5%A5%97%E7%A9%BA%E7%9D%80%23&Refer=top) 668661
 13. [社区开展好媳妇为婆婆洗脚活动](https://s.weibo.com//weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%BC%80%E5%B1%95%E5%A5%BD%E5%AA%B3%E5%A6%87%E4%B8%BA%E5%A9%86%E5%A9%86%E6%B4%97%E8%84%9A%E6%B4%BB%E5%8A%A8%23&Refer=top) 601354
 14. [美国中情局称将更加关注中国事务](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%83%85%E5%B1%80%E7%A7%B0%E5%B0%86%E6%9B%B4%E5%8A%A0%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E4%BA%8B%E5%8A%A1%23&Refer=top) 494390
 15. [一层三户分别住着海军陆军武警](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%B1%82%E4%B8%89%E6%88%B7%E5%88%86%E5%88%AB%E4%BD%8F%E7%9D%80%E6%B5%B7%E5%86%9B%E9%99%86%E5%86%9B%E6%AD%A6%E8%AD%A6%23&Refer=top) 480827
@@ -48,8 +48,9 @@ weibo_top
 37. [雷军喜欢重金属](https://s.weibo.com//weibo?q=%23%E9%9B%B7%E5%86%9B%E5%96%9C%E6%AC%A2%E9%87%8D%E9%87%91%E5%B1%9E%23&Refer=top) 163310
 38. [女子微整形失败10个月没敢出门](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BE%AE%E6%95%B4%E5%BD%A2%E5%A4%B1%E8%B4%A510%E4%B8%AA%E6%9C%88%E6%B2%A1%E6%95%A2%E5%87%BA%E9%97%A8%23&Refer=top) 156793
 39. [永昌公安警情通报](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E6%98%8C%E5%85%AC%E5%AE%89%E8%AD%A6%E6%83%85%E9%80%9A%E6%8A%A5%23&Refer=top) 156257
-40. [为了这扇窗的风景值了](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BA%86%E8%BF%99%E6%89%87%E7%AA%97%E7%9A%84%E9%A3%8E%E6%99%AF%E5%80%BC%E4%BA%86%23&Refer=top) 117547
-41. [男子进店推销无果后跪地不起](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9B%E5%BA%97%E6%8E%A8%E9%94%80%E6%97%A0%E6%9E%9C%E5%90%8E%E8%B7%AA%E5%9C%B0%E4%B8%8D%E8%B5%B7%23&Refer=top) 105999
+40. [男子进店推销无果后跪地不起](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9B%E5%BA%97%E6%8E%A8%E9%94%80%E6%97%A0%E6%9E%9C%E5%90%8E%E8%B7%AA%E5%9C%B0%E4%B8%8D%E8%B5%B7%23&Refer=top) 120584
+41. [为了这扇窗的风景值了](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BA%86%E8%BF%99%E6%89%87%E7%AA%97%E7%9A%84%E9%A3%8E%E6%99%AF%E5%80%BC%E4%BA%86%23&Refer=top) 117547
+42. [厦门重点人群今天开展一次核酸检测](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E9%87%8D%E7%82%B9%E4%BA%BA%E7%BE%A4%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B1%95%E4%B8%80%E6%AC%A1%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 70114
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
