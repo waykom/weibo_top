@@ -46,6 +46,7 @@ weibo_top
 35. [成都铲子哥等5人获见义勇为奖](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E9%93%B2%E5%AD%90%E5%93%A5%E7%AD%895%E4%BA%BA%E8%8E%B7%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E5%A5%96%23&Refer=top) 105211
 36. [海关查获24套错绘漏绘问题地图](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B724%E5%A5%97%E9%94%99%E7%BB%98%E6%BC%8F%E7%BB%98%E9%97%AE%E9%A2%98%E5%9C%B0%E5%9B%BE%23&Refer=top) 84376
 37. [小男孩因主角牺牲嚎啕大哭响彻影院](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%9B%A0%E4%B8%BB%E8%A7%92%E7%89%BA%E7%89%B2%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%E5%93%8D%E5%BD%BB%E5%BD%B1%E9%99%A2%23&Refer=top) 80942
+38. [为什么年轻人越来越惜命](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%83%9C%E5%91%BD%23&Refer=top) 80600
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
