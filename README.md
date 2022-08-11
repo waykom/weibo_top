@@ -25,7 +25,7 @@ weibo_top
 14. [小米自动驾驶首次亮相](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%23&Refer=top) 335343
 15. [上海3地列为高风险区](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B73%E5%9C%B0%E5%88%97%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%23&Refer=top) 332502
 16. [村BA向姚明和CBA发出邀请](https://s.weibo.com//weibo?q=%23%E6%9D%91BA%E5%90%91%E5%A7%9A%E6%98%8E%E5%92%8CCBA%E5%8F%91%E5%87%BA%E9%82%80%E8%AF%B7%23&Refer=top) 321922
-17. [为什么年轻人越来越惜命](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%83%9C%E5%91%BD%23&Refer=top) 261362
+17. [为什么年轻人越来越惜命](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%83%9C%E5%91%BD%23&Refer=top) 316654
 18. [成都六勇士之一辅警被报请记功表彰](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%85%AD%E5%8B%87%E5%A3%AB%E4%B9%8B%E4%B8%80%E8%BE%85%E8%AD%A6%E8%A2%AB%E6%8A%A5%E8%AF%B7%E8%AE%B0%E5%8A%9F%E8%A1%A8%E5%BD%B0%23&Refer=top) 258292
 19. [刘耀文严浩翔模仿熊大熊二](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%A8%A1%E4%BB%BF%E7%86%8A%E5%A4%A7%E7%86%8A%E4%BA%8C%23&Refer=top) 252472
 20. [潮汕生腌怎么还打人呢](https://s.weibo.com//weibo?q=%23%E6%BD%AE%E6%B1%95%E7%94%9F%E8%85%8C%E6%80%8E%E4%B9%88%E8%BF%98%E6%89%93%E4%BA%BA%E5%91%A2%23&Refer=top) 247165
