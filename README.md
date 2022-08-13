@@ -16,7 +16,7 @@ weibo_top
 5. [爱马仕回应16.5万自行车已抢光](https://s.weibo.com//weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E5%9B%9E%E5%BA%9416.5%E4%B8%87%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%B7%B2%E6%8A%A2%E5%85%89%23&Refer=top) 1453753
 6. [彭州山洪](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E5%B7%9E%E5%B1%B1%E6%B4%AA%23&Refer=top) 1048477
 7. [曼联](https://s.weibo.com//weibo?q=%E6%9B%BC%E8%81%94&Refer=top) 932308
-8. [彭州未撤离游客被卷入山洪](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E5%B7%9E%E6%9C%AA%E6%92%A4%E7%A6%BB%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%8D%B7%E5%85%A5%E5%B1%B1%E6%B4%AA%23&Refer=top) 881368
+8. [彭州未撤离游客被卷入山洪](https://s.weibo.com//weibo?q=%23%E5%BD%AD%E5%B7%9E%E6%9C%AA%E6%92%A4%E7%A6%BB%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%8D%B7%E5%85%A5%E5%B1%B1%E6%B4%AA%23&Refer=top) 927168
 9. [水千丞 偶企](https://s.weibo.com//weibo?q=%E6%B0%B4%E5%8D%83%E4%B8%9E%20%E5%81%B6%E4%BC%81&Refer=top) 732584
 10. [能让两百亿影帝主动扇扇子的女人](https://s.weibo.com//weibo?q=%23%E8%83%BD%E8%AE%A9%E4%B8%A4%E7%99%BE%E4%BA%BF%E5%BD%B1%E5%B8%9D%E4%B8%BB%E5%8A%A8%E6%89%87%E6%89%87%E5%AD%90%E7%9A%84%E5%A5%B3%E4%BA%BA%23&Refer=top) 707901
 11. [四川8岁男孩大桥下失联已11天](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D8%E5%B2%81%E7%94%B7%E5%AD%A9%E5%A4%A7%E6%A1%A5%E4%B8%8B%E5%A4%B1%E8%81%94%E5%B7%B211%E5%A4%A9%23&Refer=top) 682187
@@ -52,7 +52,7 @@ weibo_top
 41. [新疆库尔勒临时性静态管理](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%BA%93%E5%B0%94%E5%8B%92%E4%B8%B4%E6%97%B6%E6%80%A7%E9%9D%99%E6%80%81%E7%AE%A1%E7%90%86%23&Refer=top) 81326
 42. [曼城vs伯恩茅斯](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E5%9F%8Evs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF%23&Refer=top) 76600
 43. [中国男排vs韩国男排](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%92vs%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%8E%92%23&Refer=top) 66976
-44. [游乐园又多了一个伤心的人](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%8F%88%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BC%A4%E5%BF%83%E7%9A%84%E4%BA%BA%23&Refer=top) 46258
+44. [游乐园又多了一个伤心的人](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%8F%88%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BC%A4%E5%BF%83%E7%9A%84%E4%BA%BA%23&Refer=top) 55844
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
