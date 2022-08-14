@@ -50,7 +50,7 @@ weibo_top
 39. [中国男排亚洲杯夺冠](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%92%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%A4%BA%E5%86%A0%23&Refer=top) 114376
 40. [特朗普律师曾称所有机密材料已归还](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%8B%E5%B8%88%E6%9B%BE%E7%A7%B0%E6%89%80%E6%9C%89%E6%9C%BA%E5%AF%86%E6%9D%90%E6%96%99%E5%B7%B2%E5%BD%92%E8%BF%98%23&Refer=top) 111464
 41. [LGD 水鬼](https://s.weibo.com//weibo?q=LGD%20%E6%B0%B4%E9%AC%BC&Refer=top) 105855
-42. [你见过凌晨4点的天安门吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%A7%81%E8%BF%87%E5%87%8C%E6%99%A84%E7%82%B9%E7%9A%84%E5%A4%A9%E5%AE%89%E9%97%A8%E5%90%97%23&Refer=top) 24786
+42. [你见过凌晨4点的天安门吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%A7%81%E8%BF%87%E5%87%8C%E6%99%A84%E7%82%B9%E7%9A%84%E5%A4%A9%E5%AE%89%E9%97%A8%E5%90%97%23&Refer=top) 67761
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
