@@ -58,6 +58,7 @@ weibo_top
 47. [马嘉祺网速好慢](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E7%BD%91%E9%80%9F%E5%A5%BD%E6%85%A2%23&Refer=top) 83853
 48. [高温也卷起来了](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%B8%A9%E4%B9%9F%E5%8D%B7%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top) 53221
 49. [宋昕冉](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E6%98%95%E5%86%89%23&Refer=top) 37583
+50. [辉瑞CEO称已开始服用该公司新冠药](https://s.weibo.com//weibo?q=%23%E8%BE%89%E7%91%9ECEO%E7%A7%B0%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%9C%8D%E7%94%A8%E8%AF%A5%E5%85%AC%E5%8F%B8%E6%96%B0%E5%86%A0%E8%8D%AF%23&Refer=top) 10390
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
