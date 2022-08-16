@@ -60,7 +60,7 @@ weibo_top
 49. [上海海港2比0深圳队](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF2%E6%AF%940%E6%B7%B1%E5%9C%B3%E9%98%9F%23&Refer=top) 69000
 50. [6省市耕地受旱面积967万亩](https://s.weibo.com//weibo?q=%236%E7%9C%81%E5%B8%82%E8%80%95%E5%9C%B0%E5%8F%97%E6%97%B1%E9%9D%A2%E7%A7%AF967%E4%B8%87%E4%BA%A9%23&Refer=top) 46029
 51. [被狗狗的执着整破防了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E7%8B%97%E7%8B%97%E7%9A%84%E6%89%A7%E7%9D%80%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top) 39115
-52. [美国5岁孩子练习如何应对枪击](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD5%E5%B2%81%E5%AD%A9%E5%AD%90%E7%BB%83%E4%B9%A0%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E6%9E%AA%E5%87%BB%23&Refer=top) 13428
+52. [美国5岁孩子练习如何应对枪击](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD5%E5%B2%81%E5%AD%A9%E5%AD%90%E7%BB%83%E4%B9%A0%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E6%9E%AA%E5%87%BB%23&Refer=top) 18545
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
