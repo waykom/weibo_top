@@ -21,7 +21,7 @@ weibo_top
 10. [腾讯4个月近10款产品停服](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF4%E4%B8%AA%E6%9C%88%E8%BF%9110%E6%AC%BE%E4%BA%A7%E5%93%81%E5%81%9C%E6%9C%8D%23&Refer=top) 796781
 11. [实习生拒绝吃生鸡蛋被辞退](https://s.weibo.com//weibo?q=%23%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%92%E7%BB%9D%E5%90%83%E7%94%9F%E9%B8%A1%E8%9B%8B%E8%A2%AB%E8%BE%9E%E9%80%80%23&Refer=top) 786992
 12. [东北早上都得穿厚睡裤了](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%8C%97%E6%97%A9%E4%B8%8A%E9%83%BD%E5%BE%97%E7%A9%BF%E5%8E%9A%E7%9D%A1%E8%A3%A4%E4%BA%86%23&Refer=top) 541266
-13. [重庆高温地铁楼梯上长满了人](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E9%AB%98%E6%B8%A9%E5%9C%B0%E9%93%81%E6%A5%BC%E6%A2%AF%E4%B8%8A%E9%95%BF%E6%BB%A1%E4%BA%86%E4%BA%BA%23&Refer=top) 516698
+13. [重庆高温地铁楼梯上长满了人](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E9%AB%98%E6%B8%A9%E5%9C%B0%E9%93%81%E6%A5%BC%E6%A2%AF%E4%B8%8A%E9%95%BF%E6%BB%A1%E4%BA%86%E4%BA%BA%23&Refer=top) 538470
 14. [老人去世狗狗绝食两天后离世](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E7%8B%97%E7%8B%97%E7%BB%9D%E9%A3%9F%E4%B8%A4%E5%A4%A9%E5%90%8E%E7%A6%BB%E4%B8%96%23&Refer=top) 502404
 15. [上一段恋爱让人最遗憾的事](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E4%B8%80%E6%AE%B5%E6%81%8B%E7%88%B1%E8%AE%A9%E4%BA%BA%E6%9C%80%E9%81%97%E6%86%BE%E7%9A%84%E4%BA%8B%23&Refer=top) 471348
 16. [女子怕自己再出意外教儿子做家务](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%95%E8%87%AA%E5%B7%B1%E5%86%8D%E5%87%BA%E6%84%8F%E5%A4%96%E6%95%99%E5%84%BF%E5%AD%90%E5%81%9A%E5%AE%B6%E5%8A%A1%23&Refer=top) 432399
