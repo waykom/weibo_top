@@ -14,9 +14,9 @@ weibo_top
 3. [家长挤压9天宝宝乳房致急性乳腺炎](https://s.weibo.com//weibo?q=%23%E5%AE%B6%E9%95%BF%E6%8C%A4%E5%8E%8B9%E5%A4%A9%E5%AE%9D%E5%AE%9D%E4%B9%B3%E6%88%BF%E8%87%B4%E6%80%A5%E6%80%A7%E4%B9%B3%E8%85%BA%E7%82%8E%23&Refer=top) 1429004
 4. [基建狂魔又上新了](https://s.weibo.com//weibo?q=%23%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E5%8F%88%E4%B8%8A%E6%96%B0%E4%BA%86%23&Refer=top) 1284896
 5. [涪陵山火](https://s.weibo.com//weibo?q=%23%E6%B6%AA%E9%99%B5%E5%B1%B1%E7%81%AB%23&Refer=top) 1280759
-6. [张大仙](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99&Refer=top) 1114802
-7. [茶百道与垫底辣孩合作评论区翻车](https://s.weibo.com//weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8E%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%E5%90%88%E4%BD%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%BF%BB%E8%BD%A6%23&Refer=top) 1046598
-8. [杭州气温跌破26℃](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%B0%94%E6%B8%A9%E8%B7%8C%E7%A0%B426%E2%84%83%23&Refer=top) 911142
+6. [茶百道与垫底辣孩合作评论区翻车](https://s.weibo.com//weibo?q=%23%E8%8C%B6%E7%99%BE%E9%81%93%E4%B8%8E%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%E5%90%88%E4%BD%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%BF%BB%E8%BD%A6%23&Refer=top) 1219894
+7. [张大仙](https://s.weibo.com//weibo?q=%E5%BC%A0%E5%A4%A7%E4%BB%99&Refer=top) 1114802
+8. [杭州气温跌破26℃](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%B0%94%E6%B8%A9%E8%B7%8C%E7%A0%B426%E2%84%83%23&Refer=top) 938368
 9. [重庆涪陵山火仍在扑救中](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E6%B6%AA%E9%99%B5%E5%B1%B1%E7%81%AB%E4%BB%8D%E5%9C%A8%E6%89%91%E6%95%91%E4%B8%AD%23&Refer=top) 886695
 10. [腾讯4个月近10款产品停服](https://s.weibo.com//weibo?q=%23%E8%85%BE%E8%AE%AF4%E4%B8%AA%E6%9C%88%E8%BF%9110%E6%AC%BE%E4%BA%A7%E5%93%81%E5%81%9C%E6%9C%8D%23&Refer=top) 796781
 11. [实习生拒绝吃生鸡蛋被辞退](https://s.weibo.com//weibo?q=%23%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%92%E7%BB%9D%E5%90%83%E7%94%9F%E9%B8%A1%E8%9B%8B%E8%A2%AB%E8%BE%9E%E9%80%80%23&Refer=top) 786992
@@ -27,11 +27,11 @@ weibo_top
 16. [新郎被绑篮球架倒饮料喷彩带](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%83%8E%E8%A2%AB%E7%BB%91%E7%AF%AE%E7%90%83%E6%9E%B6%E5%80%92%E9%A5%AE%E6%96%99%E5%96%B7%E5%BD%A9%E5%B8%A6%23&Refer=top) 432067
 17. [原来猫猫可以长这么潦草](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8C%AB%E7%8C%AB%E5%8F%AF%E4%BB%A5%E9%95%BF%E8%BF%99%E4%B9%88%E6%BD%A6%E8%8D%89%23&Refer=top) 379448
 18. [故意关停电梯小男孩暂未找到](https://s.weibo.com//weibo?q=%23%E6%95%85%E6%84%8F%E5%85%B3%E5%81%9C%E7%94%B5%E6%A2%AF%E5%B0%8F%E7%94%B7%E5%AD%A9%E6%9A%82%E6%9C%AA%E6%89%BE%E5%88%B0%23&Refer=top) 378177
-19. [XYG海报](https://s.weibo.com//weibo?q=XYG%E6%B5%B7%E6%8A%A5&Refer=top) 373378
-20. [为什么我们越来越喜欢独处](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%96%9C%E6%AC%A2%E7%8B%AC%E5%A4%84%23&Refer=top) 298046
-21. [110路遇119默契值瞬间拉满](https://s.weibo.com//weibo?q=%23110%E8%B7%AF%E9%81%87119%E9%BB%98%E5%A5%91%E5%80%BC%E7%9E%AC%E9%97%B4%E6%8B%89%E6%BB%A1%23&Refer=top) 294709
-22. [丈夫因早餐做得不好吃殴打妻子](https://s.weibo.com//weibo?q=%23%E4%B8%88%E5%A4%AB%E5%9B%A0%E6%97%A9%E9%A4%90%E5%81%9A%E5%BE%97%E4%B8%8D%E5%A5%BD%E5%90%83%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%23&Refer=top) 271802
-23. [重庆高温地铁楼梯上长满了人](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E9%AB%98%E6%B8%A9%E5%9C%B0%E9%93%81%E6%A5%BC%E6%A2%AF%E4%B8%8A%E9%95%BF%E6%BB%A1%E4%BA%86%E4%BA%BA%23&Refer=top) 268614
+19. [重庆高温地铁楼梯上长满了人](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E9%AB%98%E6%B8%A9%E5%9C%B0%E9%93%81%E6%A5%BC%E6%A2%AF%E4%B8%8A%E9%95%BF%E6%BB%A1%E4%BA%86%E4%BA%BA%23&Refer=top) 377704
+20. [XYG海报](https://s.weibo.com//weibo?q=XYG%E6%B5%B7%E6%8A%A5&Refer=top) 373378
+21. [为什么我们越来越喜欢独处](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%96%9C%E6%AC%A2%E7%8B%AC%E5%A4%84%23&Refer=top) 298046
+22. [110路遇119默契值瞬间拉满](https://s.weibo.com//weibo?q=%23110%E8%B7%AF%E9%81%87119%E9%BB%98%E5%A5%91%E5%80%BC%E7%9E%AC%E9%97%B4%E6%8B%89%E6%BB%A1%23&Refer=top) 294709
+23. [丈夫因早餐做得不好吃殴打妻子](https://s.weibo.com//weibo?q=%23%E4%B8%88%E5%A4%AB%E5%9B%A0%E6%97%A9%E9%A4%90%E5%81%9A%E5%BE%97%E4%B8%8D%E5%A5%BD%E5%90%83%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%23&Refer=top) 271802
 24. [再吓就不礼貌了](https://s.weibo.com//weibo?q=%23%E5%86%8D%E5%90%93%E5%B0%B1%E4%B8%8D%E7%A4%BC%E8%B2%8C%E4%BA%86%23&Refer=top) 265490
 25. [Doinb](https://s.weibo.com//weibo?q=Doinb&Refer=top) 264710
 26. [湘潭大学回应强制毕业生换10人寝](https://s.weibo.com//weibo?q=%23%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%BC%BA%E5%88%B6%E6%AF%95%E4%B8%9A%E7%94%9F%E6%8D%A210%E4%BA%BA%E5%AF%9D%23&Refer=top) 264173
@@ -48,8 +48,8 @@ weibo_top
 37. [Deft](https://s.weibo.com//weibo?q=Deft&Refer=top) 149133
 38. [你一年会员要花多少钱](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E4%B8%80%E5%B9%B4%E4%BC%9A%E5%91%98%E8%A6%81%E8%8A%B1%E5%A4%9A%E5%B0%91%E9%92%B1%23&Refer=top) 145787
 39. [恒大汽车或将被并购](https://s.weibo.com//weibo?q=%23%E6%81%92%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%88%96%E5%B0%86%E8%A2%AB%E5%B9%B6%E8%B4%AD%23&Refer=top) 135031
-40. [EDGM战胜XYG](https://s.weibo.com//weibo?q=%23EDGM%E6%88%98%E8%83%9CXYG%23&Refer=top) 122339
-41. [连续高温上千只母鸡罢工](https://s.weibo.com//weibo?q=%23%E8%BF%9E%E7%BB%AD%E9%AB%98%E6%B8%A9%E4%B8%8A%E5%8D%83%E5%8F%AA%E6%AF%8D%E9%B8%A1%E7%BD%A2%E5%B7%A5%23&Refer=top) 115692
+40. [连续高温上千只母鸡罢工](https://s.weibo.com//weibo?q=%23%E8%BF%9E%E7%BB%AD%E9%AB%98%E6%B8%A9%E4%B8%8A%E5%8D%83%E5%8F%AA%E6%AF%8D%E9%B8%A1%E7%BD%A2%E5%B7%A5%23&Refer=top) 124851
+41. [EDGM战胜XYG](https://s.weibo.com//weibo?q=%23EDGM%E6%88%98%E8%83%9CXYG%23&Refer=top) 122339
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
