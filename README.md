@@ -52,16 +52,17 @@ weibo_top
 41. [重庆沙坪坝疫情防控](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E6%B2%99%E5%9D%AA%E5%9D%9D%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top) 161888
 42. [EDG获得冒泡赛资格](https://s.weibo.com//weibo?q=%23EDG%E8%8E%B7%E5%BE%97%E5%86%92%E6%B3%A1%E8%B5%9B%E8%B5%84%E6%A0%BC%23&Refer=top) 159489
 43. [宋亚轩黑白条纹针织衫](https://s.weibo.com//weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E9%BB%91%E7%99%BD%E6%9D%A1%E7%BA%B9%E9%92%88%E7%BB%87%E8%A1%AB%23&Refer=top) 158384
-44. [打野的尽头是一片海](https://s.weibo.com//weibo?q=%23%E6%89%93%E9%87%8E%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E4%B8%80%E7%89%87%E6%B5%B7%23&Refer=top) 146938
-45. [真的建议高铁出个带孩子车厢](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E9%AB%98%E9%93%81%E5%87%BA%E4%B8%AA%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%BD%A6%E5%8E%A2%23&Refer=top) 146678
-46. [疑买玩具被拒男孩当街咬妈妈不松口](https://s.weibo.com//weibo?q=%23%E7%96%91%E4%B9%B0%E7%8E%A9%E5%85%B7%E8%A2%AB%E6%8B%92%E7%94%B7%E5%AD%A9%E5%BD%93%E8%A1%97%E5%92%AC%E5%A6%88%E5%A6%88%E4%B8%8D%E6%9D%BE%E5%8F%A3%23&Refer=top) 131986
-47. [我心中的古偶cp天花板](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%BF%83%E4%B8%AD%E7%9A%84%E5%8F%A4%E5%81%B6cp%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top) 126722
+44. [我心中的古偶cp天花板](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%BF%83%E4%B8%AD%E7%9A%84%E5%8F%A4%E5%81%B6cp%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top) 149854
+45. [打野的尽头是一片海](https://s.weibo.com//weibo?q=%23%E6%89%93%E9%87%8E%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E4%B8%80%E7%89%87%E6%B5%B7%23&Refer=top) 146938
+46. [真的建议高铁出个带孩子车厢](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E9%AB%98%E9%93%81%E5%87%BA%E4%B8%AA%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%BD%A6%E5%8E%A2%23&Refer=top) 146678
+47. [疑买玩具被拒男孩当街咬妈妈不松口](https://s.weibo.com//weibo?q=%23%E7%96%91%E4%B9%B0%E7%8E%A9%E5%85%B7%E8%A2%AB%E6%8B%92%E7%94%B7%E5%AD%A9%E5%BD%93%E8%A1%97%E5%92%AC%E5%A6%88%E5%A6%88%E4%B8%8D%E6%9D%BE%E5%8F%A3%23&Refer=top) 131986
 48. [东部战区海军航空兵夜训驱离外机](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E6%B5%B7%E5%86%9B%E8%88%AA%E7%A9%BA%E5%85%B5%E5%A4%9C%E8%AE%AD%E9%A9%B1%E7%A6%BB%E5%A4%96%E6%9C%BA%23&Refer=top) 125256
 49. [重庆新增1例本土确诊3例无症状](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A3%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top) 112058
 50. [专家称没有证据证明鱼会感染新冠](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%AF%81%E6%8D%AE%E8%AF%81%E6%98%8E%E9%B1%BC%E4%BC%9A%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top) 76741
 51. [女子称蜜雪冰城中喝出活苍蝇乱爬](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E4%B8%AD%E5%96%9D%E5%87%BA%E6%B4%BB%E8%8B%8D%E8%9D%87%E4%B9%B1%E7%88%AC%23&Refer=top) 76620
 52. [里根号演练遭多枚导弹同时攻击](https://s.weibo.com//weibo?q=%23%E9%87%8C%E6%A0%B9%E5%8F%B7%E6%BC%94%E7%BB%83%E9%81%AD%E5%A4%9A%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%90%8C%E6%97%B6%E6%94%BB%E5%87%BB%23&Refer=top) 31718
-53. [这是成都人盼的那朵乌云吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%90%E9%83%BD%E4%BA%BA%E7%9B%BC%E7%9A%84%E9%82%A3%E6%9C%B5%E4%B9%8C%E4%BA%91%E5%90%97%23&Refer=top) 12300
+53. [80名外国人捐5万拯救倒闭理发店](https://s.weibo.com//weibo?q=%2380%E5%90%8D%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%8D%905%E4%B8%87%E6%8B%AF%E6%95%91%E5%80%92%E9%97%AD%E7%90%86%E5%8F%91%E5%BA%97%23&Refer=top) 21331
+54. [这是成都人盼的那朵乌云吗](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%90%E9%83%BD%E4%BA%BA%E7%9B%BC%E7%9A%84%E9%82%A3%E6%9C%B5%E4%B9%8C%E4%BA%91%E5%90%97%23&Refer=top) 17843
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
