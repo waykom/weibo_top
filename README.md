@@ -46,9 +46,10 @@ weibo_top
 35. [中俄海军舰艇炮击演练](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BF%84%E6%B5%B7%E5%86%9B%E8%88%B0%E8%89%87%E7%82%AE%E5%87%BB%E6%BC%94%E7%BB%83%23&Refer=top) 107522
 36. [重庆狼队冠军签名](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%E5%86%A0%E5%86%9B%E7%AD%BE%E5%90%8D%23&Refer=top) 100489
 37. [妖刀说我们也太强了吧](https://s.weibo.com//weibo?q=%23%E5%A6%96%E5%88%80%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B9%9F%E5%A4%AA%E5%BC%BA%E4%BA%86%E5%90%A7%23&Refer=top) 98127
-38. [真的好想回到疫情前](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%83%B3%E5%9B%9E%E5%88%B0%E7%96%AB%E6%83%85%E5%89%8D%23&Refer=top) 74815
+38. [真的好想回到疫情前](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%83%B3%E5%9B%9E%E5%88%B0%E7%96%AB%E6%83%85%E5%89%8D%23&Refer=top) 82387
 39. [虚拟陪伴是否能代替真人需求](https://s.weibo.com//weibo?q=%23%E8%99%9A%E6%8B%9F%E9%99%AA%E4%BC%B4%E6%98%AF%E5%90%A6%E8%83%BD%E4%BB%A3%E6%9B%BF%E7%9C%9F%E4%BA%BA%E9%9C%80%E6%B1%82%23&Refer=top) 74034
 40. [BLACKPINK成员照片遭黑客泄露](https://s.weibo.com//weibo?q=%23BLACKPINK%E6%88%90%E5%91%98%E7%85%A7%E7%89%87%E9%81%AD%E9%BB%91%E5%AE%A2%E6%B3%84%E9%9C%B2%23&Refer=top) 54661
+41. [男生摘眼镜视力听力一起下降](https://s.weibo.com//weibo?q=%23%E7%94%B7%E7%94%9F%E6%91%98%E7%9C%BC%E9%95%9C%E8%A7%86%E5%8A%9B%E5%90%AC%E5%8A%9B%E4%B8%80%E8%B5%B7%E4%B8%8B%E9%99%8D%23&Refer=top) 23308
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
