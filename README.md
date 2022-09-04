@@ -50,8 +50,8 @@ weibo_top
 39. [上海台风](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%B0%E9%A3%8E%23&Refer=top) 123122
 40. [7条定律助你提升自我](https://s.weibo.com//weibo?q=%237%E6%9D%A1%E5%AE%9A%E5%BE%8B%E5%8A%A9%E4%BD%A0%E6%8F%90%E5%8D%87%E8%87%AA%E6%88%91%23&Refer=top) 104559
 41. [成都疫情防控](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top) 102438
-42. [NH金色的雨](https://s.weibo.com//weibo?q=%23NH%E9%87%91%E8%89%B2%E7%9A%84%E9%9B%A8%23&Refer=top) 77969
-43. [实现躺平午休有多舒服](https://s.weibo.com//weibo?q=%23%E5%AE%9E%E7%8E%B0%E8%BA%BA%E5%B9%B3%E5%8D%88%E4%BC%91%E6%9C%89%E5%A4%9A%E8%88%92%E6%9C%8D%23&Refer=top) 56682
+42. [实现躺平午休有多舒服](https://s.weibo.com//weibo?q=%23%E5%AE%9E%E7%8E%B0%E8%BA%BA%E5%B9%B3%E5%8D%88%E4%BC%91%E6%9C%89%E5%A4%9A%E8%88%92%E6%9C%8D%23&Refer=top) 79197
+43. [NH金色的雨](https://s.weibo.com//weibo?q=%23NH%E9%87%91%E8%89%B2%E7%9A%84%E9%9B%A8%23&Refer=top) 77969
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
