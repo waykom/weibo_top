@@ -15,10 +15,10 @@ weibo_top
 4. [成都上空现大片七彩云](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0%E5%A4%A7%E7%89%87%E4%B8%83%E5%BD%A9%E4%BA%91%23&Refer=top) 1219313
 5. [95后女孩送父亲30万新车](https://s.weibo.com//weibo?q=%2395%E5%90%8E%E5%A5%B3%E5%AD%A9%E9%80%81%E7%88%B6%E4%BA%B230%E4%B8%87%E6%96%B0%E8%BD%A6%23&Refer=top) 751526
 6. [32岁总裁辞掉百万年薪返乡种辣椒](https://s.weibo.com//weibo?q=%2332%E5%B2%81%E6%80%BB%E8%A3%81%E8%BE%9E%E6%8E%89%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E8%BF%94%E4%B9%A1%E7%A7%8D%E8%BE%A3%E6%A4%92%23&Refer=top) 649422
-7. [官方通报老人当街向学生下跪](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%80%81%E4%BA%BA%E5%BD%93%E8%A1%97%E5%90%91%E5%AD%A6%E7%94%9F%E4%B8%8B%E8%B7%AA%23&Refer=top) 441811
-8. [胡枫确诊新冠](https://s.weibo.com//weibo?q=%23%E8%83%A1%E6%9E%AB%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&Refer=top) 441773
-9. [在棣欣引力的作用下白越光你将吴露可逃](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%A3%A3%E6%AC%A3%E5%BC%95%E5%8A%9B%E7%9A%84%E4%BD%9C%E7%94%A8%E4%B8%8B%E7%99%BD%E8%B6%8A%E5%85%89%E4%BD%A0%E5%B0%86%E5%90%B4%E9%9C%B2%E5%8F%AF%E9%80%83%23&Refer=top) 439627
-10. [上海将处罚后排乘客不系安全带行为](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B0%86%E5%A4%84%E7%BD%9A%E5%90%8E%E6%8E%92%E4%B9%98%E5%AE%A2%E4%B8%8D%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A6%E8%A1%8C%E4%B8%BA%23&Refer=top) 435099
+7. [上海将处罚后排乘客不系安全带行为](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B0%86%E5%A4%84%E7%BD%9A%E5%90%8E%E6%8E%92%E4%B9%98%E5%AE%A2%E4%B8%8D%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A6%E8%A1%8C%E4%B8%BA%23&Refer=top) 572050
+8. [官方通报老人当街向学生下跪](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%80%81%E4%BA%BA%E5%BD%93%E8%A1%97%E5%90%91%E5%AD%A6%E7%94%9F%E4%B8%8B%E8%B7%AA%23&Refer=top) 441811
+9. [胡枫确诊新冠](https://s.weibo.com//weibo?q=%23%E8%83%A1%E6%9E%AB%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&Refer=top) 441773
+10. [在棣欣引力的作用下白越光你将吴露可逃](https://s.weibo.com//weibo?q=%23%E5%9C%A8%E6%A3%A3%E6%AC%A3%E5%BC%95%E5%8A%9B%E7%9A%84%E4%BD%9C%E7%94%A8%E4%B8%8B%E7%99%BD%E8%B6%8A%E5%85%89%E4%BD%A0%E5%B0%86%E5%90%B4%E9%9C%B2%E5%8F%AF%E9%80%83%23&Refer=top) 439627
 11. [原来懂礼貌真的很加分](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%87%82%E7%A4%BC%E8%B2%8C%E7%9C%9F%E7%9A%84%E5%BE%88%E5%8A%A0%E5%88%86%23&Refer=top) 413102
 12. [980元的水壶长啥样](https://s.weibo.com//weibo?q=%23980%E5%85%83%E7%9A%84%E6%B0%B4%E5%A3%B6%E9%95%BF%E5%95%A5%E6%A0%B7%23&Refer=top) 395087
 13. [王者荣耀](https://s.weibo.com//weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top) 384924
@@ -46,9 +46,10 @@ weibo_top
 35. [翟潇闻罗一舟直播截图](https://s.weibo.com//weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E7%BD%97%E4%B8%80%E8%88%9F%E7%9B%B4%E6%92%AD%E6%88%AA%E5%9B%BE%23&Refer=top) 160591
 36. [有点孝心但不多的狗子](https://s.weibo.com//weibo?q=%23%E6%9C%89%E7%82%B9%E5%AD%9D%E5%BF%83%E4%BD%86%E4%B8%8D%E5%A4%9A%E7%9A%84%E7%8B%97%E5%AD%90%23&Refer=top) 149422
 37. [相互喜欢也会分手吗](https://s.weibo.com//weibo?q=%23%E7%9B%B8%E4%BA%92%E5%96%9C%E6%AC%A2%E4%B9%9F%E4%BC%9A%E5%88%86%E6%89%8B%E5%90%97%23&Refer=top) 129017
-38. [手机可以开通地震预警](https://s.weibo.com//weibo?q=%23%E6%89%8B%E6%9C%BA%E5%8F%AF%E4%BB%A5%E5%BC%80%E9%80%9A%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%23&Refer=top) 123782
-39. [网友劝阻大爷大妈们河边放生矿泉水](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E5%8A%9D%E9%98%BB%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E4%BB%AC%E6%B2%B3%E8%BE%B9%E6%94%BE%E7%94%9F%E7%9F%BF%E6%B3%89%E6%B0%B4%23&Refer=top) 115728
-40. [警方证实韩第一夫人履历造假](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E8%AF%81%E5%AE%9E%E9%9F%A9%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%B1%A5%E5%8E%86%E9%80%A0%E5%81%87%23&Refer=top) 89439
+38. [原来大学才是努力的开始](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%89%8D%E6%98%AF%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%BC%80%E5%A7%8B%23&Refer=top) 128191
+39. [手机可以开通地震预警](https://s.weibo.com//weibo?q=%23%E6%89%8B%E6%9C%BA%E5%8F%AF%E4%BB%A5%E5%BC%80%E9%80%9A%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%23&Refer=top) 126249
+40. [网友劝阻大爷大妈们河边放生矿泉水](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E5%8A%9D%E9%98%BB%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E4%BB%AC%E6%B2%B3%E8%BE%B9%E6%94%BE%E7%94%9F%E7%9F%BF%E6%B3%89%E6%B0%B4%23&Refer=top) 115728
+41. [警方证实韩第一夫人履历造假](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E8%AF%81%E5%AE%9E%E9%9F%A9%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%B1%A5%E5%8E%86%E9%80%A0%E5%81%87%23&Refer=top) 89439
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
