@@ -10,7 +10,7 @@ weibo_top
 
 # 今日热门搜索  
 1. [苹果发布会](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 2705399
-2. [iPhone14](https://s.weibo.com//weibo?q=%23iPhone14%23&Refer=top) 1989855
+2. [iPhone14](https://s.weibo.com//weibo?q=%23iPhone14%23&Refer=top) 2278119
 3. [成都疫情防控](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top) 1665513
 4. [苹果新品](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%23&Refer=top) 1612214
 5. [他们全力以赴只为泸定早日安定](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E5%8F%AA%E4%B8%BA%E6%B3%B8%E5%AE%9A%E6%97%A9%E6%97%A5%E5%AE%89%E5%AE%9A%23&Refer=top) 1488993
@@ -52,7 +52,7 @@ weibo_top
 41. [苹果发布会有哪些亮点](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9%23&Refer=top) 99328
 42. [静待烟火成都早日归来](https://s.weibo.com//weibo?q=%23%E9%9D%99%E5%BE%85%E7%83%9F%E7%81%AB%E6%88%90%E9%83%BD%E6%97%A9%E6%97%A5%E5%BD%92%E6%9D%A5%23&Refer=top) 98603
 43. [海南建构常态化中小学线上教学模式](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E5%BB%BA%E6%9E%84%E5%B8%B8%E6%80%81%E5%8C%96%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%BA%BF%E4%B8%8A%E6%95%99%E5%AD%A6%E6%A8%A1%E5%BC%8F%23&Refer=top) 88396
-44. [贵阳将从7方面完善物资配送](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E9%98%B3%E5%B0%86%E4%BB%8E7%E6%96%B9%E9%9D%A2%E5%AE%8C%E5%96%84%E7%89%A9%E8%B5%84%E9%85%8D%E9%80%81%23&Refer=top) 64573
+44. [贵阳将从7方面完善物资配送](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E9%98%B3%E5%B0%86%E4%BB%8E7%E6%96%B9%E9%9D%A2%E5%AE%8C%E5%96%84%E7%89%A9%E8%B5%84%E9%85%8D%E9%80%81%23&Refer=top) 72345
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
