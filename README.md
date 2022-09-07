@@ -15,7 +15,7 @@ weibo_top
 4. [苹果新品](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%23&Refer=top) 1612214
 5. [他们全力以赴只为泸定早日安定](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%AC%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E5%8F%AA%E4%B8%BA%E6%B3%B8%E5%AE%9A%E6%97%A9%E6%97%A5%E5%AE%89%E5%AE%9A%23&Refer=top) 1488993
 6. [苹果2022秋季发布会同声传译](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C2022%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%90%8C%E5%A3%B0%E4%BC%A0%E8%AF%91%23&Refer=top) 1458940
-7. [iPhone14 Plus](https://s.weibo.com//weibo?q=iPhone14%20Plus&Refer=top) 688637
+7. [iPhone14 Plus](https://s.weibo.com//weibo?q=iPhone14%20Plus&Refer=top) 1142747
 8. [爱马仕被阿姨压坏](https://s.weibo.com//weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E8%A2%AB%E9%98%BF%E5%A7%A8%E5%8E%8B%E5%9D%8F%23&Refer=top) 615741
 9. [杭州一男子地铁内跪地学狗叫](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E5%86%85%E8%B7%AA%E5%9C%B0%E5%AD%A6%E7%8B%97%E5%8F%AB%23&Refer=top) 615367
 10. [为什么要少玩手机多看书](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%B0%91%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%A4%9A%E7%9C%8B%E4%B9%A6%23&Refer=top) 595158
@@ -55,6 +55,7 @@ weibo_top
 44. [静待烟火成都早日归来](https://s.weibo.com//weibo?q=%23%E9%9D%99%E5%BE%85%E7%83%9F%E7%81%AB%E6%88%90%E9%83%BD%E6%97%A9%E6%97%A5%E5%BD%92%E6%9D%A5%23&Refer=top) 98603
 45. [海南建构常态化中小学线上教学模式](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%8D%97%E5%BB%BA%E6%9E%84%E5%B8%B8%E6%80%81%E5%8C%96%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%BA%BF%E4%B8%8A%E6%95%99%E5%AD%A6%E6%A8%A1%E5%BC%8F%23&Refer=top) 88396
 46. [贵阳将从7方面完善物资配送](https://s.weibo.com//weibo?q=%23%E8%B4%B5%E9%98%B3%E5%B0%86%E4%BB%8E7%E6%96%B9%E9%9D%A2%E5%AE%8C%E5%96%84%E7%89%A9%E8%B5%84%E9%85%8D%E9%80%81%23&Refer=top) 84419
+47. [金珉锡将9月26日solo出道](https://s.weibo.com//weibo?q=%23%E9%87%91%E7%8F%89%E9%94%A1%E5%B0%869%E6%9C%8826%E6%97%A5solo%E5%87%BA%E9%81%93%23&Refer=top) 36399
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
