@@ -13,9 +13,9 @@ weibo_top
 2. [英媒称严重程度前所未见](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%AA%92%E7%A7%B0%E4%B8%A5%E9%87%8D%E7%A8%8B%E5%BA%A6%E5%89%8D%E6%89%80%E6%9C%AA%E8%A7%81%23&t=31&band_rank=2&Refer=top) 1915567
 3. [泸定抗震救灾72小时](https://s.weibo.com//weibo?q=%23%E6%B3%B8%E5%AE%9A%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE72%E5%B0%8F%E6%97%B6%23&t=31&band_rank=3&Refer=top) 1530602
 4. [英国BBC主播穿全黑西装戴黑领带](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BDBBC%E4%B8%BB%E6%92%AD%E7%A9%BF%E5%85%A8%E9%BB%91%E8%A5%BF%E8%A3%85%E6%88%B4%E9%BB%91%E9%A2%86%E5%B8%A6%23&t=31&band_rank=4&Refer=top) 1427867
-5. [英国王室证实女王身体状况堪忧](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E8%AF%81%E5%AE%9E%E5%A5%B3%E7%8E%8B%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E5%A0%AA%E5%BF%A7%23&t=31&band_rank=7&Refer=top) 1111637
-6. [女孩海底捞吃火锅意外身亡](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%90%83%E7%81%AB%E9%94%85%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top) 1016755
-7. [新疆酸奶疙瘩月饼](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E9%85%B8%E5%A5%B6%E7%96%99%E7%98%A9%E6%9C%88%E9%A5%BC%23&t=31&band_rank=7&Refer=top) 1010358
+5. [新疆酸奶疙瘩月饼](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E9%85%B8%E5%A5%B6%E7%96%99%E7%98%A9%E6%9C%88%E9%A5%BC%23&t=31&band_rank=4&Refer=top) 1231942
+6. [英国王室证实女王身体状况堪忧](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E8%AF%81%E5%AE%9E%E5%A5%B3%E7%8E%8B%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E5%A0%AA%E5%BF%A7%23&t=31&band_rank=7&Refer=top) 1111637
+7. [女孩海底捞吃火锅意外身亡](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%90%83%E7%81%AB%E9%94%85%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=8&Refer=top) 1016755
 8. [特拉斯](https://s.weibo.com//weibo?q=%E7%89%B9%E6%8B%89%E6%96%AF&t=31&band_rank=10&Refer=top) 912866
 9. [B站二季度净亏损20亿](https://s.weibo.com//weibo?q=%23B%E7%AB%99%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E4%BA%8F%E6%8D%9F20%E4%BA%BF%23&t=31&band_rank=10&Refer=top) 870258
 10. [查尔斯王子已到女王身边](https://s.weibo.com//weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E7%8E%8B%E5%AD%90%E5%B7%B2%E5%88%B0%E5%A5%B3%E7%8E%8B%E8%BA%AB%E8%BE%B9%23&t=31&band_rank=11&Refer=top) 703507
@@ -30,11 +30,11 @@ weibo_top
 19. [上班第一天被同事欺负要怎么办](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%AC%BA%E8%B4%9F%E8%A6%81%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=26&Refer=top) 320437
 20. [英国首相对白金汉宫消息深感关切](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%AF%B9%E7%99%BD%E9%87%91%E6%B1%89%E5%AE%AB%E6%B6%88%E6%81%AF%E6%B7%B1%E6%84%9F%E5%85%B3%E5%88%87%23&t=31&band_rank=27&Refer=top) 297227
 21. [英国女王所有子女在其身边陪伴](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E6%89%80%E6%9C%89%E5%AD%90%E5%A5%B3%E5%9C%A8%E5%85%B6%E8%BA%AB%E8%BE%B9%E9%99%AA%E4%BC%B4%23&t=31&band_rank=28&Refer=top) 293444
-22. [BBC](https://s.weibo.com//weibo?q=BBC&t=31&band_rank=29&Refer=top) 285827
-23. [特朗普前政治顾问班农自首](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E6%94%BF%E6%B2%BB%E9%A1%BE%E9%97%AE%E7%8F%AD%E5%86%9C%E8%87%AA%E9%A6%96%23&t=31&band_rank=26&Refer=top) 273743
-24. [中国运营商不支持美版iPhone14](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%90%A5%E5%95%86%E4%B8%8D%E6%94%AF%E6%8C%81%E7%BE%8E%E7%89%88iPhone14%23&t=31&band_rank=33&Refer=top) 268390
-25. [一个人能成事的5种迹象](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%BD%E6%88%90%E4%BA%8B%E7%9A%845%E7%A7%8D%E8%BF%B9%E8%B1%A1%23&t=31&band_rank=29&Refer=top) 261663
-26. [最新进出京政策公布](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B0%E8%BF%9B%E5%87%BA%E4%BA%AC%E6%94%BF%E7%AD%96%E5%85%AC%E5%B8%83%23&t=31&band_rank=30&Refer=top) 255466
+22. [最新进出京政策公布](https://s.weibo.com//weibo?q=%23%E6%9C%80%E6%96%B0%E8%BF%9B%E5%87%BA%E4%BA%AC%E6%94%BF%E7%AD%96%E5%85%AC%E5%B8%83%23&t=31&band_rank=20&Refer=top) 286114
+23. [BBC](https://s.weibo.com//weibo?q=BBC&t=31&band_rank=29&Refer=top) 285827
+24. [特朗普前政治顾问班农自首](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E6%94%BF%E6%B2%BB%E9%A1%BE%E9%97%AE%E7%8F%AD%E5%86%9C%E8%87%AA%E9%A6%96%23&t=31&band_rank=26&Refer=top) 273743
+25. [中国运营商不支持美版iPhone14](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%90%A5%E5%95%86%E4%B8%8D%E6%94%AF%E6%8C%81%E7%BE%8E%E7%89%88iPhone14%23&t=31&band_rank=33&Refer=top) 268390
+26. [一个人能成事的5种迹象](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%BD%E6%88%90%E4%BA%8B%E7%9A%845%E7%A7%8D%E8%BF%B9%E8%B1%A1%23&t=31&band_rank=29&Refer=top) 261663
 27. [湘雅医院回应专家将莲子壳诊断为肿瘤](https://s.weibo.com//weibo?q=%23%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E4%B8%93%E5%AE%B6%E5%B0%86%E8%8E%B2%E5%AD%90%E5%A3%B3%E8%AF%8A%E6%96%AD%E4%B8%BA%E8%82%BF%E7%98%A4%23&t=31&band_rank=35&Refer=top) 243245
 28. [3岁娃模仿大白给6只猫做核酸](https://s.weibo.com//weibo?q=%233%E5%B2%81%E5%A8%83%E6%A8%A1%E4%BB%BF%E5%A4%A7%E7%99%BD%E7%BB%996%E5%8F%AA%E7%8C%AB%E5%81%9A%E6%A0%B8%E9%85%B8%23&t=31&band_rank=37&Refer=top) 234279
 29. [远嫁闺女送礼被母亲退回](https://s.weibo.com//weibo?q=%23%E8%BF%9C%E5%AB%81%E9%97%BA%E5%A5%B3%E9%80%81%E7%A4%BC%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%80%80%E5%9B%9E%23&t=31&band_rank=38&Refer=top) 224247
@@ -45,9 +45,10 @@ weibo_top
 34. [网友建议中秋节放长假](https://s.weibo.com//weibo?q=%23%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E4%B8%AD%E7%A7%8B%E8%8A%82%E6%94%BE%E9%95%BF%E5%81%87%23&t=31&band_rank=44&Refer=top) 165065
 35. [枪杀安倍嫌犯在拘留所中收到超百万日元](https://s.weibo.com//weibo?q=%23%E6%9E%AA%E6%9D%80%E5%AE%89%E5%80%8D%E5%AB%8C%E7%8A%AF%E5%9C%A8%E6%8B%98%E7%95%99%E6%89%80%E4%B8%AD%E6%94%B6%E5%88%B0%E8%B6%85%E7%99%BE%E4%B8%87%E6%97%A5%E5%85%83%23&t=31&band_rank=46&Refer=top) 161585
 36. [好像突然就想通了](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%83%8F%E7%AA%81%E7%84%B6%E5%B0%B1%E6%83%B3%E9%80%9A%E4%BA%86%23&t=31&band_rank=47&Refer=top) 154387
-37. [我国已婚育女性超3成存在漏尿问题](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E5%A9%9A%E8%82%B2%E5%A5%B3%E6%80%A7%E8%B6%853%E6%88%90%E5%AD%98%E5%9C%A8%E6%BC%8F%E5%B0%BF%E9%97%AE%E9%A2%98%23&t=31&band_rank=49&Refer=top) 132552
-38. [百名产品经理倡议将选择权还给用户](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%90%8D%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%80%A1%E8%AE%AE%E5%B0%86%E9%80%89%E6%8B%A9%E6%9D%83%E8%BF%98%E7%BB%99%E7%94%A8%E6%88%B7%23&t=31&band_rank=49&Refer=top) 122511
-39. [只有复姓受伤的世界达成了](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E6%9C%89%E5%A4%8D%E5%A7%93%E5%8F%97%E4%BC%A4%E7%9A%84%E4%B8%96%E7%95%8C%E8%BE%BE%E6%88%90%E4%BA%86%23&t=31&band_rank=49&Refer=top) 117265
+37. [只有复姓受伤的世界达成了](https://s.weibo.com//weibo?q=%23%E5%8F%AA%E6%9C%89%E5%A4%8D%E5%A7%93%E5%8F%97%E4%BC%A4%E7%9A%84%E4%B8%96%E7%95%8C%E8%BE%BE%E6%88%90%E4%BA%86%23&t=31&band_rank=43&Refer=top) 132986
+38. [我国已婚育女性超3成存在漏尿问题](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E5%A9%9A%E8%82%B2%E5%A5%B3%E6%80%A7%E8%B6%853%E6%88%90%E5%AD%98%E5%9C%A8%E6%BC%8F%E5%B0%BF%E9%97%AE%E9%A2%98%23&t=31&band_rank=49&Refer=top) 132552
+39. [昆明乘坐地铁公交等须持48小时核酸报告](https://s.weibo.com//weibo?q=%23%E6%98%86%E6%98%8E%E4%B9%98%E5%9D%90%E5%9C%B0%E9%93%81%E5%85%AC%E4%BA%A4%E7%AD%89%E9%A1%BB%E6%8C%8148%E5%B0%8F%E6%97%B6%E6%A0%B8%E9%85%B8%E6%8A%A5%E5%91%8A%23&t=31&band_rank=46&Refer=top) 129052
+40. [百名产品经理倡议将选择权还给用户](https://s.weibo.com//weibo?q=%23%E7%99%BE%E5%90%8D%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%80%A1%E8%AE%AE%E5%B0%86%E9%80%89%E6%8B%A9%E6%9D%83%E8%BF%98%E7%BB%99%E7%94%A8%E6%88%B7%23&t=31&band_rank=49&Refer=top) 122511
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
