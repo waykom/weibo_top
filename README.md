@@ -57,7 +57,7 @@ weibo_top
 46. [苹果官网](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91&t=31&band_rank=50&Refer=top) 115340
 47. [8种语言朗诵水调歌头](https://s.weibo.com//weibo?q=%238%E7%A7%8D%E8%AF%AD%E8%A8%80%E6%9C%97%E8%AF%B5%E6%B0%B4%E8%B0%83%E6%AD%8C%E5%A4%B4%23&t=31&band_rank=49&Refer=top) 105592
 48. [月饼](https://s.weibo.com//weibo?q=%E6%9C%88%E9%A5%BC&t=31&band_rank=50&Refer=top) 96266
-49. [官方回应高中一个班收8万班费](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E4%B8%80%E4%B8%AA%E7%8F%AD%E6%94%B68%E4%B8%87%E7%8F%AD%E8%B4%B9%23&t=31&band_rank=47&Refer=top) 42666
+49. [官方回应高中一个班收8万班费](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E4%B8%80%E4%B8%AA%E7%8F%AD%E6%94%B68%E4%B8%87%E7%8F%AD%E8%B4%B9%23&t=31&band_rank=28&Refer=top) 80131
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
