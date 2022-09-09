@@ -58,7 +58,7 @@ weibo_top
 47. [苹果官网](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91&t=31&band_rank=50&Refer=top) 115340
 48. [8种语言朗诵水调歌头](https://s.weibo.com//weibo?q=%238%E7%A7%8D%E8%AF%AD%E8%A8%80%E6%9C%97%E8%AF%B5%E6%B0%B4%E8%B0%83%E6%AD%8C%E5%A4%B4%23&t=31&band_rank=49&Refer=top) 105592
 49. [月饼](https://s.weibo.com//weibo?q=%E6%9C%88%E9%A5%BC&t=31&band_rank=50&Refer=top) 96266
-50. [诈骗分子放烟花庆祝业绩超百万](https://s.weibo.com//weibo?q=%23%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%E6%94%BE%E7%83%9F%E8%8A%B1%E5%BA%86%E7%A5%9D%E4%B8%9A%E7%BB%A9%E8%B6%85%E7%99%BE%E4%B8%87%23&t=31&band_rank=26&Refer=top) 43465
+50. [诈骗分子放烟花庆祝业绩超百万](https://s.weibo.com//weibo?q=%23%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%E6%94%BE%E7%83%9F%E8%8A%B1%E5%BA%86%E7%A5%9D%E4%B8%9A%E7%BB%A9%E8%B6%85%E7%99%BE%E4%B8%87%23&t=31&band_rank=18&Refer=top) 51182
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
