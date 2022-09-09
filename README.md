@@ -11,8 +11,8 @@ weibo_top
 # 今日热门搜索  
 1. [伊犁回应网传孩子高烧就医困难](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E7%8A%81%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%AD%A9%E5%AD%90%E9%AB%98%E7%83%A7%E5%B0%B1%E5%8C%BB%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 2513556
 2. [男子放弃逃生拉闸泄洪救了几百人](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%94%BE%E5%BC%83%E9%80%83%E7%94%9F%E6%8B%89%E9%97%B8%E6%B3%84%E6%B4%AA%E6%95%91%E4%BA%86%E5%87%A0%E7%99%BE%E4%BA%BA%23&t=31&band_rank=2&Refer=top) 1438501
-3. [中秋遇上教师节](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E9%81%87%E4%B8%8A%E6%95%99%E5%B8%88%E8%8A%82%23&t=31&band_rank=3&Refer=top) 1192011
-4. [父亲信偏方让8岁女儿抽旱烟治脸黄](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E4%BF%A1%E5%81%8F%E6%96%B9%E8%AE%A98%E5%B2%81%E5%A5%B3%E5%84%BF%E6%8A%BD%E6%97%B1%E7%83%9F%E6%B2%BB%E8%84%B8%E9%BB%84%23&t=31&band_rank=4&Refer=top) 1169516
+3. [父亲信偏方让8岁女儿抽旱烟治脸黄](https://s.weibo.com//weibo?q=%23%E7%88%B6%E4%BA%B2%E4%BF%A1%E5%81%8F%E6%96%B9%E8%AE%A98%E5%B2%81%E5%A5%B3%E5%84%BF%E6%8A%BD%E6%97%B1%E7%83%9F%E6%B2%BB%E8%84%B8%E9%BB%84%23&t=31&band_rank=2&Refer=top) 1210285
+4. [中秋遇上教师节](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E9%81%87%E4%B8%8A%E6%95%99%E5%B8%88%E8%8A%82%23&t=31&band_rank=3&Refer=top) 1197413
 5. [专升本是专科生的最优选择吗](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%8D%87%E6%9C%AC%E6%98%AF%E4%B8%93%E7%A7%91%E7%94%9F%E7%9A%84%E6%9C%80%E4%BC%98%E9%80%89%E6%8B%A9%E5%90%97%23&t=31&band_rank=2&Refer=top) 1120066
 6. [父母均博士女儿学业压力大轻生](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E5%9D%87%E5%8D%9A%E5%A3%AB%E5%A5%B3%E5%84%BF%E5%AD%A6%E4%B8%9A%E5%8E%8B%E5%8A%9B%E5%A4%A7%E8%BD%BB%E7%94%9F%23&t=31&band_rank=4&Refer=top) 1018086
 7. [苹果天猫旗舰店被挤崩了](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%A4%A9%E7%8C%AB%E6%97%97%E8%88%B0%E5%BA%97%E8%A2%AB%E6%8C%A4%E5%B4%A9%E4%BA%86%23&t=31&band_rank=5&Refer=top) 981699
@@ -32,8 +32,8 @@ weibo_top
 21. [Apple store](https://s.weibo.com//weibo?q=Apple%20store&t=31&band_rank=23&Refer=top) 268273
 22. [网传老人因饥饿上吊自杀不属实](https://s.weibo.com//weibo?q=%E7%BD%91%E4%BC%A0%E8%80%81%E4%BA%BA%E5%9B%A0%E9%A5%A5%E9%A5%BF%E4%B8%8A%E5%90%8A%E8%87%AA%E6%9D%80%E4%B8%8D%E5%B1%9E%E5%AE%9E&t=31&band_rank=22&Refer=top) 265084
 23. [六公主镜头下的文淇](https://s.weibo.com//weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%96%87%E6%B7%87%23&t=31&band_rank=24&Refer=top) 258668
-24. [四川宜宾市全域实行静态管理](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%85%A8%E5%9F%9F%E5%AE%9E%E8%A1%8C%E9%9D%99%E6%80%81%E7%AE%A1%E7%90%86%23&t=31&band_rank=25&Refer=top) 236994
-25. [张朝阳说不能把运动当缓解焦虑工具](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9C%9D%E9%98%B3%E8%AF%B4%E4%B8%8D%E8%83%BD%E6%8A%8A%E8%BF%90%E5%8A%A8%E5%BD%93%E7%BC%93%E8%A7%A3%E7%84%A6%E8%99%91%E5%B7%A5%E5%85%B7%23&t=31&band_rank=18&Refer=top) 215289
+24. [张朝阳说不能把运动当缓解焦虑工具](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E6%9C%9D%E9%98%B3%E8%AF%B4%E4%B8%8D%E8%83%BD%E6%8A%8A%E8%BF%90%E5%8A%A8%E5%BD%93%E7%BC%93%E8%A7%A3%E7%84%A6%E8%99%91%E5%B7%A5%E5%85%B7%23&t=31&band_rank=15&Refer=top) 241845
+25. [四川宜宾市全域实行静态管理](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E5%85%A8%E5%9F%9F%E5%AE%9E%E8%A1%8C%E9%9D%99%E6%80%81%E7%AE%A1%E7%90%86%23&t=31&band_rank=25&Refer=top) 236994
 26. [新疆库尔勒市道歉](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E5%BA%93%E5%B0%94%E5%8B%92%E5%B8%82%E9%81%93%E6%AD%89%23&t=31&band_rank=28&Refer=top) 212237
 27. [月亮](https://s.weibo.com//weibo?q=%E6%9C%88%E4%BA%AE&t=31&band_rank=29&Refer=top) 209399
 28. [警方回应哭诉奔丧缺钱男子实为骗子](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%93%AD%E8%AF%89%E5%A5%94%E4%B8%A7%E7%BC%BA%E9%92%B1%E7%94%B7%E5%AD%90%E5%AE%9E%E4%B8%BA%E9%AA%97%E5%AD%90%23&t=31&band_rank=30&Refer=top) 207648
