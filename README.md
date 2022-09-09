@@ -46,11 +46,11 @@ weibo_top
 35. [拍月亮大赛](https://s.weibo.com//weibo?q=%23%E6%8B%8D%E6%9C%88%E4%BA%AE%E5%A4%A7%E8%B5%9B%23&t=31&band_rank=29&Refer=top) 191047
 36. [小猫咪凭什么这么悠闲](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E5%87%AD%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E6%82%A0%E9%97%B2%23&t=31&band_rank=19&Refer=top) 178560
 37. [女子求职被告知有男朋友一律不招](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B1%82%E8%81%8C%E8%A2%AB%E5%91%8A%E7%9F%A5%E6%9C%89%E7%94%B7%E6%9C%8B%E5%8F%8B%E4%B8%80%E5%BE%8B%E4%B8%8D%E6%8B%9B%23&t=31&band_rank=38&Refer=top) 174987
-38. [中国产出了全球几乎全部杨梅](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%A7%E5%87%BA%E4%BA%86%E5%85%A8%E7%90%83%E5%87%A0%E4%B9%8E%E5%85%A8%E9%83%A8%E6%9D%A8%E6%A2%85%23&t=31&band_rank=39&Refer=top) 169211
-39. [iPhone14](https://s.weibo.com//weibo?q=iPhone14&t=31&band_rank=33&Refer=top) 167675
-40. [从此小说中的侠客有了脸](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E6%AD%A4%E5%B0%8F%E8%AF%B4%E4%B8%AD%E7%9A%84%E4%BE%A0%E5%AE%A2%E6%9C%89%E4%BA%86%E8%84%B8%23&t=31&band_rank=12&Refer=top) 163036
-41. [好帅那女孩儿](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%B8%85%E9%82%A3%E5%A5%B3%E5%AD%A9%E5%84%BF%23&t=31&band_rank=42&Refer=top) 162480
-42. [官方回应高中一个班收8万班费](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E4%B8%80%E4%B8%AA%E7%8F%AD%E6%94%B68%E4%B8%87%E7%8F%AD%E8%B4%B9%23&t=31&band_rank=9&Refer=top) 142895
+38. [官方回应高中一个班收8万班费](https://s.weibo.com//weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E4%B8%80%E4%B8%AA%E7%8F%AD%E6%94%B68%E4%B8%87%E7%8F%AD%E8%B4%B9%23&t=31&band_rank=7&Refer=top) 171648
+39. [中国产出了全球几乎全部杨梅](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%A7%E5%87%BA%E4%BA%86%E5%85%A8%E7%90%83%E5%87%A0%E4%B9%8E%E5%85%A8%E9%83%A8%E6%9D%A8%E6%A2%85%23&t=31&band_rank=39&Refer=top) 169211
+40. [iPhone14](https://s.weibo.com//weibo?q=iPhone14&t=31&band_rank=33&Refer=top) 167675
+41. [从此小说中的侠客有了脸](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E6%AD%A4%E5%B0%8F%E8%AF%B4%E4%B8%AD%E7%9A%84%E4%BE%A0%E5%AE%A2%E6%9C%89%E4%BA%86%E8%84%B8%23&t=31&band_rank=12&Refer=top) 163036
+42. [好帅那女孩儿](https://s.weibo.com//weibo?q=%23%E5%A5%BD%E5%B8%85%E9%82%A3%E5%A5%B3%E5%AD%A9%E5%84%BF%23&t=31&band_rank=42&Refer=top) 162480
 43. [当地回应一中学班费人均两千元](https://s.weibo.com//weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%8F%AD%E8%B4%B9%E4%BA%BA%E5%9D%87%E4%B8%A4%E5%8D%83%E5%85%83%23&t=31&band_rank=44&Refer=top) 142716
 44. [中秋假期下班前记得上好厕所](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%E4%B8%8B%E7%8F%AD%E5%89%8D%E8%AE%B0%E5%BE%97%E4%B8%8A%E5%A5%BD%E5%8E%95%E6%89%80%23&t=31&band_rank=42&Refer=top) 131385
 45. [中印两军开始同步有计划组织脱离接触](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%8D%B0%E4%B8%A4%E5%86%9B%E5%BC%80%E5%A7%8B%E5%90%8C%E6%AD%A5%E6%9C%89%E8%AE%A1%E5%88%92%E7%BB%84%E7%BB%87%E8%84%B1%E7%A6%BB%E6%8E%A5%E8%A7%A6%23&t=31&band_rank=46&Refer=top) 122694
@@ -58,7 +58,7 @@ weibo_top
 47. [苹果官网](https://s.weibo.com//weibo?q=%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91&t=31&band_rank=50&Refer=top) 115340
 48. [8种语言朗诵水调歌头](https://s.weibo.com//weibo?q=%238%E7%A7%8D%E8%AF%AD%E8%A8%80%E6%9C%97%E8%AF%B5%E6%B0%B4%E8%B0%83%E6%AD%8C%E5%A4%B4%23&t=31&band_rank=49&Refer=top) 105592
 49. [月饼](https://s.weibo.com//weibo?q=%E6%9C%88%E9%A5%BC&t=31&band_rank=50&Refer=top) 96266
-50. [诈骗分子放烟花庆祝业绩超百万](https://s.weibo.com//weibo?q=%23%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%E6%94%BE%E7%83%9F%E8%8A%B1%E5%BA%86%E7%A5%9D%E4%B8%9A%E7%BB%A9%E8%B6%85%E7%99%BE%E4%B8%87%23&t=31&band_rank=46&Refer=top) 28552
+50. [诈骗分子放烟花庆祝业绩超百万](https://s.weibo.com//weibo?q=%23%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%E6%94%BE%E7%83%9F%E8%8A%B1%E5%BA%86%E7%A5%9D%E4%B8%9A%E7%BB%A9%E8%B6%85%E7%99%BE%E4%B8%87%23&t=31&band_rank=36&Refer=top) 35368
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
