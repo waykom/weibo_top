@@ -58,8 +58,8 @@ weibo_top
 47. [山东济宁表示深深歉意](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B5%8E%E5%AE%81%E8%A1%A8%E7%A4%BA%E6%B7%B1%E6%B7%B1%E6%AD%89%E6%84%8F%23&t=31&band_rank=50&Refer=top) 53725
 48. [鹿晗运动天赋](https://s.weibo.com//weibo?q=%23%E9%B9%BF%E6%99%97%E8%BF%90%E5%8A%A8%E5%A4%A9%E8%B5%8B%23&t=31&band_rank=34&Refer=top) 46584
 49. [李景亮懵了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%99%AF%E4%BA%AE%E6%87%B5%E4%BA%86%23&t=31&band_rank=30&Refer=top) 37779
-50. [什么是极简养猫法](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E6%9E%81%E7%AE%80%E5%85%BB%E7%8C%AB%E6%B3%95%23&t=31&band_rank=35&Refer=top) 30819
-51. [小学生沉迷文具店开盲盒](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B2%89%E8%BF%B7%E6%96%87%E5%85%B7%E5%BA%97%E5%BC%80%E7%9B%B2%E7%9B%92%23&t=31&band_rank=50&Refer=top) 9733
+50. [什么是极简养猫法](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E6%9E%81%E7%AE%80%E5%85%BB%E7%8C%AB%E6%B3%95%23&t=31&band_rank=35&Refer=top) 31182
+51. [小学生沉迷文具店开盲盒](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B2%89%E8%BF%B7%E6%96%87%E5%85%B7%E5%BA%97%E5%BC%80%E7%9B%B2%E7%9B%92%23&t=31&band_rank=46&Refer=top) 13753
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
