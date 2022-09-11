@@ -60,6 +60,7 @@ weibo_top
 49. [小学生沉迷文具店开盲盒](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B2%89%E8%BF%B7%E6%96%87%E5%85%B7%E5%BA%97%E5%BC%80%E7%9B%B2%E7%9B%92%23&t=31&band_rank=15&Refer=top) 41447
 50. [李景亮懵了](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%99%AF%E4%BA%AE%E6%87%B5%E4%BA%86%23&t=31&band_rank=30&Refer=top) 37779
 51. [什么是极简养猫法](https://s.weibo.com//weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E6%9E%81%E7%AE%80%E5%85%BB%E7%8C%AB%E6%B3%95%23&t=31&band_rank=27&Refer=top) 31789
+52. [北方朋友不加儿化音挑战](https://s.weibo.com//weibo?q=%23%E5%8C%97%E6%96%B9%E6%9C%8B%E5%8F%8B%E4%B8%8D%E5%8A%A0%E5%84%BF%E5%8C%96%E9%9F%B3%E6%8C%91%E6%88%98%23&t=31&band_rank=50&Refer=top) 8172
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
