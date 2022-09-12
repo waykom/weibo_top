@@ -49,9 +49,9 @@ weibo_top
 38. [如何做到真正的有效夸奖](https://s.weibo.com//weibo?q=%23%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%9C%89%E6%95%88%E5%A4%B8%E5%A5%96%23&t=31&band_rank=46&Refer=top) 97298
 39. [浙江教师业绩突出获奖一套房](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%95%99%E5%B8%88%E4%B8%9A%E7%BB%A9%E7%AA%81%E5%87%BA%E8%8E%B7%E5%A5%96%E4%B8%80%E5%A5%97%E6%88%BF%23&t=31&band_rank=47&Refer=top) 73544
 40. [职工返岗前48小时内应测核酸](https://s.weibo.com//weibo?q=%23%E8%81%8C%E5%B7%A5%E8%BF%94%E5%B2%97%E5%89%8D48%E5%B0%8F%E6%97%B6%E5%86%85%E5%BA%94%E6%B5%8B%E6%A0%B8%E9%85%B8%23&t=31&band_rank=50&Refer=top) 69424
-41. [大爷修鞋被熏到拿纸塞鼻孔](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%88%B7%E4%BF%AE%E9%9E%8B%E8%A2%AB%E7%86%8F%E5%88%B0%E6%8B%BF%E7%BA%B8%E5%A1%9E%E9%BC%BB%E5%AD%94%23&t=31&band_rank=49&Refer=top) 65635
-42. [奶奶落井爷爷托举一小时后被救](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%90%BD%E4%BA%95%E7%88%B7%E7%88%B7%E6%89%98%E4%B8%BE%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A2%AB%E6%95%91%23&t=31&band_rank=36&Refer=top) 52261
-43. [中国视协评李易峰事件](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A7%86%E5%8D%8F%E8%AF%84%E6%9D%8E%E6%98%93%E5%B3%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=42&Refer=top) 38835
+41. [奶奶落井爷爷托举一小时后被救](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%90%BD%E4%BA%95%E7%88%B7%E7%88%B7%E6%89%98%E4%B8%BE%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A2%AB%E6%95%91%23&t=31&band_rank=26&Refer=top) 68904
+42. [大爷修鞋被熏到拿纸塞鼻孔](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%88%B7%E4%BF%AE%E9%9E%8B%E8%A2%AB%E7%86%8F%E5%88%B0%E6%8B%BF%E7%BA%B8%E5%A1%9E%E9%BC%BB%E5%AD%94%23&t=31&band_rank=49&Refer=top) 65635
+43. [中国视协评李易峰事件](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A7%86%E5%8D%8F%E8%AF%84%E6%9D%8E%E6%98%93%E5%B3%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=41&Refer=top) 42921
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
