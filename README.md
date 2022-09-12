@@ -24,12 +24,12 @@ weibo_top
 13. [台积电2纳米预计2025年量产](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E7%A7%AF%E7%94%B52%E7%BA%B3%E7%B1%B3%E9%A2%84%E8%AE%A12025%E5%B9%B4%E9%87%8F%E4%BA%A7%23&t=31&band_rank=16&Refer=top) 384719
 14. [天府新区疫情防控](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E5%BA%9C%E6%96%B0%E5%8C%BA%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&t=31&band_rank=17&Refer=top) 347095
 15. [中秋假期国内游7340.9万人次](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%E5%9B%BD%E5%86%85%E6%B8%B87340.9%E4%B8%87%E4%BA%BA%E6%AC%A1%23&t=31&band_rank=18&Refer=top) 337025
-16. [刘青松](https://s.weibo.com//weibo?q=%E5%88%98%E9%9D%92%E6%9D%BE&t=31&band_rank=19&Refer=top) 326462
-17. [4人悬崖边脚踩巨石用力摇晃](https://s.weibo.com//weibo?q=%234%E4%BA%BA%E6%82%AC%E5%B4%96%E8%BE%B9%E8%84%9A%E8%B8%A9%E5%B7%A8%E7%9F%B3%E7%94%A8%E5%8A%9B%E6%91%87%E6%99%83%23&t=31&band_rank=20&Refer=top) 325556
-18. [李易峰塌房给明星艺人提了什么醒](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E5%A1%8C%E6%88%BF%E7%BB%99%E6%98%8E%E6%98%9F%E8%89%BA%E4%BA%BA%E6%8F%90%E4%BA%86%E4%BB%80%E4%B9%88%E9%86%92%23&t=31&band_rank=21&Refer=top) 308395
-19. [ios16](https://s.weibo.com//weibo?q=ios16&t=31&band_rank=23&Refer=top) 294454
-20. [媒体评李易峰最后一次露面](https://s.weibo.com//weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E6%9D%8E%E6%98%93%E5%B3%B0%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=24&Refer=top) 292229
-21. [一场脱口秀带火600759](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9C%BA%E8%84%B1%E5%8F%A3%E7%A7%80%E5%B8%A6%E7%81%AB600759%23&t=31&band_rank=13&Refer=top) 280308
+16. [一场脱口秀带火600759](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%9C%BA%E8%84%B1%E5%8F%A3%E7%A7%80%E5%B8%A6%E7%81%AB600759%23&t=31&band_rank=6&Refer=top) 333966
+17. [刘青松](https://s.weibo.com//weibo?q=%E5%88%98%E9%9D%92%E6%9D%BE&t=31&band_rank=19&Refer=top) 326462
+18. [4人悬崖边脚踩巨石用力摇晃](https://s.weibo.com//weibo?q=%234%E4%BA%BA%E6%82%AC%E5%B4%96%E8%BE%B9%E8%84%9A%E8%B8%A9%E5%B7%A8%E7%9F%B3%E7%94%A8%E5%8A%9B%E6%91%87%E6%99%83%23&t=31&band_rank=20&Refer=top) 325556
+19. [李易峰塌房给明星艺人提了什么醒](https://s.weibo.com//weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E5%A1%8C%E6%88%BF%E7%BB%99%E6%98%8E%E6%98%9F%E8%89%BA%E4%BA%BA%E6%8F%90%E4%BA%86%E4%BB%80%E4%B9%88%E9%86%92%23&t=31&band_rank=21&Refer=top) 308395
+20. [ios16](https://s.weibo.com//weibo?q=ios16&t=31&band_rank=23&Refer=top) 294454
+21. [媒体评李易峰最后一次露面](https://s.weibo.com//weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E6%9D%8E%E6%98%93%E5%B3%B0%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=24&Refer=top) 292229
 22. [郝蕾](https://s.weibo.com//weibo?q=%E9%83%9D%E8%95%BE&t=31&band_rank=26&Refer=top) 280001
 23. [36岁歌手嚼槟榔6年因口腔癌过世](https://s.weibo.com//weibo?q=%2336%E5%B2%81%E6%AD%8C%E6%89%8B%E5%9A%BC%E6%A7%9F%E6%A6%946%E5%B9%B4%E5%9B%A0%E5%8F%A3%E8%85%94%E7%99%8C%E8%BF%87%E4%B8%96%23&t=31&band_rank=27&Refer=top) 278545
 24. [宠物市场2千买的狗活不过7天](https://s.weibo.com//weibo?q=%23%E5%AE%A0%E7%89%A9%E5%B8%82%E5%9C%BA2%E5%8D%83%E4%B9%B0%E7%9A%84%E7%8B%97%E6%B4%BB%E4%B8%8D%E8%BF%877%E5%A4%A9%23&t=31&band_rank=9&Refer=top) 237342
@@ -50,7 +50,7 @@ weibo_top
 39. [浙江教师业绩突出获奖一套房](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%95%99%E5%B8%88%E4%B8%9A%E7%BB%A9%E7%AA%81%E5%87%BA%E8%8E%B7%E5%A5%96%E4%B8%80%E5%A5%97%E6%88%BF%23&t=31&band_rank=47&Refer=top) 73544
 40. [职工返岗前48小时内应测核酸](https://s.weibo.com//weibo?q=%23%E8%81%8C%E5%B7%A5%E8%BF%94%E5%B2%97%E5%89%8D48%E5%B0%8F%E6%97%B6%E5%86%85%E5%BA%94%E6%B5%8B%E6%A0%B8%E9%85%B8%23&t=31&band_rank=50&Refer=top) 69424
 41. [大爷修鞋被熏到拿纸塞鼻孔](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%88%B7%E4%BF%AE%E9%9E%8B%E8%A2%AB%E7%86%8F%E5%88%B0%E6%8B%BF%E7%BA%B8%E5%A1%9E%E9%BC%BB%E5%AD%94%23&t=31&band_rank=49&Refer=top) 65635
-42. [奶奶落井爷爷托举一小时后被救](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%90%BD%E4%BA%95%E7%88%B7%E7%88%B7%E6%89%98%E4%B8%BE%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A2%AB%E6%95%91%23&t=31&band_rank=50&Refer=top) 24107
+42. [奶奶落井爷爷托举一小时后被救](https://s.weibo.com//weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%90%BD%E4%BA%95%E7%88%B7%E7%88%B7%E6%89%98%E4%B8%BE%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A2%AB%E6%95%91%23&t=31&band_rank=46&Refer=top) 30456
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
