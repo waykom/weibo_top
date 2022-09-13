@@ -53,6 +53,7 @@ weibo_top
 42. [钟辰乐直播](https://s.weibo.com//weibo?q=%23%E9%92%9F%E8%BE%B0%E4%B9%90%E7%9B%B4%E6%92%AD%23&t=31&band_rank=50&Refer=top) 96750
 43. [大学生才不会觉得幼稚](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%8D%E4%B8%8D%E4%BC%9A%E8%A7%89%E5%BE%97%E5%B9%BC%E7%A8%9A%23&t=31&band_rank=17&Refer=top) 95097
 44. [妈妈带宝宝看猩猩反被围观](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E5%B8%A6%E5%AE%9D%E5%AE%9D%E7%9C%8B%E7%8C%A9%E7%8C%A9%E5%8F%8D%E8%A2%AB%E5%9B%B4%E8%A7%82%23&t=31&band_rank=28&Refer=top) 51184
+45. [怎样释怀走散的友情](https://s.weibo.com//weibo?q=%23%E6%80%8E%E6%A0%B7%E9%87%8A%E6%80%80%E8%B5%B0%E6%95%A3%E7%9A%84%E5%8F%8B%E6%83%85%23&t=31&band_rank=50&Refer=top) 12118
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
