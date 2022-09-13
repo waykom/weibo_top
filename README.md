@@ -51,8 +51,8 @@ weibo_top
 40. [外交部回应美计划扩大对美企向中国出口芯片限制](https://s.weibo.com//weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%AE%A1%E5%88%92%E6%89%A9%E5%A4%A7%E5%AF%B9%E7%BE%8E%E4%BC%81%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8A%AF%E7%89%87%E9%99%90%E5%88%B6&t=31&band_rank=49&Refer=top) 101195
 41. [钟辰乐直播](https://s.weibo.com//weibo?q=%23%E9%92%9F%E8%BE%B0%E4%B9%90%E7%9B%B4%E6%92%AD%23&t=31&band_rank=50&Refer=top) 96750
 42. [第一次在鱼脸上看到了表情](https://s.weibo.com//weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E9%B1%BC%E8%84%B8%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E8%A1%A8%E6%83%85%23&t=31&band_rank=23&Refer=top) 95354
-43. [大学生才不会觉得幼稚](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%8D%E4%B8%8D%E4%BC%9A%E8%A7%89%E5%BE%97%E5%B9%BC%E7%A8%9A%23&t=31&band_rank=29&Refer=top) 73972
-44. [妈妈带宝宝看猩猩反被围观](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E5%B8%A6%E5%AE%9D%E5%AE%9D%E7%9C%8B%E7%8C%A9%E7%8C%A9%E5%8F%8D%E8%A2%AB%E5%9B%B4%E8%A7%82%23&t=31&band_rank=49&Refer=top) 41173
+43. [大学生才不会觉得幼稚](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%8D%E4%B8%8D%E4%BC%9A%E8%A7%89%E5%BE%97%E5%B9%BC%E7%A8%9A%23&t=31&band_rank=19&Refer=top) 90526
+44. [妈妈带宝宝看猩猩反被围观](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E5%B8%A6%E5%AE%9D%E5%AE%9D%E7%9C%8B%E7%8C%A9%E7%8C%A9%E5%8F%8D%E8%A2%AB%E5%9B%B4%E8%A7%82%23&t=31&band_rank=41&Refer=top) 47348
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
