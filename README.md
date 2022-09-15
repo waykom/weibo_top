@@ -29,7 +29,7 @@ weibo_top
 18. [Adobe宣布收购Figma](https://s.weibo.com//weibo?q=%23Adobe%E5%AE%A3%E5%B8%83%E6%94%B6%E8%B4%ADFigma%23&t=31&band_rank=20&Refer=top) 294782
 19. [中产家庭一年养娃花多少钱](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E4%BA%A7%E5%AE%B6%E5%BA%AD%E4%B8%80%E5%B9%B4%E5%85%BB%E5%A8%83%E8%8A%B1%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=18&Refer=top) 273530
 20. [乌兹别克斯坦首枚最高友谊勋章](https://s.weibo.com//weibo?q=%23%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%E9%A6%96%E6%9E%9A%E6%9C%80%E9%AB%98%E5%8F%8B%E8%B0%8A%E5%8B%8B%E7%AB%A0%23&t=31&band_rank=19&Refer=top) 269739
-21. [C罗最新身价2000万欧](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%9C%80%E6%96%B0%E8%BA%AB%E4%BB%B72000%E4%B8%87%E6%AC%A7%23&t=31&band_rank=2&Refer=top) 201809
+21. [C罗最新身价2000万欧](https://s.weibo.com//weibo?q=%23C%E7%BD%97%E6%9C%80%E6%96%B0%E8%BA%AB%E4%BB%B72000%E4%B8%87%E6%AC%A7%23&t=31&band_rank=2&Refer=top) 262552
 22. [猫猫过上了我的理想生活](https://s.weibo.com//weibo?q=%23%E7%8C%AB%E7%8C%AB%E8%BF%87%E4%B8%8A%E4%BA%86%E6%88%91%E7%9A%84%E7%90%86%E6%83%B3%E7%94%9F%E6%B4%BB%23&t=31&band_rank=27&Refer=top) 194524
 23. [这段视频肉食爱好者都扛不住](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%AE%B5%E8%A7%86%E9%A2%91%E8%82%89%E9%A3%9F%E7%88%B1%E5%A5%BD%E8%80%85%E9%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=10&Refer=top) 192498
 24. [谢谢你罗杰](https://s.weibo.com//weibo?q=%23%E8%B0%A2%E8%B0%A2%E4%BD%A0%E7%BD%97%E6%9D%B0%23&t=31&band_rank=28&Refer=top) 191660
@@ -52,6 +52,7 @@ weibo_top
 41. [落霞与白鹭齐飞原来这么美](https://s.weibo.com//weibo?q=%23%E8%90%BD%E9%9C%9E%E4%B8%8E%E7%99%BD%E9%B9%AD%E9%BD%90%E9%A3%9E%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%BE%8E%23&t=31&band_rank=49&Refer=top) 91289
 42. [离岸人民币兑美元跌破7.0关口](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E8%B7%8C%E7%A0%B47.0%E5%85%B3%E5%8F%A3%23&t=31&band_rank=50&Refer=top) 84636
 43. [11岁女孩自学建模实现盲盒自由](https://s.weibo.com//weibo?q=%2311%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%AE%9E%E7%8E%B0%E7%9B%B2%E7%9B%92%E8%87%AA%E7%94%B1%23&t=31&band_rank=50&Refer=top) 67731
+44. [谷歌面临近300亿元罚款](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E6%AD%8C%E9%9D%A2%E4%B8%B4%E8%BF%91300%E4%BA%BF%E5%85%83%E7%BD%9A%E6%AC%BE%23&t=31&band_rank=39&Refer=top) 35444
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
