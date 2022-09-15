@@ -52,7 +52,8 @@ weibo_top
 41. [落霞与白鹭齐飞原来这么美](https://s.weibo.com//weibo?q=%23%E8%90%BD%E9%9C%9E%E4%B8%8E%E7%99%BD%E9%B9%AD%E9%BD%90%E9%A3%9E%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%BE%8E%23&t=31&band_rank=49&Refer=top) 91289
 42. [离岸人民币兑美元跌破7.0关口](https://s.weibo.com//weibo?q=%23%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E8%B7%8C%E7%A0%B47.0%E5%85%B3%E5%8F%A3%23&t=31&band_rank=50&Refer=top) 84636
 43. [11岁女孩自学建模实现盲盒自由](https://s.weibo.com//weibo?q=%2311%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%AE%9E%E7%8E%B0%E7%9B%B2%E7%9B%92%E8%87%AA%E7%94%B1%23&t=31&band_rank=50&Refer=top) 67731
-44. [谷歌面临近300亿元罚款](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E6%AD%8C%E9%9D%A2%E4%B8%B4%E8%BF%91300%E4%BA%BF%E5%85%83%E7%BD%9A%E6%AC%BE%23&t=31&band_rank=39&Refer=top) 35444
+44. [谷歌面临近300亿元罚款](https://s.weibo.com//weibo?q=%23%E8%B0%B7%E6%AD%8C%E9%9D%A2%E4%B8%B4%E8%BF%91300%E4%BA%BF%E5%85%83%E7%BD%9A%E6%AC%BE%23&t=31&band_rank=30&Refer=top) 37336
+45. [女子包500亩地种红薯被村民偷挖](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8C%85500%E4%BA%A9%E5%9C%B0%E7%A7%8D%E7%BA%A2%E8%96%AF%E8%A2%AB%E6%9D%91%E6%B0%91%E5%81%B7%E6%8C%96%23&t=31&band_rank=49&Refer=top) 20182
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
