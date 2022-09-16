@@ -55,8 +55,9 @@ weibo_top
 44. [iPhone14提前发货](https://s.weibo.com//weibo?q=iPhone14%E6%8F%90%E5%89%8D%E5%8F%91%E8%B4%A7&t=31&band_rank=50&Refer=top) 123417
 45. [姐弟打架父母鼓励姐姐勇敢还手](https://s.weibo.com//weibo?q=%23%E5%A7%90%E5%BC%9F%E6%89%93%E6%9E%B6%E7%88%B6%E6%AF%8D%E9%BC%93%E5%8A%B1%E5%A7%90%E5%A7%90%E5%8B%87%E6%95%A2%E8%BF%98%E6%89%8B%23&t=31&band_rank=50&Refer=top) 101795
 46. [女明星金丝边眼镜造型大赏](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E9%87%91%E4%B8%9D%E8%BE%B9%E7%9C%BC%E9%95%9C%E9%80%A0%E5%9E%8B%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=17&Refer=top) 41563
-47. [爱上一个人需要理由吗](https://s.weibo.com//weibo?q=%23%E7%88%B1%E4%B8%8A%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%9C%80%E8%A6%81%E7%90%86%E7%94%B1%E5%90%97%23&t=31&band_rank=30&Refer=top) 33271
-48. [古剑奇谭手游停服](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD%E6%89%8B%E6%B8%B8%E5%81%9C%E6%9C%8D%23&t=31&band_rank=23&Refer=top) 30285
+47. [爱上一个人需要理由吗](https://s.weibo.com//weibo?q=%23%E7%88%B1%E4%B8%8A%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%9C%80%E8%A6%81%E7%90%86%E7%94%B1%E5%90%97%23&t=31&band_rank=18&Refer=top) 34564
+48. [古剑奇谭手游停服](https://s.weibo.com//weibo?q=%23%E5%8F%A4%E5%89%91%E5%A5%87%E8%B0%AD%E6%89%8B%E6%B8%B8%E5%81%9C%E6%9C%8D%23&t=31&band_rank=23&Refer=top) 31373
+49. [大货车风尘仆仆但贴的照片干净清楚](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E8%B4%A7%E8%BD%A6%E9%A3%8E%E5%B0%98%E4%BB%86%E4%BB%86%E4%BD%86%E8%B4%B4%E7%9A%84%E7%85%A7%E7%89%87%E5%B9%B2%E5%87%80%E6%B8%85%E6%A5%9A%23&t=31&band_rank=49&Refer=top) 9060
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
