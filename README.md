@@ -29,8 +29,8 @@ weibo_top
 18. [男子吃火锅发现头顶有老鼠](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E7%81%AB%E9%94%85%E5%8F%91%E7%8E%B0%E5%A4%B4%E9%A1%B6%E6%9C%89%E8%80%81%E9%BC%A0%23&t=31&band_rank=14&Refer=top) 385519
 19. [专家称预制菜如同猪狗食](https://s.weibo.com//weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%A2%84%E5%88%B6%E8%8F%9C%E5%A6%82%E5%90%8C%E7%8C%AA%E7%8B%97%E9%A3%9F%23&t=31&band_rank=20&Refer=top) 354179
 20. [女子捡回流浪狗40天变化让人破防](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%9B%9E%E6%B5%81%E6%B5%AA%E7%8B%9740%E5%A4%A9%E5%8F%98%E5%8C%96%E8%AE%A9%E4%BA%BA%E7%A0%B4%E9%98%B2%23&t=31&band_rank=19&Refer=top) 332207
-21. [你喝过便宜又好喝的奶茶吗](https://s.weibo.com//weibo?q=%E4%BD%A0%E5%96%9D%E8%BF%87%E4%BE%BF%E5%AE%9C%E5%8F%88%E5%A5%BD%E5%96%9D%E7%9A%84%E5%A5%B6%E8%8C%B6%E5%90%97&t=31&band_rank=24&Refer=top) 286119
-22. [逃犯在缅甸完不成业绩罚做2千深蹲](https://s.weibo.com//weibo?q=%23%E9%80%83%E7%8A%AF%E5%9C%A8%E7%BC%85%E7%94%B8%E5%AE%8C%E4%B8%8D%E6%88%90%E4%B8%9A%E7%BB%A9%E7%BD%9A%E5%81%9A2%E5%8D%83%E6%B7%B1%E8%B9%B2%23&t=31&band_rank=12&Refer=top) 261837
+21. [逃犯在缅甸完不成业绩罚做2千深蹲](https://s.weibo.com//weibo?q=%23%E9%80%83%E7%8A%AF%E5%9C%A8%E7%BC%85%E7%94%B8%E5%AE%8C%E4%B8%8D%E6%88%90%E4%B8%9A%E7%BB%A9%E7%BD%9A%E5%81%9A2%E5%8D%83%E6%B7%B1%E8%B9%B2%23&t=31&band_rank=5&Refer=top) 318501
+22. [你喝过便宜又好喝的奶茶吗](https://s.weibo.com//weibo?q=%E4%BD%A0%E5%96%9D%E8%BF%87%E4%BE%BF%E5%AE%9C%E5%8F%88%E5%A5%BD%E5%96%9D%E7%9A%84%E5%A5%B6%E8%8C%B6%E5%90%97&t=31&band_rank=24&Refer=top) 286119
 23. [中国政府决定制裁波音防务公司CEO](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%86%B3%E5%AE%9A%E5%88%B6%E8%A3%81%E6%B3%A2%E9%9F%B3%E9%98%B2%E5%8A%A1%E5%85%AC%E5%8F%B8CEO%23&t=31&band_rank=26&Refer=top) 226358
 24. [女婴吃梨被卡妈妈海姆立克急救](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%90%83%E6%A2%A8%E8%A2%AB%E5%8D%A1%E5%A6%88%E5%A6%88%E6%B5%B7%E5%A7%86%E7%AB%8B%E5%85%8B%E6%80%A5%E6%95%91%23&t=31&band_rank=27&Refer=top) 222980
 25. [哪一刻你后悔没有好好读书](https://s.weibo.com//weibo?q=%23%E5%93%AA%E4%B8%80%E5%88%BB%E4%BD%A0%E5%90%8E%E6%82%94%E6%B2%A1%E6%9C%89%E5%A5%BD%E5%A5%BD%E8%AF%BB%E4%B9%A6%23&t=31&band_rank=27&Refer=top) 218603
@@ -48,12 +48,12 @@ weibo_top
 37. [南昌一女子遭酒后男子入室猥亵](https://s.weibo.com//weibo?q=%23%E5%8D%97%E6%98%8C%E4%B8%80%E5%A5%B3%E5%AD%90%E9%81%AD%E9%85%92%E5%90%8E%E7%94%B7%E5%AD%90%E5%85%A5%E5%AE%A4%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=45&Refer=top) 153075
 38. [见过最有压迫感的猫](https://s.weibo.com//weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E6%9C%89%E5%8E%8B%E8%BF%AB%E6%84%9F%E7%9A%84%E7%8C%AB%23&t=31&band_rank=38&Refer=top) 150979
 39. [已经提前感受到了考研的氛围](https://s.weibo.com//weibo?q=%23%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E6%84%9F%E5%8F%97%E5%88%B0%E4%BA%86%E8%80%83%E7%A0%94%E7%9A%84%E6%B0%9B%E5%9B%B4%23&t=31&band_rank=46&Refer=top) 146415
-40. [郑州商城金覆面覆盖整张人脸](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%95%86%E5%9F%8E%E9%87%91%E8%A6%86%E9%9D%A2%E8%A6%86%E7%9B%96%E6%95%B4%E5%BC%A0%E4%BA%BA%E8%84%B8%23&t=31&band_rank=45&Refer=top) 142440
-41. [原神散兵](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E7%A5%9E%E6%95%A3%E5%85%B5%23&t=31&band_rank=48&Refer=top) 137123
-42. [魈手办](https://s.weibo.com//weibo?q=%E9%AD%88%E6%89%8B%E5%8A%9E&t=31&band_rank=18&Refer=top) 129780
+40. [魈手办](https://s.weibo.com//weibo?q=%E9%AD%88%E6%89%8B%E5%8A%9E&t=31&band_rank=16&Refer=top) 144584
+41. [郑州商城金覆面覆盖整张人脸](https://s.weibo.com//weibo?q=%23%E9%83%91%E5%B7%9E%E5%95%86%E5%9F%8E%E9%87%91%E8%A6%86%E9%9D%A2%E8%A6%86%E7%9B%96%E6%95%B4%E5%BC%A0%E4%BA%BA%E8%84%B8%23&t=31&band_rank=45&Refer=top) 142440
+42. [原神散兵](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E7%A5%9E%E6%95%A3%E5%85%B5%23&t=31&band_rank=48&Refer=top) 137123
 43. [iPhone14提前发货](https://s.weibo.com//weibo?q=iPhone14%E6%8F%90%E5%89%8D%E5%8F%91%E8%B4%A7&t=31&band_rank=50&Refer=top) 123417
 44. [姐弟打架父母鼓励姐姐勇敢还手](https://s.weibo.com//weibo?q=%23%E5%A7%90%E5%BC%9F%E6%89%93%E6%9E%B6%E7%88%B6%E6%AF%8D%E9%BC%93%E5%8A%B1%E5%A7%90%E5%A7%90%E5%8B%87%E6%95%A2%E8%BF%98%E6%89%8B%23&t=31&band_rank=50&Refer=top) 101795
-45. [澳门健康码遭300多万次网络攻击](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E9%97%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E9%81%AD300%E5%A4%9A%E4%B8%87%E6%AC%A1%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%23&t=31&band_rank=50&Refer=top) 35284
+45. [澳门健康码遭300多万次网络攻击](https://s.weibo.com//weibo?q=%23%E6%BE%B3%E9%97%A8%E5%81%A5%E5%BA%B7%E7%A0%81%E9%81%AD300%E5%A4%9A%E4%B8%87%E6%AC%A1%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%23&t=31&band_rank=37&Refer=top) 59358
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
