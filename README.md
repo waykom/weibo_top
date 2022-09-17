@@ -53,7 +53,7 @@ weibo_top
 42. [暖阳的澜](https://s.weibo.com//weibo?q=%23%E6%9A%96%E9%98%B3%E7%9A%84%E6%BE%9C%23&t=31&band_rank=50&Refer=top) 92717
 43. [为什么有人热衷于美黑](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%BE%8E%E9%BB%91%23&t=31&band_rank=15&Refer=top) 88974
 44. [强大的国防是对烈士最好的告慰](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%9B%BD%E9%98%B2%E6%98%AF%E5%AF%B9%E7%83%88%E5%A3%AB%E6%9C%80%E5%A5%BD%E7%9A%84%E5%91%8A%E6%85%B0%23&t=31&band_rank=50&Refer=top) 78225
-45. [猴痘潜伏期最长23天](https://s.weibo.com//weibo?q=%23%E7%8C%B4%E7%97%98%E6%BD%9C%E4%BC%8F%E6%9C%9F%E6%9C%80%E9%95%BF23%E5%A4%A9%23&t=31&band_rank=19&Refer=top) 44903
+45. [猴痘潜伏期最长23天](https://s.weibo.com//weibo?q=%23%E7%8C%B4%E7%97%98%E6%BD%9C%E4%BC%8F%E6%9C%9F%E6%9C%80%E9%95%BF23%E5%A4%A9%23&t=31&band_rank=15&Refer=top) 55341
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
