@@ -51,8 +51,8 @@ weibo_top
 40. [牛妈妈不舍牛犊奋力追赶运输车](https://s.weibo.com//weibo?q=%23%E7%89%9B%E5%A6%88%E5%A6%88%E4%B8%8D%E8%88%8D%E7%89%9B%E7%8A%8A%E5%A5%8B%E5%8A%9B%E8%BF%BD%E8%B5%B6%E8%BF%90%E8%BE%93%E8%BD%A6%23&t=31&band_rank=48&Refer=top) 95308
 41. [大妈顺走外卖被失主次日偶遇认出](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E9%A1%BA%E8%B5%B0%E5%A4%96%E5%8D%96%E8%A2%AB%E5%A4%B1%E4%B8%BB%E6%AC%A1%E6%97%A5%E5%81%B6%E9%81%87%E8%AE%A4%E5%87%BA%23&t=31&band_rank=49&Refer=top) 94001
 42. [暖阳的澜](https://s.weibo.com//weibo?q=%23%E6%9A%96%E9%98%B3%E7%9A%84%E6%BE%9C%23&t=31&band_rank=50&Refer=top) 92717
-43. [强大的国防是对烈士最好的告慰](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%9B%BD%E9%98%B2%E6%98%AF%E5%AF%B9%E7%83%88%E5%A3%AB%E6%9C%80%E5%A5%BD%E7%9A%84%E5%91%8A%E6%85%B0%23&t=31&band_rank=50&Refer=top) 78225
-44. [为什么有人热衷于美黑](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%BE%8E%E9%BB%91%23&t=31&band_rank=25&Refer=top) 72696
+43. [为什么有人热衷于美黑](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%BE%8E%E9%BB%91%23&t=31&band_rank=17&Refer=top) 81435
+44. [强大的国防是对烈士最好的告慰](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%9B%BD%E9%98%B2%E6%98%AF%E5%AF%B9%E7%83%88%E5%A3%AB%E6%9C%80%E5%A5%BD%E7%9A%84%E5%91%8A%E6%85%B0%23&t=31&band_rank=50&Refer=top) 78225
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
