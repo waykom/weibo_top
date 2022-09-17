@@ -9,9 +9,9 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [台湾6.5级地震](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE6.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 1553868
-2. [英雄回家](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top) 1356175
-3. [今日中国再不是1931年的中国](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%86%8D%E4%B8%8D%E6%98%AF1931%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top) 1239013
+1. [今日中国再不是1931年的中国](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%86%8D%E4%B8%8D%E6%98%AF1931%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top) 1571192
+2. [台湾6.5级地震](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E6%B9%BE6.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 1553868
+3. [英雄回家](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top) 1356175
 4. [南非向英王室讨要非洲之星钻石](https://s.weibo.com//weibo?q=%23%E5%8D%97%E9%9D%9E%E5%90%91%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%AE%A8%E8%A6%81%E9%9D%9E%E6%B4%B2%E4%B9%8B%E6%98%9F%E9%92%BB%E7%9F%B3%23&t=31&band_rank=6&Refer=top) 946254
 5. [女子落网不忘喝光最后一口奶茶](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%90%BD%E7%BD%91%E4%B8%8D%E5%BF%98%E5%96%9D%E5%85%89%E6%9C%80%E5%90%8E%E4%B8%80%E5%8F%A3%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=7&Refer=top) 659888
 6. [深圳一男婴出生时4手4脚](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E7%94%B7%E5%A9%B4%E5%87%BA%E7%94%9F%E6%97%B64%E6%89%8B4%E8%84%9A%23&t=31&band_rank=7&Refer=top) 584993
@@ -45,14 +45,14 @@ weibo_top
 34. [定期做产检到底有没有必要](https://s.weibo.com//weibo?q=%23%E5%AE%9A%E6%9C%9F%E5%81%9A%E4%BA%A7%E6%A3%80%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E5%BF%85%E8%A6%81%23&t=31&band_rank=43&Refer=top) 109070
 35. [台东地震浙江多地有震感](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E4%B8%9C%E5%9C%B0%E9%9C%87%E6%B5%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F%23&t=31&band_rank=45&Refer=top) 103044
 36. [航天员开舱门瞬间遇上日出](https://s.weibo.com//weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%BC%80%E8%88%B1%E9%97%A8%E7%9E%AC%E9%97%B4%E9%81%87%E4%B8%8A%E6%97%A5%E5%87%BA%23&t=31&band_rank=46&Refer=top) 101953
-37. [拉萨市领导就疫情防控工作不足致歉](https://s.weibo.com//weibo?q=%23%E6%8B%89%E8%90%A8%E5%B8%82%E9%A2%86%E5%AF%BC%E5%B0%B1%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%B6%B3%E8%87%B4%E6%AD%89%23&t=31&band_rank=47&Refer=top) 98381
-38. [妻子刷新闻看到老公救人](https://s.weibo.com//weibo?q=%23%E5%A6%BB%E5%AD%90%E5%88%B7%E6%96%B0%E9%97%BB%E7%9C%8B%E5%88%B0%E8%80%81%E5%85%AC%E6%95%91%E4%BA%BA%23&t=31&band_rank=29&Refer=top) 96575
-39. [牛妈妈不舍牛犊奋力追赶运输车](https://s.weibo.com//weibo?q=%23%E7%89%9B%E5%A6%88%E5%A6%88%E4%B8%8D%E8%88%8D%E7%89%9B%E7%8A%8A%E5%A5%8B%E5%8A%9B%E8%BF%BD%E8%B5%B6%E8%BF%90%E8%BE%93%E8%BD%A6%23&t=31&band_rank=48&Refer=top) 95308
-40. [大妈顺走外卖被失主次日偶遇认出](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E9%A1%BA%E8%B5%B0%E5%A4%96%E5%8D%96%E8%A2%AB%E5%A4%B1%E4%B8%BB%E6%AC%A1%E6%97%A5%E5%81%B6%E9%81%87%E8%AE%A4%E5%87%BA%23&t=31&band_rank=49&Refer=top) 94001
-41. [暖阳的澜](https://s.weibo.com//weibo?q=%23%E6%9A%96%E9%98%B3%E7%9A%84%E6%BE%9C%23&t=31&band_rank=50&Refer=top) 92717
-42. [Doinb](https://s.weibo.com//weibo?q=Doinb&t=31&band_rank=30&Refer=top) 90426
+37. [Doinb](https://s.weibo.com//weibo?q=Doinb&t=31&band_rank=26&Refer=top) 101387
+38. [妻子刷新闻看到老公救人](https://s.weibo.com//weibo?q=%23%E5%A6%BB%E5%AD%90%E5%88%B7%E6%96%B0%E9%97%BB%E7%9C%8B%E5%88%B0%E8%80%81%E5%85%AC%E6%95%91%E4%BA%BA%23&t=31&band_rank=28&Refer=top) 98823
+39. [拉萨市领导就疫情防控工作不足致歉](https://s.weibo.com//weibo?q=%23%E6%8B%89%E8%90%A8%E5%B8%82%E9%A2%86%E5%AF%BC%E5%B0%B1%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%B6%B3%E8%87%B4%E6%AD%89%23&t=31&band_rank=47&Refer=top) 98381
+40. [牛妈妈不舍牛犊奋力追赶运输车](https://s.weibo.com//weibo?q=%23%E7%89%9B%E5%A6%88%E5%A6%88%E4%B8%8D%E8%88%8D%E7%89%9B%E7%8A%8A%E5%A5%8B%E5%8A%9B%E8%BF%BD%E8%B5%B6%E8%BF%90%E8%BE%93%E8%BD%A6%23&t=31&band_rank=48&Refer=top) 95308
+41. [大妈顺走外卖被失主次日偶遇认出](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E9%A1%BA%E8%B5%B0%E5%A4%96%E5%8D%96%E8%A2%AB%E5%A4%B1%E4%B8%BB%E6%AC%A1%E6%97%A5%E5%81%B6%E9%81%87%E8%AE%A4%E5%87%BA%23&t=31&band_rank=49&Refer=top) 94001
+42. [暖阳的澜](https://s.weibo.com//weibo?q=%23%E6%9A%96%E9%98%B3%E7%9A%84%E6%BE%9C%23&t=31&band_rank=50&Refer=top) 92717
 43. [强大的国防是对烈士最好的告慰](https://s.weibo.com//weibo?q=%23%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%9B%BD%E9%98%B2%E6%98%AF%E5%AF%B9%E7%83%88%E5%A3%AB%E6%9C%80%E5%A5%BD%E7%9A%84%E5%91%8A%E6%85%B0%23&t=31&band_rank=50&Refer=top) 78225
-44. [为什么有人热衷于美黑](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%BE%8E%E9%BB%91%23&t=31&band_rank=50&Refer=top) 37446
+44. [为什么有人热衷于美黑](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%BE%8E%E9%BB%91%23&t=31&band_rank=46&Refer=top) 50216
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
