@@ -58,8 +58,8 @@ weibo_top
 47. [男子朋友圈称像坐牢3小时后成真](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A7%B0%E5%83%8F%E5%9D%90%E7%89%A23%E5%B0%8F%E6%97%B6%E5%90%8E%E6%88%90%E7%9C%9F%23&t=31&band_rank=49&Refer=top) 76225
 48. [河南省夏粮总产量全国第一](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A4%8F%E7%B2%AE%E6%80%BB%E4%BA%A7%E9%87%8F%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=50&Refer=top) 75195
 49. [大连人](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E4%BA%BA&t=31&band_rank=50&Refer=top) 75114
-50. [我国贷款利率约为4%至5%](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%BA%A6%E4%B8%BA4%25%E8%87%B35%25%23&t=31&band_rank=38&Refer=top) 37443
-51. [遂宁疫情防控](https://s.weibo.com//weibo?q=%E9%81%82%E5%AE%81%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7&t=31&band_rank=47&Refer=top) 29884
+50. [我国贷款利率约为4%至5%](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%BA%A6%E4%B8%BA4%25%E8%87%B35%25%23&t=31&band_rank=26&Refer=top) 54874
+51. [遂宁疫情防控](https://s.weibo.com//weibo?q=%23%E9%81%82%E5%AE%81%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&t=31&band_rank=43&Refer=top) 30962
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
