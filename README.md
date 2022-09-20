@@ -13,14 +13,14 @@ weibo_top
 2. [丰收的色彩惊艳了秋天](https://s.weibo.com//weibo?q=%23%E4%B8%B0%E6%94%B6%E7%9A%84%E8%89%B2%E5%BD%A9%E6%83%8A%E8%89%B3%E4%BA%86%E7%A7%8B%E5%A4%A9%23&t=31&band_rank=3&Refer=top) 927081
 3. [女子体内排出4.95米长绦虫](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%93%E5%86%85%E6%8E%92%E5%87%BA4.95%E7%B1%B3%E9%95%BF%E7%BB%A6%E8%99%AB%23&t=31&band_rank=4&Refer=top) 918680
 4. [北京一男子酒后称后悔结婚](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E7%A7%B0%E5%90%8E%E6%82%94%E7%BB%93%E5%A9%9A%23&t=31&band_rank=5&Refer=top) 905921
-5. [女研究生休学待产为何引来爹味说教](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E4%BC%91%E5%AD%A6%E5%BE%85%E4%BA%A7%E4%B8%BA%E4%BD%95%E5%BC%95%E6%9D%A5%E7%88%B9%E5%91%B3%E8%AF%B4%E6%95%99%23&t=31&band_rank=2&Refer=top) 752815
-6. [受害者称杜英哲妻子是帮凶](https://s.weibo.com//weibo?q=%23%E5%8F%97%E5%AE%B3%E8%80%85%E7%A7%B0%E6%9D%9C%E8%8B%B1%E5%93%B2%E5%A6%BB%E5%AD%90%E6%98%AF%E5%B8%AE%E5%87%B6%23&t=31&band_rank=5&Refer=top) 739591
-7. [中国人民大学核酸异常学生复核阴性](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E6%A0%B8%E9%85%B8%E5%BC%82%E5%B8%B8%E5%AD%A6%E7%94%9F%E5%A4%8D%E6%A0%B8%E9%98%B4%E6%80%A7%23&t=31&band_rank=8&Refer=top) 567874
-8. [国际象棋比赛疑用智能肛珠作弊](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E6%AF%94%E8%B5%9B%E7%96%91%E7%94%A8%E6%99%BA%E8%83%BD%E8%82%9B%E7%8F%A0%E4%BD%9C%E5%BC%8A%23&t=31&band_rank=8&Refer=top) 554820
-9. [为什么不建议你劝别人分手](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%BD%A0%E5%8A%9D%E5%88%AB%E4%BA%BA%E5%88%86%E6%89%8B%23&t=31&band_rank=10&Refer=top) 517316
-10. [翰了汗了](https://s.weibo.com//weibo?q=%E7%BF%B0%E4%BA%86%E6%B1%97%E4%BA%86&t=31&band_rank=11&Refer=top) 503745
-11. [陈昕](https://s.weibo.com//weibo?q=%E9%99%88%E6%98%95&t=31&band_rank=14&Refer=top) 441391
-12. [张雪峰批明星带娃类综艺](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%89%B9%E6%98%8E%E6%98%9F%E5%B8%A6%E5%A8%83%E7%B1%BB%E7%BB%BC%E8%89%BA%23&t=31&band_rank=9&Refer=top) 391307
+5. [受害者称杜英哲妻子是帮凶](https://s.weibo.com//weibo?q=%23%E5%8F%97%E5%AE%B3%E8%80%85%E7%A7%B0%E6%9D%9C%E8%8B%B1%E5%93%B2%E5%A6%BB%E5%AD%90%E6%98%AF%E5%B8%AE%E5%87%B6%23&t=31&band_rank=1&Refer=top) 769768
+6. [女研究生休学待产为何引来爹味说教](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E4%BC%91%E5%AD%A6%E5%BE%85%E4%BA%A7%E4%B8%BA%E4%BD%95%E5%BC%95%E6%9D%A5%E7%88%B9%E5%91%B3%E8%AF%B4%E6%95%99%23&t=31&band_rank=2&Refer=top) 752815
+7. [张雪峰批明星带娃类综艺](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%89%B9%E6%98%8E%E6%98%9F%E5%B8%A6%E5%A8%83%E7%B1%BB%E7%BB%BC%E8%89%BA%23&t=31&band_rank=7&Refer=top) 570176
+8. [中国人民大学核酸异常学生复核阴性](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E6%A0%B8%E9%85%B8%E5%BC%82%E5%B8%B8%E5%AD%A6%E7%94%9F%E5%A4%8D%E6%A0%B8%E9%98%B4%E6%80%A7%23&t=31&band_rank=8&Refer=top) 567874
+9. [国际象棋比赛疑用智能肛珠作弊](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E6%AF%94%E8%B5%9B%E7%96%91%E7%94%A8%E6%99%BA%E8%83%BD%E8%82%9B%E7%8F%A0%E4%BD%9C%E5%BC%8A%23&t=31&band_rank=8&Refer=top) 554820
+10. [为什么不建议你劝别人分手](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%BD%A0%E5%8A%9D%E5%88%AB%E4%BA%BA%E5%88%86%E6%89%8B%23&t=31&band_rank=10&Refer=top) 517316
+11. [翰了汗了](https://s.weibo.com//weibo?q=%E7%BF%B0%E4%BA%86%E6%B1%97%E4%BA%86&t=31&band_rank=11&Refer=top) 503745
+12. [陈昕](https://s.weibo.com//weibo?q=%E9%99%88%E6%98%95&t=31&band_rank=14&Refer=top) 441391
 13. [游客爬完黄山下楼梯似丧尸集体出动](https://s.weibo.com//weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%88%AC%E5%AE%8C%E9%BB%84%E5%B1%B1%E4%B8%8B%E6%A5%BC%E6%A2%AF%E4%BC%BC%E4%B8%A7%E5%B0%B8%E9%9B%86%E4%BD%93%E5%87%BA%E5%8A%A8%23&t=31&band_rank=12&Refer=top) 367808
 14. [全面禁售槟榔该下决心了](https://s.weibo.com//weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E5%94%AE%E6%A7%9F%E6%A6%94%E8%AF%A5%E4%B8%8B%E5%86%B3%E5%BF%83%E4%BA%86%23&t=31&band_rank=15&Refer=top) 324458
 15. [执业医师](https://s.weibo.com//weibo?q=%E6%89%A7%E4%B8%9A%E5%8C%BB%E5%B8%88&t=31&band_rank=16&Refer=top) 317853
@@ -47,14 +47,15 @@ weibo_top
 36. [房思琪](https://s.weibo.com//weibo?q=%E6%88%BF%E6%80%9D%E7%90%AA&t=31&band_rank=45&Refer=top) 137702
 37. [杜英哲](https://s.weibo.com//weibo?q=%E6%9D%9C%E8%8B%B1%E5%93%B2&t=31&band_rank=46&Refer=top) 137408
 38. [首部中西结合末日题材小说漫画化](https://s.weibo.com//weibo?q=%23%E9%A6%96%E9%83%A8%E4%B8%AD%E8%A5%BF%E7%BB%93%E5%90%88%E6%9C%AB%E6%97%A5%E9%A2%98%E6%9D%90%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB%E5%8C%96%23&t=31&band_rank=47&Refer=top) 136452
-39. [共情能力太强不适合学医](https://s.weibo.com//weibo?q=%23%E5%85%B1%E6%83%85%E8%83%BD%E5%8A%9B%E5%A4%AA%E5%BC%BA%E4%B8%8D%E9%80%82%E5%90%88%E5%AD%A6%E5%8C%BB%23&t=31&band_rank=49&Refer=top) 130758
-40. [九尾又双叒换发色了](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E5%B0%BE%E5%8F%88%E5%8F%8C%E5%8F%92%E6%8D%A2%E5%8F%91%E8%89%B2%E4%BA%86%23&t=31&band_rank=40&Refer=top) 123427
-41. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&t=31&band_rank=47&Refer=top) 111225
-42. [反思房思琪式悲剧](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E6%80%9D%E6%88%BF%E6%80%9D%E7%90%AA%E5%BC%8F%E6%82%B2%E5%89%A7%23&t=31&band_rank=40&Refer=top) 102372
+39. [反思房思琪式悲剧](https://s.weibo.com//weibo?q=%23%E5%8F%8D%E6%80%9D%E6%88%BF%E6%80%9D%E7%90%AA%E5%BC%8F%E6%82%B2%E5%89%A7%23&t=31&band_rank=27&Refer=top) 131224
+40. [共情能力太强不适合学医](https://s.weibo.com//weibo?q=%23%E5%85%B1%E6%83%85%E8%83%BD%E5%8A%9B%E5%A4%AA%E5%BC%BA%E4%B8%8D%E9%80%82%E5%90%88%E5%AD%A6%E5%8C%BB%23&t=31&band_rank=49&Refer=top) 130758
+41. [九尾又双叒换发色了](https://s.weibo.com//weibo?q=%23%E4%B9%9D%E5%B0%BE%E5%8F%88%E5%8F%8C%E5%8F%92%E6%8D%A2%E5%8F%91%E8%89%B2%E4%BA%86%23&t=31&band_rank=40&Refer=top) 123427
+42. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&t=31&band_rank=47&Refer=top) 111225
 43. [小猫也喜欢看电视](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E7%8C%AB%E4%B9%9F%E5%96%9C%E6%AC%A2%E7%9C%8B%E7%94%B5%E8%A7%86%23&t=31&band_rank=49&Refer=top) 86907
 44. [男子朋友圈称像坐牢3小时后成真](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A7%B0%E5%83%8F%E5%9D%90%E7%89%A23%E5%B0%8F%E6%97%B6%E5%90%8E%E6%88%90%E7%9C%9F%23&t=31&band_rank=49&Refer=top) 76225
 45. [河南省夏粮总产量全国第一](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A4%8F%E7%B2%AE%E6%80%BB%E4%BA%A7%E9%87%8F%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=50&Refer=top) 75195
 46. [大连人](https://s.weibo.com//weibo?q=%E5%A4%A7%E8%BF%9E%E4%BA%BA&t=31&band_rank=50&Refer=top) 75114
+47. [浙江每6人中有1个念过大学](https://s.weibo.com//weibo?q=%23%E6%B5%99%E6%B1%9F%E6%AF%8F6%E4%BA%BA%E4%B8%AD%E6%9C%891%E4%B8%AA%E5%BF%B5%E8%BF%87%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=48&Refer=top) 63617
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
