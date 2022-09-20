@@ -62,7 +62,8 @@ weibo_top
 51. [我国贷款利率约为4%至5%](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%BA%A6%E4%B8%BA4%25%E8%87%B35%25%23&t=31&band_rank=26&Refer=top) 54874
 52. [中国制造出海的能力有多强](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%87%BA%E6%B5%B7%E7%9A%84%E8%83%BD%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA%23&t=31&band_rank=20&Refer=top) 40307
 53. [遂宁疫情防控](https://s.weibo.com//weibo?q=%23%E9%81%82%E5%AE%81%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&t=31&band_rank=43&Refer=top) 30962
-54. [一群孩子捡到4岁男童交给警察叔叔](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%BE%A4%E5%AD%A9%E5%AD%90%E6%8D%A1%E5%88%B04%E5%B2%81%E7%94%B7%E7%AB%A5%E4%BA%A4%E7%BB%99%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%23&t=31&band_rank=38&Refer=top) 17952
+54. [一群孩子捡到4岁男童交给警察叔叔](https://s.weibo.com//weibo?q=%23%E4%B8%80%E7%BE%A4%E5%AD%A9%E5%AD%90%E6%8D%A1%E5%88%B04%E5%B2%81%E7%94%B7%E7%AB%A5%E4%BA%A4%E7%BB%99%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%23&t=31&band_rank=30&Refer=top) 20584
+55. [女子帮卖棉花糖满天飞变白发魔女](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%AE%E5%8D%96%E6%A3%89%E8%8A%B1%E7%B3%96%E6%BB%A1%E5%A4%A9%E9%A3%9E%E5%8F%98%E7%99%BD%E5%8F%91%E9%AD%94%E5%A5%B3%23&t=31&band_rank=50&Refer=top) 9629
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
