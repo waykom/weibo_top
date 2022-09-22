@@ -57,8 +57,10 @@ weibo_top
 46. [这里是流浪猫的天堂吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E9%87%8C%E6%98%AF%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%9A%84%E5%A4%A9%E5%A0%82%E5%90%A7%23&t=31&band_rank=48&Refer=top) 34759
 47. [S12选手评分](https://s.weibo.com//weibo?q=%23S12%E9%80%89%E6%89%8B%E8%AF%84%E5%88%86%23&t=31&band_rank=33&Refer=top) 20142
 48. [王者新赛季今日开启](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E8%B5%9B%E5%AD%A3%E4%BB%8A%E6%97%A5%E5%BC%80%E5%90%AF%23&t=31&band_rank=50&Refer=top) 12400
-49. [5男生同骑一辆共享电动车](https://s.weibo.com//weibo?q=%235%E7%94%B7%E7%94%9F%E5%90%8C%E9%AA%91%E4%B8%80%E8%BE%86%E5%85%B1%E4%BA%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%23&t=31&band_rank=47&Refer=top) 8598
-50. [重庆首批地标菜名单](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E9%A6%96%E6%89%B9%E5%9C%B0%E6%A0%87%E8%8F%9C%E5%90%8D%E5%8D%95%23&t=31&band_rank=48&Refer=top) 7810
+49. [重庆首批地标菜名单](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E9%A6%96%E6%89%B9%E5%9C%B0%E6%A0%87%E8%8F%9C%E5%90%8D%E5%8D%95%23&t=31&band_rank=42&Refer=top) 9126
+50. [5男生同骑一辆共享电动车](https://s.weibo.com//weibo?q=%235%E7%94%B7%E7%94%9F%E5%90%8C%E9%AA%91%E4%B8%80%E8%BE%86%E5%85%B1%E4%BA%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%23&t=31&band_rank=47&Refer=top) 8598
+51. [老中医看病抓药不用称全凭手感](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%B8%AD%E5%8C%BB%E7%9C%8B%E7%97%85%E6%8A%93%E8%8D%AF%E4%B8%8D%E7%94%A8%E7%A7%B0%E5%85%A8%E5%87%AD%E6%89%8B%E6%84%9F%23&t=31&band_rank=48&Refer=top) 7235
+52. [墨迹天气会员服务引热议](https://s.weibo.com//weibo?q=%23%E5%A2%A8%E8%BF%B9%E5%A4%A9%E6%B0%94%E4%BC%9A%E5%91%98%E6%9C%8D%E5%8A%A1%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 6611
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
