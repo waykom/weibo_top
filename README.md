@@ -55,7 +55,7 @@ weibo_top
 44. [韩国空中出租车成功试飞](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E4%B8%AD%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%88%90%E5%8A%9F%E8%AF%95%E9%A3%9E%23&t=31&band_rank=49&Refer=top) 71297
 45. [女子闯红灯被撞质问为什么不让我](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%92%9E%E8%B4%A8%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%AE%A9%E6%88%91%23&t=31&band_rank=50&Refer=top) 69997
 46. [黄大妈说不可能要求年轻人豁达](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%A4%A7%E5%A6%88%E8%AF%B4%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%A6%81%E6%B1%82%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B1%81%E8%BE%BE%23&t=31&band_rank=31&Refer=top) 60988
-47. [台风奥鹿生成](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%A5%A5%E9%B9%BF%E7%94%9F%E6%88%90%23&t=31&band_rank=49&Refer=top) 13720
+47. [台风奥鹿生成](https://s.weibo.com//weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%A5%A5%E9%B9%BF%E7%94%9F%E6%88%90%23&t=31&band_rank=44&Refer=top) 18330
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
