@@ -10,7 +10,7 @@ weibo_top
 
 # 今日热门搜索  
 1. [教育部回应降低英语教学比重建议](https://s.weibo.com//weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BD%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%AF%94%E9%87%8D%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=1&Refer=top) 3261233
-2. [日本将用网红宣传福岛食品](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%23&t=31&band_rank=2&Refer=top) 924328
+2. [日本将用网红宣传福岛食品](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%23&t=31&band_rank=1&Refer=top) 1006995
 3. [太空视角看丰收有多美](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%B0%E6%94%B6%E6%9C%89%E5%A4%9A%E7%BE%8E%23&t=31&band_rank=3&Refer=top) 825838
 4. [大妈带活鱼坐高铁被阻当场摔死鱼](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%A6%88%E5%B8%A6%E6%B4%BB%E9%B1%BC%E5%9D%90%E9%AB%98%E9%93%81%E8%A2%AB%E9%98%BB%E5%BD%93%E5%9C%BA%E6%91%94%E6%AD%BB%E9%B1%BC%23&t=31&band_rank=4&Refer=top) 821719
 5. [90后女孩入职国企成37名男同事团宠](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%85%A5%E8%81%8C%E5%9B%BD%E4%BC%81%E6%88%9037%E5%90%8D%E7%94%B7%E5%90%8C%E4%BA%8B%E5%9B%A2%E5%AE%A0%23&t=31&band_rank=5&Refer=top) 546165
