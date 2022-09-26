@@ -51,8 +51,9 @@ weibo_top
 40. [男子地下车库练摩托车撞400万宾利](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%9C%B0%E4%B8%8B%E8%BD%A6%E5%BA%93%E7%BB%83%E6%91%A9%E6%89%98%E8%BD%A6%E6%92%9E400%E4%B8%87%E5%AE%BE%E5%88%A9&t=31&band_rank=15&Refer=top) 58428
 41. [原神莱依拉](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E7%A5%9E%E8%8E%B1%E4%BE%9D%E6%8B%89%23&t=31&band_rank=48&Refer=top) 57669
 42. [十成新的老虎什么样](https://s.weibo.com//weibo?q=%23%E5%8D%81%E6%88%90%E6%96%B0%E7%9A%84%E8%80%81%E8%99%8E%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=50&Refer=top) 53828
-43. [这猫看起来很有心眼](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%8C%AB%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E6%9C%89%E5%BF%83%E7%9C%BC%23&t=31&band_rank=35&Refer=top) 21464
-44. [男子脚踢抢食猴子遭满山追打](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%84%9A%E8%B8%A2%E6%8A%A2%E9%A3%9F%E7%8C%B4%E5%AD%90%E9%81%AD%E6%BB%A1%E5%B1%B1%E8%BF%BD%E6%89%93%23&t=31&band_rank=41&Refer=top) 18946
+43. [男子脚踢抢食猴子遭满山追打](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E8%84%9A%E8%B8%A2%E6%8A%A2%E9%A3%9F%E7%8C%B4%E5%AD%90%E9%81%AD%E6%BB%A1%E5%B1%B1%E8%BF%BD%E6%89%93%23&t=31&band_rank=30&Refer=top) 23912
+44. [这猫看起来很有心眼](https://s.weibo.com//weibo?q=%23%E8%BF%99%E7%8C%AB%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E6%9C%89%E5%BF%83%E7%9C%BC%23&t=31&band_rank=32&Refer=top) 22618
+45. [鸽子还以为中幻术了](https://s.weibo.com//weibo?q=%23%E9%B8%BD%E5%AD%90%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%AD%E5%B9%BB%E6%9C%AF%E4%BA%86%23&t=31&band_rank=50&Refer=top) 12244
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
