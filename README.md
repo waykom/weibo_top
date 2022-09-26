@@ -34,7 +34,7 @@ weibo_top
 23. [宁波疫情防控](https://s.weibo.com//weibo?q=%E5%AE%81%E6%B3%A2%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7&t=31&band_rank=28&Refer=top) 106491
 24. [中国航天2天2连发](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A92%E5%A4%A92%E8%BF%9E%E5%8F%91%23&t=31&band_rank=30&Refer=top) 103859
 25. [禁野2年后的华农兄弟](https://s.weibo.com//weibo?q=%23%E7%A6%81%E9%87%8E2%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8D%8E%E5%86%9C%E5%85%84%E5%BC%9F%23&t=31&band_rank=34&Refer=top) 103851
-26. [书法成为一级学科为何引发热议](https://s.weibo.com//weibo?q=%23%E4%B9%A6%E6%B3%95%E6%88%90%E4%B8%BA%E4%B8%80%E7%BA%A7%E5%AD%A6%E7%A7%91%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E7%83%AD%E8%AE%AE%23&t=31&band_rank=24&Refer=top) 97130
+26. [书法成为一级学科为何引发热议](https://s.weibo.com//weibo?q=%23%E4%B9%A6%E6%B3%95%E6%88%90%E4%B8%BA%E4%B8%80%E7%BA%A7%E5%AD%A6%E7%A7%91%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E7%83%AD%E8%AE%AE%23&t=31&band_rank=21&Refer=top) 103656
 27. [高校团队繁育出无刺武昌鱼](https://s.weibo.com//weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%A2%E9%98%9F%E7%B9%81%E8%82%B2%E5%87%BA%E6%97%A0%E5%88%BA%E6%AD%A6%E6%98%8C%E9%B1%BC%23&t=31&band_rank=35&Refer=top) 91341
 28. [造谣工人往黄豆酱中大小便者被行拘](https://s.weibo.com//weibo?q=%23%E9%80%A0%E8%B0%A3%E5%B7%A5%E4%BA%BA%E5%BE%80%E9%BB%84%E8%B1%86%E9%85%B1%E4%B8%AD%E5%A4%A7%E5%B0%8F%E4%BE%BF%E8%80%85%E8%A2%AB%E8%A1%8C%E6%8B%98%23&t=31&band_rank=36&Refer=top) 90550
 29. [理想男友图鉴](https://s.weibo.com//weibo?q=%23%E7%90%86%E6%83%B3%E7%94%B7%E5%8F%8B%E5%9B%BE%E9%89%B4%23&t=31&band_rank=26&Refer=top) 89789
