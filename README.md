@@ -49,7 +49,8 @@ weibo_top
 38. [这是火车界的天花板吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E7%81%AB%E8%BD%A6%E7%95%8C%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%90%A7%23&t=31&band_rank=47&Refer=top) 63216
 39. [原神莱依拉](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E7%A5%9E%E8%8E%B1%E4%BE%9D%E6%8B%89%23&t=31&band_rank=48&Refer=top) 57669
 40. [十成新的老虎什么样](https://s.weibo.com//weibo?q=%23%E5%8D%81%E6%88%90%E6%96%B0%E7%9A%84%E8%80%81%E8%99%8E%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=50&Refer=top) 53828
-41. [男子地下车库练摩托车撞400万宾利](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%9C%B0%E4%B8%8B%E8%BD%A6%E5%BA%93%E7%BB%83%E6%91%A9%E6%89%98%E8%BD%A6%E6%92%9E400%E4%B8%87%E5%AE%BE%E5%88%A9&t=31&band_rank=47&Refer=top) 23253
+41. [男子地下车库练摩托车撞400万宾利](https://s.weibo.com//weibo?q=%E7%94%B7%E5%AD%90%E5%9C%B0%E4%B8%8B%E8%BD%A6%E5%BA%93%E7%BB%83%E6%91%A9%E6%89%98%E8%BD%A6%E6%92%9E400%E4%B8%87%E5%AE%BE%E5%88%A9&t=31&band_rank=35&Refer=top) 30813
+42. [小区24楼掉下哈士奇砸伤老人孩子](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%8C%BA24%E6%A5%BC%E6%8E%89%E4%B8%8B%E5%93%88%E5%A3%AB%E5%A5%87%E7%A0%B8%E4%BC%A4%E8%80%81%E4%BA%BA%E5%AD%A9%E5%AD%90%23&t=31&band_rank=45&Refer=top) 22423
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
