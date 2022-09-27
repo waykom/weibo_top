@@ -9,7 +9,7 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [妈妈教爨姓儿子写名字时崩溃](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E6%95%99%E7%88%A8%E5%A7%93%E5%84%BF%E5%AD%90%E5%86%99%E5%90%8D%E5%AD%97%E6%97%B6%E5%B4%A9%E6%BA%83%23&t=31&band_rank=1&Refer=top) 2614147
+1. [妈妈教爨姓儿子写名字时崩溃](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E6%95%99%E7%88%A8%E5%A7%93%E5%84%BF%E5%AD%90%E5%86%99%E5%90%8D%E5%AD%97%E6%97%B6%E5%B4%A9%E6%BA%83%23&t=31&band_rank=1&Refer=top) 2771135
 2. [删掉很重要的人是什么感觉](https://s.weibo.com//weibo?q=%23%E5%88%A0%E6%8E%89%E5%BE%88%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&t=31&band_rank=2&Refer=top) 2419464
 3. [火锅店把吃剩锅底重新端给顾客](https://s.weibo.com//weibo?q=%23%E7%81%AB%E9%94%85%E5%BA%97%E6%8A%8A%E5%90%83%E5%89%A9%E9%94%85%E5%BA%95%E9%87%8D%E6%96%B0%E7%AB%AF%E7%BB%99%E9%A1%BE%E5%AE%A2%23&t=31&band_rank=1&Refer=top) 2399692
 4. [大学生校内10元买彩票中25万](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%8510%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD25%E4%B8%87%23&t=31&band_rank=1&Refer=top) 2258771
@@ -32,14 +32,14 @@ weibo_top
 21. [美查询中国境内敏感人员信息并回传](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E6%9F%A5%E8%AF%A2%E4%B8%AD%E5%9B%BD%E5%A2%83%E5%86%85%E6%95%8F%E6%84%9F%E4%BA%BA%E5%91%98%E4%BF%A1%E6%81%AF%E5%B9%B6%E5%9B%9E%E4%BC%A0%23&t=31&band_rank=9&Refer=top) 616672
 22. [老人坠床身亡护理院被判赔11万](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E5%9D%A0%E5%BA%8A%E8%BA%AB%E4%BA%A1%E6%8A%A4%E7%90%86%E9%99%A2%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87%23&t=31&band_rank=9&Refer=top) 607562
 23. [全国大学文化程度人口超过2.18亿](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%96%87%E5%8C%96%E7%A8%8B%E5%BA%A6%E4%BA%BA%E5%8F%A3%E8%B6%85%E8%BF%872.18%E4%BA%BF%23&t=31&band_rank=8&Refer=top) 592697
-24. [女子流产5次分手后被索要退还12万](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B5%81%E4%BA%A75%E6%AC%A1%E5%88%86%E6%89%8B%E5%90%8E%E8%A2%AB%E7%B4%A2%E8%A6%81%E9%80%80%E8%BF%9812%E4%B8%87%23&t=31&band_rank=11&Refer=top) 583040
-25. [半身麻醉手术状态下听到的](https://s.weibo.com//weibo?q=%23%E5%8D%8A%E8%BA%AB%E9%BA%BB%E9%86%89%E6%89%8B%E6%9C%AF%E7%8A%B6%E6%80%81%E4%B8%8B%E5%90%AC%E5%88%B0%E7%9A%84%23&t=31&band_rank=6&Refer=top) 552430
-26. [女子产后3个月发现又怀孕2个月](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E3%E4%B8%AA%E6%9C%88%E5%8F%91%E7%8E%B0%E5%8F%88%E6%80%80%E5%AD%952%E4%B8%AA%E6%9C%88%23&t=31&band_rank=10&Refer=top) 540727
-27. [MAMAMOO将于10月11日回归](https://s.weibo.com//weibo?q=%23MAMAMOO%E5%B0%86%E4%BA%8E10%E6%9C%8811%E6%97%A5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=11&Refer=top) 534597
-28. [女子吃完夜宵回家遇肥猫做卷腹](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E5%AE%8C%E5%A4%9C%E5%AE%B5%E5%9B%9E%E5%AE%B6%E9%81%87%E8%82%A5%E7%8C%AB%E5%81%9A%E5%8D%B7%E8%85%B9%23&t=31&band_rank=10&Refer=top) 533975
-29. [大学生用肯德基优惠券漏洞诈骗获刑](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%BC%98%E6%83%A0%E5%88%B8%E6%BC%8F%E6%B4%9E%E8%AF%88%E9%AA%97%E8%8E%B7%E5%88%91%23&t=31&band_rank=12&Refer=top) 525334
-30. [女子全职带娃10年离婚补偿10万](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%85%A8%E8%81%8C%E5%B8%A6%E5%A8%8310%E5%B9%B4%E7%A6%BB%E5%A9%9A%E8%A1%A5%E5%81%BF10%E4%B8%87%23&t=31&band_rank=14&Refer=top) 523901
-31. [千万人考教师资格证是好事吗](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B8%87%E4%BA%BA%E8%80%83%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E6%98%AF%E5%A5%BD%E4%BA%8B%E5%90%97%23&t=31&band_rank=6&Refer=top) 520010
+24. [千万人考教师资格证是好事吗](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B8%87%E4%BA%BA%E8%80%83%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E6%98%AF%E5%A5%BD%E4%BA%8B%E5%90%97%23&t=31&band_rank=7&Refer=top) 592619
+25. [女子流产5次分手后被索要退还12万](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B5%81%E4%BA%A75%E6%AC%A1%E5%88%86%E6%89%8B%E5%90%8E%E8%A2%AB%E7%B4%A2%E8%A6%81%E9%80%80%E8%BF%9812%E4%B8%87%23&t=31&band_rank=11&Refer=top) 583040
+26. [半身麻醉手术状态下听到的](https://s.weibo.com//weibo?q=%23%E5%8D%8A%E8%BA%AB%E9%BA%BB%E9%86%89%E6%89%8B%E6%9C%AF%E7%8A%B6%E6%80%81%E4%B8%8B%E5%90%AC%E5%88%B0%E7%9A%84%23&t=31&band_rank=6&Refer=top) 552430
+27. [女子产后3个月发现又怀孕2个月](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E3%E4%B8%AA%E6%9C%88%E5%8F%91%E7%8E%B0%E5%8F%88%E6%80%80%E5%AD%952%E4%B8%AA%E6%9C%88%23&t=31&band_rank=10&Refer=top) 540727
+28. [MAMAMOO将于10月11日回归](https://s.weibo.com//weibo?q=%23MAMAMOO%E5%B0%86%E4%BA%8E10%E6%9C%8811%E6%97%A5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=11&Refer=top) 534597
+29. [女子吃完夜宵回家遇肥猫做卷腹](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E5%AE%8C%E5%A4%9C%E5%AE%B5%E5%9B%9E%E5%AE%B6%E9%81%87%E8%82%A5%E7%8C%AB%E5%81%9A%E5%8D%B7%E8%85%B9%23&t=31&band_rank=10&Refer=top) 533975
+30. [大学生用肯德基优惠券漏洞诈骗获刑](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%BC%98%E6%83%A0%E5%88%B8%E6%BC%8F%E6%B4%9E%E8%AF%88%E9%AA%97%E8%8E%B7%E5%88%91%23&t=31&band_rank=12&Refer=top) 525334
+31. [女子全职带娃10年离婚补偿10万](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%85%A8%E8%81%8C%E5%B8%A6%E5%A8%8310%E5%B9%B4%E7%A6%BB%E5%A9%9A%E8%A1%A5%E5%81%BF10%E4%B8%87%23&t=31&band_rank=14&Refer=top) 523901
 32. [灵动岛将支持实时体育比分](https://s.weibo.com//weibo?q=%23%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%B0%86%E6%94%AF%E6%8C%81%E5%AE%9E%E6%97%B6%E4%BD%93%E8%82%B2%E6%AF%94%E5%88%86%23&t=31&band_rank=7&Refer=top) 510808
 33. [EDGJieJie已起诉多家企业侵权](https://s.weibo.com//weibo?q=%23EDGJieJie%E5%B7%B2%E8%B5%B7%E8%AF%89%E5%A4%9A%E5%AE%B6%E4%BC%81%E4%B8%9A%E4%BE%B5%E6%9D%83%23&t=31&band_rank=10&Refer=top) 504267
 34. [为什么总有男明星沉迷霸总叙事](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%9C%89%E7%94%B7%E6%98%8E%E6%98%9F%E6%B2%89%E8%BF%B7%E9%9C%B8%E6%80%BB%E5%8F%99%E4%BA%8B%23&t=31&band_rank=7&Refer=top) 503360
@@ -109,7 +109,7 @@ weibo_top
 98. [打119时必说的关键信息](https://s.weibo.com//weibo?q=%23%E6%89%93119%E6%97%B6%E5%BF%85%E8%AF%B4%E7%9A%84%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%23&t=31&band_rank=31&Refer=top) 139434
 99. [焦虑的时候你会做什么](https://s.weibo.com//weibo?q=%23%E7%84%A6%E8%99%91%E7%9A%84%E6%97%B6%E5%80%99%E4%BD%A0%E4%BC%9A%E5%81%9A%E4%BB%80%E4%B9%88%23&t=31&band_rank=36&Refer=top) 138023
 100. [光遇](https://s.weibo.com//weibo?q=%E5%85%89%E9%81%87&t=31&band_rank=37&Refer=top) 136178
-101. [真的不要再自我怀疑了](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%A6%81%E5%86%8D%E8%87%AA%E6%88%91%E6%80%80%E7%96%91%E4%BA%86%23&t=31&band_rank=39&Refer=top) 131426
+101. [真的不要再自我怀疑了](https://s.weibo.com//weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%A6%81%E5%86%8D%E8%87%AA%E6%88%91%E6%80%80%E7%96%91%E4%BA%86%23&t=31&band_rank=32&Refer=top) 133788
 102. [樊振东多球训练眼花缭乱](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%9A%E7%90%83%E8%AE%AD%E7%BB%83%E7%9C%BC%E8%8A%B1%E7%BC%AD%E4%B9%B1%23&t=31&band_rank=34&Refer=top) 130830
 103. [中国人首次太空行走14周年](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%A6%96%E6%AC%A1%E5%A4%AA%E7%A9%BA%E8%A1%8C%E8%B5%B014%E5%91%A8%E5%B9%B4%23&t=31&band_rank=29&Refer=top) 130018
 104. [法考主观题延期](https://s.weibo.com//weibo?q=%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%E5%BB%B6%E6%9C%9F&t=31&band_rank=35&Refer=top) 124856
@@ -137,8 +137,8 @@ weibo_top
 126. [理想男友图鉴](https://s.weibo.com//weibo?q=%23%E7%90%86%E6%83%B3%E7%94%B7%E5%8F%8B%E5%9B%BE%E9%89%B4%23&t=31&band_rank=26&Refer=top) 89789
 127. [苏醒陆虎姚政微博直播](https://s.weibo.com//weibo?q=%23%E8%8B%8F%E9%86%92%E9%99%86%E8%99%8E%E5%A7%9A%E6%94%BF%E5%BE%AE%E5%8D%9A%E7%9B%B4%E6%92%AD%23&t=31&band_rank=35&Refer=top) 89563
 128. [被野牦牛狂追的压迫感让人窒息](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%87%8E%E7%89%A6%E7%89%9B%E7%8B%82%E8%BF%BD%E7%9A%84%E5%8E%8B%E8%BF%AB%E6%84%9F%E8%AE%A9%E4%BA%BA%E7%AA%92%E6%81%AF%23&t=31&band_rank=50&Refer=top) 85738
-129. [人类幼崽的那些奇奇怪怪](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E9%82%A3%E4%BA%9B%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%23&t=31&band_rank=38&Refer=top) 84417
-130. [这位妈妈的脾气也太好了吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%BD%8D%E5%A6%88%E5%A6%88%E7%9A%84%E8%84%BE%E6%B0%94%E4%B9%9F%E5%A4%AA%E5%A5%BD%E4%BA%86%E5%90%A7%23&t=31&band_rank=47&Refer=top) 78019
+129. [这位妈妈的脾气也太好了吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%BD%8D%E5%A6%88%E5%A6%88%E7%9A%84%E8%84%BE%E6%B0%94%E4%B9%9F%E5%A4%AA%E5%A5%BD%E4%BA%86%E5%90%A7%23&t=31&band_rank=46&Refer=top) 84824
+130. [人类幼崽的那些奇奇怪怪](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E9%82%A3%E4%BA%9B%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%23&t=31&band_rank=38&Refer=top) 84417
 131. [俄罗斯一征兵处发生枪击现场视频](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%BE%81%E5%85%B5%E5%A4%84%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=39&Refer=top) 77980
 132. [6岁娃创最小年龄还原12阶魔方世界纪录](https://s.weibo.com//weibo?q=%236%E5%B2%81%E5%A8%83%E5%88%9B%E6%9C%80%E5%B0%8F%E5%B9%B4%E9%BE%84%E8%BF%98%E5%8E%9F12%E9%98%B6%E9%AD%94%E6%96%B9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=49&Refer=top) 76063
 133. [官方通报防疫人员将居民大米倒垃圾桶](https://s.weibo.com//weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%98%B2%E7%96%AB%E4%BA%BA%E5%91%98%E5%B0%86%E5%B1%85%E6%B0%91%E5%A4%A7%E7%B1%B3%E5%80%92%E5%9E%83%E5%9C%BE%E6%A1%B6&t=31&band_rank=40&Refer=top) 73931
