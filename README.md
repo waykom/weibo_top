@@ -26,9 +26,9 @@ weibo_top
 15. [司机一个横停为幼童挡住货车](https://s.weibo.com//weibo?q=%23%E5%8F%B8%E6%9C%BA%E4%B8%80%E4%B8%AA%E6%A8%AA%E5%81%9C%E4%B8%BA%E5%B9%BC%E7%AB%A5%E6%8C%A1%E4%BD%8F%E8%B4%A7%E8%BD%A6%23&t=31&band_rank=15&Refer=top) 199784
 16. [花海签的是eStar](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E6%B5%B7%E7%AD%BE%E7%9A%84%E6%98%AFeStar%23&t=31&band_rank=17&Refer=top) 185521
 17. [大学生毕业后存钱有多重要](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E5%AD%98%E9%92%B1%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&t=31&band_rank=19&Refer=top) 181543
-18. [男子月薪九千不会用word被辞退](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%88%E8%96%AA%E4%B9%9D%E5%8D%83%E4%B8%8D%E4%BC%9A%E7%94%A8word%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=20&Refer=top) 164499
-19. [保研](https://s.weibo.com//weibo?q=%E4%BF%9D%E7%A0%94&t=31&band_rank=22&Refer=top) 153540
-20. [中国女排问日本球员没事吧](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%97%AE%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%E6%B2%A1%E4%BA%8B%E5%90%A7%23&t=31&band_rank=15&Refer=top) 148898
+18. [中国女排问日本球员没事吧](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%97%AE%E6%97%A5%E6%9C%AC%E7%90%83%E5%91%98%E6%B2%A1%E4%BA%8B%E5%90%A7%23&t=31&band_rank=12&Refer=top) 165341
+19. [男子月薪九千不会用word被辞退](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%88%E8%96%AA%E4%B9%9D%E5%8D%83%E4%B8%8D%E4%BC%9A%E7%94%A8word%E8%A2%AB%E8%BE%9E%E9%80%80%23&t=31&band_rank=20&Refer=top) 164499
+20. [保研](https://s.weibo.com//weibo?q=%E4%BF%9D%E7%A0%94&t=31&band_rank=22&Refer=top) 153540
 21. [印度低种姓学生答错题被老师打死](https://s.weibo.com//weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BD%8E%E7%A7%8D%E5%A7%93%E5%AD%A6%E7%94%9F%E7%AD%94%E9%94%99%E9%A2%98%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E6%AD%BB%23&t=31&band_rank=26&Refer=top) 132389
 22. [中国女排3比0战胜日本](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%23&t=31&band_rank=27&Refer=top) 131940
 23. [女孩见务工爸爸回家喜极而泣](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A7%81%E5%8A%A1%E5%B7%A5%E7%88%B8%E7%88%B8%E5%9B%9E%E5%AE%B6%E5%96%9C%E6%9E%81%E8%80%8C%E6%B3%A3%23&t=31&band_rank=27&Refer=top) 122958
@@ -49,7 +49,8 @@ weibo_top
 38. [排队晒太阳的猫猫](https://s.weibo.com//weibo?q=%23%E6%8E%92%E9%98%9F%E6%99%92%E5%A4%AA%E9%98%B3%E7%9A%84%E7%8C%AB%E7%8C%AB%23&t=31&band_rank=47&Refer=top) 58866
 39. [刘宇宁直播](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&t=31&band_rank=48&Refer=top) 57546
 40. [女孩马路中间摆拍遭醉驾男子碰撞](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%A9%AC%E8%B7%AF%E4%B8%AD%E9%97%B4%E6%91%86%E6%8B%8D%E9%81%AD%E9%86%89%E9%A9%BE%E7%94%B7%E5%AD%90%E7%A2%B0%E6%92%9E%23&t=31&band_rank=50&Refer=top) 51040
-41. [中国女排神仙球](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E7%A5%9E%E4%BB%99%E7%90%83%23&t=31&band_rank=46&Refer=top) 39589
+41. [中国女排神仙球](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E7%A5%9E%E4%BB%99%E7%90%83%23&t=31&band_rank=41&Refer=top) 40239
+42. [赛博朋克边缘行者](https://s.weibo.com//weibo?q=%23%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85%23&t=31&band_rank=49&Refer=top) 29754
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
