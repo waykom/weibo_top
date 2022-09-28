@@ -49,10 +49,10 @@ weibo_top
 38. [排队晒太阳的猫猫](https://s.weibo.com//weibo?q=%23%E6%8E%92%E9%98%9F%E6%99%92%E5%A4%AA%E9%98%B3%E7%9A%84%E7%8C%AB%E7%8C%AB%23&t=31&band_rank=47&Refer=top) 58866
 39. [刘宇宁直播](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&t=31&band_rank=48&Refer=top) 57546
 40. [女孩马路中间摆拍遭醉驾男子碰撞](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%A9%AC%E8%B7%AF%E4%B8%AD%E9%97%B4%E6%91%86%E6%8B%8D%E9%81%AD%E9%86%89%E9%A9%BE%E7%94%B7%E5%AD%90%E7%A2%B0%E6%92%9E%23&t=31&band_rank=50&Refer=top) 51040
-41. [上世纪的跨国恋能有多遗憾](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E4%B8%96%E7%BA%AA%E7%9A%84%E8%B7%A8%E5%9B%BD%E6%81%8B%E8%83%BD%E6%9C%89%E5%A4%9A%E9%81%97%E6%86%BE%23&t=31&band_rank=34&Refer=top) 44807
+41. [上世纪的跨国恋能有多遗憾](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E4%B8%96%E7%BA%AA%E7%9A%84%E8%B7%A8%E5%9B%BD%E6%81%8B%E8%83%BD%E6%9C%89%E5%A4%9A%E9%81%97%E6%86%BE%23&t=31&band_rank=27&Refer=top) 47544
 42. [中国女排神仙球](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E7%A5%9E%E4%BB%99%E7%90%83%23&t=31&band_rank=41&Refer=top) 40239
 43. [赛博朋克边缘行者](https://s.weibo.com//weibo?q=%23%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85%23&t=31&band_rank=49&Refer=top) 29754
-44. [让细节决定爱与不爱](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E7%BB%86%E8%8A%82%E5%86%B3%E5%AE%9A%E7%88%B1%E4%B8%8E%E4%B8%8D%E7%88%B1%23&t=31&band_rank=49&Refer=top) 24821
+44. [让细节决定爱与不爱](https://s.weibo.com//weibo?q=%23%E8%AE%A9%E7%BB%86%E8%8A%82%E5%86%B3%E5%AE%9A%E7%88%B1%E4%B8%8E%E4%B8%8D%E7%88%B1%23&t=31&band_rank=42&Refer=top) 29617
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
