@@ -53,8 +53,8 @@ weibo_top
 42. [十一潮流日记](https://s.weibo.com//weibo?q=%23%E5%8D%81%E4%B8%80%E6%BD%AE%E6%B5%81%E6%97%A5%E8%AE%B0%23&t=31&band_rank=37&Refer=top) 60141
 43. [集中或居家隔离时不得采取外锁门方式](https://s.weibo.com//weibo?q=%23%E9%9B%86%E4%B8%AD%E6%88%96%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%E6%97%B6%E4%B8%8D%E5%BE%97%E9%87%87%E5%8F%96%E5%A4%96%E9%94%81%E9%97%A8%E6%96%B9%E5%BC%8F%23&t=31&band_rank=48&Refer=top) 58274
 44. [10月天象预告来了](https://s.weibo.com//weibo?q=%2310%E6%9C%88%E5%A4%A9%E8%B1%A1%E9%A2%84%E5%91%8A%E6%9D%A5%E4%BA%86%23&t=31&band_rank=50&Refer=top) 51466
-45. [赵晓卉全黑超感大片](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E6%99%93%E5%8D%89%E5%85%A8%E9%BB%91%E8%B6%85%E6%84%9F%E5%A4%A7%E7%89%87%23&t=31&band_rank=46&Refer=top) 34339
-46. [医生给剪破的气球缝针后吹了起来](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%99%E5%89%AA%E7%A0%B4%E7%9A%84%E6%B0%94%E7%90%83%E7%BC%9D%E9%92%88%E5%90%8E%E5%90%B9%E4%BA%86%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=47&Refer=top) 33242
+45. [医生给剪破的气球缝针后吹了起来](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%99%E5%89%AA%E7%A0%B4%E7%9A%84%E6%B0%94%E7%90%83%E7%BC%9D%E9%92%88%E5%90%8E%E5%90%B9%E4%BA%86%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=36&Refer=top) 45263
+46. [赵晓卉全黑超感大片](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E6%99%93%E5%8D%89%E5%85%A8%E9%BB%91%E8%B6%85%E6%84%9F%E5%A4%A7%E7%89%87%23&t=31&band_rank=46&Refer=top) 34339
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
