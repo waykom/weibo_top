@@ -61,6 +61,8 @@ weibo_top
 50. [赵晓卉全黑超感大片](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E6%99%93%E5%8D%89%E5%85%A8%E9%BB%91%E8%B6%85%E6%84%9F%E5%A4%A7%E7%89%87%23&t=31&band_rank=46&Refer=top) 34339
 51. [县委书记为零彩礼低彩礼新人证婚](https://s.weibo.com//weibo?q=%23%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%BA%E9%9B%B6%E5%BD%A9%E7%A4%BC%E4%BD%8E%E5%BD%A9%E7%A4%BC%E6%96%B0%E4%BA%BA%E8%AF%81%E5%A9%9A%23&t=31&band_rank=15&Refer=top) 30103
 52. [新郎遇保安要烟弃车背新娘走](https://s.weibo.com//weibo?q=%23%E6%96%B0%E9%83%8E%E9%81%87%E4%BF%9D%E5%AE%89%E8%A6%81%E7%83%9F%E5%BC%83%E8%BD%A6%E8%83%8C%E6%96%B0%E5%A8%98%E8%B5%B0%23&t=31&band_rank=17&Refer=top) 26121
+53. [警犬到医院看病1秒变怂](https://s.weibo.com//weibo?q=%23%E8%AD%A6%E7%8A%AC%E5%88%B0%E5%8C%BB%E9%99%A2%E7%9C%8B%E7%97%851%E7%A7%92%E5%8F%98%E6%80%82%23&t=31&band_rank=47&Refer=top) 8475
+54. [韩国一客机起飞滑跑时撞机](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%AE%A2%E6%9C%BA%E8%B5%B7%E9%A3%9E%E6%BB%91%E8%B7%91%E6%97%B6%E6%92%9E%E6%9C%BA%23&t=31&band_rank=50&Refer=top) 6948
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
