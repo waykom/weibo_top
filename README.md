@@ -41,11 +41,11 @@ weibo_top
 30. [C919将于2022年底交付](https://s.weibo.com//weibo?q=%23C919%E5%B0%86%E4%BA%8E2022%E5%B9%B4%E5%BA%95%E4%BA%A4%E4%BB%98%23&t=31&band_rank=30&Refer=top) 101746
 31. [男子用30万训练币买车送女友](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A830%E4%B8%87%E8%AE%AD%E7%BB%83%E5%B8%81%E4%B9%B0%E8%BD%A6%E9%80%81%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=31&Refer=top) 101728
 32. [女子摸鱼时被咬半身失去知觉](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%91%B8%E9%B1%BC%E6%97%B6%E8%A2%AB%E5%92%AC%E5%8D%8A%E8%BA%AB%E5%A4%B1%E5%8E%BB%E7%9F%A5%E8%A7%89%23&t=31&band_rank=32&Refer=top) 88478
-33. [中国篮协向女篮致贺信](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AF%AE%E5%8D%8F%E5%90%91%E5%A5%B3%E7%AF%AE%E8%87%B4%E8%B4%BA%E4%BF%A1%23&t=31&band_rank=33&Refer=top) 86274
-34. [中国女排战胜捷克队](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%88%98%E8%83%9C%E6%8D%B7%E5%85%8B%E9%98%9F%23&t=31&band_rank=34&Refer=top) 83736
-35. [周深查户口式聊天](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9F%A5%E6%88%B7%E5%8F%A3%E5%BC%8F%E8%81%8A%E5%A4%A9%23&t=31&band_rank=36&Refer=top) 74821
-36. [国产手机为什么不取消SIM卡](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%8F%96%E6%B6%88SIM%E5%8D%A1%23&t=31&band_rank=34&Refer=top) 73174
-37. [苹果市值一夜缩水1165亿美元](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E7%BC%A9%E6%B0%B41165%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=4&Refer=top) 72097
+33. [苹果市值一夜缩水1165亿美元](https://s.weibo.com//weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E7%BC%A9%E6%B0%B41165%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=4&Refer=top) 86779
+34. [中国篮协向女篮致贺信](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AF%AE%E5%8D%8F%E5%90%91%E5%A5%B3%E7%AF%AE%E8%87%B4%E8%B4%BA%E4%BF%A1%23&t=31&band_rank=33&Refer=top) 86274
+35. [中国女排战胜捷克队](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%88%98%E8%83%9C%E6%8D%B7%E5%85%8B%E9%98%9F%23&t=31&band_rank=34&Refer=top) 83736
+36. [周深查户口式聊天](https://s.weibo.com//weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9F%A5%E6%88%B7%E5%8F%A3%E5%BC%8F%E8%81%8A%E5%A4%A9%23&t=31&band_rank=36&Refer=top) 74821
+37. [国产手机为什么不取消SIM卡](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%8F%96%E6%B6%88SIM%E5%8D%A1%23&t=31&band_rank=34&Refer=top) 73174
 38. [偷户口本和患癌女友领证当事人回应质疑](https://s.weibo.com//weibo?q=%23%E5%81%B7%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%92%8C%E6%82%A3%E7%99%8C%E5%A5%B3%E5%8F%8B%E9%A2%86%E8%AF%81%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23&t=31&band_rank=39&Refer=top) 70394
 39. [花得莫名其妙的一笔钱](https://s.weibo.com//weibo?q=%23%E8%8A%B1%E5%BE%97%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E7%9A%84%E4%B8%80%E7%AC%94%E9%92%B1%23&t=31&band_rank=6&Refer=top) 68574
 40. [你的城市夜景是什么样的](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E7%9A%84%E5%9F%8E%E5%B8%82%E5%A4%9C%E6%99%AF%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&t=31&band_rank=42&Refer=top) 62049
@@ -54,14 +54,15 @@ weibo_top
 43. [中国女篮赛后庆祝现场](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%B5%9B%E5%90%8E%E5%BA%86%E7%A5%9D%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=47&Refer=top) 56614
 44. [女医生多看一眼救下举止异常乘客](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%8C%BB%E7%94%9F%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%B8%8B%E4%B8%BE%E6%AD%A2%E5%BC%82%E5%B8%B8%E4%B9%98%E5%AE%A2%23&t=31&band_rank=49&Refer=top) 55001
 45. [王濛祝贺中国女篮](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E6%BF%9B%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%23&t=31&band_rank=47&Refer=top) 49910
-46. [柬埔寨载中国人沉船事故涉人口贩卖](https://s.weibo.com//weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B2%89%E8%88%B9%E4%BA%8B%E6%95%85%E6%B6%89%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%23&t=31&band_rank=11&Refer=top) 39159
-47. [杭州高速涌现大流量](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%AB%98%E9%80%9F%E6%B6%8C%E7%8E%B0%E5%A4%A7%E6%B5%81%E9%87%8F%23&t=31&band_rank=12&Refer=top) 38933
-48. [电动车起火烧毁近30万元购房款](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B5%B7%E7%81%AB%E7%83%A7%E6%AF%81%E8%BF%9130%E4%B8%87%E5%85%83%E8%B4%AD%E6%88%BF%E6%AC%BE%23&t=31&band_rank=13&Refer=top) 38883
-49. [滑滑梯的小熊猫](https://s.weibo.com//weibo?q=%23%E6%BB%91%E6%BB%91%E6%A2%AF%E7%9A%84%E5%B0%8F%E7%86%8A%E7%8C%AB%23&t=31&band_rank=39&Refer=top) 19448
-50. [医生接诊6个心梗患者5个爱抽烟](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8E%A5%E8%AF%8A6%E4%B8%AA%E5%BF%83%E6%A2%97%E6%82%A3%E8%80%855%E4%B8%AA%E7%88%B1%E6%8A%BD%E7%83%9F%23&t=31&band_rank=47&Refer=top) 9158
+46. [柬埔寨载中国人沉船事故涉人口贩卖](https://s.weibo.com//weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B2%89%E8%88%B9%E4%BA%8B%E6%95%85%E6%B6%89%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%23&t=31&band_rank=11&Refer=top) 42967
+47. [电动车起火烧毁近30万元购房款](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B5%B7%E7%81%AB%E7%83%A7%E6%AF%81%E8%BF%9130%E4%B8%87%E5%85%83%E8%B4%AD%E6%88%BF%E6%AC%BE%23&t=31&band_rank=14&Refer=top) 41974
+48. [杭州高速涌现大流量](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%AB%98%E9%80%9F%E6%B6%8C%E7%8E%B0%E5%A4%A7%E6%B5%81%E9%87%8F%23&t=31&band_rank=12&Refer=top) 38933
+49. [医生接诊6个心梗患者5个爱抽烟](https://s.weibo.com//weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8E%A5%E8%AF%8A6%E4%B8%AA%E5%BF%83%E6%A2%97%E6%82%A3%E8%80%855%E4%B8%AA%E7%88%B1%E6%8A%BD%E7%83%9F%23&t=31&band_rank=30&Refer=top) 20776
+50. [滑滑梯的小熊猫](https://s.weibo.com//weibo?q=%23%E6%BB%91%E6%BB%91%E6%A2%AF%E7%9A%84%E5%B0%8F%E7%86%8A%E7%8C%AB%23&t=31&band_rank=39&Refer=top) 19448
 51. [北极熊因气候变暖在陆地挨饿](https://s.weibo.com//weibo?q=%23%E5%8C%97%E6%9E%81%E7%86%8A%E5%9B%A0%E6%B0%94%E5%80%99%E5%8F%98%E6%9A%96%E5%9C%A8%E9%99%86%E5%9C%B0%E6%8C%A8%E9%A5%BF%23&t=31&band_rank=49&Refer=top) 9147
-52. [竞赛结果不作为中小学入学依据](https://s.weibo.com//weibo?q=%23%E7%AB%9E%E8%B5%9B%E7%BB%93%E6%9E%9C%E4%B8%8D%E4%BD%9C%E4%B8%BA%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%85%A5%E5%AD%A6%E4%BE%9D%E6%8D%AE%23&t=31&band_rank=50&Refer=top) 6934
-53. [英国发行印有新国王肖像的硬币](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%8F%91%E8%A1%8C%E5%8D%B0%E6%9C%89%E6%96%B0%E5%9B%BD%E7%8E%8B%E8%82%96%E5%83%8F%E7%9A%84%E7%A1%AC%E5%B8%81%23&t=31&band_rank=50&Refer=top) 6387
+52. [12岁乖巧女孩突变暴躁确诊脑炎](https://s.weibo.com//weibo?q=%2312%E5%B2%81%E4%B9%96%E5%B7%A7%E5%A5%B3%E5%AD%A9%E7%AA%81%E5%8F%98%E6%9A%B4%E8%BA%81%E7%A1%AE%E8%AF%8A%E8%84%91%E7%82%8E%23&t=31&band_rank=50&Refer=top) 8287
+53. [竞赛结果不作为中小学入学依据](https://s.weibo.com//weibo?q=%23%E7%AB%9E%E8%B5%9B%E7%BB%93%E6%9E%9C%E4%B8%8D%E4%BD%9C%E4%B8%BA%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%85%A5%E5%AD%A6%E4%BE%9D%E6%8D%AE%23&t=31&band_rank=50&Refer=top) 6934
+54. [英国发行印有新国王肖像的硬币](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%8F%91%E8%A1%8C%E5%8D%B0%E6%9C%89%E6%96%B0%E5%9B%BD%E7%8E%8B%E8%82%96%E5%83%8F%E7%9A%84%E7%A1%AC%E5%B8%81%23&t=31&band_rank=50&Refer=top) 6387
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
