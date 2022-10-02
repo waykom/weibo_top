@@ -46,6 +46,7 @@ weibo_top
 35. [原来兔子掉毛这么夸张](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%94%E5%AD%90%E6%8E%89%E6%AF%9B%E8%BF%99%E4%B9%88%E5%A4%B8%E5%BC%A0%23&t=31&band_rank=46&Refer=top) 70618
 36. [哈兰德太强了](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%AA%E5%BC%BA%E4%BA%86%23&t=31&band_rank=47&Refer=top) 69453
 37. [曼联半场0比4落后](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E8%81%94%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%90%BD%E5%90%8E%23&t=31&band_rank=50&Refer=top) 51581
+38. [尼日利亚考虑买C919](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%80%83%E8%99%91%E4%B9%B0C919%23&t=31&band_rank=50&Refer=top) 12526
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
