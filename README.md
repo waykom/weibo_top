@@ -47,7 +47,8 @@ weibo_top
 36. [哈兰德太强了](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%AA%E5%BC%BA%E4%BA%86%23&t=31&band_rank=47&Refer=top) 69453
 37. [曼联半场0比4落后](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E8%81%94%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%90%BD%E5%90%8E%23&t=31&band_rank=50&Refer=top) 51581
 38. [尼日利亚考虑买C919](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%80%83%E8%99%91%E4%B9%B0C919%23&t=31&band_rank=21&Refer=top) 38032
-39. [男子公园跳街舞被小孩指着说神经](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%AC%E5%9B%AD%E8%B7%B3%E8%A1%97%E8%88%9E%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%8C%87%E7%9D%80%E8%AF%B4%E7%A5%9E%E7%BB%8F%23&t=31&band_rank=34&Refer=top) 15306
+39. [男子公园跳街舞被小孩指着说神经](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%AC%E5%9B%AD%E8%B7%B3%E8%A1%97%E8%88%9E%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%8C%87%E7%9D%80%E8%AF%B4%E7%A5%9E%E7%BB%8F%23&t=31&band_rank=23&Refer=top) 25854
+40. [国庆假期郊区旅游约占36%](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E9%83%8A%E5%8C%BA%E6%97%85%E6%B8%B8%E7%BA%A6%E5%8D%A036%25%23&t=31&band_rank=50&Refer=top) 7072
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
