@@ -48,12 +48,13 @@ weibo_top
 37. [曼联半场0比4落后](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E8%81%94%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%90%BD%E5%90%8E%23&t=31&band_rank=50&Refer=top) 51581
 38. [男子公园跳街舞被小孩指着说神经](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%AC%E5%9B%AD%E8%B7%B3%E8%A1%97%E8%88%9E%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%8C%87%E7%9D%80%E8%AF%B4%E7%A5%9E%E7%BB%8F%23&t=31&band_rank=12&Refer=top) 39821
 39. [尼日利亚考虑买C919](https://s.weibo.com//weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%80%83%E8%99%91%E4%B9%B0C919%23&t=31&band_rank=21&Refer=top) 38032
-40. [2022年诺贝尔奖10月3日起陆续揭晓](https://s.weibo.com//weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%9610%E6%9C%883%E6%97%A5%E8%B5%B7%E9%99%86%E7%BB%AD%E6%8F%AD%E6%99%93%23&t=31&band_rank=12&Refer=top) 30716
+40. [2022年诺贝尔奖10月3日起陆续揭晓](https://s.weibo.com//weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%9610%E6%9C%883%E6%97%A5%E8%B5%B7%E9%99%86%E7%BB%AD%E6%8F%AD%E6%99%93%23&t=31&band_rank=11&Refer=top) 31133
 41. [国庆假期郊区旅游约占36%](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E9%83%8A%E5%8C%BA%E6%97%85%E6%B8%B8%E7%BA%A6%E5%8D%A036%25%23&t=31&band_rank=41&Refer=top) 9638
 42. [曾就读清华的90后飞行员夺金头盔](https://s.weibo.com//weibo?q=%23%E6%9B%BE%E5%B0%B1%E8%AF%BB%E6%B8%85%E5%8D%8E%E7%9A%8490%E5%90%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E5%A4%BA%E9%87%91%E5%A4%B4%E7%9B%94%23&t=31&band_rank=47&Refer=top) 8895
 43. [樊振东王楚钦轮休](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BD%AE%E4%BC%91%23&t=31&band_rank=49&Refer=top) 8873
 44. [夕阳下教学楼氛围感绝了](https://s.weibo.com//weibo?q=%23%E5%A4%95%E9%98%B3%E4%B8%8B%E6%95%99%E5%AD%A6%E6%A5%BC%E6%B0%9B%E5%9B%B4%E6%84%9F%E7%BB%9D%E4%BA%86%23&t=31&band_rank=49&Refer=top) 8062
-45. [渤海海峡黄海北部执行军事任务](https://s.weibo.com//weibo?q=%23%E6%B8%A4%E6%B5%B7%E6%B5%B7%E5%B3%A1%E9%BB%84%E6%B5%B7%E5%8C%97%E9%83%A8%E6%89%A7%E8%A1%8C%E5%86%9B%E4%BA%8B%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=49&Refer=top) 6338
+45. [老师婚期临近62名学生偷偷送惊喜](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E5%A9%9A%E6%9C%9F%E4%B8%B4%E8%BF%9162%E5%90%8D%E5%AD%A6%E7%94%9F%E5%81%B7%E5%81%B7%E9%80%81%E6%83%8A%E5%96%9C%23&t=31&band_rank=49&Refer=top) 6901
+46. [渤海海峡黄海北部执行军事任务](https://s.weibo.com//weibo?q=%23%E6%B8%A4%E6%B5%B7%E6%B5%B7%E5%B3%A1%E9%BB%84%E6%B5%B7%E5%8C%97%E9%83%A8%E6%89%A7%E8%A1%8C%E5%86%9B%E4%BA%8B%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=49&Refer=top) 6338
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
