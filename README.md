@@ -9,7 +9,7 @@ weibo_top
 *归档[./result](./result/)*
 
 # 今日热门搜索  
-1. [C罗](https://s.weibo.com//weibo?q=%23C%E7%BD%97%23&t=31&band_rank=2&Refer=top) 1301358
+1. [C罗](https://s.weibo.com//weibo?q=%23C%E7%BD%97%23&t=31&band_rank=1&Refer=top) 1416425
 2. [新时代 我在中国](https://s.weibo.com//weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%20%E6%88%91%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 991311
 3. [俄罗斯暂停向意大利供应天然气](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%9A%82%E5%81%9C%E5%90%91%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BE%9B%E5%BA%94%E5%A4%A9%E7%84%B6%E6%B0%94%23&t=31&band_rank=4&Refer=top) 874985
 4. [男子开特斯拉返乡堵到没电叫拖车](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%94%E4%B9%A1%E5%A0%B5%E5%88%B0%E6%B2%A1%E7%94%B5%E5%8F%AB%E6%8B%96%E8%BD%A6%23&t=31&band_rank=5&Refer=top) 728109
@@ -18,8 +18,8 @@ weibo_top
 7. [今年总要去一次长沙吧](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%80%BB%E8%A6%81%E5%8E%BB%E4%B8%80%E6%AC%A1%E9%95%BF%E6%B2%99%E5%90%A7%23&t=31&band_rank=9&Refer=top) 442885
 8. [北溪管道泄漏将产生灾难性影响](https://s.weibo.com//weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E5%B0%86%E4%BA%A7%E7%94%9F%E7%81%BE%E9%9A%BE%E6%80%A7%E5%BD%B1%E5%93%8D%23&t=31&band_rank=10&Refer=top) 423493
 9. [德国民众雨中示威要求停止对俄制裁](https://s.weibo.com//weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%B0%91%E4%BC%97%E9%9B%A8%E4%B8%AD%E7%A4%BA%E5%A8%81%E8%A6%81%E6%B1%82%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%23&t=31&band_rank=11&Refer=top) 364515
-10. [23岁女孩吃网红药意识混乱险丧命](https://s.weibo.com//weibo?q=%2323%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%90%83%E7%BD%91%E7%BA%A2%E8%8D%AF%E6%84%8F%E8%AF%86%E6%B7%B7%E4%B9%B1%E9%99%A9%E4%B8%A7%E5%91%BD%23&t=31&band_rank=13&Refer=top) 311349
-11. [8旬老baby因洗碗持兵器开战](https://s.weibo.com//weibo?q=%238%E6%97%AC%E8%80%81baby%E5%9B%A0%E6%B4%97%E7%A2%97%E6%8C%81%E5%85%B5%E5%99%A8%E5%BC%80%E6%88%98%23&t=31&band_rank=12&Refer=top) 307408
+10. [8旬老baby因洗碗持兵器开战](https://s.weibo.com//weibo?q=%238%E6%97%AC%E8%80%81baby%E5%9B%A0%E6%B4%97%E7%A2%97%E6%8C%81%E5%85%B5%E5%99%A8%E5%BC%80%E6%88%98%23&t=31&band_rank=12&Refer=top) 351279
+11. [23岁女孩吃网红药意识混乱险丧命](https://s.weibo.com//weibo?q=%2323%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%90%83%E7%BD%91%E7%BA%A2%E8%8D%AF%E6%84%8F%E8%AF%86%E6%B7%B7%E4%B9%B1%E9%99%A9%E4%B8%A7%E5%91%BD%23&t=31&band_rank=13&Refer=top) 311349
 12. [研究发现3亿年后太平洋将消失](https://s.weibo.com//weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B03%E4%BA%BF%E5%B9%B4%E5%90%8E%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B0%86%E6%B6%88%E5%A4%B1%23&t=31&band_rank=14&Refer=top) 306581
 13. [曼城6比3曼联](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E5%9F%8E6%E6%AF%943%E6%9B%BC%E8%81%94%23&t=31&band_rank=15&Refer=top) 272525
 14. [女孩国庆帮喂猫一周将赚5千](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%BD%E5%BA%86%E5%B8%AE%E5%96%82%E7%8C%AB%E4%B8%80%E5%91%A8%E5%B0%86%E8%B5%9A5%E5%8D%83%23&t=31&band_rank=16&Refer=top) 261226
@@ -34,7 +34,7 @@ weibo_top
 23. [曼市德比哈兰德帽子戏法](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E5%B8%82%E5%BE%B7%E6%AF%94%E5%93%88%E5%85%B0%E5%BE%B7%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&t=31&band_rank=32&Refer=top) 118418
 24. [罗一舟关晓彤同框](https://s.weibo.com//weibo?q=%23%E7%BD%97%E4%B8%80%E8%88%9F%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%8C%E6%A1%86%23&t=31&band_rank=33&Refer=top) 117760
 25. [被吓过的小猫有多记仇](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E5%90%93%E8%BF%87%E7%9A%84%E5%B0%8F%E7%8C%AB%E6%9C%89%E5%A4%9A%E8%AE%B0%E4%BB%87%23&t=31&band_rank=34&Refer=top) 116482
-26. [故宫高清壁纸上新](https://s.weibo.com//weibo?q=%23%E6%95%85%E5%AE%AB%E9%AB%98%E6%B8%85%E5%A3%81%E7%BA%B8%E4%B8%8A%E6%96%B0%23&t=31&band_rank=32&Refer=top) 109246
+26. [故宫高清壁纸上新](https://s.weibo.com//weibo?q=%23%E6%95%85%E5%AE%AB%E9%AB%98%E6%B8%85%E5%A3%81%E7%BA%B8%E4%B8%8A%E6%96%B0%23&t=31&band_rank=31&Refer=top) 110461
 27. [没见过这么潦草的狗](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E6%BD%A6%E8%8D%89%E7%9A%84%E7%8B%97%23&t=31&band_rank=36&Refer=top) 106446
 28. [哈兰德3分钟2球](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B73%E5%88%86%E9%92%9F2%E7%90%83%23&t=31&band_rank=38&Refer=top) 102428
 29. [天津地震](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%9C%B0%E9%9C%87%23&t=31&band_rank=39&Refer=top) 99081
@@ -44,7 +44,8 @@ weibo_top
 33. [父母旅游时的主要区别](https://s.weibo.com//weibo?q=%23%E7%88%B6%E6%AF%8D%E6%97%85%E6%B8%B8%E6%97%B6%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB%23&t=31&band_rank=45&Refer=top) 74669
 34. [原来兔子掉毛这么夸张](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%94%E5%AD%90%E6%8E%89%E6%AF%9B%E8%BF%99%E4%B9%88%E5%A4%B8%E5%BC%A0%23&t=31&band_rank=46&Refer=top) 70618
 35. [哈兰德太强了](https://s.weibo.com//weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%AA%E5%BC%BA%E4%BA%86%23&t=31&band_rank=47&Refer=top) 69453
-36. [曼联半场0比4落后](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E8%81%94%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%90%BD%E5%90%8E%23&t=31&band_rank=50&Refer=top) 51581
+36. [太原新增5例感染者](https://s.weibo.com//weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&t=31&band_rank=50&Refer=top) 52115
+37. [曼联半场0比4落后](https://s.weibo.com//weibo?q=%23%E6%9B%BC%E8%81%94%E5%8D%8A%E5%9C%BA0%E6%AF%944%E8%90%BD%E5%90%8E%23&t=31&band_rank=50&Refer=top) 51581
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
