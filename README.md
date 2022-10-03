@@ -48,13 +48,15 @@ weibo_top
 37. [记得存点话留到8号上班讲](https://s.weibo.com//weibo?q=%23%E8%AE%B0%E5%BE%97%E5%AD%98%E7%82%B9%E8%AF%9D%E7%95%99%E5%88%B08%E5%8F%B7%E4%B8%8A%E7%8F%AD%E8%AE%B2%23&t=31&band_rank=14&Refer=top) 44764
 38. [女子落水高校男生害怕仍勇敢下水](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%90%BD%E6%B0%B4%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E5%AE%B3%E6%80%95%E4%BB%8D%E5%8B%87%E6%95%A2%E4%B8%8B%E6%B0%B4%23&t=31&band_rank=49&Refer=top) 39609
 39. [新婚夜护士新娘给新郎扎针输液](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%A9%9A%E5%A4%9C%E6%8A%A4%E5%A3%AB%E6%96%B0%E5%A8%98%E7%BB%99%E6%96%B0%E9%83%8E%E6%89%8E%E9%92%88%E8%BE%93%E6%B6%B2%23&t=31&band_rank=50&Refer=top) 38863
-40. [RNG状态](https://s.weibo.com//weibo?q=%23RNG%E7%8A%B6%E6%80%81%23&t=31&band_rank=18&Refer=top) 20582
-41. [2022年诺贝尔生理学或医学奖揭晓](https://s.weibo.com//weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23&t=31&band_rank=39&Refer=top) 9705
-42. [永康白云水库附近发生山火](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E5%BA%B7%E7%99%BD%E4%BA%91%E6%B0%B4%E5%BA%93%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%23&t=31&band_rank=45&Refer=top) 7780
+40. [RNG状态](https://s.weibo.com//weibo?q=%23RNG%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top) 31104
+41. [永康白云水库附近发生山火](https://s.weibo.com//weibo?q=%23%E6%B0%B8%E5%BA%B7%E7%99%BD%E4%BA%91%E6%B0%B4%E5%BA%93%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%23&t=31&band_rank=40&Refer=top) 9903
+42. [2022年诺贝尔生理学或医学奖揭晓](https://s.weibo.com//weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23&t=31&band_rank=39&Refer=top) 9705
 43. [小学生运动会3天捡瓶子送保洁阿姨](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%90%E5%8A%A8%E4%BC%9A3%E5%A4%A9%E6%8D%A1%E7%93%B6%E5%AD%90%E9%80%81%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%23&t=31&band_rank=49&Refer=top) 7441
 44. [女子悬挂天桥桥上桥下众人齐救援](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%82%AC%E6%8C%82%E5%A4%A9%E6%A1%A5%E6%A1%A5%E4%B8%8A%E6%A1%A5%E4%B8%8B%E4%BC%97%E4%BA%BA%E9%BD%90%E6%95%91%E6%8F%B4%23&t=31&band_rank=50&Refer=top) 7426
 45. [FNC晋级小组赛](https://s.weibo.com//weibo?q=%23FNC%E6%99%8B%E7%BA%A7%E5%B0%8F%E7%BB%84%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 6532
 46. [官兵5200米雪域高原用吊车升国旗](https://s.weibo.com//weibo?q=%23%E5%AE%98%E5%85%B55200%E7%B1%B3%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E7%94%A8%E5%90%8A%E8%BD%A6%E5%8D%87%E5%9B%BD%E6%97%97%23&t=31&band_rank=50&Refer=top) 6524
+47. [今年重阳节巧遇国庆假期](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%87%8D%E9%98%B3%E8%8A%82%E5%B7%A7%E9%81%87%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%23&t=31&band_rank=49&Refer=top) 5356
+48. [专访中国女篮队长杨力维](https://s.weibo.com//weibo?q=%23%E4%B8%93%E8%AE%BF%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E9%98%9F%E9%95%BF%E6%9D%A8%E5%8A%9B%E7%BB%B4%23&t=31&band_rank=50&Refer=top) 5354
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
