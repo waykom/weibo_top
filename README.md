@@ -45,9 +45,9 @@ weibo_top
 34. [俄称修复北溪管道的可能性是存在的](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%A7%B0%E4%BF%AE%E5%A4%8D%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E6%98%AF%E5%AD%98%E5%9C%A8%E7%9A%84%23&t=31&band_rank=45&Refer=top) 55771
 35. [MRC夺冠](https://s.weibo.com//weibo?q=%23MRC%E5%A4%BA%E5%86%A0%23&t=31&band_rank=47&Refer=top) 50770
 36. [北溪管道爆炸威力相当于数百公斤炸药](https://s.weibo.com//weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E7%88%86%E7%82%B8%E5%A8%81%E5%8A%9B%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%95%B0%E7%99%BE%E5%85%AC%E6%96%A4%E7%82%B8%E8%8D%AF%23&t=31&band_rank=46&Refer=top) 48314
-37. [女子落水高校男生害怕仍勇敢下水](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%90%BD%E6%B0%B4%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E5%AE%B3%E6%80%95%E4%BB%8D%E5%8B%87%E6%95%A2%E4%B8%8B%E6%B0%B4%23&t=31&band_rank=49&Refer=top) 39609
-38. [新婚夜护士新娘给新郎扎针输液](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%A9%9A%E5%A4%9C%E6%8A%A4%E5%A3%AB%E6%96%B0%E5%A8%98%E7%BB%99%E6%96%B0%E9%83%8E%E6%89%8E%E9%92%88%E8%BE%93%E6%B6%B2%23&t=31&band_rank=50&Refer=top) 38863
-39. [记得存点话留到8号上班讲](https://s.weibo.com//weibo?q=%23%E8%AE%B0%E5%BE%97%E5%AD%98%E7%82%B9%E8%AF%9D%E7%95%99%E5%88%B08%E5%8F%B7%E4%B8%8A%E7%8F%AD%E8%AE%B2%23&t=31&band_rank=17&Refer=top) 35938
+37. [记得存点话留到8号上班讲](https://s.weibo.com//weibo?q=%23%E8%AE%B0%E5%BE%97%E5%AD%98%E7%82%B9%E8%AF%9D%E7%95%99%E5%88%B08%E5%8F%B7%E4%B8%8A%E7%8F%AD%E8%AE%B2%23&t=31&band_rank=14&Refer=top) 44764
+38. [女子落水高校男生害怕仍勇敢下水](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E8%90%BD%E6%B0%B4%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E5%AE%B3%E6%80%95%E4%BB%8D%E5%8B%87%E6%95%A2%E4%B8%8B%E6%B0%B4%23&t=31&band_rank=49&Refer=top) 39609
+39. [新婚夜护士新娘给新郎扎针输液](https://s.weibo.com//weibo?q=%23%E6%96%B0%E5%A9%9A%E5%A4%9C%E6%8A%A4%E5%A3%AB%E6%96%B0%E5%A8%98%E7%BB%99%E6%96%B0%E9%83%8E%E6%89%8E%E9%92%88%E8%BE%93%E6%B6%B2%23&t=31&band_rank=50&Refer=top) 38863
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
