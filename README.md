@@ -12,9 +12,9 @@ weibo_top
 1. [02年女生成全校最小博士生](https://s.weibo.com//weibo?q=%2302%E5%B9%B4%E5%A5%B3%E7%94%9F%E6%88%90%E5%85%A8%E6%A0%A1%E6%9C%80%E5%B0%8F%E5%8D%9A%E5%A3%AB%E7%94%9F%23&t=31&band_rank=1&Refer=top) 1392707
 2. [体重减不下来有3个原因](https://s.weibo.com//weibo?q=%23%E4%BD%93%E9%87%8D%E5%87%8F%E4%B8%8D%E4%B8%8B%E6%9D%A5%E6%9C%893%E4%B8%AA%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=1&Refer=top) 736592
 3. [多机位打开国庆节氛围感](https://s.weibo.com//weibo?q=%23%E5%A4%9A%E6%9C%BA%E4%BD%8D%E6%89%93%E5%BC%80%E5%9B%BD%E5%BA%86%E8%8A%82%E6%B0%9B%E5%9B%B4%E6%84%9F%23&t=31&band_rank=3&Refer=top) 561228
-4. [年轻人为什么不爱走亲戚](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E8%B5%B0%E4%BA%B2%E6%88%9A%23&t=31&band_rank=4&Refer=top) 542080
-5. [会被一些医学知识震惊到](https://s.weibo.com//weibo?q=%23%E4%BC%9A%E8%A2%AB%E4%B8%80%E4%BA%9B%E5%8C%BB%E5%AD%A6%E7%9F%A5%E8%AF%86%E9%9C%87%E6%83%8A%E5%88%B0%23&t=31&band_rank=2&Refer=top) 541779
-6. [一个抓蟑螂的新方法](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E6%8A%93%E8%9F%91%E8%9E%82%E7%9A%84%E6%96%B0%E6%96%B9%E6%B3%95%23&t=31&band_rank=2&Refer=top) 521676
+4. [一个抓蟑螂的新方法](https://s.weibo.com//weibo?q=%23%E4%B8%80%E4%B8%AA%E6%8A%93%E8%9F%91%E8%9E%82%E7%9A%84%E6%96%B0%E6%96%B9%E6%B3%95%23&t=31&band_rank=2&Refer=top) 544871
+5. [年轻人为什么不爱走亲戚](https://s.weibo.com//weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E8%B5%B0%E4%BA%B2%E6%88%9A%23&t=31&band_rank=4&Refer=top) 542080
+6. [会被一些医学知识震惊到](https://s.weibo.com//weibo?q=%23%E4%BC%9A%E8%A2%AB%E4%B8%80%E4%BA%9B%E5%8C%BB%E5%AD%A6%E7%9F%A5%E8%AF%86%E9%9C%87%E6%83%8A%E5%88%B0%23&t=31&band_rank=2&Refer=top) 541779
 7. [男子游黄山被堵山上10分钟走1米](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%B8%B8%E9%BB%84%E5%B1%B1%E8%A2%AB%E5%A0%B5%E5%B1%B1%E4%B8%8A10%E5%88%86%E9%92%9F%E8%B5%B01%E7%B1%B3%23&t=31&band_rank=6&Refer=top) 427027
 8. [特斯拉车主回应堵车没电叫拖车](https://s.weibo.com//weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E5%A0%B5%E8%BD%A6%E6%B2%A1%E7%94%B5%E5%8F%AB%E6%8B%96%E8%BD%A6%23&t=31&band_rank=7&Refer=top) 320389
 9. [熊猫的肚皮原来可以当小饭桌用](https://s.weibo.com//weibo?q=%23%E7%86%8A%E7%8C%AB%E7%9A%84%E8%82%9A%E7%9A%AE%E5%8E%9F%E6%9D%A5%E5%8F%AF%E4%BB%A5%E5%BD%93%E5%B0%8F%E9%A5%AD%E6%A1%8C%E7%94%A8%23&t=31&band_rank=7&Refer=top) 279994
@@ -37,10 +37,10 @@ weibo_top
 26. [报老年旅行团是什么体验](https://s.weibo.com//weibo?q=%23%E6%8A%A5%E8%80%81%E5%B9%B4%E6%97%85%E8%A1%8C%E5%9B%A2%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=31&Refer=top) 95788
 27. [凭本事获得床位的猫咪](https://s.weibo.com//weibo?q=%23%E5%87%AD%E6%9C%AC%E4%BA%8B%E8%8E%B7%E5%BE%97%E5%BA%8A%E4%BD%8D%E7%9A%84%E7%8C%AB%E5%92%AA%23&t=31&band_rank=33&Refer=top) 91744
 28. [诺贝尔](https://s.weibo.com//weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%23&t=31&band_rank=34&Refer=top) 90917
-29. [这就是国庆在家的我吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%9B%BD%E5%BA%86%E5%9C%A8%E5%AE%B6%E7%9A%84%E6%88%91%E5%90%A7%23&t=31&band_rank=40&Refer=top) 75717
-30. [北京雨后现金色晚霞](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E9%9B%A8%E5%90%8E%E7%8E%B0%E9%87%91%E8%89%B2%E6%99%9A%E9%9C%9E%23&t=31&band_rank=43&Refer=top) 63784
-31. [2022北京马拉松11月6日举行](https://s.weibo.com//weibo?q=%232022%E5%8C%97%E4%BA%AC%E9%A9%AC%E6%8B%89%E6%9D%BE11%E6%9C%886%E6%97%A5%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=44&Refer=top) 58832
-32. [这是轻功吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E8%BD%BB%E5%8A%9F%E5%90%A7%23&t=31&band_rank=37&Refer=top) 55788
+29. [这是轻功吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E6%98%AF%E8%BD%BB%E5%8A%9F%E5%90%A7%23&t=31&band_rank=23&Refer=top) 75971
+30. [这就是国庆在家的我吧](https://s.weibo.com//weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%9B%BD%E5%BA%86%E5%9C%A8%E5%AE%B6%E7%9A%84%E6%88%91%E5%90%A7%23&t=31&band_rank=40&Refer=top) 75717
+31. [北京雨后现金色晚霞](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E9%9B%A8%E5%90%8E%E7%8E%B0%E9%87%91%E8%89%B2%E6%99%9A%E9%9C%9E%23&t=31&band_rank=43&Refer=top) 63784
+32. [2022北京马拉松11月6日举行](https://s.weibo.com//weibo?q=%232022%E5%8C%97%E4%BA%AC%E9%A9%AC%E6%8B%89%E6%9D%BE11%E6%9C%886%E6%97%A5%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=44&Refer=top) 58832
 33. [俄称修复北溪管道的可能性是存在的](https://s.weibo.com//weibo?q=%23%E4%BF%84%E7%A7%B0%E4%BF%AE%E5%A4%8D%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E6%98%AF%E5%AD%98%E5%9C%A8%E7%9A%84%23&t=31&band_rank=45&Refer=top) 55771
 34. [MRC夺冠](https://s.weibo.com//weibo?q=%23MRC%E5%A4%BA%E5%86%A0%23&t=31&band_rank=47&Refer=top) 50770
 35. [北溪管道爆炸威力相当于数百公斤炸药](https://s.weibo.com//weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E7%88%86%E7%82%B8%E5%A8%81%E5%8A%9B%E7%9B%B8%E5%BD%93%E4%BA%8E%E6%95%B0%E7%99%BE%E5%85%AC%E6%96%A4%E7%82%B8%E8%8D%AF%23&t=31&band_rank=46&Refer=top) 48314
