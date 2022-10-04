@@ -54,13 +54,13 @@ weibo_top
 43. [男子拿走蜂王被蜂群爬车窗追一路](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%BF%E8%B5%B0%E8%9C%82%E7%8E%8B%E8%A2%AB%E8%9C%82%E7%BE%A4%E7%88%AC%E8%BD%A6%E7%AA%97%E8%BF%BD%E4%B8%80%E8%B7%AF%23&t=31&band_rank=49&Refer=top) 61588
 44. [会计被骗86万警方8分钟追回](https://s.weibo.com//weibo?q=%23%E4%BC%9A%E8%AE%A1%E8%A2%AB%E9%AA%9786%E4%B8%87%E8%AD%A6%E6%96%B98%E5%88%86%E9%92%9F%E8%BF%BD%E5%9B%9E%23&t=31&band_rank=12&Refer=top) 58302
 45. [EG对战MAD](https://s.weibo.com//weibo?q=%23EG%E5%AF%B9%E6%88%98MAD%23&t=31&band_rank=10&Refer=top) 31618
-46. [军人洗碗后将抹布叠得像板砖](https://s.weibo.com//weibo?q=%23%E5%86%9B%E4%BA%BA%E6%B4%97%E7%A2%97%E5%90%8E%E5%B0%86%E6%8A%B9%E5%B8%83%E5%8F%A0%E5%BE%97%E5%83%8F%E6%9D%BF%E7%A0%96%23&t=31&band_rank=11&Refer=top) 28685
+46. [军人洗碗后将抹布叠得像板砖](https://s.weibo.com//weibo?q=%23%E5%86%9B%E4%BA%BA%E6%B4%97%E7%A2%97%E5%90%8E%E5%B0%86%E6%8A%B9%E5%B8%83%E5%8F%A0%E5%BE%97%E5%83%8F%E6%9D%BF%E7%A0%96%23&t=31&band_rank=11&Refer=top) 29425
 47. [男子高速停车将掉落广告牌拉路边](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E5%81%9C%E8%BD%A6%E5%B0%86%E6%8E%89%E8%90%BD%E5%B9%BF%E5%91%8A%E7%89%8C%E6%8B%89%E8%B7%AF%E8%BE%B9%23&t=31&band_rank=12&Refer=top) 27805
-48. [内蒙古阿尔山今秋首场降雪](https://s.weibo.com//weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E9%98%BF%E5%B0%94%E5%B1%B1%E4%BB%8A%E7%A7%8B%E9%A6%96%E5%9C%BA%E9%99%8D%E9%9B%AA%23&t=31&band_rank=34&Refer=top) 12959
-49. [全职宝妈为独居老人送饭4个半月](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%81%8C%E5%AE%9D%E5%A6%88%E4%B8%BA%E7%8B%AC%E5%B1%85%E8%80%81%E4%BA%BA%E9%80%81%E9%A5%AD4%E4%B8%AA%E5%8D%8A%E6%9C%88%23&t=31&band_rank=50&Refer=top) 11220
-50. [90后大厂女孩辞职创业为老人助浴](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%A4%A7%E5%8E%82%E5%A5%B3%E5%AD%A9%E8%BE%9E%E8%81%8C%E5%88%9B%E4%B8%9A%E4%B8%BA%E8%80%81%E4%BA%BA%E5%8A%A9%E6%B5%B4%23&t=31&band_rank=46&Refer=top) 9520
-51. [国庆气温跳水有多强](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%BA%86%E6%B0%94%E6%B8%A9%E8%B7%B3%E6%B0%B4%E6%9C%89%E5%A4%9A%E5%BC%BA%23&t=31&band_rank=42&Refer=top) 8948
-52. [健身男子徒手捏石榴为女友榨果汁](https://s.weibo.com//weibo?q=%23%E5%81%A5%E8%BA%AB%E7%94%B7%E5%AD%90%E5%BE%92%E6%89%8B%E6%8D%8F%E7%9F%B3%E6%A6%B4%E4%B8%BA%E5%A5%B3%E5%8F%8B%E6%A6%A8%E6%9E%9C%E6%B1%81%23&t=31&band_rank=44&Refer=top) 8807
+48. [内蒙古阿尔山今秋首场降雪](https://s.weibo.com//weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E9%98%BF%E5%B0%94%E5%B1%B1%E4%BB%8A%E7%A7%8B%E9%A6%96%E5%9C%BA%E9%99%8D%E9%9B%AA%23&t=31&band_rank=33&Refer=top) 14600
+49. [健身男子徒手捏石榴为女友榨果汁](https://s.weibo.com//weibo?q=%23%E5%81%A5%E8%BA%AB%E7%94%B7%E5%AD%90%E5%BE%92%E6%89%8B%E6%8D%8F%E7%9F%B3%E6%A6%B4%E4%B8%BA%E5%A5%B3%E5%8F%8B%E6%A6%A8%E6%9E%9C%E6%B1%81%23&t=31&band_rank=36&Refer=top) 13021
+50. [全职宝妈为独居老人送饭4个半月](https://s.weibo.com//weibo?q=%23%E5%85%A8%E8%81%8C%E5%AE%9D%E5%A6%88%E4%B8%BA%E7%8B%AC%E5%B1%85%E8%80%81%E4%BA%BA%E9%80%81%E9%A5%AD4%E4%B8%AA%E5%8D%8A%E6%9C%88%23&t=31&band_rank=50&Refer=top) 11220
+51. [90后大厂女孩辞职创业为老人助浴](https://s.weibo.com//weibo?q=%2390%E5%90%8E%E5%A4%A7%E5%8E%82%E5%A5%B3%E5%AD%A9%E8%BE%9E%E8%81%8C%E5%88%9B%E4%B8%9A%E4%B8%BA%E8%80%81%E4%BA%BA%E5%8A%A9%E6%B5%B4%23&t=31&band_rank=46&Refer=top) 9520
+52. [国庆气温跳水有多强](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E5%BA%86%E6%B0%94%E6%B8%A9%E8%B7%B3%E6%B0%B4%E6%9C%89%E5%A4%9A%E5%BC%BA%23&t=31&band_rank=42&Refer=top) 9162
 53. [妈妈偷偷探望女儿对视后大哭](https://s.weibo.com//weibo?q=%23%E5%A6%88%E5%A6%88%E5%81%B7%E5%81%B7%E6%8E%A2%E6%9C%9B%E5%A5%B3%E5%84%BF%E5%AF%B9%E8%A7%86%E5%90%8E%E5%A4%A7%E5%93%AD%23&t=31&band_rank=50&Refer=top) 8049
 54. [海军专属浪花白太浪漫了](https://s.weibo.com//weibo?q=%23%E6%B5%B7%E5%86%9B%E4%B8%93%E5%B1%9E%E6%B5%AA%E8%8A%B1%E7%99%BD%E5%A4%AA%E6%B5%AA%E6%BC%AB%E4%BA%86%23&t=31&band_rank=43&Refer=top) 8021
 55. [带一本书邂逅秋天](https://s.weibo.com//weibo?q=%23%E5%B8%A6%E4%B8%80%E6%9C%AC%E4%B9%A6%E9%82%82%E9%80%85%E7%A7%8B%E5%A4%A9%23&t=31&band_rank=47&Refer=top) 6711
@@ -74,7 +74,8 @@ weibo_top
 63. [男孩独走夜路好心人照亮护送8公里](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E7%8B%AC%E8%B5%B0%E5%A4%9C%E8%B7%AF%E5%A5%BD%E5%BF%83%E4%BA%BA%E7%85%A7%E4%BA%AE%E6%8A%A4%E9%80%818%E5%85%AC%E9%87%8C%23&t=31&band_rank=50&Refer=top) 6184
 64. [北京大兴1例确诊病例轨迹](https://s.weibo.com//weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%85%B41%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%BD%A8%E8%BF%B9%23&t=31&band_rank=48&Refer=top) 5875
 65. [2022国庆档总票房破9亿](https://s.weibo.com//weibo?q=%232022%E5%9B%BD%E5%BA%86%E6%A1%A3%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B49%E4%BA%BF%23&t=31&band_rank=50&Refer=top) 5870
-66. [被闫安解说笑死了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%97%AB%E5%AE%89%E8%A7%A3%E8%AF%B4%E7%AC%91%E6%AD%BB%E4%BA%86%23&t=31&band_rank=49&Refer=top) 5618
+66. [他从理发店学徒变成国画艺术家](https://s.weibo.com//weibo?q=%23%E4%BB%96%E4%BB%8E%E7%90%86%E5%8F%91%E5%BA%97%E5%AD%A6%E5%BE%92%E5%8F%98%E6%88%90%E5%9B%BD%E7%94%BB%E8%89%BA%E6%9C%AF%E5%AE%B6%23&t=31&band_rank=50&Refer=top) 5794
+67. [被闫安解说笑死了](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E9%97%AB%E5%AE%89%E8%A7%A3%E8%AF%B4%E7%AC%91%E6%AD%BB%E4%BA%86%23&t=31&band_rank=49&Refer=top) 5618
 # 更新日志  
 2021/12/16  简化代码,减少生成文件  
 2021/12/17  获取话题一天中最高热度  
