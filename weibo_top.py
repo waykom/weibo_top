@@ -52,5 +52,17 @@ for i in sorted(counts, reverse=True):
     index += 1
     with open('./result/'+date+'.md', 'a')as f:
         f.write(str(index)+'. '+'['+counts[i].split(', ')[1]+']'+'('+counts[i].split(', ')[0]+')'+' '+str(i)+"\r\n")
-
+item_start = """
+# 今日热门搜索  
+"""
+item_end = """
+本项目的所有数据来源均来自 [新浪微博热搜榜](https://s.weibo.com/top/summary)  
+"""
+with open('./result/'+date+'.md', 'r+')as f:
+    content = f.read()
+if os.path.exists('./README.md'):
+    os.remove('./README.md')
+with open('./README.md', 'a')as f:
+    f.write(item_start+content+item_end)
 print("Completed")
+print(date)
