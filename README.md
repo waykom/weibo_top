@@ -1,7 +1,6 @@
 
 # 今日热门搜索  
 1. [梅西苏醒合影](https://s.weibo.com//weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8B%8F%E9%86%92%E5%90%88%E5%BD%B1%23&t=31&band_rank=1&Refer=top) 2174256
-<<<<<<< HEAD
 2. [小伙骑共享单车5000公里到新疆](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E4%BC%99%E9%AA%91%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A65000%E5%85%AC%E9%87%8C%E5%88%B0%E6%96%B0%E7%96%86%23&t=31&band_rank=2&Refer=top) 1814142
 3. [感谢为爱勇敢伸出手臂的你](https://s.weibo.com//weibo?q=%23%E6%84%9F%E8%B0%A2%E4%B8%BA%E7%88%B1%E5%8B%87%E6%95%A2%E4%BC%B8%E5%87%BA%E6%89%8B%E8%87%82%E7%9A%84%E4%BD%A0%23&t=31&band_rank=3&Refer=top) 1779362
 4. [天津大学扣饭事件疑似现场画面曝光](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E6%89%A3%E9%A5%AD%E4%BA%8B%E4%BB%B6%E7%96%91%E4%BC%BC%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=4&Refer=top) 1776477
