@@ -56,6 +56,7 @@ item_start = """
 # 今日热门搜索  
 """
 item_end = """
+# 声明 
 本项目的所有数据来源均来自 [新浪微博热搜榜](https://s.weibo.com/top/summary)  
 """
 with open('./result/'+date+'.md', 'r+')as f:
