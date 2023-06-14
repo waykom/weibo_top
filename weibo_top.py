@@ -5,8 +5,8 @@ from datetime import datetime
 
 url = 'https://s.weibo.com/top/summary'
 headers = {
-    'Cookie': '',
-    'User-Agent': ''
+    'Cookie': 'SINAGLOBAL=9984350838163.459.1639458131480; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWO7Xc2TqZUpUycnXX6JX6G5JpX5KMhUgL.Foqfe0271hBRe0B2dJLoI05LxK.L1KnLB.qLxKnLBK-LB.qLxK-L1K5LBKMLxKqL12zL1h.LxKqL12zL1hLaUJYt; UOR=github.com,s.weibo.com,login.sina.com.cn; ALF=1689331899; SSOLoginState=1686739900; SCF=AhYJZS5_n-2dh-fzeiiEVulWxpdZqWntw9i3SlVXNoxUGgrpF2hUBORFOHIaMFahBSGUPAy7nVgqLSVEWR3b63c.; SUB=_2A25JjevsDeRhGeBL6FMR-CrEyDiIHXVq-1okrDV8PUNbmtANLWyikW9NRzPQ6DAlu6BEeA6FgiYIkH8tNBn9SjdK; _s_tentry=login.sina.com.cn; Apache=2218477561819.6562.1686739901545; ULV=1686739901552:63:4:4:2218477561819.6562.1686739901545:1686568888336',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36'
 }
 response = requests.get(url, headers=headers, timeout=3).text
 href = re.findall(r'<a href="(/weibo\?q=.*&Refer=top)" target="_blank">(.*?)</a>[\s]*<span> (.*?)</span>', response)
@@ -16,10 +16,10 @@ date = datetime.now().strftime("%Y-%m-%d")
 for item in href:
     baseurl, title, index = item
     url = 'https://s.weibo.com/'+baseurl
-    with open('/demo/weibo_data/'+date+'-origin.md', 'a')as f:
+    with open('./weibo_data/'+date+'-origin.md', 'a')as f:
         f.write('['+title+']'+'('+url+')'+' '+index+"\r\n")
 # 从本地读取原始数据并去掉空元素
-with open('/demo/weibo_data/'+date+'-origin.md', 'r')as f:
+with open('./weibo_data/'+date+'-origin.md', 'r')as f:
     datalist = f.read().split('\n')
 if '' in datalist:
     while '' in datalist:
@@ -45,12 +45,12 @@ for i in range(len(items)):
 for i in set(repeatindex):
     counts.pop(i)
 # 储存整理好的数据，按热度降序
-if os.path.exists('/demo/weibo_top/result/'+date+'.md'):
-    os.remove('/demo/weibo_top/result/'+date+'.md')
+if os.path.exists('./result/'+date+'.md'):
+    os.remove('./result/'+date+'.md')
 index = 0
 for i in sorted(counts, reverse=True):
     index += 1
-    with open('/demo/weibo_top/result/'+date+'.md', 'a')as f:
+    with open('./result/'+date+'.md', 'a')as f:
         f.write(str(index)+'. '+'['+counts[i].split(', ')[1]+']'+'('+counts[i].split(', ')[0]+')'+' '+str(i)+"\r\n")
 
 print("Completed")
