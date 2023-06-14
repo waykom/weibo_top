@@ -51,7 +51,7 @@ index = 0
 for i in sorted(counts, reverse=True):
     index += 1
     with open('./result/'+date+'.md', 'a')as f:
-        f.write(str(index)+'. '+'['+counts[i].split(', ')[1]+']'+'('+counts[i].split(', ')[0]+')'+' '+str(i)+"\r\n")
+        f.write(str(index)+'. '+'['+counts[i].split(', ')[1]+']'+'('+counts[i].split(', ')[0]+')'+' '+str(i)+"\r")
 item_start = """
 # 今日热门搜索  
 """
