@@ -3,12 +3,11 @@ import re
 import requests
 from datetime import datetime
 
-url = 'https://s.weibo.com/top/summary'
-headers = {
-    'Cookie': 'SINAGLOBAL=9984350838163.459.1639458131480; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWO7Xc2TqZUpUycnXX6JX6G5JpX5KMhUgL.Foqfe0271hBRe0B2dJLoI05LxK.L1KnLB.qLxKnLBK-LB.qLxK-L1K5LBKMLxKqL12zL1h.LxKqL12zL1hLaUJYt; UOR=github.com,s.weibo.com,login.sina.com.cn; ALF=1689331899; SSOLoginState=1686739900; SCF=AhYJZS5_n-2dh-fzeiiEVulWxpdZqWntw9i3SlVXNoxUGgrpF2hUBORFOHIaMFahBSGUPAy7nVgqLSVEWR3b63c.; SUB=_2A25JjevsDeRhGeBL6FMR-CrEyDiIHXVq-1okrDV8PUNbmtANLWyikW9NRzPQ6DAlu6BEeA6FgiYIkH8tNBn9SjdK; _s_tentry=login.sina.com.cn; Apache=2218477561819.6562.1686739901545; ULV=1686739901552:63:4:4:2218477561819.6562.1686739901545:1686568888336',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36'
+cookies = {
+    'SUB': '_2A25Jjop5DeRhGeBL6FMR-CrEyDiIHXVq_fyxrDV8PUNbmtANLW_FkW9NRzPQ6EWCJ39WF_nBElMJpRCvLxVp629F',
 }
-response = requests.get(url, headers=headers, timeout=3).text
+response = requests.get('https://s.weibo.com/top/summary', cookies=cookies, timeout=3).text
+
 href = re.findall(r'<a href="(/weibo\?q=.*&Refer=top)" target="_blank">(.*?)</a>[\s]*<span> (.*?)</span>', response)
 # 时间格式，用于命名
 date = datetime.now().strftime("%Y-%m-%d")
