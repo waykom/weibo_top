@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 
 cookies = {
-    'SUB': '_2A25Jjop5DeRhGeBL6FMR-CrEyDiIHXVq_fyxrDV8PUNbmtANLW_FkW9NRzPQ6EWCJ39WF_nBElMJpRCvLxVp629F',
+    'SUB': '_2AkMT1nKMf8NxqwJRmPERzWvjao91wwnEieKlioNXJRMxHRl-yT9kqkAdtRB6OFZcY0SuieKOv-dyzvZ8EDnmc1JijUNi',
 }
 response = requests.get('https://s.weibo.com/top/summary', cookies=cookies, timeout=3).text
 
